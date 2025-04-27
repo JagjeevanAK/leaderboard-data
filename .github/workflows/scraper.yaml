@@ -9,7 +9,7 @@ on:
 
 jobs:
   run-scraper:
-    uses: OpenFoodFacts/leaderboard/.github/workflows/scraper.yaml@main
+    uses: JagjeevanAK/leaderboard/.github/workflows/scraper.yaml@main
     if: github.ref == 'refs/heads/main'
     permissions:
       issues: read
