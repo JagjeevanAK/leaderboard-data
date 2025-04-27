@@ -17293,7 +17293,7 @@
         {
             "client_msg_id": "4d249a2e-da02-4199-bceb-7d3ce0d057c1",
             "type": "message",
-            "text": "*EOD 02/08/2023 <!subteam^S035L5S02RF|@care_engineering>* \n\n*How did the day go?*\n\n\u2022 Followed up on a bug fix on type support for date\n\u2022 Made a products page: <http://github.com/ohcnetwork/products|github.com/ohcnetwork/products> (deployed to <https://products.ohc.network|products.ohc.network> by <@UPW6XDGDD>)\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/5993|#5993>: Disables editing category field in consultation form if a daily round is present.\n\u2022 Made PR <https://github.com/ohcnetwork/care/pull/1502|#1502>: Skip validation if asset warranty date is not changed\n\u2022 Made PR <https://github.com/ohcnetwork/care/pull/1503|#1503>: Optimisation: set `update_fields` for instance delete\n*What's next?*\n\n\u2022 Complete working on <https://github.com/ohcnetwork/care_fe/issues/5991|#5991> (static loading page in index.html, before js and css files are loaded)\n\u2022 Work on <https://github.com/ohcnetwork/care/issues/1497|#1497> (Generalize Phone Number Field Regex Validators)\n",
+            "text": "*EOD 02/08/2023 <!subteam^S035L5S02RF|@care_engineering>* \n\n*How did the day go?*\n\n\u2022 Followed up on a bug fix on type support for date\n\u2022 Made a products page: <http://github.com/ohcnetwork/products|github.com/ohcnetwork/products> (deployed to <https://products.openfoodfacts.org|products.openfoodfacts.org> by <@UPW6XDGDD>)\n\u2022 Made PR <https://github.com/ohcnetwork/care_fe/pull/5993|#5993>: Disables editing category field in consultation form if a daily round is present.\n\u2022 Made PR <https://github.com/ohcnetwork/care/pull/1502|#1502>: Skip validation if asset warranty date is not changed\n\u2022 Made PR <https://github.com/ohcnetwork/care/pull/1503|#1503>: Optimisation: set `update_fields` for instance delete\n*What's next?*\n\n\u2022 Complete working on <https://github.com/ohcnetwork/care_fe/issues/5991|#5991> (static loading page in index.html, before js and css files are loaded)\n\u2022 Work on <https://github.com/ohcnetwork/care/issues/1497|#1497> (Generalize Phone Number Field Regex Validators)\n",
             "user": "U02TDGQQPMJ",
             "ts": "1691002036.174339",
             "blocks": [
@@ -17372,8 +17372,8 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://products.ohc.network",
-                                            "text": "products.ohc.network"
+                                            "url": "https://products.openfoodfacts.org",
+                                            "text": "products.openfoodfacts.org"
                                         },
                                         {
                                             "type": "text",

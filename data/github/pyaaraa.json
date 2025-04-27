@@ -3,157 +3,157 @@
   "activity": [
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#12071",
+      "title": "OpenFoodFacts/care_fe#12071",
       "time": "2025-04-23T16:29:51.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/12071#issuecomment-2824871583",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/12071#issuecomment-2824871583",
       "text": "duplicate of #12038 "
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#12038",
+      "title": "OpenFoodFacts/care_fe#12038",
       "time": "2025-04-22T12:57:55.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/12038#issuecomment-2821250074",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/12038#issuecomment-2821250074",
       "text": "The state transition is not being handled correctly for the sidebar . In `sidebar.tsx` need to set proper width , improve transitons . In `app-sidebar.tsx` need to change the collapsible behaviour , add mobile specific width , padding .\n\ncan I work on this ? @abhimanyurajeesh \nETA - 1 day"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11905",
+      "title": "OpenFoodFacts/care_fe#11905",
       "time": "2025-04-12T20:12:16.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11905#issuecomment-2799023306",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11905#issuecomment-2799023306",
       "text": "if this issue is open for all , can I work on this \neta : 1 day"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11358",
+      "title": "OpenFoodFacts/care_fe#11358",
       "time": "2025-04-08T13:35:22.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11358#issuecomment-2786464684",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11358#issuecomment-2786464684",
       "text": "so then we should ensure that we get only one record per user, regardless of how many departments they're in ,  query based on the  ids\n\ncan I work on it ? should I open an issue in backend repo ? \n@rithviknishad "
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11358",
+      "title": "OpenFoodFacts/care_fe#11358",
       "time": "2025-04-02T16:41:59.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11358#issuecomment-2773153417",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11358#issuecomment-2773153417",
       "text": "@rithviknishad can I work on this , I think I will be able to solve it from the backend's root cause too . If you find it relevant , I can raise an issue in the backend repo too .\nETA-1 day"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11671",
+      "title": "OpenFoodFacts/care_fe#11671",
       "time": "2025-04-02T08:05:36.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11671#issuecomment-2771715072",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11671#issuecomment-2771715072",
       "text": "I think this is same as #11358 "
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11658",
+      "title": "OpenFoodFacts/care_fe#11658",
       "time": "2025-04-01T15:21:25.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11658#issuecomment-2769699325",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11658#issuecomment-2769699325",
       "text": "if this is relevant , can I work on this ?\nETA-1day\n\nhowever  , by hovering over the name , you can see the full name of file \n\n![Image](https://github.com/user-attachments/assets/6ed1d1a4-323c-48fa-aa29-32c91c29013e)\n\nstill can fix the lower and right overlapping"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11414",
+      "title": "OpenFoodFacts/care_fe#11414",
       "time": "2025-03-19T18:33:57.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11414#issuecomment-2737658989",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11414#issuecomment-2737658989",
       "text": "If this is relevant , can you assign me ?\n@Jacobjeevan @rithviknishad "
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#11414",
+      "title": "OpenFoodFacts/care_fe#11414",
       "time": "2025-03-19T18:33:31.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11414",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11414",
       "text": "Misalignment of Filter Buttons Affecting UI Consistency"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11370",
+      "title": "OpenFoodFacts/care_fe#11370",
       "time": "2025-03-18T15:01:05.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11370#issuecomment-2733577497",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11370#issuecomment-2733577497",
       "text": "I have raised a PR that solves this issue , kindly check #11374 \n@Jacobjeevan @rithviknishad "
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#11374",
+      "title": "OpenFoodFacts/care_fe#11374",
       "time": "2025-03-18T14:58:39.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/11374",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/11374",
       "text": "Improved Filter Labels for Clarity ( for patient types and status in encounters )"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11370",
+      "title": "OpenFoodFacts/care_fe#11370",
       "time": "2025-03-18T11:44:05.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11370#issuecomment-2732910240",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11370#issuecomment-2732910240",
       "text": "If this issue is relevant , please assign to me .\nETA : 18/03"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#11370",
+      "title": "OpenFoodFacts/care_fe#11370",
       "time": "2025-03-18T11:42:51.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11370",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11370",
       "text": "Improve Filter Labels for Clarity: Change \"All\" to \"All Status\" / \"All Types\""
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11049",
+      "title": "OpenFoodFacts/care_fe#11049",
       "time": "2025-03-05T12:39:31.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11049#issuecomment-2700817398",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11049#issuecomment-2700817398",
       "text": "if this is relevant issue , can you assig it to me \n@Jacobjeevan \n"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#11049",
+      "title": "OpenFoodFacts/care_fe#11049",
       "time": "2025-03-05T12:39:07.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11049",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11049",
       "text": "Text overflowing display area for notes in allergies section"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10998",
+      "title": "OpenFoodFacts/care_fe#10998",
       "time": "2025-03-04T07:15:05.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/10998#issuecomment-2696437750",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/10998#issuecomment-2696437750",
       "text": "@Jacobjeevan , I would like to work on this issue , if this relevant . "
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#10998",
+      "title": "OpenFoodFacts/care_fe#10998",
       "time": "2025-03-04T07:13:55.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/10998",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/10998",
       "text": "Misaligned Text/Input Field"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10201",
+      "title": "OpenFoodFacts/care_fe#10201",
       "time": "2025-01-26T15:10:20.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/10201#issuecomment-2614462730",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/10201#issuecomment-2614462730",
       "text": "\"+91\" is getting back , but the country code is not getting back to default (\"IN\") . \nI can work on this , please assign this to me team @Jacobjeevan @rithviknishad \n\nhttps://github.com/user-attachments/assets/4001cfd9-b254-4663-a7b2-268bb8f2615a\n\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10150",
+      "title": "OpenFoodFacts/care_fe#10150",
       "time": "2025-01-25T14:31:38.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/10150#issuecomment-2613985011",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/10150#issuecomment-2613985011",
       "text": "I made a small change , please review @AdityaJ2305 @nihal467 "
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#10190",
+      "title": "OpenFoodFacts/care_fe#10190",
       "time": "2025-01-25T14:30:08.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10190",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10190",
       "text": "displaying \"-\" when user type not defined"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10155",
+      "title": "OpenFoodFacts/care_fe#10155",
       "time": "2025-01-24T18:10:14.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/10155#issuecomment-2613115356",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/10155#issuecomment-2613115356",
       "text": "assign to me \n"
     }
   ],
   "open_prs": [],
   "authored_issue_and_pr": [
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11370",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11374"
+      "issue_link": "https://github.com/OpenFoodFacts/care_fe/issues/11370",
+      "pr_link": "https://github.com/OpenFoodFacts/care_fe/pull/11374"
     }
   ]
 }

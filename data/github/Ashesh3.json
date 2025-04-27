@@ -7519,7 +7519,7 @@
       "title": "ohcnetwork/ayushma#327",
       "time": "2023-09-17T17:30:10.000Z",
       "link": "https://github.com/ohcnetwork/ayushma/pull/327#issuecomment-1722525591",
-      "text": "> > Is the endpoint supposed to be open? No authentication needed?\r\n> \r\n> for now, care-whisper endpoint is open we can deploy it in Private Network so that only care microservices can use it, or if required we can add auth. Currently its not for public usage so we don't necessary required auth we can just deploy it in a Private Network.\r\n\r\nThe URL you added, `whisper.ohc.network` is not within a private network and is accessible and usable publicly. I am able to post URL of an audio and get it to transcribe. Just wanted to make sure if this was intentional and that by pushing that URL in this commit, the endpoint now being publicly known is okay."
+      "text": "> > Is the endpoint supposed to be open? No authentication needed?\r\n> \r\n> for now, care-whisper endpoint is open we can deploy it in Private Network so that only care microservices can use it, or if required we can add auth. Currently its not for public usage so we don't necessary required auth we can just deploy it in a Private Network.\r\n\r\nThe URL you added, `whisper.openfoodfacts.org` is not within a private network and is accessible and usable publicly. I am able to post URL of an audio and get it to transcribe. Just wanted to make sure if this was intentional and that by pushing that URL in this commit, the endpoint now being publicly known is okay."
     },
     {
       "type": "comment_created",
@@ -10024,14 +10024,14 @@
       "title": "ohcnetwork/care#1449",
       "time": "2023-07-13T17:56:33.000Z",
       "link": "https://github.com/ohcnetwork/care/pull/1449",
-      "text": "Update branding from CoronaSafe Network to Open Healthcare Network"
+      "text": "Update branding from CoronaSafe Network to Open Food Facts"
     },
     {
       "type": "pr_opened",
       "title": "ohcnetwork/care#1449",
       "time": "2023-07-13T09:37:37.000Z",
       "link": "https://github.com/ohcnetwork/care/pull/1449",
-      "text": "Update branding from CoronaSafe Network to Open Healthcare Network"
+      "text": "Update branding from CoronaSafe Network to Open Food Facts"
     },
     {
       "type": "comment_created",

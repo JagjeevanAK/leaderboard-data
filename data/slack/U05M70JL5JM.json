@@ -2385,7 +2385,7 @@
           "is_app_unfurl": true,
           "app_id": "A01BP7R4KNY",
           "fallback": "1920x1030px image",
-          "text": "*Describe the bug*\n\nWhen we load the asset list tab, the page shows no asset rather than a page loader\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to <https://care.ohc.network/assets|https://care.ohc.network/assets>\n2. See error\n\n*Expected behavior*\n\nwhen we load the asset list tab, the page should be showing a page loader\n\n*Screenshots*\n\n<https://user-images.githubusercontent.com/57055998/278546479-2e5006f9-1dc0-44a8-840a-40b17ffceb9c.png|image>",
+          "text": "*Describe the bug*\n\nWhen we load the asset list tab, the page shows no asset rather than a page loader\n\n*To Reproduce*  \nSteps to reproduce the behavior:\n\n1. Go to <https://care.openfoodfacts.org/assets|https://care.openfoodfacts.org/assets>\n2. See error\n\n*Expected behavior*\n\nwhen we load the asset list tab, the page should be showing a page loader\n\n*Screenshots*\n\n<https://user-images.githubusercontent.com/57055998/278546479-2e5006f9-1dc0-44a8-840a-40b17ffceb9c.png|image>",
           "title": "#6505 Add Page loader to the asset list tab",
           "title_link": "https://github.com/ohcnetwork/care_fe/issues/6505",
           "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",

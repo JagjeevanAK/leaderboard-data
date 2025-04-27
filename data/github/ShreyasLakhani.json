@@ -13,7 +13,7 @@
       "title": "ohcnetwork/care_fe#11475",
       "time": "2025-04-07T20:06:27.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/11475#issuecomment-2784502459",
-      "text": "@rithviknishad sir, I am getting error on \"GET https://careapi.ohc.network/api/v1/otp/slots/get_appointments/ 500 (Internal Server Error)\"  I think it is server side issue not in client side.\n"
+      "text": "@rithviknishad sir, I am getting error on \"GET https://careapi.openfoodfacts.org/api/v1/otp/slots/get_appointments/ 500 (Internal Server Error)\"  I think it is server side issue not in client side.\n"
     },
     {
       "type": "comment_created",

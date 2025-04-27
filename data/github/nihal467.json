@@ -408,7 +408,7 @@
       "title": "ohcnetwork/care_fe#11592",
       "time": "2025-04-12T12:04:47.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/11592#issuecomment-2798805024",
-      "text": "tested, the styling looks fine, need to check the functionality of plugs, since some plugs are throwing 500 in the develop-api.ohc.network backend,"
+      "text": "tested, the styling looks fine, need to check the functionality of plugs, since some plugs are throwing 500 in the develop-api.openfoodfacts.org backend,"
     },
     {
       "type": "comment_created",
@@ -2024,7 +2024,7 @@
       "title": "ohcnetwork/care_fe#10684",
       "time": "2025-03-07T10:51:43.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/10684#issuecomment-2706139575",
-      "text": "https://deploy-preview-10684.preview.ohc.network/facility/b964a5a8-9b2b-4709-ad2c-e831a018c05c/appointments?practitioner=arjun-doctor&date_from=2025-03-07&date_to=2025-03-14&page=2&limit=15 \r\n\r\nLGTM"
+      "text": "https://deploy-preview-10684.preview.openfoodfacts.org/facility/b964a5a8-9b2b-4709-ad2c-e831a018c05c/appointments?practitioner=arjun-doctor&date_from=2025-03-07&date_to=2025-03-14&page=2&limit=15 \r\n\r\nLGTM"
     },
     {
       "type": "comment_created",
@@ -2697,7 +2697,7 @@
       "title": "ohcnetwork/care_fe#10509",
       "time": "2025-03-04T05:25:51.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10509#issuecomment-2696250016",
-      "text": "slack.ohc.network check this now"
+      "text": "slack.openfoodfacts.org check this now"
     },
     {
       "type": "comment_created",
@@ -2830,70 +2830,70 @@
       "title": "ohcnetwork/care_fe#10534",
       "time": "2025-03-03T06:48:09.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10534#issuecomment-2693432616",
-      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.openfoodfacts.org](https://github.com/ohcnetwork/care_fe/issues/slack.openfoodfacts.org)."
     },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10532",
       "time": "2025-03-03T06:47:59.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10532#issuecomment-2693432410",
-      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.openfoodfacts.org](https://github.com/ohcnetwork/care_fe/issues/slack.openfoodfacts.org)."
     },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10521",
       "time": "2025-03-03T06:47:50.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10521#issuecomment-2693431972",
-      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.openfoodfacts.org](https://github.com/ohcnetwork/care_fe/issues/slack.openfoodfacts.org)."
     },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10509",
       "time": "2025-03-03T06:47:42.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10509#issuecomment-2693431507",
-      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.openfoodfacts.org](https://github.com/ohcnetwork/care_fe/issues/slack.openfoodfacts.org)."
     },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10508",
       "time": "2025-03-03T06:47:32.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10508#issuecomment-2693431159",
-      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.openfoodfacts.org](https://github.com/ohcnetwork/care_fe/issues/slack.openfoodfacts.org)."
     },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10478",
       "time": "2025-03-03T06:47:21.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10478#issuecomment-2693430856",
-      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.openfoodfacts.org](https://github.com/ohcnetwork/care_fe/issues/slack.openfoodfacts.org)."
     },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10477",
       "time": "2025-03-03T06:47:04.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10477#issuecomment-2693430412",
-      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.openfoodfacts.org](https://github.com/ohcnetwork/care_fe/issues/slack.openfoodfacts.org)."
     },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10474",
       "time": "2025-03-03T06:46:53.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10474#issuecomment-2693430174",
-      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.openfoodfacts.org](https://github.com/ohcnetwork/care_fe/issues/slack.openfoodfacts.org)."
     },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10471",
       "time": "2025-03-03T06:46:33.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10471#issuecomment-2693429594",
-      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.openfoodfacts.org](https://github.com/ohcnetwork/care_fe/issues/slack.openfoodfacts.org)."
     },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#10470",
       "time": "2025-03-03T06:46:20.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10470#issuecomment-2693429275",
-      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.openfoodfacts.org](https://github.com/ohcnetwork/care_fe/issues/slack.openfoodfacts.org)."
     },
     {
       "type": "comment_created",
@@ -2956,7 +2956,7 @@
       "title": "ohcnetwork/care_fe#10599",
       "time": "2025-03-03T06:29:09.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10599#issuecomment-2693397831",
-      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.ohc.network](https://github.com/ohcnetwork/care_fe/issues/slack.ohc.network)."
+      "text": "GSoC projects will only be assigned to contributors who are officially selected by GSoC. In the meantime, you can start contributing to care_fe by working on the open issues. For detailed instructions and to engage with the community, join our Slack channel at [slack.openfoodfacts.org](https://github.com/ohcnetwork/care_fe/issues/slack.openfoodfacts.org)."
     },
     {
       "type": "comment_created",
@@ -5162,7 +5162,7 @@
       "title": "ohcnetwork/care_fe#10054",
       "time": "2025-01-27T13:50:26.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/10054#issuecomment-2615816170",
-      "text": "\r\n\r\n> @Nihal\r\n> \r\n> * [x]  the error message is missing for the username and the password field message is not properly handled\r\n> * [ ]   When the username is not available, displaying 'All set' with green checkmarks doesn't provide a good user experience. I suggest only displaying that statement if the username is available.\r\n> * That message is only for username validation result  we can update the typo here like `Your Username is valid` that too specifically for validations checks only nothing related to availability of username\r\n> * [ ]  When each check passes the validation, do not make the statement disappear; instead, make the statement green and add a green tick adjacent to it. Implement the behavior for both username and password fields>\r\n> * I am not able to reproduce this. Could you give a re-check and let me know the steps  to reproduce the same\r\n\r\n\r\n![image](https://github.com/user-attachments/assets/4e5ec53f-6476-47d6-a6dc-32d997dfaa7d)\r\n\r\nhttps://teleicu-staging.ohc.network/users/add\r\n\r\nusername: nihal-district\r\npassword: Test@123\r\n\r\nType the username, in the above URL, you will experience, upon each condition are followed, they are turned green and a green tick is been added"
+      "text": "\r\n\r\n> @Nihal\r\n> \r\n> * [x]  the error message is missing for the username and the password field message is not properly handled\r\n> * [ ]   When the username is not available, displaying 'All set' with green checkmarks doesn't provide a good user experience. I suggest only displaying that statement if the username is available.\r\n> * That message is only for username validation result  we can update the typo here like `Your Username is valid` that too specifically for validations checks only nothing related to availability of username\r\n> * [ ]  When each check passes the validation, do not make the statement disappear; instead, make the statement green and add a green tick adjacent to it. Implement the behavior for both username and password fields>\r\n> * I am not able to reproduce this. Could you give a re-check and let me know the steps  to reproduce the same\r\n\r\n\r\n![image](https://github.com/user-attachments/assets/4e5ec53f-6476-47d6-a6dc-32d997dfaa7d)\r\n\r\nhttps://teleicu-staging.openfoodfacts.org/users/add\r\n\r\nusername: nihal-district\r\npassword: Test@123\r\n\r\nType the username, in the above URL, you will experience, upon each condition are followed, they are turned green and a green tick is been added"
     },
     {
       "type": "pr_merged",
@@ -7467,7 +7467,7 @@
       "title": "ohcnetwork/care_fe#9595",
       "time": "2024-12-27T12:00:28.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9595#issuecomment-2563630377",
-      "text": "https://care-staging.ohc.network/facility/5880ad89-57ae-4994-af50-7d99855e7f9d/patient/050080f2-252b-46e4-a44e-eba324693c16/consultation/40396cc3-e859-419e-a659-c6d59cc6b81f/prescriptions"
+      "text": "https://care-staging.openfoodfacts.org/facility/5880ad89-57ae-4994-af50-7d99855e7f9d/patient/050080f2-252b-46e4-a44e-eba324693c16/consultation/40396cc3-e859-419e-a659-c6d59cc6b81f/prescriptions"
     },
     {
       "type": "issue_opened",
@@ -7941,7 +7941,7 @@
       "title": "ohcnetwork/care_fe#9471",
       "time": "2024-12-17T20:09:37.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9471#issuecomment-2549511479",
-      "text": "---\n\n## [Users Login Page](https://care.do.ohc.network/facility/)\n\n![Image](https://github.com/user-attachments/assets/ea3ea4bd-74e0-4397-bad9-d7ffca7b2971)\n\n### Major issue\n\n- [ ] The patient login using the phone number OTP is not being generated to the user\n\nNote: the AWS sandbox services we are using require to register the number with the services first, then only the OTP generation will work in the CARE. For now, we can use the static OTP : 45612\n\n- Login with the static OTP is also not possible\n\n### Minor Issue\n\n- [ ] add the translation to the username and password error message in the staff login\n- [ ] add the translation to the OTP sent successfully notification for the patient login section\n\n![Image](https://github.com/user-attachments/assets/86cdcaff-71ad-40c8-a876-30ce64cc9812)\n\n- [ ] Add proper error message for incorrect OTP-based patient login on the homepage\n\n---\n\n## [Facility Public Page](https://care.do.ohc.network/facilities?state=1&facility_type=840&page=1&limit=14)\n\n![Image](https://github.com/user-attachments/assets/cceaf63f-7c41-4a27-b22d-228d0e1221e9)\n\n### Minor Issue\n\n- [ ] The Facility Type advanced filter on the Facility Public Page is not working because the facility type details are not shown on the card. We can either hide the filter or display the facility type details on the card and fix the related filter functionality. \n\n### Enhancement\n\n- [ ] Add a back button to the facility public page, which users can use to go back to the initial district selection [page](https://care.do.ohc.network/)\n- [ ] Add a login button of the right side top corner, so users can always go to the login page from the public page\n\n---\n\n## [Facility Details Page](https://care.do.ohc.network/facility/0aef5488-ea4d-4280-938a-d6b2fb44df59)\n\n![Image](https://github.com/user-attachments/assets/1de0bb78-9cd9-40f0-ae41-ed2b530e728a)\n\n### Minor Issue\n\n- [ ] Only show the doctor users in the facility detail public page for booking appointments, as they are the only users who will be requiring a appointment book (Product Discussion Required)\n\n### Enhancement\n\n- [ ] Add support to search the doctor's name / Qualification in the facility details page\n\n---\n\n## Booking Appointment\n\n### Major Issue\n\n![Image](https://github.com/user-attachments/assets/bd5e4e26-613e-4dcb-9509-78bb63f54cd3)\n\n- [ ] We can use an invalid OTP such as 00000 to login to the appointment portal and register a patient, even though the frontend throws a 400 error, so handle the situation with proper validation and gracefully\n\n### Minor Issue\n\n![Image](https://github.com/user-attachments/assets/020ff3a4-6fa9-4de8-b3a0-c00e55a9fd9c)\n\n- [ ] Add fine text for age mentioning to the user that, only the year of birth will be saved if they are using the age field\n\n![Image](https://github.com/user-attachments/assets/9d564f5d-6361-48c4-9595-19b0f604edcc)\n\n- [ ] Add support to the current address field allowing users to type address in multiple lines\n\n---\n\n## [User Details Page](https://care.do.ohc.network/users/nibras-doctor/availability)\n\n### Major Issue\n\n![Image](https://github.com/user-attachments/assets/b34ef0cc-508c-4859-ac39-3a0098dfe80d)\n\n- [ ] When we try to create an availability schedule for a user, **without mentioning the weekly schedule**, submitting the form crashes the page. Additionally, each time we open the Availability section on the user's detail page of the same user, the page kept on crashing\n\n![Image](https://github.com/user-attachments/assets/03737a76-dc76-4e56-b141-be84d76c1cc3)\n\n- [ ] When we try to create a schedule exception for a user, its throwing 404 error in the frontend\n\n### Minor Issue\n\n![Image](https://github.com/user-attachments/assets/4c4c0189-5abd-4be4-98b6-8e1953064ba9)\n\n- [ ] Replace the return to care icon with Return to Linked Facilities\n- [ ] Repositon the icon and button of no home facility so, we can avoid unwanted scroller in this page\n\n![Image](https://github.com/user-attachments/assets/803a381d-550b-4eb3-bd36-09670e69f4d5)\n\n- [ ] When there is no exception available for a user, the loader is keep on loading infinitely\n\n![Image](https://github.com/user-attachments/assets/4f02df1a-dac5-4423-a4e0-13214ac2b216)\n\n- [ ] The weekly schedule field in the create schedule template form is not properly responsive\n\n![Image](https://github.com/user-attachments/assets/d779635f-d7e5-4c8b-b295-3f0e36a69882)\n\n- [ ] the info card in the session section of create schedule template is not properly responsive\n\n![Image](https://github.com/user-attachments/assets/81348104-31c2-489d-914a-b04c34e174a3)\n\n- [ ] the return to CARE button in the crashing page is not redirecting properly to the loginpage \n\n### Enhancement\n\n![Image](https://github.com/user-attachments/assets/188d19c0-c3ae-47ce-98ab-ab085fae4182)\n\n- [ ] Add an option to edit the existing schedule template of the user\n\n![Image](https://github.com/user-attachments/assets/babb2266-3cb6-4152-9eb0-3ed3981dd831)\n\n- [ ] Use color coding for the dates to clearly indicate their availability status—such as available, fully booked, nearly full, and unavailable—making it easier to understand availability at a glance without needing to click on each date."
+      "text": "---\n\n## [Users Login Page](https://care.do.openfoodfacts.org/facility/)\n\n![Image](https://github.com/user-attachments/assets/ea3ea4bd-74e0-4397-bad9-d7ffca7b2971)\n\n### Major issue\n\n- [ ] The patient login using the phone number OTP is not being generated to the user\n\nNote: the AWS sandbox services we are using require to register the number with the services first, then only the OTP generation will work in the CARE. For now, we can use the static OTP : 45612\n\n- Login with the static OTP is also not possible\n\n### Minor Issue\n\n- [ ] add the translation to the username and password error message in the staff login\n- [ ] add the translation to the OTP sent successfully notification for the patient login section\n\n![Image](https://github.com/user-attachments/assets/86cdcaff-71ad-40c8-a876-30ce64cc9812)\n\n- [ ] Add proper error message for incorrect OTP-based patient login on the homepage\n\n---\n\n## [Facility Public Page](https://care.do.openfoodfacts.org/facilities?state=1&facility_type=840&page=1&limit=14)\n\n![Image](https://github.com/user-attachments/assets/cceaf63f-7c41-4a27-b22d-228d0e1221e9)\n\n### Minor Issue\n\n- [ ] The Facility Type advanced filter on the Facility Public Page is not working because the facility type details are not shown on the card. We can either hide the filter or display the facility type details on the card and fix the related filter functionality. \n\n### Enhancement\n\n- [ ] Add a back button to the facility public page, which users can use to go back to the initial district selection [page](https://care.do.openfoodfacts.org/)\n- [ ] Add a login button of the right side top corner, so users can always go to the login page from the public page\n\n---\n\n## [Facility Details Page](https://care.do.openfoodfacts.org/facility/0aef5488-ea4d-4280-938a-d6b2fb44df59)\n\n![Image](https://github.com/user-attachments/assets/1de0bb78-9cd9-40f0-ae41-ed2b530e728a)\n\n### Minor Issue\n\n- [ ] Only show the doctor users in the facility detail public page for booking appointments, as they are the only users who will be requiring a appointment book (Product Discussion Required)\n\n### Enhancement\n\n- [ ] Add support to search the doctor's name / Qualification in the facility details page\n\n---\n\n## Booking Appointment\n\n### Major Issue\n\n![Image](https://github.com/user-attachments/assets/bd5e4e26-613e-4dcb-9509-78bb63f54cd3)\n\n- [ ] We can use an invalid OTP such as 00000 to login to the appointment portal and register a patient, even though the frontend throws a 400 error, so handle the situation with proper validation and gracefully\n\n### Minor Issue\n\n![Image](https://github.com/user-attachments/assets/020ff3a4-6fa9-4de8-b3a0-c00e55a9fd9c)\n\n- [ ] Add fine text for age mentioning to the user that, only the year of birth will be saved if they are using the age field\n\n![Image](https://github.com/user-attachments/assets/9d564f5d-6361-48c4-9595-19b0f604edcc)\n\n- [ ] Add support to the current address field allowing users to type address in multiple lines\n\n---\n\n## [User Details Page](https://care.do.openfoodfacts.org/users/nibras-doctor/availability)\n\n### Major Issue\n\n![Image](https://github.com/user-attachments/assets/b34ef0cc-508c-4859-ac39-3a0098dfe80d)\n\n- [ ] When we try to create an availability schedule for a user, **without mentioning the weekly schedule**, submitting the form crashes the page. Additionally, each time we open the Availability section on the user's detail page of the same user, the page kept on crashing\n\n![Image](https://github.com/user-attachments/assets/03737a76-dc76-4e56-b141-be84d76c1cc3)\n\n- [ ] When we try to create a schedule exception for a user, its throwing 404 error in the frontend\n\n### Minor Issue\n\n![Image](https://github.com/user-attachments/assets/4c4c0189-5abd-4be4-98b6-8e1953064ba9)\n\n- [ ] Replace the return to care icon with Return to Linked Facilities\n- [ ] Repositon the icon and button of no home facility so, we can avoid unwanted scroller in this page\n\n![Image](https://github.com/user-attachments/assets/803a381d-550b-4eb3-bd36-09670e69f4d5)\n\n- [ ] When there is no exception available for a user, the loader is keep on loading infinitely\n\n![Image](https://github.com/user-attachments/assets/4f02df1a-dac5-4423-a4e0-13214ac2b216)\n\n- [ ] The weekly schedule field in the create schedule template form is not properly responsive\n\n![Image](https://github.com/user-attachments/assets/d779635f-d7e5-4c8b-b295-3f0e36a69882)\n\n- [ ] the info card in the session section of create schedule template is not properly responsive\n\n![Image](https://github.com/user-attachments/assets/81348104-31c2-489d-914a-b04c34e174a3)\n\n- [ ] the return to CARE button in the crashing page is not redirecting properly to the loginpage \n\n### Enhancement\n\n![Image](https://github.com/user-attachments/assets/188d19c0-c3ae-47ce-98ab-ab085fae4182)\n\n- [ ] Add an option to edit the existing schedule template of the user\n\n![Image](https://github.com/user-attachments/assets/babb2266-3cb6-4152-9eb0-3ed3981dd831)\n\n- [ ] Use color coding for the dates to clearly indicate their availability status—such as available, fully booked, nearly full, and unavailable—making it easier to understand availability at a glance without needing to click on each date."
     },
     {
       "type": "issue_opened",
@@ -8342,7 +8342,7 @@
       "title": "ohcnetwork/care_fe#9401",
       "time": "2024-12-14T04:43:57.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9401#issuecomment-2542815824",
-      "text": "@Sulochan-khadka the issue still persist, check the develop preview : care.ohc.network"
+      "text": "@Sulochan-khadka the issue still persist, check the develop preview : care.openfoodfacts.org"
     },
     {
       "type": "pr_merged",
@@ -10472,7 +10472,7 @@
       "title": "ohcnetwork/care_fe#9101",
       "time": "2024-11-13T14:07:54.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9101#issuecomment-2473722143",
-      "text": "@AdityaJ2305 seem like your develop is out of sync, check in care.ohc.network"
+      "text": "@AdityaJ2305 seem like your develop is out of sync, check in care.openfoodfacts.org"
     },
     {
       "type": "comment_created",
@@ -12294,7 +12294,7 @@
       "title": "ohcnetwork/care_fe#8744",
       "time": "2024-10-14T05:49:08.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/8744#issuecomment-2409997874",
-      "text": "Nikhil from the screenshot, you are not doing the configuration backend properly\r\n\r\nNote: Care_fe is under https://github.com/ohcnetwork/care_fe and care backend is under https://github.com/ohcnetwork/care\r\n\r\nsteps to run the docker : \r\n\r\n1. Clone the backend repo: https://github.com/ohcnetwork/care (backend)\r\n2. now since you are using the docker app, open the vs code and you are in the correct branch\r\n3. type `docker compose -f docker-compose.yaml -f docker-compose.local.yaml up -d` in your vs code panel\r\n4. now open the docker app and check all the containers are running\r\n5. now open the celery container and view the log, verify all the migration is completed\r\n6. open the localhost:9000 and you will be able to view a similar page as below: \r\n![image](https://github.com/user-attachments/assets/b8966840-bc6b-4f71-8751-c8816e058314)\r\n\r\n7. once the entire backend is up, run the command in vs code for loading the dummy data `docker exec care-backend-1 python manage.py load_dummy_data` \r\n\r\nOnce all the steps are followed properly, your backend is fully up.\r\n\r\nConnect the frontend to the backend:\r\n\r\n- in the frontend , open the .env file and replace the REACT_CARE_API_URL=https://careapi.ohc.network to REACT_CARE_API_URL=http://localhost:9000"
+      "text": "Nikhil from the screenshot, you are not doing the configuration backend properly\r\n\r\nNote: Care_fe is under https://github.com/ohcnetwork/care_fe and care backend is under https://github.com/ohcnetwork/care\r\n\r\nsteps to run the docker : \r\n\r\n1. Clone the backend repo: https://github.com/ohcnetwork/care (backend)\r\n2. now since you are using the docker app, open the vs code and you are in the correct branch\r\n3. type `docker compose -f docker-compose.yaml -f docker-compose.local.yaml up -d` in your vs code panel\r\n4. now open the docker app and check all the containers are running\r\n5. now open the celery container and view the log, verify all the migration is completed\r\n6. open the localhost:9000 and you will be able to view a similar page as below: \r\n![image](https://github.com/user-attachments/assets/b8966840-bc6b-4f71-8751-c8816e058314)\r\n\r\n7. once the entire backend is up, run the command in vs code for loading the dummy data `docker exec care-backend-1 python manage.py load_dummy_data` \r\n\r\nOnce all the steps are followed properly, your backend is fully up.\r\n\r\nConnect the frontend to the backend:\r\n\r\n- in the frontend , open the .env file and replace the REACT_CARE_API_URL=https://careapi.openfoodfacts.org to REACT_CARE_API_URL=http://localhost:9000"
     },
     {
       "type": "issue_opened",
@@ -14344,7 +14344,7 @@
       "title": "ohcnetwork/care_fe#8342",
       "time": "2024-09-10T08:32:55.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/8342#issuecomment-2340016481",
-      "text": "@aparnacoronasafe \r\n![image](https://github.com/user-attachments/assets/3440a9f6-0e30-4e4f-92bb-797743061336)\r\n\r\nthe suggestion chips are visible, can you hard refresh once and check it in the staging deployment once again ( https://care-staging.ohc.network )"
+      "text": "@aparnacoronasafe \r\n![image](https://github.com/user-attachments/assets/3440a9f6-0e30-4e4f-92bb-797743061336)\r\n\r\nthe suggestion chips are visible, can you hard refresh once and check it in the staging deployment once again ( https://care-staging.openfoodfacts.org )"
     },
     {
       "type": "pr_collaborated",
@@ -35315,7 +35315,7 @@
       "title": "ohcnetwork/care_fe#5852",
       "time": "2023-07-07T10:27:08.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/5852",
-      "text": "Allow patient File Upload feature for Care.ohc.network"
+      "text": "Allow patient File Upload feature for Care.openfoodfacts.org"
     },
     {
       "type": "comment_created",

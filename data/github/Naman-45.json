@@ -3,197 +3,197 @@
   "activity": [
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-19T21:22:01.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2738150518",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2738150518",
       "text": "> You’re filtering from the first 14 items, right? That won’t guarantee the first 14 active ones. For example, if the fetch returns 10 active and 4 entered_in_error, you’ll only display those 10 active ones, even though more active items exist but weren’t included in the initial request.\r\n\r\nI also have the same doubt, hence I asked the following\r\n\r\n![Screenshot From 2025-03-20 02-49-45](https://github.com/user-attachments/assets/1b20e6cb-0589-4081-b2a5-91c9d519ec0e)\r\n\r\nand @Jacobjeevan asked to display only 14 entries..\r\n\r\n![Screenshot From 2025-03-20 02-50-12](https://github.com/user-attachments/assets/5e5dfdc2-0083-43d8-ae16-10c658647e73)\r\n\r\n![Screenshot From 2025-03-20 02-51-46](https://github.com/user-attachments/assets/e3ed4692-d8db-4aef-b352-bcca6ada56f4)\r\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-19T21:18:27.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2738141497",
-      "text": "> You’re filtering from the first 14 items, right? That won’t guarantee the first 14 active ones. For example, if the fetch returns 10 active and 4 entered_in_error, you’ll only display those 10 active ones, even though more active items exist but weren’t included in the initial request.\r\n\r\nI also have the same doubt - \r\n\r\nhttps://github.com/ohcnetwork/care_fe/pull/10871/#issuecomment-2722059672"
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2738141497",
+      "text": "> You’re filtering from the first 14 items, right? That won’t guarantee the first 14 active ones. For example, if the fetch returns 10 active and 4 entered_in_error, you’ll only display those 10 active ones, even though more active items exist but weren’t included in the initial request.\r\n\r\nI also have the same doubt - \r\n\r\nhttps://github.com/OpenFoodFacts/care_fe/pull/10871/#issuecomment-2722059672"
     },
     {
       "type": "issue_closed",
-      "title": "ohcnetwork/care_fe#11419",
+      "title": "OpenFoodFacts/care_fe#11419",
       "time": "2025-03-19T21:13:10.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11419",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11419",
       "text": "Add option to edit clinical status while creating new allergy or editing an existing one"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11419",
+      "title": "OpenFoodFacts/care_fe#11419",
       "time": "2025-03-19T21:13:10.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11419#issuecomment-2738127759",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11419#issuecomment-2738127759",
       "text": "Oh my bad :("
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11419",
+      "title": "OpenFoodFacts/care_fe#11419",
       "time": "2025-03-19T21:05:53.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11419#issuecomment-2738112185",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11419#issuecomment-2738112185",
       "text": "@Jacobjeevan Could you please assign this issue to me, would like to work on this.\n\nWill add an option to edit clinical status while adding new or editing existing allergy via dropdown option.\n\nETA:  2 days."
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#11419",
+      "title": "OpenFoodFacts/care_fe#11419",
       "time": "2025-03-19T21:05:50.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11419",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11419",
       "text": "Add option to edit clinical status while creating new allergy or editing an existing one"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-19T20:54:46.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2738088428",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2738088428",
       "text": "> > @Naman-45, we need to display the first 14 active items in the overview section tables. With the current implementation, it’s fetching 14 items in total, not specifically 14 active ones. correct me if i'm wrong\r\n> \r\n> We are displaying only active entries in the overview section, as you can see in the below screen shot, by default i.e; in the overview section hideFullViewButton is false and when the dialog pops up hideFullViewButton prop is passed as true. ![Screenshot From 2025-03-20 02-14-31](https://private-user-images.githubusercontent.com/126798758/424690637-cdca52a9-b1c6-43de-a5c3-7074cbd81b21.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI0MTc2MDIsIm5iZiI6MTc0MjQxNzMwMiwicGF0aCI6Ii8xMjY3OTg3NTgvNDI0NjkwNjM3LWNkY2E1MmE5LWIxYzYtNDNkZS1hNWMzLTcwNzRjYmQ4MWIyMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxOVQyMDQ4MjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hODNmODE0MWJmYTE4NjdmZGE2NDU4MGQ4ZTQwODk0NDBkNzk3YjkwOThhZGZkNzlkOWUwOGQwZTE5MGZlNGExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sOuhjmHpYfNn3CWNKdOzvUU2BWL-wcFrSKORvu3HUgA)\r\n\r\nAlso change previous nomenclature of dialog popup prop from hideFullViewButton -> dialogView"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-19T20:47:43.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2738074575",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2738074575",
       "text": "> @Naman-45, we need to display the first 14 active items in the overview section tables. With the current implementation, it’s fetching 14 items in total, not specifically 14 active ones. correct me if i'm wrong\r\n\r\nWe are only displaying active entries only in the overview section, as you can see in the below screen shot, by default i.e; in the overview section hideFullViewButton is false and when the dialog pops up hideFullViewButton prop is passed as true.\r\n![Screenshot From 2025-03-20 02-14-31](https://github.com/user-attachments/assets/cdca52a9-b1c6-43de-a5c3-7074cbd81b21)\r\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-18T22:32:00.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2734881334",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2734881334",
       "text": "@Jacobjeevan I had committed all of the requested changes, and its ready for review. "
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-18T22:31:34.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2734880770",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2734880770",
       "text": "I had committed all of the requested changes, and its ready for review. cc @Jacobjeevan "
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-13T17:16:09.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2722059672",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2722059672",
       "text": "I think now I have committed all of the requested changes. I do have one confusion though, you asked me conditionally render view all button i.e; render only if there are any inactive entries and in the overview section we are only showing 14 active entries then what if there are more than 14 active entries and no inactive entries, how will those be accessible?"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-11T18:47:13.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2715391137",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2715391137",
       "text": "> @Naman-45 , It is for mobile screen, you need to make the ui responsive\r\n\r\nOh alright, got it!"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-11T18:24:46.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2715324180",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2715324180",
       "text": "> ![image](https://private-user-images.githubusercontent.com/57055998/421354966-471f1a31-938b-4d93-8b49-646698abc3fc.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE3MTcyNDIsIm5iZiI6MTc0MTcxNjk0MiwicGF0aCI6Ii81NzA1NTk5OC80MjEzNTQ5NjYtNDcxZjFhMzEtOTM4Yi00ZDkzLThiNDktNjQ2Njk4YWJjM2ZjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzExVDE4MTU0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliMWEwMDljMmViYjdiNmRmNmE5ZDk3MTA3ZWU5ZDhmNGNiM2MyZDZmOGY4Y2NjZGEwNTkzNTNlMjIyZTA4MDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QdsVK2H-O0ET-rVqIenvPyfUtuFHgvriHEGX0aAoK7E)\r\n> \r\n> * [ ]  the close button is overlapping with the heading\r\n\r\n![Screenshot From 2025-03-11 23-52-23](https://github.com/user-attachments/assets/1459a7d5-bf10-4061-b69c-e653a5129957)\r\nI don't know whats happening, but there is no close button  showing in my screen."
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-10T15:48:49.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2711048162",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2711048162",
       "text": "> @Naman-45 Can you wire this popup to the existing \"View all\" button instead of a new Full View button? In the overview table, fetch records only from the active statuses and display first. Along with it, fire an API for inactive statuses with limit 0, to decide if \"View all\" button needs to be displayed or not. On click can open up the new Popup. Let me know if you need any clarifications.\r\n> \r\n> Here is an image for reference (Credits: @AdityaJ2305 ). This would also fix #11184 ![image](https://private-user-images.githubusercontent.com/37619282/420856703-56779fd2-62c1-4245-bd29-75683d7d7221.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE2MTkxMzgsIm5iZiI6MTc0MTYxODgzOCwicGF0aCI6Ii8zNzYxOTI4Mi80MjA4NTY3MDMtNTY3NzlmZDItNjJjMS00MjQ1LWJkMjktNzU2ODNkN2Q3MjIxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzEwVDE1MDAzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQxMWI3MTY5MzQwNjkzYjE0NWYxZDRkZDAwNzE0NGIxYzQxZjdiNjhhZGI0NjQyYmJiMTNkNzY2YmY5NTU4MzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gxo1ULo_JLbCBPp7IMsaZNgD1SmC1AS-KxYnqdjdkwg)\r\n\r\nOk so I will remove Full View button and instead wire it up to the view all button? Now, as you said that you want to display all the active entries in the overview section so what all encounter statuses do you consider as active and which all inactive.\r\n\r\nAnd In the overview section you want to display all the active statuses entries then what if they are more than 14 i.e; cannot be fetched in a single call, how do you want that case to be handled?\r\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-08T18:30:31.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2708433728",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2708433728",
       "text": "> > > <img alt=\"Screenshot 2025-03-07 at 11 30 31 PM\" width=\"1154\" src=\"https://private-user-images.githubusercontent.com/148325158/420448467-b79bda75-9770-425c-a8ee-ec492200bcb4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEzNzA4MTcsIm5iZiI6MTc0MTM3MDUxNywicGF0aCI6Ii8xNDgzMjUxNTgvNDIwNDQ4NDY3LWI3OWJkYTc1LTk3NzAtNDI1Yy1hOGVlLWVjNDkyMjAwYmNiNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwN1QxODAxNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjZjMzI4NzIwZTIzM2E1Y2QyYzVmZmUyMTY5Y2Y3MGM1ODNjY2EwYmI3NWVhZmJkZWY0ZjFiZTI1YzA4ZTVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TSyXIugYMl7vJqSBt4lNFJiCU88fscJ774ymUXUU7pQ\"> You don't need to replicate exact data with design 😅\r\n> > \r\n> > \r\n> > I'm sorry, but I wasn't able to get date so for now I hardcoded it.\r\n> > @Naman-45 , Remove this one\r\n\r\nFixed it."
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11107",
+      "title": "OpenFoodFacts/care_fe#11107",
       "time": "2025-03-08T07:15:13.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11107#issuecomment-2708088089",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11107#issuecomment-2708088089",
       "text": "> @oathar, in some cases, creating a PR and informing the maintainers after that is okay, as all the issues can't always be assigned. I saw the issue, found it doable, and started working on it. After creating the PR, I noticed you were also working on it. Sorry about that.\n\nThat's okay if the issue is raised by the maintainer of the project, but this issue was raised by the contributor just like you.\n\nMoreover in the contribution guidelines given, it is mentioned that you should first comment below the issue you want to work on.\n\nThis way you are creating an unhealthy environment among contributors."
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11107",
+      "title": "OpenFoodFacts/care_fe#11107",
       "time": "2025-03-07T19:39:32.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11107#issuecomment-2707262239",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11107#issuecomment-2707262239",
       "text": "Oh my bad, there were instructions for requesting assignment mentioned so I though it is open for taking."
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11107",
+      "title": "OpenFoodFacts/care_fe#11107",
       "time": "2025-03-07T18:42:55.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11107#issuecomment-2707166323",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11107#issuecomment-2707166323",
       "text": "Could you please assign this issue to me, would like to work on this.\n\nDescribe your solution clearly:\n\nIts a basic CSS issue, can be solved by adding adequate stylings.\n\nExpected Timeline:\n\nEnd date: 10/03/25"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-07T18:09:02.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2707088614",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2707088614",
       "text": "> @Naman-45 <img alt=\"Screenshot 2025-03-07 at 11 27 13 PM\" width=\"848\" src=\"https://private-user-images.githubusercontent.com/148325158/420447478-d9d8e1c7-9953-4bbe-a51e-52dec38125c5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEzNzA1ODQsIm5iZiI6MTc0MTM3MDI4NCwicGF0aCI6Ii8xNDgzMjUxNTgvNDIwNDQ3NDc4LWQ5ZDhlMWM3LTk5NTMtNGJiZS1hNTFlLTUyZGVjMzgxMjVjNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwN1QxNzU4MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01OTA1NmYzMTE5MGY4YTQyZDE2NmY5NWYzZWVlZTZlYTBiNTJkNzdhYzY5MWNlZmIyNmYxNmY3Y2Y0NmRiZDcyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WHmFmY6cyJ1-Vcoqr7qDDIYob67_C_iEphbAQGZKakE\">\r\n\r\noops missed it in conflict resolution, solved it!"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-07T18:08:05.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2707086680",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2707086680",
       "text": "> <img alt=\"Screenshot 2025-03-07 at 11 30 31 PM\" width=\"1154\" src=\"https://private-user-images.githubusercontent.com/148325158/420448467-b79bda75-9770-425c-a8ee-ec492200bcb4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDEzNzA4MTcsIm5iZiI6MTc0MTM3MDUxNywicGF0aCI6Ii8xNDgzMjUxNTgvNDIwNDQ4NDY3LWI3OWJkYTc1LTk3NzAtNDI1Yy1hOGVlLWVjNDkyMjAwYmNiNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwN1QxODAxNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjZjMzI4NzIwZTIzM2E1Y2QyYzVmZmUyMTY5Y2Y3MGM1ODNjY2EwYmI3NWVhZmJkZWY0ZjFiZTI1YzA4ZTVkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TSyXIugYMl7vJqSBt4lNFJiCU88fscJ774ymUXUU7pQ\"> You don't need to replicate exact data with design 😅\r\n\r\nI'm sorry, but I wasn't able to get date so for now I hardcoded it."
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-07T17:51:38.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2707058268",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2707058268",
       "text": "> @Naman-45 , Checks are failing\r\n\r\nNow they are passing. "
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-07T17:18:45.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2706995794",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2706995794",
       "text": "> @Naman-45 , Checks are failing\r\n\r\nYes, working on it.\r\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-03-07T12:01:51.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2706277788",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2706277788",
       "text": "I have added full view button and a dialog box\r\n\r\nhttps://github.com/user-attachments/assets/ea7d9d56-683c-4d02-ac41-c4f0f550af14\r\n\r\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-02-28T18:31:19.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2691300178",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2691300178",
       "text": "Alright got it!"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-02-28T11:38:29.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871#issuecomment-2690426599",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871#issuecomment-2690426599",
       "text": "Just so that I get you right, are you asking me to add questionnaire response section the way right now there is allergy, diagnose and symptom section?\r\n"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#10871",
+      "title": "OpenFoodFacts/care_fe#10871",
       "time": "2025-02-28T11:04:59.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871",
       "text": "Fix encounter overview tables to display more than 14 items"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10869",
+      "title": "OpenFoodFacts/care_fe#10869",
       "time": "2025-02-28T09:25:55.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/10869#issuecomment-2690149383",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/10869#issuecomment-2690149383",
       "text": "Could you please assign this issue to me, would like to work on this.\n"
     }
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10871",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10871",
       "title": "Fix encounter overview tables to display more than 14 items",
       "stale_for": 0,
       "labels": [

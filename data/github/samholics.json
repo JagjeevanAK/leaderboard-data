@@ -97,7 +97,7 @@
       "title": "ohcnetwork/care_fe#9506",
       "time": "2024-12-20T05:51:25.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9506#issuecomment-2556336753",
-      "text": "> 2nd one should be fixed by [2650](https://github.com/ohcnetwork/care/pull/2650) on the backend, should go alive in the next release.\n> \n> [@samholics](https://github.com/samholics) Are you seeing this on care.ohc.network?\n\nNo  on production."
+      "text": "> 2nd one should be fixed by [2650](https://github.com/ohcnetwork/care/pull/2650) on the backend, should go alive in the next release.\n> \n> [@samholics](https://github.com/samholics) Are you seeing this on care.openfoodfacts.org?\n\nNo  on production."
     },
     {
       "type": "issue_opened",

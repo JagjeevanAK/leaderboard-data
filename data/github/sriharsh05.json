@@ -540,7 +540,7 @@
       "title": "ohcnetwork/care_fe#6591",
       "time": "2023-12-16T02:19:15.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/6591#issuecomment-1858683519",
-      "text": "@rithviknishad \r\nThe autofill for the Pincode is not working. The API request for it is not providing the correct response. It's also not functioning properly in the deployment at https://care.ohc.network/facility/create."
+      "text": "@rithviknishad \r\nThe autofill for the Pincode is not working. The API request for it is not providing the correct response. It's also not functioning properly in the deployment at https://care.openfoodfacts.org/facility/create."
     },
     {
       "type": "comment_created",

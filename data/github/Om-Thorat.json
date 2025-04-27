@@ -6,7 +6,7 @@
       "title": "ohcnetwork/care_fe#6911",
       "time": "2024-02-02T04:55:34.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/6911#issuecomment-1922818940",
-      "text": "The bug also happens on the live version of care. https://care.ohc.network hence wasn't introduced by this pr.\r\n\r\n@nihal467 @rithviknishad "
+      "text": "The bug also happens on the live version of care. https://care.openfoodfacts.org hence wasn't introduced by this pr.\r\n\r\n@nihal467 @rithviknishad "
     },
     {
       "type": "comment_created",

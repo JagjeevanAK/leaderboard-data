@@ -2089,7 +2089,7 @@
       "title": "ohcnetwork/landing#6",
       "time": "2024-11-15T12:16:56.000Z",
       "link": "https://github.com/ohcnetwork/landing/issues/6#issuecomment-2478689512",
-      "text": "@nihal467 can you check again seem like it is already mentioned at the end of this page https://ohc.network/care"
+      "text": "@nihal467 can you check again seem like it is already mentioned at the end of this page https://openfoodfacts.org/care"
     },
     {
       "type": "pr_reviewed",
@@ -4121,7 +4121,7 @@
       "title": "ohcnetwork/care#2452",
       "time": "2024-09-19T10:35:55.000Z",
       "link": "https://github.com/ohcnetwork/care/pull/2452#issuecomment-2360625763",
-      "text": "hey @Dishaswamy this prs has unrelated changes to files and the indentation is also incorrect,\r\nread the following docs and open a new pr again:\r\nhttps://docs.ohc.network/docs/contributing/\r\nhttps://github.com/ohcnetwork/care/blob/develop/CONTRIBUTING.md"
+      "text": "hey @Dishaswamy this prs has unrelated changes to files and the indentation is also incorrect,\r\nread the following docs and open a new pr again:\r\nhttps://docs.openfoodfacts.org/docs/contributing/\r\nhttps://github.com/ohcnetwork/care/blob/develop/CONTRIBUTING.md"
     },
     {
       "type": "pr_reviewed",
@@ -10323,7 +10323,7 @@
       "title": "ohcnetwork/care#1926",
       "time": "2024-02-28T17:19:57.000Z",
       "link": "https://github.com/ohcnetwork/care/pull/1926#issuecomment-1969475356",
-      "text": "hey @itxsoumya we were intentionally not showing the info that the username is incorrect\r\nand the issue is to fix the schema on https://careapi.ohc.network/swagger/"
+      "text": "hey @itxsoumya we were intentionally not showing the info that the username is incorrect\r\nand the issue is to fix the schema on https://careapi.openfoodfacts.org/swagger/"
     },
     {
       "type": "pr_reviewed",
@@ -12858,7 +12858,7 @@
       "title": "ohcnetwork/care_fe#6500",
       "time": "2023-10-26T10:06:55.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/6500#issuecomment-1780810603",
-      "text": "https://care-staging.ohc.network/assets/"
+      "text": "https://care-staging.openfoodfacts.org/assets/"
     },
     {
       "type": "pr_opened",
@@ -15188,7 +15188,7 @@
       "time": "2023-07-13T09:43:22.000Z",
       "title": "ohcnetwork/care#1449",
       "link": "https://github.com/ohcnetwork/care/pull/1449#pullrequestreview-1528046188",
-      "text": "Update branding from CoronaSafe Network to Open Healthcare Network"
+      "text": "Update branding from CoronaSafe Network to Open Food Facts"
     },
     {
       "type": "pr_reviewed",

@@ -1787,7 +1787,7 @@
       "title": "ohcnetwork/care_fe#11798",
       "time": "2025-04-08T07:21:31.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/11798",
-      "text": "docs: update API credentials in README for care.ohc.network",
+      "text": "docs: update API credentials in README for care.openfoodfacts.org",
       "turnaround_time": 3641
     },
     {
@@ -1837,7 +1837,7 @@
       "title": "ohcnetwork/care_fe#11798",
       "time": "2025-04-08T06:15:51.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/11798",
-      "text": "docs: update API credentials in README for care.ohc.network"
+      "text": "docs: update API credentials in README for care.openfoodfacts.org"
     },
     {
       "type": "comment_created",
@@ -13959,7 +13959,7 @@
       "title": "ohcnetwork/care_fe#9775",
       "time": "2025-01-06T04:47:00.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9775#issuecomment-2572268069",
-      "text": "fix the following too along with that @AnveshNalimela \n\nhttps://care.ohc.network/facility/aa24779d-ced5-4b8b-8742-f1e137a323c5/organization/a43e9295-768d-4519-a9b7-620a06506d69\n\n<img width=\"569\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2d13b175-7899-4166-808b-1f2e43b5811f\" />\n"
+      "text": "fix the following too along with that @AnveshNalimela \n\nhttps://care.openfoodfacts.org/facility/aa24779d-ced5-4b8b-8742-f1e137a323c5/organization/a43e9295-768d-4519-a9b7-620a06506d69\n\n<img width=\"569\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/2d13b175-7899-4166-808b-1f2e43b5811f\" />\n"
     },
     {
       "type": "comment_created",
@@ -15919,7 +15919,7 @@
       "title": "ohcnetwork/care_fe#9574",
       "time": "2024-12-26T09:01:23.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/9574#issuecomment-2562338804",
-      "text": "@abhimanyurajeesh \r\n\r\n1. Do add proper title for the PR.\r\n\r\nRefer the following on getting started to contributing:\r\n\r\n- https://github.com/ohcnetwork/care_fe?tab=readme-ov-file#contributing-to-care\r\n- https://docs.ohc.network/docs/contributing\r\n\r\n2. Do make sure you get the issue assigned before working on it. This is so that we avoid duplicate efforts. Ignoring for now since it's a minor change and first time contribution."
+      "text": "@abhimanyurajeesh \r\n\r\n1. Do add proper title for the PR.\r\n\r\nRefer the following on getting started to contributing:\r\n\r\n- https://github.com/ohcnetwork/care_fe?tab=readme-ov-file#contributing-to-care\r\n- https://docs.openfoodfacts.org/docs/contributing\r\n\r\n2. Do make sure you get the issue assigned before working on it. This is so that we avoid duplicate efforts. Ignoring for now since it's a minor change and first time contribution."
     },
     {
       "type": "comment_created",
@@ -16787,7 +16787,7 @@
       "title": "ohcnetwork/care_fe#9489",
       "time": "2024-12-18T16:10:46.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9489#issuecomment-2551730537",
-      "text": "This has been changed in one of the actively developed branch: https://github.com/ohcnetwork/care_fe/pull/9262 deployed on https://care.do.ohc.network/\n\n<img width=\"911\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5eea651d-35ee-4afe-80f4-6ee7c0718c8a\" />\n"
+      "text": "This has been changed in one of the actively developed branch: https://github.com/ohcnetwork/care_fe/pull/9262 deployed on https://care.do.openfoodfacts.org/\n\n<img width=\"911\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/5eea651d-35ee-4afe-80f4-6ee7c0718c8a\" />\n"
     },
     {
       "type": "issue_closed",
@@ -21124,7 +21124,7 @@
       "title": "ohcnetwork/care_fe#8903",
       "time": "2024-10-24T06:11:43.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/8903#issuecomment-2434384181",
-      "text": "https://docs.ohc.network/docs/contributing/#how-to-resolve-merge-conflicts"
+      "text": "https://docs.openfoodfacts.org/docs/contributing/#how-to-resolve-merge-conflicts"
     },
     {
       "type": "comment_created",
@@ -22798,7 +22798,7 @@
       "title": "ohcnetwork/leaderboard#492",
       "time": "2024-10-01T03:54:29.000Z",
       "link": "https://github.com/ohcnetwork/leaderboard/issues/492#issuecomment-2384731669",
-      "text": "https://docs.ohc.network/docs/leaderboard/gsoc-2024/refactor-scraper#3-parseeventsts\r\n\r\nhttps://github.com/ohcnetwork/leaderboard/blob/ad4cb04bb06f1d51e952ab99263870dfcf08b30e/scraper/src/github-scraper/parseEvents.ts#L53-L55"
+      "text": "https://docs.openfoodfacts.org/docs/leaderboard/gsoc-2024/refactor-scraper#3-parseeventsts\r\n\r\nhttps://github.com/ohcnetwork/leaderboard/blob/ad4cb04bb06f1d51e952ab99263870dfcf08b30e/scraper/src/github-scraper/parseEvents.ts#L53-L55"
     },
     {
       "type": "comment_created",
@@ -22896,7 +22896,7 @@
       "title": "ohcnetwork/care_fe#8302",
       "time": "2024-09-30T09:46:58.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/8302#issuecomment-2382644398",
-      "text": "You can start by renaming instances of \"doctor_qualification\" with \"qualification\" in the backend repo (except for the ones that are in the existing migrations). \r\n\r\nAnd then you can run the `makemigrations` command to generate the `RenameField` DB schema migration which django generates for you automatically.\r\n\r\nReferences:\r\n- https://school.ohc.network/targets/19486\r\n- https://docs.djangoproject.com/en/5.1/ref/django-admin/#django-admin-makemigrations"
+      "text": "You can start by renaming instances of \"doctor_qualification\" with \"qualification\" in the backend repo (except for the ones that are in the existing migrations). \r\n\r\nAnd then you can run the `makemigrations` command to generate the `RenameField` DB schema migration which django generates for you automatically.\r\n\r\nReferences:\r\n- https://school.openfoodfacts.org/targets/19486\r\n- https://docs.djangoproject.com/en/5.1/ref/django-admin/#django-admin-makemigrations"
     },
     {
       "type": "comment_created",
@@ -24066,7 +24066,7 @@
       "title": "ohcnetwork/care_fe#8562",
       "time": "2024-09-20T14:53:47.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/8562#issuecomment-2363922367",
-      "text": "@Sahil-Sinha-11 This works, however, it'd be appreciated if you could follow the contributing guidelines https://docs.ohc.network/docs/contributing/#how-to-contribute\r\n\r\nThis issue has already been assigned to @DraKen0009 recently."
+      "text": "@Sahil-Sinha-11 This works, however, it'd be appreciated if you could follow the contributing guidelines https://docs.openfoodfacts.org/docs/contributing/#how-to-contribute\r\n\r\nThis issue has already been assigned to @DraKen0009 recently."
     },
     {
       "type": "comment_created",
@@ -25579,7 +25579,7 @@
       "title": "ohcnetwork/care_fe#8441",
       "time": "2024-08-31T09:47:31.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/8441#issuecomment-2322845661",
-      "text": "You can see them in this route:\r\n\r\nhttps://care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/edfe0bd6-0f50-4a4c-8cd0-2d4ad0e9cea1/investigation/e4759286-99a8-41a6-bc79-8628478b61d0\r\n\r\n```\r\nuser: devdistrictadmin\r\npass: Coronasafe@123\r\n```"
+      "text": "You can see them in this route:\r\n\r\nhttps://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/edfe0bd6-0f50-4a4c-8cd0-2d4ad0e9cea1/investigation/e4759286-99a8-41a6-bc79-8628478b61d0\r\n\r\n```\r\nuser: devdistrictadmin\r\npass: Coronasafe@123\r\n```"
     },
     {
       "type": "pr_opened",
@@ -25747,7 +25747,7 @@
       "title": "ohcnetwork/care_fe#8440",
       "time": "2024-08-29T14:00:21.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/8440#issuecomment-2317751639",
-      "text": "> Let's make the time configurable via env;\r\n\r\nHow about through [config.json](https://care.ohc.network/config.json) instead? (All whitelablling envs are present there)"
+      "text": "> Let's make the time configurable via env;\r\n\r\nHow about through [config.json](https://care.openfoodfacts.org/config.json) instead? (All whitelablling envs are present there)"
     },
     {
       "type": "comment_created",
@@ -29649,7 +29649,7 @@
       "title": "ohcnetwork/care_fe#7877",
       "time": "2024-05-28T07:33:05+00:00",
       "link": "https://github.com/ohcnetwork/care_fe/issues/7877#issuecomment-2134534153",
-      "text": "Hey @Atharva-Kanherkar \r\n\r\nYes you can work on this!\r\n\r\n\r\n### Solution 1\r\nTo get the list of available event types, you'll need to fetch the event types from the API: \r\nhttps://careapi.ohc.network/swagger/#/event_types\r\n\r\nAnd then when fetching consultation events, pass the event type id to the filter.\r\nhttps://careapi.ohc.network/swagger/#/events/api_v1_consultation_events_list\r\n\r\nYou might want to update the backend to support filtering by multiple event type ID's.\r\n\r\n\r\n### Solution 2 (preferred)\r\n\r\nSame as solution 1, except that instead of fetching the event types from API, change the consultation events filter to filter by event names instead.\r\n\r\n\r\ncc: @sainak "
+      "text": "Hey @Atharva-Kanherkar \r\n\r\nYes you can work on this!\r\n\r\n\r\n### Solution 1\r\nTo get the list of available event types, you'll need to fetch the event types from the API: \r\nhttps://careapi.openfoodfacts.org/swagger/#/event_types\r\n\r\nAnd then when fetching consultation events, pass the event type id to the filter.\r\nhttps://careapi.openfoodfacts.org/swagger/#/events/api_v1_consultation_events_list\r\n\r\nYou might want to update the backend to support filtering by multiple event type ID's.\r\n\r\n\r\n### Solution 2 (preferred)\r\n\r\nSame as solution 1, except that instead of fetching the event types from API, change the consultation events filter to filter by event names instead.\r\n\r\n\r\ncc: @sainak "
     },
     {
       "type": "pr_reviewed",
@@ -35297,7 +35297,7 @@
       "title": "ohcnetwork/care_fe#7342",
       "time": "2024-03-18T12:39:25+00:00",
       "link": "https://github.com/ohcnetwork/care_fe/issues/7342#issuecomment-2003804581",
-      "text": "Check now with the above-mentioned credentials.\r\n\r\nhttps://care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/assets/fd605386-90d5-4e8b-bb82-f62b7349d1d3/configure"
+      "text": "Check now with the above-mentioned credentials.\r\n\r\nhttps://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/assets/fd605386-90d5-4e8b-bb82-f62b7349d1d3/configure"
     },
     {
       "type": "comment_created",
@@ -35550,7 +35550,7 @@
       "title": "ohcnetwork/care_fe#7397",
       "time": "2024-03-14T16:34:00+00:00",
       "link": "https://github.com/ohcnetwork/care_fe/issues/7397#issuecomment-1997864928",
-      "text": "@manasvi-gaur \r\n\r\n1. Ventilators are linked to the patient along with the bed through the Switch Bed / Assign Bed Popup.\r\n\r\nhttps://care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e\r\n<img width=\"3008\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/a26d8689-4850-406e-9f52-876644c98193\">\r\n\r\n---------\r\n\r\n2. Users can input Ventilator Parameters by creating a log update with round type set to \"Critical Care\" and by entering the \"Respiratory Support\" tab\r\n\r\n<img width=\"3008\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/0d2f7f28-ab3a-4ec4-bf07-151bcb05662f\">\r\n\r\n<img width=\"3008\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/71173041-684d-4db3-8f19-b27b696c1802\">\r\n\r\n<img width=\"3008\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/e3b747ef-ea86-4bf3-96d7-dfc436544788\">\r\n\r\n---------\r\n\r\n3. These information are shown in the \"Ventilation\" tab of the patient's consultation dashboard\r\n\r\n<img width=\"3008\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/48fbe667-9193-4ead-97b2-336e20e20d09\">\r\n\r\n\r\n"
+      "text": "@manasvi-gaur \r\n\r\n1. Ventilators are linked to the patient along with the bed through the Switch Bed / Assign Bed Popup.\r\n\r\nhttps://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e\r\n<img width=\"3008\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/a26d8689-4850-406e-9f52-876644c98193\">\r\n\r\n---------\r\n\r\n2. Users can input Ventilator Parameters by creating a log update with round type set to \"Critical Care\" and by entering the \"Respiratory Support\" tab\r\n\r\n<img width=\"3008\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/0d2f7f28-ab3a-4ec4-bf07-151bcb05662f\">\r\n\r\n<img width=\"3008\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/71173041-684d-4db3-8f19-b27b696c1802\">\r\n\r\n<img width=\"3008\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/e3b747ef-ea86-4bf3-96d7-dfc436544788\">\r\n\r\n---------\r\n\r\n3. These information are shown in the \"Ventilation\" tab of the patient's consultation dashboard\r\n\r\n<img width=\"3008\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/48fbe667-9193-4ead-97b2-336e20e20d09\">\r\n\r\n\r\n"
     },
     {
       "type": "comment_created",
@@ -36404,7 +36404,7 @@
       "title": "ohcnetwork/care_fe#7363",
       "time": "2024-03-10T15:52:03+00:00",
       "link": "https://github.com/ohcnetwork/care_fe/pull/7363#issuecomment-1987275641",
-      "text": "> [care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e/feed](https://care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e/feed)\r\n\r\nLogin with the `devdistrictadmin` account mentioned in the README. I am able to list them.\r\n\r\nEnsure you've connected to staging backend and not your local backend\r\n\r\n\r\n<img width=\"1469\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/42bb3d10-9202-4a60-bfae-be89f4e748bb\">\r\n"
+      "text": "> [care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e/feed](https://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e/feed)\r\n\r\nLogin with the `devdistrictadmin` account mentioned in the README. I am able to list them.\r\n\r\nEnsure you've connected to staging backend and not your local backend\r\n\r\n\r\n<img width=\"1469\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/42bb3d10-9202-4a60-bfae-be89f4e748bb\">\r\n"
     },
     {
       "type": "pr_opened",
@@ -36579,7 +36579,7 @@
       "title": "ohcnetwork/care_fe#7363",
       "time": "2024-03-10T08:59:22+00:00",
       "link": "https://github.com/ohcnetwork/care_fe/pull/7363#issuecomment-1987149766",
-      "text": "https://care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e/feed"
+      "text": "https://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e/feed"
     },
     {
       "type": "comment_created",
@@ -36621,7 +36621,7 @@
       "title": "ohcnetwork/care_fe#7363",
       "time": "2024-03-10T08:07:45+00:00",
       "link": "https://github.com/ohcnetwork/care_fe/pull/7363#issuecomment-1987138089",
-      "text": "We could do something like the Live Feed page. https://care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/live-monitoring?location=09ab6e88-9132-434a-b8ab-b342b10e7bef&page=1&limit=4\r\n\r\n<img width=\"397\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/695cf8bd-ac32-40d7-a231-7de58bcab44b\">\r\n\r\n\r\n"
+      "text": "We could do something like the Live Feed page. https://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/live-monitoring?location=09ab6e88-9132-434a-b8ab-b342b10e7bef&page=1&limit=4\r\n\r\n<img width=\"397\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/695cf8bd-ac32-40d7-a231-7de58bcab44b\">\r\n\r\n\r\n"
     },
     {
       "type": "pr_opened",
@@ -36684,7 +36684,7 @@
       "title": "ohcnetwork/leaderboard#127",
       "time": "2024-03-10T04:38:29+00:00",
       "link": "https://github.com/ohcnetwork/leaderboard/issues/127#issuecomment-1987086742",
-      "text": "It can be something simple as like this:\r\n\r\nTitle could be `{ contributor name } - Contributor at Open Healthcare Network`\r\nThe description could be the short bio of the user\r\n\r\nImage could be the github image itself, and maybe we could show the number of contributions made so far?\r\n\r\n<img width=\"589\" alt=\"image\" src=\"https://github.com/ohcnetwork/leaderboard/assets/25143503/98f4e832-4b21-4b62-bb84-1a5b5e7e378f\">\r\n"
+      "text": "It can be something simple as like this:\r\n\r\nTitle could be `{ contributor name } - Contributor at Open Food Facts`\r\nThe description could be the short bio of the user\r\n\r\nImage could be the github image itself, and maybe we could show the number of contributions made so far?\r\n\r\n<img width=\"589\" alt=\"image\" src=\"https://github.com/ohcnetwork/leaderboard/assets/25143503/98f4e832-4b21-4b62-bb84-1a5b5e7e378f\">\r\n"
     },
     {
       "type": "pr_reviewed",
@@ -36705,7 +36705,7 @@
       "title": "ohcnetwork/care_fe#7342",
       "time": "2024-03-10T03:14:18+00:00",
       "link": "https://github.com/ohcnetwork/care_fe/issues/7342#issuecomment-1987053473",
-      "text": "You can use the asset \"Dev Camera\" for testing. It is linked to patient:\r\n\r\nhttps://care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e/feed"
+      "text": "You can use the asset \"Dev Camera\" for testing. It is linked to patient:\r\n\r\nhttps://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/patient/7e8fc20f-02da-47f7-8c33-f2d8c7e52dd8/consultation/cb44a173-6fe2-452f-b2d1-6c6e2695411e/feed"
     },
     {
       "type": "comment_created",
@@ -38302,7 +38302,7 @@
       "title": "ohcnetwork/care_fe#7306",
       "time": "2024-02-28T13:35:15.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/7306#issuecomment-1968997088",
-      "text": "@pankaj-2503 The site https://ohc.network/ does not belong to this repository. Managing this site is out of the scope of contributors.\r\n\r\nCheckout https://care.ohc.network/ which is this repository."
+      "text": "@pankaj-2503 The site https://openfoodfacts.org/ does not belong to this repository. Managing this site is out of the scope of contributors.\r\n\r\nCheckout https://care.openfoodfacts.org/ which is this repository."
     },
     {
       "type": "issue_closed",
@@ -40604,7 +40604,7 @@
       "title": "ohcnetwork/leaderboard#204",
       "time": "2024-02-03T04:32:18.000Z",
       "link": "https://github.com/ohcnetwork/leaderboard/issues/204#issuecomment-1925086742",
-      "text": "@nihal467 this should be fixed now. The https://github.com/ohcnetwork/leaderboard-data was not configured properly for vercel deployments. It has now been configured and contributors.ohc.network should now show the daily updated page."
+      "text": "@nihal467 this should be fixed now. The https://github.com/ohcnetwork/leaderboard-data was not configured properly for vercel deployments. It has now been configured and contributors.openfoodfacts.org should now show the daily updated page."
     },
     {
       "type": "issue_closed",
@@ -40919,7 +40919,7 @@
       "title": "ohcnetwork/care_fe#6944",
       "time": "2024-01-29T07:12:55.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/6944#issuecomment-1914090760",
-      "text": "https://care.ohc.network/facility/0421de45-3541-4652-862d-79cec4acb6af/patient/aab8ff1c-10b9-426a-b5b1-d4cbbd675dee/update\r\n\r\n"
+      "text": "https://care.openfoodfacts.org/facility/0421de45-3541-4652-862d-79cec4acb6af/patient/aab8ff1c-10b9-426a-b5b1-d4cbbd675dee/update\r\n\r\n"
     },
     {
       "type": "comment_created",
@@ -42589,7 +42589,7 @@
       "title": "ohcnetwork/care_fe#6945",
       "time": "2023-12-31T05:24:18.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/6945#issuecomment-1872674764",
-      "text": "The backend does not have a field called \"occupation\" in the patient serializer.\r\n\r\nKindly go through the README and have a look at the Care API Docs https://careapi.ohc.network/swagger/\r\n\r\nThe occupation field is available inside the `meta` field of the patient serializer.\r\n\r\nAlso, this will require backend changes to be made to support the new options.\r\n\r\n<img width=\"897\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/b257dbdf-48df-4187-835a-712a3122fe51\">\r\n"
+      "text": "The backend does not have a field called \"occupation\" in the patient serializer.\r\n\r\nKindly go through the README and have a look at the Care API Docs https://careapi.openfoodfacts.org/swagger/\r\n\r\nThe occupation field is available inside the `meta` field of the patient serializer.\r\n\r\nAlso, this will require backend changes to be made to support the new options.\r\n\r\n<img width=\"897\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/b257dbdf-48df-4187-835a-712a3122fe51\">\r\n"
     },
     {
       "type": "comment_created",
@@ -42727,7 +42727,7 @@
       "title": "ohcnetwork/care_fe#6745",
       "time": "2023-12-30T04:49:45.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/6745#issuecomment-1872451784",
-      "text": "Consultation: https://care.ohc.network/facility/fa4942c3-dce3-477e-81b2-7c95cd18b5da/patient/b26e30ab-7557-42d5-a5fb-14f23c086964/consultation/fae6f90b-c8d9-4593-83ff-1918f7a9bafd\r\n\r\n<img width=\"1234\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/c0536aba-4ee3-4701-9171-273ece66674b\">\r\n"
+      "text": "Consultation: https://care.openfoodfacts.org/facility/fa4942c3-dce3-477e-81b2-7c95cd18b5da/patient/b26e30ab-7557-42d5-a5fb-14f23c086964/consultation/fae6f90b-c8d9-4593-83ff-1918f7a9bafd\r\n\r\n<img width=\"1234\" alt=\"image\" src=\"https://github.com/ohcnetwork/care_fe/assets/25143503/c0536aba-4ee3-4701-9171-273ece66674b\">\r\n"
     },
     {
       "type": "issue_closed",
@@ -45422,7 +45422,7 @@
       "title": "ohcnetwork/care_fe#6741",
       "time": "2023-11-28T08:23:51.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/6741#issuecomment-1829320496",
-      "text": "Another example: https://care.ohc.network/facility/bd466cf6-0fde-46b1-9591-0acf9d955dd1/patient/e8709ecf-2f3f-4b35-94fe-75da962a0acd/consultation/f7747ab9-8b74-4461-a7ff-747b1cd24223/update"
+      "text": "Another example: https://care.openfoodfacts.org/facility/bd466cf6-0fde-46b1-9591-0acf9d955dd1/patient/e8709ecf-2f3f-4b35-94fe-75da962a0acd/consultation/f7747ab9-8b74-4461-a7ff-747b1cd24223/update"
     },
     {
       "type": "pr_opened",
@@ -45436,7 +45436,7 @@
       "title": "ohcnetwork/care_fe#6741",
       "time": "2023-11-28T08:21:00.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/6741#issuecomment-1829316614",
-      "text": "Example: https://care.ohc.network/facility/a31e6a24-0146-4043-b295-3a6c2fe7e095/patient/a709c84e-28e8-41ee-bf5e-f7beb7e859f3/consultation/e38edfd5-bf18-40bd-8cc8-0c46b484dd39/update"
+      "text": "Example: https://care.openfoodfacts.org/facility/a31e6a24-0146-4043-b295-3a6c2fe7e095/patient/a709c84e-28e8-41ee-bf5e-f7beb7e859f3/consultation/e38edfd5-bf18-40bd-8cc8-0c46b484dd39/update"
     },
     {
       "type": "pr_collaborated",

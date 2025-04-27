@@ -69,7 +69,7 @@
       "title": "ohcnetwork/care_fe#6323",
       "time": "2023-09-25T17:59:28.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/6323#issuecomment-1734220722",
-      "text": "> End date: 23/09/2023\r\n\r\nSorry for taking an extra day. Before assigning this issue to myself I got the solution and thought that I will be completing it in few minutes but I misunderstood the issue earlier before your explanation. After trying out a different approach I noticed that the 1st administration is not being displayed in the table when the 1st administration was sent into second page of paginated table. I thought it was because of my work and I was making changes to my work but that bug is already existing at care.ohc.network. I fixed that too."
+      "text": "> End date: 23/09/2023\r\n\r\nSorry for taking an extra day. Before assigning this issue to myself I got the solution and thought that I will be completing it in few minutes but I misunderstood the issue earlier before your explanation. After trying out a different approach I noticed that the 1st administration is not being displayed in the table when the 1st administration was sent into second page of paginated table. I thought it was because of my work and I was making changes to my work but that bug is already existing at care.openfoodfacts.org. I fixed that too."
     },
     {
       "type": "pr_opened",

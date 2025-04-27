@@ -1165,7 +1165,7 @@
       "time": "2025-04-08T07:15:54.000Z",
       "title": "ohcnetwork/care_fe#11798",
       "link": "https://github.com/ohcnetwork/care_fe/pull/11798#pullrequestreview-2748917063",
-      "text": "docs: update API credentials in README for care.ohc.network"
+      "text": "docs: update API credentials in README for care.openfoodfacts.org"
     },
     {
       "type": "pr_opened",
@@ -4634,7 +4634,7 @@
       "title": "ohcnetwork/care_fe#10777",
       "time": "2025-02-28T08:06:15.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/10777#issuecomment-2689988729",
-      "text": "🤔  I'm comparing this to care.ohc.network - what exactly is the difference in behavior here? I thought you were going to completely clear the results on back button."
+      "text": "🤔  I'm comparing this to care.openfoodfacts.org - what exactly is the difference in behavior here? I thought you were going to completely clear the results on back button."
     },
     {
       "type": "pr_reviewed",
@@ -5754,7 +5754,7 @@
       "title": "ohcnetwork/care_fe#10623",
       "time": "2025-02-17T17:15:53.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10623#issuecomment-2663704401",
-      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) , is there a discord or slack group of ohc network, if yes then can you tell me where the link to join it is\n\n[slack.ohc.network](https://slack.ohc.network/)"
+      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) , is there a discord or slack group of openfoodfacts.org, if yes then can you tell me where the link to join it is\n\n[slack.openfoodfacts.org](https://slack.openfoodfacts.org/)"
     },
     {
       "type": "comment_created",
@@ -6101,7 +6101,7 @@
       "title": "ohcnetwork/care_fe#10537",
       "time": "2025-02-11T15:43:45.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10537#issuecomment-2651210158",
-      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) can you check for below pages in mobile view. The previous and next buttons are not jump to first/last\n> \n> https://care.ohc.network/organization/76f8a81d-04e7-43ee-852f-1757c538b295/facilities\n> \n> https://care.ohc.network/facility/605215bd-6215-45dd-bc20-aaeceb474ca1/encounters\n\nReopened 👍 "
+      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) can you check for below pages in mobile view. The previous and next buttons are not jump to first/last\n> \n> https://care.openfoodfacts.org/organization/76f8a81d-04e7-43ee-852f-1757c538b295/facilities\n> \n> https://care.openfoodfacts.org/facility/605215bd-6215-45dd-bc20-aaeceb474ca1/encounters\n\nReopened 👍 "
     },
     {
       "type": "pr_merged",
@@ -7090,7 +7090,7 @@
       "title": "ohcnetwork/care_fe#9842",
       "time": "2025-01-24T05:50:42.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9842#issuecomment-2611657623",
-      "text": "> > > > [@rajku-dev](https://github.com/rajku-dev) Assigned.\n> > > > Since the other PR is still open, avoid replicating the work mentioned in the other issue.\n> > > \n> > > \n> > > Sir I have one question, In UserForm user is not able to update the user details Should I raise issue?\n> > \n> > \n> > No sir/madam; you can refer to us by our names.\n> > As for not being able to update user details it depends - which user are you trying to do this with?\n> \n> Follow this [link](https://care.ohc.network/users/devdistrictadmin)\n> \n> This block is not executed\n> \n> ![Image](https://github.com/user-attachments/assets/5542189c-cc8e-4792-abfa-733117f99e24)\n\nYes, because the user has no role associated with that account and at present user updates require a user role specified. There's nothing you can do on the FE for it."
+      "text": "> > > > [@rajku-dev](https://github.com/rajku-dev) Assigned.\n> > > > Since the other PR is still open, avoid replicating the work mentioned in the other issue.\n> > > \n> > > \n> > > Sir I have one question, In UserForm user is not able to update the user details Should I raise issue?\n> > \n> > \n> > No sir/madam; you can refer to us by our names.\n> > As for not being able to update user details it depends - which user are you trying to do this with?\n> \n> Follow this [link](https://care.openfoodfacts.org/users/devdistrictadmin)\n> \n> This block is not executed\n> \n> ![Image](https://github.com/user-attachments/assets/5542189c-cc8e-4792-abfa-733117f99e24)\n\nYes, because the user has no role associated with that account and at present user updates require a user role specified. There's nothing you can do on the FE for it."
     },
     {
       "type": "comment_created",
@@ -8853,7 +8853,7 @@
       "title": "ohcnetwork/care_fe#9599",
       "time": "2024-12-27T18:37:51.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9599#issuecomment-2563942150",
-      "text": "Fixed in [staging](https://care-staging.ohc.network/users)."
+      "text": "Fixed in [staging](https://care-staging.openfoodfacts.org/users)."
     },
     {
       "type": "issue_closed",
@@ -8937,7 +8937,7 @@
       "title": "ohcnetwork/care_fe#9467",
       "time": "2024-12-27T05:14:05.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/9467#issuecomment-2563326147",
-      "text": "> @nihal467 i didnt get the real time data for testing\r\n\r\nYou can check Gigin in the staging site.\r\n\r\nHere's direct link to two assets:\r\n\r\nhttps://care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/assets/73885d66-4891-4d4f-ba65-78c75baf7e8d/configure\r\n\r\nhttps://care.ohc.network/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/assets/491bfe55-fe71-47fe-bb2e-a06e20071431/configure"
+      "text": "> @nihal467 i didnt get the real time data for testing\r\n\r\nYou can check Gigin in the staging site.\r\n\r\nHere's direct link to two assets:\r\n\r\nhttps://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/assets/73885d66-4891-4d4f-ba65-78c75baf7e8d/configure\r\n\r\nhttps://care.openfoodfacts.org/facility/0c95c7f0-e1d2-4aff-83fa-933cef60d3a8/assets/491bfe55-fe71-47fe-bb2e-a06e20071431/configure"
     },
     {
       "type": "comment_created",
@@ -9112,7 +9112,7 @@
       "title": "ohcnetwork/care_fe#9405",
       "time": "2024-12-24T04:25:49.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/9405#issuecomment-2560627855",
-      "text": "> > > > > Could we please connect sometime? I need some help regarding the failing tests, as I think they might not be entirely failing due to the notification issue\r\n> > > > \r\n> > > > \r\n> > > > Click on the test details and check the summary tab and scroll down, there should be screenshots you can refer to. At least some of the tests are related from what I can see, get those working, we can look at the rest after.\r\n> > > > Get local [backend](https://github.com/ohcnetwork/care) ([Docs](https://care-be-docs.ohc.network/local-setup/configuration.html)) working to run and test cypress locally.\r\n> > > \r\n> > > \r\n> > > I ran the tests that were failing due to `li[data-sonner-toast] div[data-title]` not being found, locally using `npm run cypress:open`. I have noted the details and would appreciate discussing them at your convenience.\r\n> > \r\n> > \r\n> > What's your blocker? Change the tests/elements accordingly to get the notifications verified within the tests 🤔\r\n> \r\n> The notification was visible but was being overlayered by somethings (like form), ![image](https://private-user-images.githubusercontent.com/144618541/398053953-e0e227c3-892e-4f92-badf-3443c0472006.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUwMTM4MjksIm5iZiI6MTczNTAxMzUyOSwicGF0aCI6Ii8xNDQ2MTg1NDEvMzk4MDUzOTUzLWUwZTIyN2MzLTg5MmUtNGY5Mi1iYWRmLTM0NDNjMDQ3MjAwNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyNFQwNDEyMDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZDJlNThmZWE1NTdjNWM3OTU0MTdlMTBjMjM3OWZiYWQwY2RmOGU1OTRmZWZlYjlmNGJhNzUyOTQyMmM4NTMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Xqx_ASY-E6gqEmSMEacjb4jV07CTi7Fy2fTX9RGKTm0)\r\n> \r\n> i think using proper z-index should fix the issue!\r\n\r\nGive it a try and see if it fixes tests in your local."
+      "text": "> > > > > Could we please connect sometime? I need some help regarding the failing tests, as I think they might not be entirely failing due to the notification issue\r\n> > > > \r\n> > > > \r\n> > > > Click on the test details and check the summary tab and scroll down, there should be screenshots you can refer to. At least some of the tests are related from what I can see, get those working, we can look at the rest after.\r\n> > > > Get local [backend](https://github.com/ohcnetwork/care) ([Docs](https://care-be-docs.openfoodfacts.org/local-setup/configuration.html)) working to run and test cypress locally.\r\n> > > \r\n> > > \r\n> > > I ran the tests that were failing due to `li[data-sonner-toast] div[data-title]` not being found, locally using `npm run cypress:open`. I have noted the details and would appreciate discussing them at your convenience.\r\n> > \r\n> > \r\n> > What's your blocker? Change the tests/elements accordingly to get the notifications verified within the tests 🤔\r\n> \r\n> The notification was visible but was being overlayered by somethings (like form), ![image](https://private-user-images.githubusercontent.com/144618541/398053953-e0e227c3-892e-4f92-badf-3443c0472006.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzUwMTM4MjksIm5iZiI6MTczNTAxMzUyOSwicGF0aCI6Ii8xNDQ2MTg1NDEvMzk4MDUzOTUzLWUwZTIyN2MzLTg5MmUtNGY5Mi1iYWRmLTM0NDNjMDQ3MjAwNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIyNFQwNDEyMDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZDJlNThmZWE1NTdjNWM3OTU0MTdlMTBjMjM3OWZiYWQwY2RmOGU1OTRmZWZlYjlmNGJhNzUyOTQyMmM4NTMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Xqx_ASY-E6gqEmSMEacjb4jV07CTi7Fy2fTX9RGKTm0)\r\n> \r\n> i think using proper z-index should fix the issue!\r\n\r\nGive it a try and see if it fixes tests in your local."
     },
     {
       "type": "comment_created",
@@ -9201,7 +9201,7 @@
       "title": "ohcnetwork/care_fe#9405",
       "time": "2024-12-23T03:49:39.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/9405#issuecomment-2558852602",
-      "text": "> > > Could we please connect sometime? I need some help regarding the failing tests, as I think they might not be entirely failing due to the notification issue\r\n> > \r\n> > \r\n> > Click on the test details and check the summary tab and scroll down, there should be screenshots you can refer to. At least some of the tests are related from what I can see, get those working, we can look at the rest after.\r\n> > Get local [backend](https://github.com/ohcnetwork/care) ([Docs](https://care-be-docs.ohc.network/local-setup/configuration.html)) working to run and test cypress locally.\r\n> \r\n> I ran the tests that were failing due to `li[data-sonner-toast] div[data-title]` not being found, locally using `npm run cypress:open`. I have noted the details and would appreciate discussing them at your convenience.\r\n\r\nWhat's your blocker? Change the tests/elements accordingly to get the notifications verified within the tests 🤔 "
+      "text": "> > > Could we please connect sometime? I need some help regarding the failing tests, as I think they might not be entirely failing due to the notification issue\r\n> > \r\n> > \r\n> > Click on the test details and check the summary tab and scroll down, there should be screenshots you can refer to. At least some of the tests are related from what I can see, get those working, we can look at the rest after.\r\n> > Get local [backend](https://github.com/ohcnetwork/care) ([Docs](https://care-be-docs.openfoodfacts.org/local-setup/configuration.html)) working to run and test cypress locally.\r\n> \r\n> I ran the tests that were failing due to `li[data-sonner-toast] div[data-title]` not being found, locally using `npm run cypress:open`. I have noted the details and would appreciate discussing them at your convenience.\r\n\r\nWhat's your blocker? Change the tests/elements accordingly to get the notifications verified within the tests 🤔 "
     },
     {
       "type": "comment_created",
@@ -9222,7 +9222,7 @@
       "title": "ohcnetwork/care_fe#9405",
       "time": "2024-12-20T15:57:25.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/9405#issuecomment-2557270461",
-      "text": "> Could we please connect sometime? I need some help regarding the failing tests, as I think they might not be entirely failing due to the notification issue\r\n\r\nCheck the summary tab and scroll down, there should be screenshots you can refer to. At least some of the tests are related from what I can see, get those working, we can look at the rest after.\r\n\r\nGet local [backend](https://github.com/ohcnetwork/care) ([Docs](https://care-be-docs.ohc.network/local-setup/configuration.html)) working to run and test cypress locally."
+      "text": "> Could we please connect sometime? I need some help regarding the failing tests, as I think they might not be entirely failing due to the notification issue\r\n\r\nCheck the summary tab and scroll down, there should be screenshots you can refer to. At least some of the tests are related from what I can see, get those working, we can look at the rest after.\r\n\r\nGet local [backend](https://github.com/ohcnetwork/care) ([Docs](https://care-be-docs.openfoodfacts.org/local-setup/configuration.html)) working to run and test cypress locally."
     },
     {
       "type": "comment_created",
@@ -9314,14 +9314,14 @@
       "title": "ohcnetwork/care_fe#9506",
       "time": "2024-12-20T06:23:19.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9506#issuecomment-2556368514",
-      "text": "> > [@Rishith25](https://github.com/Rishith25) which facility and which patient you tested it? Was that patient bed linked with multiple cameras?\n> \n> Recording.2024-12-20.114306.mp4\n\nThat isn't a patient linked with multiple cameras. I don't know if we have such an example on care.ohc.network; you are welcome to check. I'll see if we can add something by the afternoon."
+      "text": "> > [@Rishith25](https://github.com/Rishith25) which facility and which patient you tested it? Was that patient bed linked with multiple cameras?\n> \n> Recording.2024-12-20.114306.mp4\n\nThat isn't a patient linked with multiple cameras. I don't know if we have such an example on care.openfoodfacts.org; you are welcome to check. I'll see if we can add something by the afternoon."
     },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#9506",
       "time": "2024-12-20T06:09:19.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9506#issuecomment-2556355362",
-      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) [@samholics](https://github.com/samholics) It is working fine in care.ohc.network. For production how could i address Can you please guide me\n\nYou have tested (1) as well?\n\n(2) should be fixed, yes. You don't need to do anything there."
+      "text": "> [@Jacobjeevan](https://github.com/Jacobjeevan) [@samholics](https://github.com/samholics) It is working fine in care.openfoodfacts.org. For production how could i address Can you please guide me\n\nYou have tested (1) as well?\n\n(2) should be fixed, yes. You don't need to do anything there."
     },
     {
       "type": "comment_created",

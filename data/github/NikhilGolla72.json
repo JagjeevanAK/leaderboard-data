@@ -3,100 +3,100 @@
   "activity": [
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#8106",
+      "title": "OpenFoodFacts/care_fe#8106",
       "time": "2024-12-14T19:28:53.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/8106#issuecomment-2543320276",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/8106#issuecomment-2543320276",
       "text": "@bodhish @Jacobjeevan @dauntlessnomad @gigincg i would like to contribute to this issue, it no one is assigned,could you please assign me to this.\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9421",
+      "title": "OpenFoodFacts/care_fe#9421",
       "time": "2024-12-14T19:24:04.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9421#issuecomment-2543319152",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/9421#issuecomment-2543319152",
       "text": "@athulmanuel i would like to contribute to this issue, it no one is assigned,could you please assign me to this.\n\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#7758",
+      "title": "OpenFoodFacts/care_fe#7758",
       "time": "2024-12-14T19:03:08.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/7758#issuecomment-2543313553",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/7758#issuecomment-2543313553",
       "text": "@rithviknishad @aparnacoronasafe Hey guys, I would like to contribute to this issue. Could you please assign me to this?\n\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#7297",
+      "title": "OpenFoodFacts/care_fe#7297",
       "time": "2024-12-11T16:26:46.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/7297#issuecomment-2536478547",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/7297#issuecomment-2536478547",
       "text": "@rithviknishad Sorry rithvik, I couldn't focus on this as I was having my semester exams. I am still working on this issue and about to complete it. Please assign me to this issue."
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#8744",
+      "title": "OpenFoodFacts/care_fe#8744",
       "time": "2024-11-11T11:29:25.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8744#issuecomment-2467947038",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8744#issuecomment-2467947038",
       "text": "@bodhish i will try to fix this by this weekend"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#8744",
+      "title": "OpenFoodFacts/care_fe#8744",
       "time": "2024-10-11T09:08:07.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8744#issuecomment-2406974665",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8744#issuecomment-2406974665",
       "text": "@rithviknishad  i just want to confirm, is this issue present in the develop branch itself and i can't clear it by fixing my tsconfig file in local?"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#8744",
+      "title": "OpenFoodFacts/care_fe#8744",
       "time": "2024-10-11T08:59:41.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8744#issuecomment-2406957549",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8744#issuecomment-2406957549",
       "text": "@rithviknishad i think this is what causing the problem \r\n![Screenshot 2024-10-11 142407](https://github.com/user-attachments/assets/10ad7d8e-2786-4b9c-931e-980889bbffee)\r\n![Screenshot 2024-10-11 142417](https://github.com/user-attachments/assets/cd17bf1a-f35e-4feb-a1c8-545f836bc726)\r\n\r\ni tried fixing it many times but still i am getting the same error, i tried to reinstall @types/cypress and verified type definition files but i dont understand what is causing the problem \r\n![Screenshot 2024-10-11 142918](https://github.com/user-attachments/assets/945d4a7a-848b-4f15-a0c4-e0281089e2b7)\r\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#8744",
+      "title": "OpenFoodFacts/care_fe#8744",
       "time": "2024-10-10T09:53:00.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8744#issuecomment-2404628040",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8744#issuecomment-2404628040",
       "text": "@nihal467 \r\n![Screenshot 2024-10-10 152035](https://github.com/user-attachments/assets/b41bd1f9-ba2a-428e-8dfe-9223089d4b3e)\r\n![Screenshot 2024-10-10 152047](https://github.com/user-attachments/assets/c4d5aec6-9ded-4167-9fd7-c016d9a3362a)\r\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#8744",
+      "title": "OpenFoodFacts/care_fe#8744",
       "time": "2024-10-10T09:03:27.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8744#issuecomment-2404521851",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8744#issuecomment-2404521851",
       "text": "@nihal467 sorry for the misunderstanding I caused,I am new to the open source contribution and I didn't know the fomat to submit a PR.I will follow the format from now on for sure and also I will make it as a 4th step \r\n\r\nand also I want to ask about the cypress attempt 2 which is caused by not identifying the \" div#map-close \" under 10000ms .Can I change it 20000ms to that it may be solve this cypress test issue?"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#7297",
+      "title": "OpenFoodFacts/care_fe#7297",
       "time": "2024-09-29T12:10:55.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/7297#issuecomment-2381333043",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/7297#issuecomment-2381333043",
       "text": "hello @nihal467 i would like to contribute to this issue, it no one is assigned,could you please assign me to this."
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#6637",
+      "title": "OpenFoodFacts/care_fe#6637",
       "time": "2024-09-29T12:01:18.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/6637#issuecomment-2381329304",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/6637#issuecomment-2381329304",
       "text": "@rithviknishad  hello,is this issue still open? if yes, I would like to work on this issue."
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#8486",
+      "title": "OpenFoodFacts/care_fe#8486",
       "time": "2024-09-04T18:38:49.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8486",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8486",
       "text": "Update useFilters.tsx"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#8482",
+      "title": "OpenFoodFacts/care_fe#8482",
       "time": "2024-09-04T14:15:23.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8482",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8482",
       "text": "Update FacilityHome.ts"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#8744",
+      "title": "OpenFoodFacts/care_fe#8744",
       "time": "2024-10-08T20:17:33Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8744",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8744",
       "text": "Facility image issue is Fixed"
     }
   ],

@@ -3,16 +3,16 @@
   "activity": [
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#11277",
+      "title": "OpenFoodFacts/care_fe#11277",
       "time": "2025-03-13T11:38:51.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11277",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11277",
       "text": "adding calendar option in filling patient details"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11108",
+      "title": "OpenFoodFacts/care_fe#11108",
       "time": "2025-03-07T10:33:08.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/11108#issuecomment-2706100967",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/11108#issuecomment-2706100967",
       "text": "@Rishith25 @Prasanth-S7 we can work on different pages to save time\nplz tell which one you are working at i will work accordingly :)"
     }
   ],

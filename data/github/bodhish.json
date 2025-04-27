@@ -2122,7 +2122,7 @@
       "title": "ohcnetwork/care_fe#9700",
       "time": "2025-01-03T12:42:18.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/9700#issuecomment-2569166154",
-      "text": "Please read https://docs.ohc.network/docs/care/development/data-fetching-in-care"
+      "text": "Please read https://docs.openfoodfacts.org/docs/care/development/data-fetching-in-care"
     },
     {
       "type": "comment_created",
@@ -4331,7 +4331,7 @@
       "title": "ohcnetwork/docs#66",
       "time": "2024-10-21T07:25:22.000Z",
       "link": "https://github.com/ohcnetwork/docs/pull/66#issuecomment-2425835665",
-      "text": "@PAVAN507-STAR please do have a dicussion with @gigincg @vigneshhari in [Slack](https://slack.ohc.network/). #care_product channel. ("
+      "text": "@PAVAN507-STAR please do have a dicussion with @gigincg @vigneshhari in [Slack](https://slack.openfoodfacts.org/). #care_product channel. ("
     },
     {
       "type": "pr_reviewed",

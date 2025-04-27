@@ -938,7 +938,7 @@
       "title": "ohcnetwork/landing#6",
       "time": "2024-12-24T15:32:06.000Z",
       "link": "https://github.com/ohcnetwork/landing/issues/6#issuecomment-2561235719",
-      "text": "@nihal467 ABDM and HXC are mentioned here now https://ohc.network/care . Closing this issue."
+      "text": "@nihal467 ABDM and HXC are mentioned here now https://openfoodfacts.org/care . Closing this issue."
     },
     {
       "type": "issue_closed",
@@ -8092,7 +8092,7 @@
       "title": "ohcnetwork/ayushma_fe#25",
       "time": "2023-05-27T05:35:13.000Z",
       "link": "https://github.com/ohcnetwork/ayushma_fe/issues/25#issuecomment-1565219354",
-      "text": "@rondDev We are setting up a Readme file containing important information. Until then you can use :\n\nDjango Backend : https://github.com/ohcnetwork/ayushma\n\nBackend hosted at : https://ayushma-api.ohc.network\n\nLet me know if you are looking out for more info."
+      "text": "@rondDev We are setting up a Readme file containing important information. Until then you can use :\n\nDjango Backend : https://github.com/ohcnetwork/ayushma\n\nBackend hosted at : https://ayushma-api.openfoodfacts.org\n\nLet me know if you are looking out for more info."
     },
     {
       "type": "comment_created",
@@ -8988,7 +8988,7 @@
       "title": "ohcnetwork/care_fe#5380",
       "time": "2023-04-24T06:40:15.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/5380#issuecomment-1519474287",
-      "text": "To anyone who assignes : The API is already present on medibase.ohc.network, along with its implementation. If you get CORS restrictions, do make a PR on the medibase repo."
+      "text": "To anyone who assignes : The API is already present on medibase.openfoodfacts.org, along with its implementation. If you get CORS restrictions, do make a PR on the medibase repo."
     },
     {
       "type": "pr_collaborated",

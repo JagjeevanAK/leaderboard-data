@@ -3608,7 +3608,7 @@
             "type": "message",
             "ts": "1733898734.279559",
             "client_msg_id": "171bfe79-3799-4feb-b14a-659aa572aeaf",
-            "text": "*Dec 9th*\n*Done*\n\u2022 Worked on adding types and getting the form builder version working \n\u2022 Lot of call with Vignesh on API spec changes \n\u2022 Reached out to snowstorm developer with questions on valuesets\n\u2022 Call with Srikanth on AI integrations for CAG\n\u2022 Created form for allergy capture \n\u2022 Call with Digital University cloud team on provisioning servers for palliative care \n\u2022 Multiple calls with Balaji on the details of servers required for palliative care deployment \n\u2022 Call with Rithvik on the medication updates\n*Dec 10th* \n*Done*\n\u2022 Call with Vinu on the new designs required for the care public page \n\u2022 Call with Kriti to share updates on the work done in last few months \n\u2022 Followup with Snowstorm team on valueset for ICD10\n\u2022 Lot of call with Vignesh on API spec changes \n\u2022 Wired the batch request for structured and non structured data \n\u2022 Reviewed updated UIs and created a subdomain for figma (ui.ohc.network)\n\u2022 Looked into medispeak deployment and wildcard dns for coolify \n*Next*\n\u2022 Look into palliative care deployment plan \n\u2022 Work on forms ",
+            "text": "*Dec 9th*\n*Done*\n\u2022 Worked on adding types and getting the form builder version working \n\u2022 Lot of call with Vignesh on API spec changes \n\u2022 Reached out to snowstorm developer with questions on valuesets\n\u2022 Call with Srikanth on AI integrations for CAG\n\u2022 Created form for allergy capture \n\u2022 Call with Digital University cloud team on provisioning servers for palliative care \n\u2022 Multiple calls with Balaji on the details of servers required for palliative care deployment \n\u2022 Call with Rithvik on the medication updates\n*Dec 10th* \n*Done*\n\u2022 Call with Vinu on the new designs required for the care public page \n\u2022 Call with Kriti to share updates on the work done in last few months \n\u2022 Followup with Snowstorm team on valueset for ICD10\n\u2022 Lot of call with Vignesh on API spec changes \n\u2022 Wired the batch request for structured and non structured data \n\u2022 Reviewed updated UIs and created a subdomain for figma (ui.openfoodfacts.org)\n\u2022 Looked into medispeak deployment and wildcard dns for coolify \n*Next*\n\u2022 Look into palliative care deployment plan \n\u2022 Work on forms ",
             "team": "TC99SV7B6",
             "blocks": [
                 {
@@ -3802,7 +3802,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Reviewed updated UIs and created a subdomain for figma (ui.ohc.network)"
+                                            "text": "Reviewed updated UIs and created a subdomain for figma (ui.openfoodfacts.org)"
                                         }
                                     ]
                                 },
@@ -7840,7 +7840,7 @@
             "type": "message",
             "ts": "1739880224.989889",
             "client_msg_id": "57c9d0d3-4505-4cda-808f-9b920832245b",
-            "text": "*Feb 17*\n*Done*\n\u2022 Worked on the erd.ohc.network, a side project born out of my need :sweat_smile: \n\u2022 Participated on the engineering review call \n\u2022 Followed up with Keltron for the Cert Certificate, they released the final version. Care is now Cert Certified. \n\u2022 Shared feedback on the videos created by Aravind and pushed it out \n\u2022 Pushed out the Care Janwar logo and followed up with interested people and their use cases. \n\u2022 Call with Balaji on Care and Care Janwar and progress with KTU\n\u2022 Created a task for hiring a Gen AI lead for Egov \n\u2022 Call with Srikanth on Gen AI hiring and CAG project \n*Feb 18*\n*Done*\n\u2022 Long call with Srikanth, took him through FHIR Hl7, Care Arch, UI and Design docs \n\u2022 Reviewed a Valueset PR from Gigin and Amjith \n\u2022 Followed up with Dr. Athul on Arike migration \n\u2022 Call with Oasishq team on IPM deployment, followed up with the POC from IPM \n\u2022 Reviewed the changes to care landing page done by shivank\n\u2022 Call with Dr. Athul on SMS packs for keralacare and a feature request to send patient details on registration as an SMS. \nNext\n\u2022 Respond to all applicants who have applied for the PM role. ",
+            "text": "*Feb 17*\n*Done*\n\u2022 Worked on the erd.openfoodfacts.org, a side project born out of my need :sweat_smile: \n\u2022 Participated on the engineering review call \n\u2022 Followed up with Keltron for the Cert Certificate, they released the final version. Care is now Cert Certified. \n\u2022 Shared feedback on the videos created by Aravind and pushed it out \n\u2022 Pushed out the Care Janwar logo and followed up with interested people and their use cases. \n\u2022 Call with Balaji on Care and Care Janwar and progress with KTU\n\u2022 Created a task for hiring a Gen AI lead for Egov \n\u2022 Call with Srikanth on Gen AI hiring and CAG project \n*Feb 18*\n*Done*\n\u2022 Long call with Srikanth, took him through FHIR Hl7, Care Arch, UI and Design docs \n\u2022 Reviewed a Valueset PR from Gigin and Amjith \n\u2022 Followed up with Dr. Athul on Arike migration \n\u2022 Call with Oasishq team on IPM deployment, followed up with the POC from IPM \n\u2022 Reviewed the changes to care landing page done by shivank\n\u2022 Call with Dr. Athul on SMS packs for keralacare and a feature request to send patient details on registration as an SMS. \nNext\n\u2022 Respond to all applicants who have applied for the PM role. ",
             "team": "TC99SV7B6",
             "blocks": [
                 {
@@ -7882,7 +7882,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Worked on the erd.ohc.network, a side project born out of my need "
+                                            "text": "Worked on the erd.openfoodfacts.org, a side project born out of my need "
                                         },
                                         {
                                             "type": "emoji",

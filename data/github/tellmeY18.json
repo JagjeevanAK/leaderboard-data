@@ -4,36 +4,36 @@
     {
       "type": "pr_reviewed",
       "time": "2025-04-23T06:43:35.000Z",
-      "title": "ohcnetwork/docs#110",
-      "link": "https://github.com/ohcnetwork/docs/pull/110#pullrequestreview-2786121753",
+      "title": "OpenFoodFacts/docs#110",
+      "link": "https://github.com/OpenFoodFacts/docs/pull/110#pullrequestreview-2786121753",
       "text": "fix: Update documentation for AWS"
     },
     {
       "type": "pr_reviewed",
       "time": "2025-04-17T06:08:17.000Z",
-      "title": "ohcnetwork/care_sbom#15",
-      "link": "https://github.com/ohcnetwork/care_sbom/pull/15#pullrequestreview-2774678636",
+      "title": "OpenFoodFacts/care_sbom#15",
+      "link": "https://github.com/OpenFoodFacts/care_sbom/pull/15#pullrequestreview-2774678636",
       "text": "minor fixes"
     },
     {
       "type": "pr_reviewed",
       "time": "2025-04-03T06:58:17.000Z",
-      "title": "ohcnetwork/docs#108",
-      "link": "https://github.com/ohcnetwork/docs/pull/108#pullrequestreview-2738719598",
+      "title": "OpenFoodFacts/docs#108",
+      "link": "https://github.com/OpenFoodFacts/docs/pull/108#pullrequestreview-2738719598",
       "text": "fix: Update documentation for DigitalOcean"
     },
     {
       "type": "pr_reviewed",
       "time": "2025-04-03T06:45:14.000Z",
-      "title": "ohcnetwork/docs#107",
-      "link": "https://github.com/ohcnetwork/docs/pull/107#pullrequestreview-2738693647",
+      "title": "OpenFoodFacts/docs#107",
+      "link": "https://github.com/OpenFoodFacts/docs/pull/107#pullrequestreview-2738693647",
       "text": "feat: Add GCP deployment guides for GCS and GKE"
     },
     {
       "type": "pr_collaborated",
-      "title": "ohcnetwork/care_fe#10655",
+      "title": "OpenFoodFacts/care_fe#10655",
       "time": "2025-04-01T07:29:04.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10655",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10655",
       "text": "Update SBOM data fetching",
       "collaborated_with": [
         "ashwinpraveengo",
@@ -43,199 +43,199 @@
     {
       "type": "pr_reviewed",
       "time": "2025-04-01T07:17:16.000Z",
-      "title": "ohcnetwork/care_fe#10655",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10655#pullrequestreview-2731709225",
+      "title": "OpenFoodFacts/care_fe#10655",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10655#pullrequestreview-2731709225",
       "text": "Update SBOM data fetching"
     },
     {
       "type": "issue_closed",
-      "title": "ohcnetwork/care_sbom#9",
+      "title": "OpenFoodFacts/care_sbom#9",
       "time": "2025-03-11T14:21:47.000Z",
-      "link": "https://github.com/ohcnetwork/care_sbom/issues/9",
+      "link": "https://github.com/OpenFoodFacts/care_sbom/issues/9",
       "text": "track major version release only"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#11058",
+      "title": "OpenFoodFacts/care_fe#11058",
       "time": "2025-03-11T13:54:26.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/11058#issuecomment-2714382017",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/11058#issuecomment-2714382017",
       "text": "Tested it out. will setup the github app and get it merged."
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#11208",
+      "title": "OpenFoodFacts/care_fe#11208",
       "time": "2025-03-11T07:52:44.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/11208",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/11208",
       "text": "Production release v3.0.4",
       "turnaround_time": 350
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#11208",
+      "title": "OpenFoodFacts/care_fe#11208",
       "time": "2025-03-11T07:46:55.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/11208",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/11208",
       "text": "Production release v3.0.4"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care#2897",
+      "title": "OpenFoodFacts/care#2897",
       "time": "2025-03-07T16:54:41.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2897",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2897",
       "text": "commented out ecs deployment",
       "turnaround_time": 9893
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care#2897",
+      "title": "OpenFoodFacts/care#2897",
       "time": "2025-03-07T14:09:48.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2897",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2897",
       "text": "commented out ecs deployment"
     },
     {
       "type": "issue_closed",
-      "title": "ohcnetwork/care_sbom#6",
+      "title": "OpenFoodFacts/care_sbom#6",
       "time": "2025-03-06T11:03:03.000Z",
-      "link": "https://github.com/ohcnetwork/care_sbom/issues/6",
+      "link": "https://github.com/OpenFoodFacts/care_sbom/issues/6",
       "text": "Fix edge cases for regex"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#11035",
+      "title": "OpenFoodFacts/care_fe#11035",
       "time": "2025-03-05T08:52:14.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/11035",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/11035",
       "text": "Production release v3.0.3",
       "turnaround_time": 31
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#11035",
+      "title": "OpenFoodFacts/care_fe#11035",
       "time": "2025-03-05T08:51:43.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/11035",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/11035",
       "text": "Production release v3.0.3"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#11004",
+      "title": "OpenFoodFacts/care_fe#11004",
       "time": "2025-03-05T08:12:34.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/11004",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/11004",
       "text": "Production release v3.0.3",
       "turnaround_time": 65096
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#11004",
+      "title": "OpenFoodFacts/care_fe#11004",
       "time": "2025-03-04T14:07:39.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/11004",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/11004",
       "text": "Production release v3.0.3"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#10873",
+      "title": "OpenFoodFacts/care_fe#10873",
       "time": "2025-03-01T03:35:16.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10873",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10873",
       "text": "Delete .github/workflows/issue-automation.yml",
       "turnaround_time": 55009
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#10873",
+      "title": "OpenFoodFacts/care_fe#10873",
       "time": "2025-02-28T12:18:28.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10873",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10873",
       "text": "Delete .github/workflows/issue-automation.yml"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#10800",
+      "title": "OpenFoodFacts/care_fe#10800",
       "time": "2025-02-24T15:14:07.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10800",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10800",
       "text": "Production release v3.0.2",
       "turnaround_time": 2239
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#10800",
+      "title": "OpenFoodFacts/care_fe#10800",
       "time": "2025-02-24T14:36:50.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10800",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10800",
       "text": "Production release v3.0.2"
     },
     {
       "type": "issue_closed",
-      "title": "ohcnetwork/care_sbom#4",
+      "title": "OpenFoodFacts/care_sbom#4",
       "time": "2025-02-24T05:36:44.000Z",
-      "link": "https://github.com/ohcnetwork/care_sbom/issues/4",
+      "link": "https://github.com/OpenFoodFacts/care_sbom/issues/4",
       "text": "Update the workflow to get rid of dev dependencies/ action items"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/branding#1",
+      "title": "OpenFoodFacts/branding#1",
       "time": "2025-02-23T14:05:46.000Z",
-      "link": "https://github.com/ohcnetwork/branding/pull/1",
+      "link": "https://github.com/OpenFoodFacts/branding/pull/1",
       "text": "added Care Janwar",
       "turnaround_time": 174359
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/branding#1",
+      "title": "OpenFoodFacts/branding#1",
       "time": "2025-02-21T13:39:49.000Z",
-      "link": "https://github.com/ohcnetwork/branding/pull/1",
+      "link": "https://github.com/OpenFoodFacts/branding/pull/1",
       "text": "added Care Janwar"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care#2853",
+      "title": "OpenFoodFacts/care#2853",
       "time": "2025-02-20T11:39:16.000Z",
-      "link": "https://github.com/ohcnetwork/care/issues/2853",
+      "link": "https://github.com/OpenFoodFacts/care/issues/2853",
       "text": "Reimplement File MIME/TYPE validation"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#10648",
+      "title": "OpenFoodFacts/care_fe#10648",
       "time": "2025-02-17T12:40:49.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/10648",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/10648",
       "text": "Switch to Runtime SBOM Data Fetching"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_sbom#3",
+      "title": "OpenFoodFacts/care_sbom#3",
       "time": "2025-02-17T12:30:38.000Z",
-      "link": "https://github.com/ohcnetwork/care_sbom/pull/3",
+      "link": "https://github.com/OpenFoodFacts/care_sbom/pull/3",
       "text": "Update README.md",
       "turnaround_time": 16
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_sbom#3",
+      "title": "OpenFoodFacts/care_sbom#3",
       "time": "2025-02-17T12:30:23.000Z",
-      "link": "https://github.com/ohcnetwork/care_sbom/pull/3",
+      "link": "https://github.com/OpenFoodFacts/care_sbom/pull/3",
       "text": "Update README.md"
     },
     {
       "type": "issue_closed",
-      "title": "ohcnetwork/care_sbom#1",
+      "title": "OpenFoodFacts/care_sbom#1",
       "time": "2025-02-17T11:29:46.000Z",
-      "link": "https://github.com/ohcnetwork/care_sbom/issues/1",
+      "link": "https://github.com/OpenFoodFacts/care_sbom/issues/1",
       "text": "SBOM Workflow"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#10596",
+      "title": "OpenFoodFacts/care_fe#10596",
       "time": "2025-02-13T15:13:45.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10596",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10596",
       "text": "updated the reCAPTCHA Key"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#10535",
+      "title": "OpenFoodFacts/care_fe#10535",
       "time": "2025-02-11T05:59:54.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10535",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10535",
       "text": "Added Scripts to Generate headers for CF Pages",
       "turnaround_time": 76845
     },
     {
       "type": "pr_collaborated",
-      "title": "ohcnetwork/care_fe#10535",
+      "title": "OpenFoodFacts/care_fe#10535",
       "time": "2025-02-11T05:59:54.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10535",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10535",
       "text": "Added Scripts to Generate headers for CF Pages",
       "collaborated_with": [
         "tellmeY18",
@@ -246,168 +246,168 @@
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#10535",
+      "title": "OpenFoodFacts/care_fe#10535",
       "time": "2025-02-10T08:39:09.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10535",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10535",
       "text": "Added Scripts to Generate headers for CF Pages"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#10501",
+      "title": "OpenFoodFacts/care_fe#10501",
       "time": "2025-02-07T16:06:48.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10501",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10501",
       "text": "added headers"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#10500",
+      "title": "OpenFoodFacts/care_fe#10500",
       "time": "2025-02-07T15:52:58.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10500",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10500",
       "text": "added headers"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#10484",
+      "title": "OpenFoodFacts/care_fe#10484",
       "time": "2025-02-07T11:39:59.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10484",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10484",
       "text": "added headers"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care#2787",
+      "title": "OpenFoodFacts/care#2787",
       "time": "2025-01-28T16:46:23.000Z",
-      "link": "https://github.com/ohcnetwork/care/issues/2787",
+      "link": "https://github.com/OpenFoodFacts/care/issues/2787",
       "text": "Update HTML Templates to Standardize the Care API Page"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/docs#97",
+      "title": "OpenFoodFacts/docs#97",
       "time": "2025-01-25T10:19:12.000Z",
-      "link": "https://github.com/ohcnetwork/docs/pull/97",
+      "link": "https://github.com/OpenFoodFacts/docs/pull/97",
       "text": "deprecated EC2"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/docs#96",
+      "title": "OpenFoodFacts/docs#96",
       "time": "2025-01-25T10:12:54.000Z",
-      "link": "https://github.com/ohcnetwork/docs/pull/96",
+      "link": "https://github.com/OpenFoodFacts/docs/pull/96",
       "text": "Deprecate ec2"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#10026",
+      "title": "OpenFoodFacts/care_fe#10026",
       "time": "2025-01-24T02:17:57.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10026",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10026",
       "text": "switched to ubuntu-24.04-arm runners",
       "turnaround_time": 587546
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9884",
+      "title": "OpenFoodFacts/care_fe#9884",
       "time": "2025-01-23T18:46:22.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9884#issuecomment-2610718107",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9884#issuecomment-2610718107",
       "text": "Cypress tests were failing due to deprecated upload-artifact v3 workflow. Updated it\r\n\r\n@nihal467 @bodhish "
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#10026",
+      "title": "OpenFoodFacts/care_fe#10026",
       "time": "2025-01-23T18:40:08.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10026#issuecomment-2610674802",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10026#issuecomment-2610674802",
       "text": "- Resolved the cypress failing by upgrading upload-artifacts to V4 \r\n- Resolved codeQL failing by sticking to x86 ubuntu runner [Reference](https://github.com/github/codeql-action/issues/2700)\r\n\r\n@bodhish "
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care#2768",
+      "title": "OpenFoodFacts/care#2768",
       "time": "2025-01-22T06:34:58.000Z",
-      "link": "https://github.com/ohcnetwork/care/issues/2768",
+      "link": "https://github.com/OpenFoodFacts/care/issues/2768",
       "text": "Care API URL's are getting indexed in Search Engines."
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care#2757",
+      "title": "OpenFoodFacts/care#2757",
       "time": "2025-01-21T08:01:29.000Z",
-      "link": "https://github.com/ohcnetwork/care/issues/2757#issuecomment-2603901607",
+      "link": "https://github.com/OpenFoodFacts/care/issues/2757#issuecomment-2603901607",
       "text": "Hey @lallenfrancisl can you ping me on slack ?? [Profile URL](https://rebuildearth.slack.com/team/U06CY7RUZ9S)"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care#2742",
+      "title": "OpenFoodFacts/care#2742",
       "time": "2025-01-19T06:46:18.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2742",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2742",
       "text": "switched to ubuntu-24.04-arm runners",
       "turnaround_time": 170660
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care#2749",
+      "title": "OpenFoodFacts/care#2749",
       "time": "2025-01-19T06:39:35.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2749",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2749",
       "text": "fixed deploy.yml",
       "turnaround_time": 60298
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care#2749",
+      "title": "OpenFoodFacts/care#2749",
       "time": "2025-01-18T13:54:38.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2749",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2749",
       "text": "fixed deploy.yml"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care#2747",
+      "title": "OpenFoodFacts/care#2747",
       "time": "2025-01-18T05:33:58.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2747",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2747",
       "text": "fix typo",
       "turnaround_time": 61387
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care#2747",
+      "title": "OpenFoodFacts/care#2747",
       "time": "2025-01-17T12:30:52.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2747",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2747",
       "text": "fix typo"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care#2742",
+      "title": "OpenFoodFacts/care#2742",
       "time": "2025-01-17T08:43:38.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2742#issuecomment-2597714395",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2742#issuecomment-2597714395",
       "text": "@coderabbitai review"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care#2742",
+      "title": "OpenFoodFacts/care#2742",
       "time": "2025-01-17T07:21:59.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2742",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2742",
       "text": "switched to ubuntu-24.04-arm runners"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#10026",
+      "title": "OpenFoodFacts/care_fe#10026",
       "time": "2025-01-17T07:05:31.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/10026",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/10026",
       "text": "switched to ubuntu-24.04-arm runners"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care#2740",
+      "title": "OpenFoodFacts/care#2740",
       "time": "2025-01-15T18:39:30.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2740",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2740",
       "text": "updated deploy workflow",
       "turnaround_time": 91267
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care#2740",
+      "title": "OpenFoodFacts/care#2740",
       "time": "2025-01-14T17:18:25.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2740",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2740",
       "text": "updated deploy workflow"
     },
     {
       "type": "pr_collaborated",
-      "title": "ohcnetwork/care_fe#9854",
+      "title": "OpenFoodFacts/care_fe#9854",
       "time": "2025-01-13T10:24:31.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9854",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9854",
       "text": "Patient Registration form refactor",
       "collaborated_with": [
         "khavinshankar",
@@ -429,133 +429,133 @@
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#9926",
+      "title": "OpenFoodFacts/care_fe#9926",
       "time": "2025-01-13T08:16:47.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9926",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9926",
       "text": "switched to ecs",
       "turnaround_time": 2940
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#9926",
+      "title": "OpenFoodFacts/care_fe#9926",
       "time": "2025-01-13T07:27:48.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9926",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9926",
       "text": "switched to ecs"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#9884",
+      "title": "OpenFoodFacts/care_fe#9884",
       "time": "2025-01-10T14:46:29.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9884",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9884",
       "text": "updated failed preview deploy"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#9876",
+      "title": "OpenFoodFacts/care_fe#9876",
       "time": "2025-01-10T10:12:11.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9876",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/9876",
       "text": "View/Update patient files breaks the UI."
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9787",
+      "title": "OpenFoodFacts/care_fe#9787",
       "time": "2025-01-09T14:05:59.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9787#issuecomment-2580290137",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9787#issuecomment-2580290137",
       "text": "Resolved cors issue ✅\n\n@nihal467 "
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care#2709",
+      "title": "OpenFoodFacts/care#2709",
       "time": "2025-01-06T06:20:41.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2709",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2709",
       "text": "removed gcs-deploy",
       "turnaround_time": 398
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#9779",
+      "title": "OpenFoodFacts/care_fe#9779",
       "time": "2025-01-06T06:19:25.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9779",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9779",
       "text": "disabled image build and deploy for care stagin",
       "turnaround_time": 889
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care#2709",
+      "title": "OpenFoodFacts/care#2709",
       "time": "2025-01-06T06:14:04.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2709",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2709",
       "text": "removed gcs-deploy"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#9779",
+      "title": "OpenFoodFacts/care_fe#9779",
       "time": "2025-01-06T06:04:37.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9779",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9779",
       "text": "disabled image build and deploy for care stagin"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#9657",
+      "title": "OpenFoodFacts/care_fe#9657",
       "time": "2025-01-02T13:25:04.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9657",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/9657",
       "text": "Add close button to the notification"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/infra_template#2",
+      "title": "OpenFoodFacts/infra_template#2",
       "time": "2025-01-02T07:30:30.000Z",
-      "link": "https://github.com/ohcnetwork/infra_template/pull/2",
+      "link": "https://github.com/OpenFoodFacts/infra_template/pull/2",
       "text": "removed dashboard",
       "turnaround_time": 3126
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/infra_template#2",
+      "title": "OpenFoodFacts/infra_template#2",
       "time": "2025-01-02T06:38:25.000Z",
-      "link": "https://github.com/ohcnetwork/infra_template/pull/2",
+      "link": "https://github.com/OpenFoodFacts/infra_template/pull/2",
       "text": "removed dashboard"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#9534",
+      "title": "OpenFoodFacts/care_fe#9534",
       "time": "2024-12-23T07:01:31.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9534",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/9534",
       "text": "Update License Page to Use GitHub-Provided SBOMs"
     },
     {
       "type": "issue_closed",
-      "title": "ohcnetwork/care_fe#9287",
+      "title": "OpenFoodFacts/care_fe#9287",
       "time": "2024-12-04T07:38:04.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9287",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/9287",
       "text": "Issue for testing non-core qn workflow."
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#9287",
+      "title": "OpenFoodFacts/care_fe#9287",
       "time": "2024-12-04T05:54:32.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9287",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/9287",
       "text": "Issue for testing non-core qn workflow."
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#9220",
+      "title": "OpenFoodFacts/care_fe#9220",
       "time": "2024-12-04T05:00:07.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9220",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9220",
       "text": "Updated Non-Core Question Workflow",
       "turnaround_time": 588698
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#9237",
+      "title": "OpenFoodFacts/care_fe#9237",
       "time": "2024-11-28T19:01:13.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9237",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9237",
       "text": "Downgrading Node version from 20.11.0 to 22.5.1 for DigitalOcean"
     },
     {
       "type": "pr_collaborated",
-      "title": "ohcnetwork/docs#79",
+      "title": "OpenFoodFacts/docs#79",
       "time": "2024-11-28T12:58:01.000Z",
-      "link": "https://github.com/ohcnetwork/docs/pull/79",
+      "link": "https://github.com/OpenFoodFacts/docs/pull/79",
       "text": "Cleanup Digital Ocean DeployDocs",
       "collaborated_with": [
         "gigincg",
@@ -564,16 +564,16 @@
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#9220",
+      "title": "OpenFoodFacts/care_fe#9220",
       "time": "2024-11-27T09:28:29.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9220",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9220",
       "text": "Updated Non-Core Question Workflow"
     },
     {
       "type": "pr_collaborated",
-      "title": "ohcnetwork/care_fe#8907",
+      "title": "OpenFoodFacts/care_fe#8907",
       "time": "2024-11-19T10:26:58.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8907",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8907",
       "text": "Added SpO2 field in community log update for nurses",
       "collaborated_with": [
         "noufalrahim",
@@ -590,88 +590,88 @@
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/docs#77",
+      "title": "OpenFoodFacts/docs#77",
       "time": "2024-11-15T09:24:47.000Z",
-      "link": "https://github.com/ohcnetwork/docs/issues/77#issuecomment-2478334539",
+      "link": "https://github.com/OpenFoodFacts/docs/issues/77#issuecomment-2478334539",
       "text": "[Reference](https://www.digitalocean.com/community/developer-center/deploying-a-next-js-application-on-a-digitalocean-droplet)"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/landing#16",
+      "title": "OpenFoodFacts/landing#16",
       "time": "2024-11-14T14:23:29.000Z",
-      "link": "https://github.com/ohcnetwork/landing/issues/16#issuecomment-2476484276",
-      "text": "[ohc.network](https://ohc.network/) moved to cloudflare pages. "
+      "link": "https://github.com/OpenFoodFacts/landing/issues/16#issuecomment-2476484276",
+      "text": "[openfoodfacts.org](https://openfoodfacts.org/) moved to cloudflare pages. "
     },
     {
       "type": "issue_closed",
-      "title": "ohcnetwork/landing#16",
+      "title": "OpenFoodFacts/landing#16",
       "time": "2024-11-14T14:23:29.000Z",
-      "link": "https://github.com/ohcnetwork/landing/issues/16",
-      "text": "Move ohc network to cloudflare pages"
+      "link": "https://github.com/OpenFoodFacts/landing/issues/16",
+      "text": "Move openfoodfacts.org to cloudflare pages"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/landing#22",
+      "title": "OpenFoodFacts/landing#22",
       "time": "2024-11-14T13:58:18.000Z",
-      "link": "https://github.com/ohcnetwork/landing/pull/22",
+      "link": "https://github.com/OpenFoodFacts/landing/pull/22",
       "text": "Update next.config.mjs",
       "turnaround_time": 157
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/landing#22",
+      "title": "OpenFoodFacts/landing#22",
       "time": "2024-11-14T13:55:42.000Z",
-      "link": "https://github.com/ohcnetwork/landing/pull/22",
+      "link": "https://github.com/OpenFoodFacts/landing/pull/22",
       "text": "Update next.config.mjs"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#9113",
+      "title": "OpenFoodFacts/care_fe#9113",
       "time": "2024-11-14T10:33:16.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9113",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/9113",
       "text": "Improve the non-core-qn workflow"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#6006",
+      "title": "OpenFoodFacts/care_fe#6006",
       "time": "2024-11-14T10:22:50.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/6006#issuecomment-2475963631",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/6006#issuecomment-2475963631",
       "text": "Hey, the bom.json and fe-sbom.json are autogenerated via a workflow which is listing out the dependencies used in care and care_fe. you can ignore the occurance of lodash inside these 2 files and once it's completely removed from the project we should be able to generate jsons that doesn't have lodash occurences."
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#8889",
+      "title": "OpenFoodFacts/care_fe#8889",
       "time": "2024-11-12T17:27:52.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8889",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8889",
       "text": "added non-core-qn workflow",
       "turnaround_time": 1772128
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/landing#16",
+      "title": "OpenFoodFacts/landing#16",
       "time": "2024-11-07T05:49:31.000Z",
-      "link": "https://github.com/ohcnetwork/landing/issues/16#issuecomment-2461382859",
-      "text": "@dauntlessnomad Can you give me access to cloudflare pages to set this up ? \n\n[Reference.](https://github.com/ohcnetwork/devops/issues/62)\n\ncc: @bodhish @gigincg "
+      "link": "https://github.com/OpenFoodFacts/landing/issues/16#issuecomment-2461382859",
+      "text": "@dauntlessnomad Can you give me access to cloudflare pages to set this up ? \n\n[Reference.](https://github.com/OpenFoodFacts/devops/issues/62)\n\ncc: @bodhish @gigincg "
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/docs#48",
+      "title": "OpenFoodFacts/docs#48",
       "time": "2024-11-07T05:35:19.000Z",
-      "link": "https://github.com/ohcnetwork/docs/issues/48#issuecomment-2461357179",
-      "text": "[#57](https://github.com/ohcnetwork/docs/pull/57\n)\nCan we close this issue ? \n\n@bodhish "
+      "link": "https://github.com/OpenFoodFacts/docs/issues/48#issuecomment-2461357179",
+      "text": "[#57](https://github.com/OpenFoodFacts/docs/pull/57\n)\nCan we close this issue ? \n\n@bodhish "
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/docs#77",
+      "title": "OpenFoodFacts/docs#77",
       "time": "2024-11-07T05:33:36.000Z",
-      "link": "https://github.com/ohcnetwork/docs/issues/77",
+      "link": "https://github.com/OpenFoodFacts/docs/issues/77",
       "text": "Clean Up DevOps Docs."
     },
     {
       "type": "pr_collaborated",
-      "title": "ohcnetwork/care#2567",
+      "title": "OpenFoodFacts/care#2567",
       "time": "2024-10-28T17:31:37.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2567",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2567",
       "text": "Production Release 24.44.0",
       "collaborated_with": [
         "DraKen0009",
@@ -685,9 +685,9 @@
     },
     {
       "type": "pr_collaborated",
-      "title": "ohcnetwork/care_fe#8950",
+      "title": "OpenFoodFacts/care_fe#8950",
       "time": "2024-10-28T17:30:44.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8950",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8950",
       "text": "Production Release 24.44.0",
       "collaborated_with": [
         "abhip161",
@@ -713,9 +713,9 @@
     },
     {
       "type": "pr_collaborated",
-      "title": "ohcnetwork/care#2563",
+      "title": "OpenFoodFacts/care#2563",
       "time": "2024-10-28T12:55:27.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2563",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2563",
       "text": "Merge Develop To Staging v24.44.0 | Patch",
       "collaborated_with": [
         "tellmeY18",
@@ -724,9 +724,9 @@
     },
     {
       "type": "pr_collaborated",
-      "title": "ohcnetwork/care_fe#8920",
+      "title": "OpenFoodFacts/care_fe#8920",
       "time": "2024-10-24T15:31:21.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8920",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8920",
       "text": "Merge Develop To Staging v24.44.0 | Patch",
       "collaborated_with": [
         "tellmeY18",
@@ -738,32 +738,32 @@
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care#2562",
+      "title": "OpenFoodFacts/care#2562",
       "time": "2024-10-24T14:43:01.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2562",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2562",
       "text": "Update deploy.yml",
       "turnaround_time": 20793
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care#2562",
+      "title": "OpenFoodFacts/care#2562",
       "time": "2024-10-24T08:56:28.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2562",
+      "link": "https://github.com/OpenFoodFacts/care/pull/2562",
       "text": "Update deploy.yml"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#8910",
+      "title": "OpenFoodFacts/care_fe#8910",
       "time": "2024-10-24T07:48:11.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8910",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8910",
       "text": "enable livekit plugin; fixed dockerfile",
       "turnaround_time": 9486
     },
     {
       "type": "pr_collaborated",
-      "title": "ohcnetwork/care_fe#8910",
+      "title": "OpenFoodFacts/care_fe#8910",
       "time": "2024-10-24T07:48:11.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8910",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8910",
       "text": "enable livekit plugin; fixed dockerfile",
       "collaborated_with": [
         "rithviknishad",
@@ -772,9 +772,9 @@
     },
     {
       "type": "pr_collaborated",
-      "title": "ohcnetwork/care_fe#8909",
+      "title": "OpenFoodFacts/care_fe#8909",
       "time": "2024-10-24T07:44:42.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8909",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8909",
       "text": "Staging Release - October Week 4 Release (v24.44.0)",
       "collaborated_with": [
         "abhip161",
@@ -800,201 +800,201 @@
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#8910",
+      "title": "OpenFoodFacts/care_fe#8910",
       "time": "2024-10-24T04:45:27.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8910",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8910",
       "text": "fixed dockerfile"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/landing#16",
+      "title": "OpenFoodFacts/landing#16",
       "time": "2024-10-24T03:36:42.000Z",
-      "link": "https://github.com/ohcnetwork/landing/issues/16",
-      "text": "Move ohc network to cloudflare pages"
+      "link": "https://github.com/OpenFoodFacts/landing/issues/16",
+      "text": "Move openfoodfacts.org to cloudflare pages"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/10bedicu#85",
+      "title": "OpenFoodFacts/10bedicu#85",
       "time": "2024-10-22T11:46:57.000Z",
-      "link": "https://github.com/ohcnetwork/10bedicu/issues/85",
+      "link": "https://github.com/OpenFoodFacts/10bedicu/issues/85",
       "text": "fix 10bedicu repo venv issue"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/infra_template#1",
+      "title": "OpenFoodFacts/infra_template#1",
       "time": "2024-10-21T11:50:51.000Z",
-      "link": "https://github.com/ohcnetwork/infra_template/pull/1",
+      "link": "https://github.com/OpenFoodFacts/infra_template/pull/1",
       "text": "removed fidelius",
       "turnaround_time": 281
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/infra_template#1",
+      "title": "OpenFoodFacts/infra_template#1",
       "time": "2024-10-21T11:46:11.000Z",
-      "link": "https://github.com/ohcnetwork/infra_template/pull/1",
+      "link": "https://github.com/OpenFoodFacts/infra_template/pull/1",
       "text": "removed fidelius"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/docs#57",
+      "title": "OpenFoodFacts/docs#57",
       "time": "2024-10-18T12:42:36.000Z",
-      "link": "https://github.com/ohcnetwork/docs/pull/57#issuecomment-2422390134",
+      "link": "https://github.com/OpenFoodFacts/docs/pull/57#issuecomment-2422390134",
       "text": "Finishing up the last bit of changes. Will commit the changes tonight. "
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/10bedicu#84",
+      "title": "OpenFoodFacts/10bedicu#84",
       "time": "2024-10-17T06:31:11.000Z",
-      "link": "https://github.com/ohcnetwork/10bedicu/pull/84",
+      "link": "https://github.com/OpenFoodFacts/10bedicu/pull/84",
       "text": "added step to remove existing venv",
       "turnaround_time": 3976
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/10bedicu#84",
+      "title": "OpenFoodFacts/10bedicu#84",
       "time": "2024-10-17T05:24:56.000Z",
-      "link": "https://github.com/ohcnetwork/10bedicu/pull/84",
+      "link": "https://github.com/OpenFoodFacts/10bedicu/pull/84",
       "text": "added step to remove existing venv"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#8660",
+      "title": "OpenFoodFacts/care_fe#8660",
       "time": "2024-10-14T12:56:10.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8660#issuecomment-2411158489",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8660#issuecomment-2411158489",
       "text": "Updated DigitalOcean to setup to enable allow CORS on cf and netlify previews. \r\n\r\n@gigincg "
     },
     {
       "type": "pr_reviewed",
       "time": "2024-10-10T12:04:20.000Z",
-      "title": "ohcnetwork/care_fe#8748",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8748#pullrequestreview-2360101298",
+      "title": "OpenFoodFacts/care_fe#8748",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8748#pullrequestreview-2360101298",
       "text": "Added 3rd Party Software Licenses Page"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#8748",
+      "title": "OpenFoodFacts/care_fe#8748",
       "time": "2024-10-09T12:54:14.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8748",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8748",
       "text": "Added 3rd Party Software Licenses Page"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#8684",
+      "title": "OpenFoodFacts/care_fe#8684",
       "time": "2024-10-05T19:37:32.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/8684#issuecomment-2395168736",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/8684#issuecomment-2395168736",
       "text": "Have the Origin policy and have enabled necessary APIs to fix the issue. Current deploy previews (Cloudflare Pages and Netlify) are loading the map in the create facility Form. However Mobile devices are experiencing trouble loading the resource. Another Issue was filed #8723 to find and solve the problem.  "
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#8723",
+      "title": "OpenFoodFacts/care_fe#8723",
       "time": "2024-10-05T19:32:53.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/8723",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/8723",
       "text": "Maps Are not loading for deploy preview in mobile Devices."
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#8609",
+      "title": "OpenFoodFacts/care_fe#8609",
       "time": "2024-10-01T14:23:34.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/8609#issuecomment-2386116175",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/8609#issuecomment-2386116175",
       "text": "@khavinshankar \r\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#6609",
+      "title": "OpenFoodFacts/care_fe#6609",
       "time": "2024-10-01T14:22:48.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/6609#issuecomment-2386114188",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/6609#issuecomment-2386114188",
       "text": ".\r\n"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/docs#57",
+      "title": "OpenFoodFacts/docs#57",
       "time": "2024-09-26T14:45:33.000Z",
-      "link": "https://github.com/ohcnetwork/docs/pull/57",
+      "link": "https://github.com/OpenFoodFacts/docs/pull/57",
       "text": "Add DevOps Docs"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#6006",
+      "title": "OpenFoodFacts/care_fe#6006",
       "time": "2024-09-06T13:23:03.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/6006#issuecomment-2334047066",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/6006#issuecomment-2334047066",
       "text": "@gigincg "
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/docs#48",
+      "title": "OpenFoodFacts/docs#48",
       "time": "2024-09-06T13:09:04.000Z",
-      "link": "https://github.com/ohcnetwork/docs/issues/48#issuecomment-2334015607",
+      "link": "https://github.com/OpenFoodFacts/docs/issues/48#issuecomment-2334015607",
       "text": "@dauntlessnomad "
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#8484",
+      "title": "OpenFoodFacts/care_fe#8484",
       "time": "2024-09-06T12:31:39.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/8484#issuecomment-2333951558",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/8484#issuecomment-2333951558",
       "text": "Yea I'll ✅"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/devops-docs#6",
+      "title": "OpenFoodFacts/devops-docs#6",
       "time": "2024-09-05T12:48:11.000Z",
-      "link": "https://github.com/ohcnetwork/devops-docs/issues/6",
+      "link": "https://github.com/OpenFoodFacts/devops-docs/issues/6",
       "text": "Care Deploy docs"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/devops-docs#5",
+      "title": "OpenFoodFacts/devops-docs#5",
       "time": "2024-09-04T15:48:34.000Z",
-      "link": "https://github.com/ohcnetwork/devops-docs/issues/5",
+      "link": "https://github.com/OpenFoodFacts/devops-docs/issues/5",
       "text": "Docs for Digital Ocean App Platform Deployment"
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care_fe#8484",
+      "title": "OpenFoodFacts/care_fe#8484",
       "time": "2024-09-04T14:34:12.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/8484",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/8484",
       "text": "Add a License file"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/teleicu_middleware#137",
+      "title": "OpenFoodFacts/teleicu_middleware#137",
       "time": "2024-09-04T14:23:25.000Z",
-      "link": "https://github.com/ohcnetwork/teleicu_middleware/issues/137#issuecomment-2329210357",
+      "link": "https://github.com/OpenFoodFacts/teleicu_middleware/issues/137#issuecomment-2329210357",
       "text": "decided to update bucket lifecycle rules to ensure the dumps are moved to cold storage"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care#2344",
+      "title": "OpenFoodFacts/care#2344",
       "time": "2024-08-10T06:32:14.000Z",
-      "link": "https://github.com/ohcnetwork/care/pull/2344#issuecomment-2279708229",
-      "text": "Tested out in digitalocean. Solves issue [https://github.com/ohcnetwork/care/issues/2335](#2335)."
+      "link": "https://github.com/OpenFoodFacts/care/pull/2344#issuecomment-2279708229",
+      "text": "Tested out in digitalocean. Solves issue [https://github.com/OpenFoodFacts/care/issues/2335](#2335)."
     },
     {
       "type": "issue_opened",
-      "title": "ohcnetwork/care#2282",
+      "title": "OpenFoodFacts/care#2282",
       "time": "2024-06-27T11:16:08+00:00",
-      "link": "https://github.com/ohcnetwork/care/issues/2282",
+      "link": "https://github.com/OpenFoodFacts/care/issues/2282",
       "text": "S3 Bucket Health Check"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/teleicu_middleware#137",
+      "title": "OpenFoodFacts/teleicu_middleware#137",
       "time": "2024-06-24T05:24:12+00:00",
-      "link": "https://github.com/ohcnetwork/teleicu_middleware/issues/137#issuecomment-2185633991",
+      "link": "https://github.com/OpenFoodFacts/teleicu_middleware/issues/137#issuecomment-2185633991",
       "text": "will look into it. "
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/leaderboard-data#38",
+      "title": "OpenFoodFacts/leaderboard-data#38",
       "time": "2024-04-22T10:51:09+00:00",
-      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/38",
+      "link": "https://github.com/OpenFoodFacts/leaderboard-data/pull/38",
       "text": "add Vysakh Premkumar",
       "turnaround_time": 3765
     },
     {
       "type": "pr_collaborated",
-      "title": "ohcnetwork/leaderboard-data#38",
+      "title": "OpenFoodFacts/leaderboard-data#38",
       "time": "2024-04-22T10:51:09+00:00",
-      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/38",
+      "link": "https://github.com/OpenFoodFacts/leaderboard-data/pull/38",
       "text": "add Vysakh Premkumar",
       "collaborated_with": [
         "sainak"
@@ -1002,77 +1002,77 @@
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/leaderboard-data#38",
+      "title": "OpenFoodFacts/leaderboard-data#38",
       "time": "2024-04-22T09:48:25+00:00",
-      "link": "https://github.com/ohcnetwork/leaderboard-data/pull/38",
+      "link": "https://github.com/OpenFoodFacts/leaderboard-data/pull/38",
       "text": "added Vysakh Premkumar"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/devops-docs#4",
+      "title": "OpenFoodFacts/devops-docs#4",
       "time": "2024-08-20T13:38:28Z",
-      "link": "https://github.com/ohcnetwork/devops-docs/pull/4",
+      "link": "https://github.com/OpenFoodFacts/devops-docs/pull/4",
       "text": "added gh automations"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_fe#8748",
+      "title": "OpenFoodFacts/care_fe#8748",
       "time": "2024-10-21T04:22:47Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8748",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8748",
       "text": "Added 3rd Party Software Licenses Page"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#8889",
+      "title": "OpenFoodFacts/care_fe#8889",
       "time": "2024-10-23T05:12:23Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/8889",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/8889",
       "text": "added non-core-qn workflow"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_livekit#1",
+      "title": "OpenFoodFacts/care_livekit#1",
       "time": "2024-10-15T07:33:40Z",
-      "link": "https://github.com/ohcnetwork/care_livekit/pull/1",
+      "link": "https://github.com/OpenFoodFacts/care_livekit/pull/1",
       "text": "Updated README.md"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/care_livekit#1",
+      "title": "OpenFoodFacts/care_livekit#1",
       "time": "2024-10-15T07:53:22Z",
-      "link": "https://github.com/ohcnetwork/care_livekit/pull/1",
+      "link": "https://github.com/OpenFoodFacts/care_livekit/pull/1",
       "text": "Updated README.md"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/docs#57",
+      "title": "OpenFoodFacts/docs#57",
       "time": "2024-11-06T09:53:15Z",
-      "link": "https://github.com/ohcnetwork/docs/pull/57",
+      "link": "https://github.com/OpenFoodFacts/docs/pull/57",
       "text": "Add DevOps Docs"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/docs#80",
+      "title": "OpenFoodFacts/docs#80",
       "time": "2024-11-15T19:24:38Z",
-      "link": "https://github.com/ohcnetwork/docs/pull/80",
+      "link": "https://github.com/OpenFoodFacts/docs/pull/80",
       "text": "added screenshots and diagrams"
     },
     {
       "type": "pr_merged",
-      "title": "ohcnetwork/docs#80",
+      "title": "OpenFoodFacts/docs#80",
       "time": "2024-11-21T15:40:08Z",
-      "link": "https://github.com/ohcnetwork/docs/pull/80",
+      "link": "https://github.com/OpenFoodFacts/docs/pull/80",
       "text": "added screenshots and diagrams"
     }
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/docs/pull/97",
+      "link": "https://github.com/OpenFoodFacts/docs/pull/97",
       "title": "deprecated EC2",
       "stale_for": 88,
       "labels": []
     },
     {
-      "link": "https://github.com/ohcnetwork/devops-docs/pull/4",
+      "link": "https://github.com/OpenFoodFacts/devops-docs/pull/4",
       "title": "added gh automations",
       "stale_for": 246,
       "labels": []
@@ -1080,12 +1080,12 @@
   ],
   "authored_issue_and_pr": [
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/9113",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/9220"
+      "issue_link": "https://github.com/OpenFoodFacts/care_fe/issues/9113",
+      "pr_link": "https://github.com/OpenFoodFacts/care_fe/pull/9220"
     },
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/8484",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/8748"
+      "issue_link": "https://github.com/OpenFoodFacts/care_fe/issues/8484",
+      "pr_link": "https://github.com/OpenFoodFacts/care_fe/pull/8748"
     }
   ]
 }

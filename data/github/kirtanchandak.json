@@ -52,7 +52,7 @@
       "title": "ohcnetwork/leaderboard#240",
       "time": "2024-02-26T18:14:21.000Z",
       "link": "https://github.com/ohcnetwork/leaderboard/pull/240#issuecomment-1964819553",
-      "text": "> Let's also have a dedicated `/releases` page which will show more number of releases along with their markdown contents, like how we have in [`/projects`](https://contributors.ohc.network/projects)\r\n> \r\n> And in the home page, let's show only recent 5 releases, the page feels like there's so much vertical content that needed.\r\n\r\n- added releases page with a similar markdown as the projects section \r\n- reduced releases on home page to 4 (was looking more clean instead of 5)"
+      "text": "> Let's also have a dedicated `/releases` page which will show more number of releases along with their markdown contents, like how we have in [`/projects`](https://contributors.openfoodfacts.org/projects)\r\n> \r\n> And in the home page, let's show only recent 5 releases, the page feels like there's so much vertical content that needed.\r\n\r\n- added releases page with a similar markdown as the projects section \r\n- reduced releases on home page to 4 (was looking more clean instead of 5)"
     },
     {
       "type": "comment_created",

@@ -3175,7 +3175,7 @@
             "type": "message",
             "ts": "1734379030.771229",
             "client_msg_id": "697ce94b-6ec4-4040-9ea1-2dec50200825",
-            "text": "*Dec 12-13*\n\u2022 Continued working on Labs module FE, added more UI elements and improved styling. Fixed merge conflicts.\n\u2022 Checked about the MFA login screen for filling issues.\n\u2022 Answered to some of the questions on slack.\n\u2022 Shared an SME idea.\n*Dec 16*\n\u2022 Continued working on Labs module FE, added a utility func and improved styling &amp; Wired some elements with Backend.\n\u2022 Async chat with Vinu and filed an issue for MFA login screens and Had a call with Ruthvik for clearing my queries.\n\u2022 Explored `care.do.ohc.network` a bit.\n\u2022 Call with Khavin  regarding Labs.\n\u2022 EOD call\n\u2022 Had some calls with Vysakh for debugging the deployment issues with Medispeak backend on coolify and worked on trying to fix that issue.\n*Next*\n\u2022 Work on PDF preview in Labs module and styling improvements.\n\u2022 Request some design for MFA adding under profile section.\n\u2022 Go through lot of changes. ",
+            "text": "*Dec 12-13*\n\u2022 Continued working on Labs module FE, added more UI elements and improved styling. Fixed merge conflicts.\n\u2022 Checked about the MFA login screen for filling issues.\n\u2022 Answered to some of the questions on slack.\n\u2022 Shared an SME idea.\n*Dec 16*\n\u2022 Continued working on Labs module FE, added a utility func and improved styling &amp; Wired some elements with Backend.\n\u2022 Async chat with Vinu and filed an issue for MFA login screens and Had a call with Ruthvik for clearing my queries.\n\u2022 Explored `care.do.openfoodfacts.org` a bit.\n\u2022 Call with Khavin  regarding Labs.\n\u2022 EOD call\n\u2022 Had some calls with Vysakh for debugging the deployment issues with Medispeak backend on coolify and worked on trying to fix that issue.\n*Next*\n\u2022 Work on PDF preview in Labs module and styling improvements.\n\u2022 Request some design for MFA adding under profile section.\n\u2022 Go through lot of changes. ",
             "team": "TC99SV7B6",
             "blocks": [
                 {
@@ -3292,7 +3292,7 @@
                                         },
                                         {
                                             "type": "text",
-                                            "text": "care.do.ohc.network",
+                                            "text": "care.do.openfoodfacts.org",
                                             "style": {
                                                 "code": true
                                             }
@@ -3593,7 +3593,7 @@
                 "ts": "1735063251.000000"
             },
             "client_msg_id": "41cea26f-9532-4d63-8ba3-d349eccb4ac6",
-            "text": "*December 19 - 20*\n\u2022 Went through POSH policy & Attended quick call.\n\u2022 Wired more some UI elements & extracted out some repetitive code into components, added skeleton loading for tables.\n\u2022 Weekly engineering review call.\n\u2022 Created quick recording of the Labs after more wiring and changes.\n\u2022 EOD call.\n\u2022 Explored `care.do.ohc.network` a bit\n*December 23*\n\u2022 Fixed merge conflicts.\n\u2022 Weekly engineering review call.\n\u2022 Wire more UI elements, improving styling, debugged into some data not being returned from backend, made changes and opened a PR as I don't permission to push.\n\u2022 Call with Saad.\n\u2022 Quick glance at design prepared by Anagha for MFA setup under user page.\n*Next*\n\u2022 Continue work on Labs - wire more elements, refactor.\n\u2022 Sync with Khavin\n\u2022 Merge Bodhi's branch into labs.\n\u2022 Add `CreateServiceRequest`  component into Bodhi's branch.",
+            "text": "*December 19 - 20*\n\u2022 Went through POSH policy & Attended quick call.\n\u2022 Wired more some UI elements & extracted out some repetitive code into components, added skeleton loading for tables.\n\u2022 Weekly engineering review call.\n\u2022 Created quick recording of the Labs after more wiring and changes.\n\u2022 EOD call.\n\u2022 Explored `care.do.openfoodfacts.org` a bit\n*December 23*\n\u2022 Fixed merge conflicts.\n\u2022 Weekly engineering review call.\n\u2022 Wire more UI elements, improving styling, debugged into some data not being returned from backend, made changes and opened a PR as I don't permission to push.\n\u2022 Call with Saad.\n\u2022 Quick glance at design prepared by Anagha for MFA setup under user page.\n*Next*\n\u2022 Continue work on Labs - wire more elements, refactor.\n\u2022 Sync with Khavin\n\u2022 Merge Bodhi's branch into labs.\n\u2022 Add `CreateServiceRequest`  component into Bodhi's branch.",
             "team": "TC99SV7B6",
             "blocks": [
                 {
@@ -3673,7 +3673,7 @@
                                         },
                                         {
                                             "type": "text",
-                                            "text": "care.do.ohc.network",
+                                            "text": "care.do.openfoodfacts.org",
                                             "style": {
                                                 "code": true
                                             }

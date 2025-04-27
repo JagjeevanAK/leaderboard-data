@@ -1714,7 +1714,7 @@
             "type": "message",
             "ts": "1731598313.931559",
             "client_msg_id": "8066bea0-2202-4bc6-998f-d545a3c864ed",
-            "text": "14th November\n\u2022 Moved ohc.network to cloudflare pages. \n\u2022 made more clean up and got review from <@UC9JELJEP> on DO-Terraform setup \n\u2022 Made a bash script to generate jwks needed for new deployments. \n\u2022 Drafted cloud costing report for new state\nUp Next\n\u2022 Apply suggested changes to DO-Terraform Setup\n\u2022 Update Docs for DO-Terraform setup.",
+            "text": "14th November\n\u2022 Moved openfoodfacts.org to cloudflare pages. \n\u2022 made more clean up and got review from <@UC9JELJEP> on DO-Terraform setup \n\u2022 Made a bash script to generate jwks needed for new deployments. \n\u2022 Drafted cloud costing report for new state\nUp Next\n\u2022 Apply suggested changes to DO-Terraform Setup\n\u2022 Update Docs for DO-Terraform setup.",
             "team": "TC99SV7B6",
             "thread_ts": "1731598313.931559",
             "reply_count": 5,
@@ -1748,7 +1748,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Moved ohc.network to cloudflare pages. "
+                                            "text": "Moved openfoodfacts.org to cloudflare pages. "
                                         }
                                     ]
                                 },
@@ -3064,7 +3064,7 @@
                     "is_app_unfurl": true,
                     "app_id": "A01BP7R4KNY",
                     "fallback": "#9237 Downgrading Node version from 20.11.0 to 22.5.1 for DigitalOcean",
-                    "text": "*Proposed Changes*\n\nThe DigitalOcean buildpack supports the following Node.js runtime versions for Ubuntu 22.04:  \n\u2022 4.x - 19.x  \n\u2022 20.0.0 - 20.9.0  \n\u2022 21.0.0 - 21.7.3  \n\u2022 22.0.0 - 22.5.1\n\nNode.js v20.11.0 builds fail during deployment. Downgrading to v22.5.1 resolves the issue.\n\n<https://github.com/orgs/ohcnetwork/teams/care-fe-code-reviewers|@ohcnetwork/care-fe-code-reviewers>\n\n*Merge Checklist*\n\n\u2022 Add specs that demonstrate bug / test a new feature.\n\u2022 Update <https://docs.ohc.network|product documentation>.\n\u2022 Ensure that UI text is kept in I18n files.\n\u2022 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2022 Request for Peer Reviews\n\u2022 Completion of QA\n\n*Summary by CodeRabbit*\n\n\u2022 *New Features*  \n   \u2022 Expanded compatibility by lowering the minimum required Node.js version, allowing users with older versions (>=22.5.1) to run the project successfully.",
+                    "text": "*Proposed Changes*\n\nThe DigitalOcean buildpack supports the following Node.js runtime versions for Ubuntu 22.04:  \n\u2022 4.x - 19.x  \n\u2022 20.0.0 - 20.9.0  \n\u2022 21.0.0 - 21.7.3  \n\u2022 22.0.0 - 22.5.1\n\nNode.js v20.11.0 builds fail during deployment. Downgrading to v22.5.1 resolves the issue.\n\n<https://github.com/orgs/ohcnetwork/teams/care-fe-code-reviewers|@ohcnetwork/care-fe-code-reviewers>\n\n*Merge Checklist*\n\n\u2022 Add specs that demonstrate bug / test a new feature.\n\u2022 Update <https://docs.openfoodfacts.org|product documentation>.\n\u2022 Ensure that UI text is kept in I18n files.\n\u2022 Prep screenshot or demo video for changelog entry, and attach it to issue.\n\u2022 Request for Peer Reviews\n\u2022 Completion of QA\n\n*Summary by CodeRabbit*\n\n\u2022 *New Features*  \n   \u2022 Expanded compatibility by lowering the minimum required Node.js version, allowing users with older versions (>=22.5.1) to run the project successfully.",
                     "title": "#9237 Downgrading Node version from 20.11.0 to 22.5.1 for DigitalOcean",
                     "title_link": "https://github.com/ohcnetwork/care_fe/pull/9237",
                     "footer": "<https://github.com/ohcnetwork/care_fe|ohcnetwork/care_fe>",
@@ -4902,7 +4902,7 @@
             "type": "message",
             "ts": "1736185670.030889",
             "client_msg_id": "37c077aa-4a02-4884-bd14-45e59e668008",
-            "text": "January 3 2025\n\u2022 Deployed staging.ohc.network in digitalocean + cloudflare pages, \n\u2022 broke and restored terminology server :skull:\n\u2022 Disabled GCS Builds for care-staging and preserved\n\u2022 had discussion with bodhi and gigin to plan staging, develop deployments. \nJanuary 6 2025\n\u2022 Configured Captcha keys for dev/staging deployments. \n\u2022 Did a db reset on staging.ohc.network and deployed the updated staging branch with care scribe. \n\u2022 Drafted and got the pr to disable gcp triggers merged. \nUp next. \n\u2022 Figure out captcha specs and open issue to update if required. \n\u2022 Get AWS dev deployment working. ",
+            "text": "January 3 2025\n\u2022 Deployed staging.openfoodfacts.org in digitalocean + cloudflare pages, \n\u2022 broke and restored terminology server :skull:\n\u2022 Disabled GCS Builds for care-staging and preserved\n\u2022 had discussion with bodhi and gigin to plan staging, develop deployments. \nJanuary 6 2025\n\u2022 Configured Captcha keys for dev/staging deployments. \n\u2022 Did a db reset on staging.openfoodfacts.org and deployed the updated staging branch with care scribe. \n\u2022 Drafted and got the pr to disable gcp triggers merged. \nUp next. \n\u2022 Figure out captcha specs and open issue to update if required. \n\u2022 Get AWS dev deployment working. ",
             "team": "TC99SV7B6",
             "blocks": [
                 {
@@ -4926,7 +4926,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Deployed staging.ohc.network in digitalocean + cloudflare pages, "
+                                            "text": "Deployed staging.openfoodfacts.org in digitalocean + cloudflare pages, "
                                         }
                                     ]
                                 },
@@ -4994,7 +4994,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Did a db reset on staging.ohc.network and deployed the updated staging branch with care scribe. "
+                                            "text": "Did a db reset on staging.openfoodfacts.org and deployed the updated staging branch with care scribe. "
                                         }
                                     ]
                                 },
@@ -5204,7 +5204,7 @@
             "type": "message",
             "ts": "1736797282.321389",
             "client_msg_id": "fe427824-8138-42cb-9be6-86ecb3f5788b",
-            "text": "Last of last week.\n\u2022 Deployed Care_scribe MFE to cloudflare pages \n\u2022 configured metabase for krishna and ssmm \n\u2022 Wrote a script to bulk download / upload images to ohc cdn and replace the links for care 101\n\u2022 Had multiple calles with Jowai MCH admin and others to debug camera issue\n\u2022 Configured staging.ohc.network with scribe for KA scribe Field Test  \n\u2022 Drafted PR to fix deploy-failed tags not getting removed.\nJan 13 2025\n\u2022 Moved care-staging.ohc.network to teleicu-staging.ohc.network\n\u2022 switched care.ohc.network to use careapi.ohc.network Dev ECS backend\n\u2022 Fixed sentry issues with Staging FE \nUp next\n\u2022 Get deploy-tag PR merged\n\u2022 Finish up DevOps Intern JD \n",
+            "text": "Last of last week.\n\u2022 Deployed Care_scribe MFE to cloudflare pages \n\u2022 configured metabase for krishna and ssmm \n\u2022 Wrote a script to bulk download / upload images to ohc cdn and replace the links for care 101\n\u2022 Had multiple calles with Jowai MCH admin and others to debug camera issue\n\u2022 Configured staging.openfoodfacts.org with scribe for KA scribe Field Test  \n\u2022 Drafted PR to fix deploy-failed tags not getting removed.\nJan 13 2025\n\u2022 Moved care-staging.openfoodfacts.org to teleicu-staging.openfoodfacts.org\n\u2022 switched care.openfoodfacts.org to use careapi.openfoodfacts.org Dev ECS backend\n\u2022 Fixed sentry issues with Staging FE \nUp next\n\u2022 Get deploy-tag PR merged\n\u2022 Finish up DevOps Intern JD \n",
             "team": "TC99SV7B6",
             "blocks": [
                 {
@@ -5264,7 +5264,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Configured staging.ohc.network with scribe for KA scribe Field Test  "
+                                            "text": "Configured staging.openfoodfacts.org with scribe for KA scribe Field Test  "
                                         }
                                     ]
                                 },
@@ -5299,7 +5299,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Moved care-staging.ohc.network to teleicu-staging.ohc.network"
+                                            "text": "Moved care-staging.openfoodfacts.org to teleicu-staging.openfoodfacts.org"
                                         }
                                     ]
                                 },
@@ -5308,7 +5308,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "switched care.ohc.network to use careapi.ohc.network Dev ECS backend"
+                                            "text": "switched care.openfoodfacts.org to use careapi.openfoodfacts.org Dev ECS backend"
                                         }
                                     ]
                                 },
@@ -5702,7 +5702,7 @@
             "type": "message",
             "ts": "1737571758.105739",
             "client_msg_id": "d21e8219-ba2d-4004-b514-4cd1feb24493",
-            "text": "Jan 21 2025\n\u2022 Enabled ABDM in staging.ohc.network\n\u2022 Deployed ABDM FE to CF pages. \n\u2022 Added Dev/Staging setups to Oneuptime. \nJan 22 2025\n\u2022 Debugged Coolify Instance. \n\u2022 Setup CSNOtk on local. \n\u2022 Redeployed Snowstorm based on Docs by vignesh on DO. \n\u2022 Created Terminology server snapshot and destroyed test instance. \nNext\n\u2022 Fix SSDNodes Instance and setup coolify or Dokploy\n\u2022 Figure out CSNOtk",
+            "text": "Jan 21 2025\n\u2022 Enabled ABDM in staging.openfoodfacts.org\n\u2022 Deployed ABDM FE to CF pages. \n\u2022 Added Dev/Staging setups to Oneuptime. \nJan 22 2025\n\u2022 Debugged Coolify Instance. \n\u2022 Setup CSNOtk on local. \n\u2022 Redeployed Snowstorm based on Docs by vignesh on DO. \n\u2022 Created Terminology server snapshot and destroyed test instance. \nNext\n\u2022 Fix SSDNodes Instance and setup coolify or Dokploy\n\u2022 Figure out CSNOtk",
             "team": "TC99SV7B6",
             "blocks": [
                 {
@@ -5726,7 +5726,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Enabled ABDM in staging.ohc.network"
+                                            "text": "Enabled ABDM in staging.openfoodfacts.org"
                                         }
                                     ]
                                 },
@@ -6147,7 +6147,7 @@
             "type": "message",
             "ts": "1738010022.661579",
             "client_msg_id": "24ee7e06-7db3-4d63-a135-94542ed25052",
-            "text": "\u2022 Restored Access to Arike Metabase portal                                                                                                                                                           \n\u2022 Fixed deploy fails in staging.ohc.network api due to ABDM Issues                                                                                                                                   \n\u2022 Drafted DO estimate for new deployment                                                                                                                                                             \n\u2022 Deployed teleicu-staging updates to teleicu-staging.ohc.network                                                                                                                                    \n\u2022 Update teleicu-staging backend to use latest abdm.                                                                                                                                                 \n\u2022 Performed minor production <https://github.com/ohcnetwork/care_fe/pull/10211|release> fixing <https://github.com/ohcnetwork/care_fe/issues/10078|#10078> with <https://github.com/ohcnetwork/care_fe/pull/10091|#10091>\nUp Next\n\u2022 Configure and secure new coolify deployment. \n\u2022 seperate out sbom generation workflow and keep it in repo. ",
+            "text": "\u2022 Restored Access to Arike Metabase portal                                                                                                                                                           \n\u2022 Fixed deploy fails in staging.openfoodfacts.org api due to ABDM Issues                                                                                                                                   \n\u2022 Drafted DO estimate for new deployment                                                                                                                                                             \n\u2022 Deployed teleicu-staging updates to teleicu-staging.openfoodfacts.org                                                                                                                                    \n\u2022 Update teleicu-staging backend to use latest abdm.                                                                                                                                                 \n\u2022 Performed minor production <https://github.com/ohcnetwork/care_fe/pull/10211|release> fixing <https://github.com/ohcnetwork/care_fe/issues/10078|#10078> with <https://github.com/ohcnetwork/care_fe/pull/10091|#10091>\nUp Next\n\u2022 Configure and secure new coolify deployment. \n\u2022 seperate out sbom generation workflow and keep it in repo. ",
             "team": "TC99SV7B6",
             "blocks": [
                 {
@@ -6171,7 +6171,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Fixed deploy fails in staging.ohc.network api due to ABDM Issues                                                                                                                                   "
+                                            "text": "Fixed deploy fails in staging.openfoodfacts.org api due to ABDM Issues                                                                                                                                   "
                                         }
                                     ]
                                 },
@@ -6189,7 +6189,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Deployed teleicu-staging updates to teleicu-staging.ohc.network                                                                                                                                    "
+                                            "text": "Deployed teleicu-staging updates to teleicu-staging.openfoodfacts.org                                                                                                                                    "
                                         }
                                     ]
                                 },
@@ -6297,7 +6297,7 @@
             "type": "message",
             "ts": "1738695788.093099",
             "client_msg_id": "d2c7765f-e1ad-461c-a388-43072c2ea87c",
-            "text": "*Jan 29 2025*\n\u2022 Explored  App spec based deployment for care\n    \u25e6  Raised a ticket to support to resolve, and got response that it's not supported.\n\u2022  Updated metabase.ohc.network and gave access to Aravind\n\u2022  Broke and fixed CORS to allow local network connections\n*Jan 30 2025*\n\u2022  Got Arike DB Dump for migrations.\n\u2022 Deployed Care KCDH \n\u2022 Setup IAM Identity Gateway and added users including billing admin for KCDH AWS\n\u2022  seeded Karnataka and Kerala data in KCDH\n\u2022 Shared access to billing account and admin account to KCDH\n\u2022 Verify Metabase Access in 1Password and added them to the vault.\n\u2022 TODO Updated the ecs setup to increase the deployment speed.\n*Feb 3 2025*\n\u2022  Analyze DigitalOcean current cost\n\u2022 explore option for setting up a K8s cluster for monitoring.\n\u2022 Setup a prom-grafana dash with blackbox exporter.\n*Feb 4 2025*\n\u2022 Temporary Fix issue automation fails (I move around all the issues on project board now with my PAT) :shipit: \n\u2022  PY draft created and sent for review by <@UC8TSEGCQ> and <@UC9JELJEP> \n\u2022 Had Interview call with <@U07UB6TQWRE> for DevOps Intern\nNext\n\u2022 get github actions bot back up by using GITHUB_TOKEN \n\u2022 finalize and publish Grafana Dashboards. ",
+            "text": "*Jan 29 2025*\n\u2022 Explored  App spec based deployment for care\n    \u25e6  Raised a ticket to support to resolve, and got response that it's not supported.\n\u2022  Updated metabase.openfoodfacts.org and gave access to Aravind\n\u2022  Broke and fixed CORS to allow local network connections\n*Jan 30 2025*\n\u2022  Got Arike DB Dump for migrations.\n\u2022 Deployed Care KCDH \n\u2022 Setup IAM Identity Gateway and added users including billing admin for KCDH AWS\n\u2022  seeded Karnataka and Kerala data in KCDH\n\u2022 Shared access to billing account and admin account to KCDH\n\u2022 Verify Metabase Access in 1Password and added them to the vault.\n\u2022 TODO Updated the ecs setup to increase the deployment speed.\n*Feb 3 2025*\n\u2022  Analyze DigitalOcean current cost\n\u2022 explore option for setting up a K8s cluster for monitoring.\n\u2022 Setup a prom-grafana dash with blackbox exporter.\n*Feb 4 2025*\n\u2022 Temporary Fix issue automation fails (I move around all the issues on project board now with my PAT) :shipit: \n\u2022  PY draft created and sent for review by <@UC8TSEGCQ> and <@UC9JELJEP> \n\u2022 Had Interview call with <@U07UB6TQWRE> for DevOps Intern\nNext\n\u2022 get github actions bot back up by using GITHUB_TOKEN \n\u2022 finalize and publish Grafana Dashboards. ",
             "team": "TC99SV7B6",
             "blocks": [
                 {
@@ -6362,7 +6362,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": " Updated metabase.ohc.network and gave access to Aravind"
+                                            "text": " Updated metabase.openfoodfacts.org and gave access to Aravind"
                                         }
                                     ]
                                 },
@@ -6656,7 +6656,7 @@
             "type": "message",
             "ts": "1739347231.646189",
             "client_msg_id": "9ef83d96-c357-4d60-9d23-48fbc3bacdb6",
-            "text": "Feb 5 2025\n\u2022 Debugged ABDM issues in Staging. \n\u2022 restored staging branch and updated branch protection rules for staging\n\u2022 finalized PY draft \nFeb 6 2025\n\u2022 Deployed Care Cats of Kochi Instance. \n\u2022 Explored options for enforcing security headers.\nFeb 7,8.9 2025\n\u2022 tested out different methods for applying secure headers to cf pages including _headers file and cloudflare worker\n\u2022 Reconfigured and set csp-logger to monitor the csp violations. \n\u2022 Restored Access to coolify and debugged disk write issues. \nFeb 10 2025\n\u2022 reworked security headers with env variables. tested in personal account to get it working.\n\u2022 generated CSP with <https://csper.io/|csper> \n\u2022 Sent PR to enforce security headers defined in env\nFeb 11\n\u2022 Merged the Headers PR <https://github.com/ohcnetwork/care_fe/pull/10535|#10535> to dev and setup the env variables to <https://securityheaders.com/?q=care.ohc.network&amp;followRedirects=on|enforce Headers>. \n\u2022 Migrated kcdh to muhs domain, updated the ecs image-build workflow to support auto rollback. \nNext\n\u2022 Update docs on FE deployment including policy headers and recaptcha\n\u2022 Update cats of kochi logo\n\u2022 fix and verify working of netflify deploy previews in the new custom domain.",
+            "text": "Feb 5 2025\n\u2022 Debugged ABDM issues in Staging. \n\u2022 restored staging branch and updated branch protection rules for staging\n\u2022 finalized PY draft \nFeb 6 2025\n\u2022 Deployed Care Cats of Kochi Instance. \n\u2022 Explored options for enforcing security headers.\nFeb 7,8.9 2025\n\u2022 tested out different methods for applying secure headers to cf pages including _headers file and cloudflare worker\n\u2022 Reconfigured and set csp-logger to monitor the csp violations. \n\u2022 Restored Access to coolify and debugged disk write issues. \nFeb 10 2025\n\u2022 reworked security headers with env variables. tested in personal account to get it working.\n\u2022 generated CSP with <https://csper.io/|csper> \n\u2022 Sent PR to enforce security headers defined in env\nFeb 11\n\u2022 Merged the Headers PR <https://github.com/ohcnetwork/care_fe/pull/10535|#10535> to dev and setup the env variables to <https://securityheaders.com/?q=care.openfoodfacts.org&amp;followRedirects=on|enforce Headers>. \n\u2022 Migrated kcdh to muhs domain, updated the ecs image-build workflow to support auto rollback. \nNext\n\u2022 Update docs on FE deployment including policy headers and recaptcha\n\u2022 Update cats of kochi logo\n\u2022 fix and verify working of netflify deploy previews in the new custom domain.",
             "team": "TC99SV7B6",
             "attachments": [
                 {
@@ -6913,7 +6913,7 @@
                                         },
                                         {
                                             "type": "link",
-                                            "url": "https://securityheaders.com/?q=care.ohc.network&followRedirects=on",
+                                            "url": "https://securityheaders.com/?q=care.openfoodfacts.org&followRedirects=on",
                                             "text": "enforce Headers"
                                         },
                                         {
@@ -7010,7 +7010,7 @@
             "type": "message",
             "ts": "1742825437.794639",
             "client_msg_id": "fc7ceca8-7bb0-44ef-a93a-ee6819731e96",
-            "text": "24 March 2025\nMisseedddd a lottt of EOD's\n\u2022 Had call with <@U07UB6TQWRE> to provide feedback for azure / gcs setups, \n\u2022 Engineering review call\n\u2022 :headphones: with bodhi and rithvik to fix sbom fetch workflow. (ready for merge)\n\u2022 made <@U07UB6TQWRE> refactor sbom repo multiple times. :\" )\n\u2022 enabled scribe on arike. \n\u2022 raised an issue <https://github.com/10bedicu/care_scribe/issues/21|21> \n\u2022 Caught :ear::skin-tone-5: pain, got :pill: s \nUp next\n\u2022 Move care.ohc.network to do from cf\n\u2022 fix :ear::skin-tone-5: pain :\")\n\u2022 make scribe available for the required users. will be a pain adding it without <https://github.com/10bedicu/care_scribe/issues/21|21>. ",
+            "text": "24 March 2025\nMisseedddd a lottt of EOD's\n\u2022 Had call with <@U07UB6TQWRE> to provide feedback for azure / gcs setups, \n\u2022 Engineering review call\n\u2022 :headphones: with bodhi and rithvik to fix sbom fetch workflow. (ready for merge)\n\u2022 made <@U07UB6TQWRE> refactor sbom repo multiple times. :\" )\n\u2022 enabled scribe on arike. \n\u2022 raised an issue <https://github.com/10bedicu/care_scribe/issues/21|21> \n\u2022 Caught :ear::skin-tone-5: pain, got :pill: s \nUp next\n\u2022 Move care.openfoodfacts.org to do from cf\n\u2022 fix :ear::skin-tone-5: pain :\")\n\u2022 make scribe available for the required users. will be a pain adding it without <https://github.com/10bedicu/care_scribe/issues/21|21>. ",
             "team": "TC99SV7B6",
             "attachments": [
                 {
@@ -7184,7 +7184,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Move care.ohc.network to do from cf"
+                                            "text": "Move care.openfoodfacts.org to do from cf"
                                         }
                                     ]
                                 },
@@ -7260,7 +7260,7 @@
             "type": "message",
             "ts": "1742970413.897839",
             "client_msg_id": "428d87ec-d731-43b7-9471-93cd970f720d",
-            "text": "March 25\nSlow day\n\u2022 Updated arike fe with scribe fixes, pinged Dr Nithin to see if scribe is working. \n\u2022 Switched care.ohc.network from cf to do\nNext\n\u2022 Delete care-fe deployments from cf \n\u2022 fix metabase access issues in dev and staging. ",
+            "text": "March 25\nSlow day\n\u2022 Updated arike fe with scribe fixes, pinged Dr Nithin to see if scribe is working. \n\u2022 Switched care.openfoodfacts.org from cf to do\nNext\n\u2022 Delete care-fe deployments from cf \n\u2022 fix metabase access issues in dev and staging. ",
             "team": "TC99SV7B6",
             "blocks": [
                 {
@@ -7293,7 +7293,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Switched care.ohc.network from cf to do"
+                                            "text": "Switched care.openfoodfacts.org from cf to do"
                                         }
                                     ]
                                 }

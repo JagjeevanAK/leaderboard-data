@@ -971,7 +971,7 @@
       "title": "ohcnetwork/care_fe#6748",
       "time": "2023-12-29T11:34:58.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/6748#issuecomment-1871975917",
-      "text": "@rithviknishad I am not able to recreate the issue, I can assign that exact bed `eafefo` to patients with or without bed history\r\n[Example Patient](https://care.ohc.network/facility/bd466cf6-0fde-46b1-9591-0acf9d955dd1/patient/8da567dc-7cd0-43af-900d-d101e3150d8b/consultation/47fc6ca8-a8e0-4c40-9f6e-cc1db83ea958)"
+      "text": "@rithviknishad I am not able to recreate the issue, I can assign that exact bed `eafefo` to patients with or without bed history\r\n[Example Patient](https://care.openfoodfacts.org/facility/bd466cf6-0fde-46b1-9591-0acf9d955dd1/patient/8da567dc-7cd0-43af-900d-d101e3150d8b/consultation/47fc6ca8-a8e0-4c40-9f6e-cc1db83ea958)"
     },
     {
       "type": "issue_opened",

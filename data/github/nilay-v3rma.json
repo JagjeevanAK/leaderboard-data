@@ -3,72 +3,72 @@
   "activity": [
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9405",
+      "title": "OpenFoodFacts/care_fe#9405",
       "time": "2024-12-24T17:18:51.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9405#issuecomment-2561302661",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9405#issuecomment-2561302661",
       "text": "Can anyone please help me implement the closeNotification cypress command? following is what i have found so far:\r\n  📌 sonner documentation:\r\n\r\n[**[Dismissing toasts programmatically](https://sonner.emilkowal.ski/other#dismissing-toasts-programmatically)**](https://sonner.emilkowal.ski/other#dismissing-toasts-programmatically)\r\n\r\nTo remove a toast programmatically use `toast.dismiss(id)`. The `toast()` function return the id of the toast.\r\n\r\n```\r\nconst toastId = toast('Event has been created'); toast.dismiss(toastId);\r\n```\r\n\r\nYou can also dismiss all toasts at once by calling `toast.dismiss()` without an id.\r\n\r\n```\r\ntoast.dismiss();\r\n```\r\n\r\nHowever, I’m unsure how to implement this in Cypress :(\r\n\r\n**📌 Alternative method:** Dismiss by dragging\r\n\r\nclick → hold → drag upwards\r\n\r\ni tried implementing this as follows\r\n\r\n```tsx\r\nCypress.Commands.add(\"closeNotification\", () => {\r\n  cy.get(\"li[data-sonner-toast]\")\r\n    .should(\"exist\")\r\n    .trigger('mousedown', { which: 1, force: true })\r\n    .trigger('mousemove', { clientY: 0, force: true })\r\n    .trigger('mouseup', { force: true });\r\n});\r\n```\r\n\r\nUnfortunately, it doesn’t work as expected. Any suggestions?"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9405",
+      "title": "OpenFoodFacts/care_fe#9405",
       "time": "2024-12-23T04:43:37.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9405#issuecomment-2558898390",
-      "text": "> > > > Could we please connect sometime? I need some help regarding the failing tests, as I think they might not be entirely failing due to the notification issue\r\n> > > \r\n> > > \r\n> > > Click on the test details and check the summary tab and scroll down, there should be screenshots you can refer to. At least some of the tests are related from what I can see, get those working, we can look at the rest after.\r\n> > > Get local [backend](https://github.com/ohcnetwork/care) ([Docs](https://care-be-docs.ohc.network/local-setup/configuration.html)) working to run and test cypress locally.\r\n> > \r\n> > \r\n> > I ran the tests that were failing due to `li[data-sonner-toast] div[data-title]` not being found, locally using `npm run cypress:open`. I have noted the details and would appreciate discussing them at your convenience.\r\n> \r\n> What's your blocker? Change the tests/elements accordingly to get the notifications verified within the tests 🤔\r\n\r\nThe notification was visible but was being overlayered by somethings (like form),\r\n![image](https://github.com/user-attachments/assets/e0e227c3-892e-4f92-badf-3443c0472006)\r\n\r\ni think using proper z-index should fix the issue!"
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9405#issuecomment-2558898390",
+      "text": "> > > > Could we please connect sometime? I need some help regarding the failing tests, as I think they might not be entirely failing due to the notification issue\r\n> > > \r\n> > > \r\n> > > Click on the test details and check the summary tab and scroll down, there should be screenshots you can refer to. At least some of the tests are related from what I can see, get those working, we can look at the rest after.\r\n> > > Get local [backend](https://github.com/OpenFoodFacts/care) ([Docs](https://care-be-docs.openfoodfacts.org/local-setup/configuration.html)) working to run and test cypress locally.\r\n> > \r\n> > \r\n> > I ran the tests that were failing due to `li[data-sonner-toast] div[data-title]` not being found, locally using `npm run cypress:open`. I have noted the details and would appreciate discussing them at your convenience.\r\n> \r\n> What's your blocker? Change the tests/elements accordingly to get the notifications verified within the tests 🤔\r\n\r\nThe notification was visible but was being overlayered by somethings (like form),\r\n![image](https://github.com/user-attachments/assets/e0e227c3-892e-4f92-badf-3443c0472006)\r\n\r\ni think using proper z-index should fix the issue!"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9405",
+      "title": "OpenFoodFacts/care_fe#9405",
       "time": "2024-12-22T11:12:15.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9405#issuecomment-2558418873",
-      "text": "> > Could we please connect sometime? I need some help regarding the failing tests, as I think they might not be entirely failing due to the notification issue\r\n> \r\n> Click on the test details and check the summary tab and scroll down, there should be screenshots you can refer to. At least some of the tests are related from what I can see, get those working, we can look at the rest after.\r\n> \r\n> Get local [backend](https://github.com/ohcnetwork/care) ([Docs](https://care-be-docs.ohc.network/local-setup/configuration.html)) working to run and test cypress locally.\r\n\r\nI ran the tests that were failing due to `li[data-sonner-toast] div[data-title]` not being found, locally using `npm run cypress:open`. I have noted the details and would appreciate discussing them at your convenience."
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9405#issuecomment-2558418873",
+      "text": "> > Could we please connect sometime? I need some help regarding the failing tests, as I think they might not be entirely failing due to the notification issue\r\n> \r\n> Click on the test details and check the summary tab and scroll down, there should be screenshots you can refer to. At least some of the tests are related from what I can see, get those working, we can look at the rest after.\r\n> \r\n> Get local [backend](https://github.com/OpenFoodFacts/care) ([Docs](https://care-be-docs.openfoodfacts.org/local-setup/configuration.html)) working to run and test cypress locally.\r\n\r\nI ran the tests that were failing due to `li[data-sonner-toast] div[data-title]` not being found, locally using `npm run cypress:open`. I have noted the details and would appreciate discussing them at your convenience."
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9405",
+      "title": "OpenFoodFacts/care_fe#9405",
       "time": "2024-12-20T15:23:40.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9405#issuecomment-2557213657",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9405#issuecomment-2557213657",
       "text": "Can we please connect sometime? i think I need some help regarding the failing tests because I think they are not completely failing due to notification issue"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9405",
+      "title": "OpenFoodFacts/care_fe#9405",
       "time": "2024-12-20T14:11:13.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9405#issuecomment-2557091639",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9405#issuecomment-2557091639",
       "text": "do i still need to fix anything for this pull request?"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9405",
+      "title": "OpenFoodFacts/care_fe#9405",
       "time": "2024-12-19T15:23:54.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9405#issuecomment-2554597645",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9405#issuecomment-2554597645",
       "text": "> tests failing...\r\n\r\nI will work on it"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9394",
+      "title": "OpenFoodFacts/care_fe#9394",
       "time": "2024-12-13T06:39:06.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9394#issuecomment-2540659968",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/9394#issuecomment-2540659968",
       "text": "@rithviknishad I have raised the PR"
     },
     {
       "type": "pr_opened",
-      "title": "ohcnetwork/care_fe#9405",
+      "title": "OpenFoodFacts/care_fe#9405",
       "time": "2024-12-13T06:38:14.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/pull/9405",
+      "link": "https://github.com/OpenFoodFacts/care_fe/pull/9405",
       "text": "[DRAFT] Switch to Sonner for toast notifications #9394"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9394",
+      "title": "OpenFoodFacts/care_fe#9394",
       "time": "2024-12-13T06:20:23.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9394#issuecomment-2540639355",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/9394#issuecomment-2540639355",
       "text": "@rithviknishad sure i'll raise it asap\n"
     },
     {
       "type": "comment_created",
-      "title": "ohcnetwork/care_fe#9394",
+      "title": "OpenFoodFacts/care_fe#9394",
       "time": "2024-12-12T11:44:43.000Z",
-      "link": "https://github.com/ohcnetwork/care_fe/issues/9394#issuecomment-2538659797",
+      "link": "https://github.com/OpenFoodFacts/care_fe/issues/9394#issuecomment-2538659797",
       "text": "May I work on this issue?"
     }
   ],

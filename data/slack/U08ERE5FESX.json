@@ -681,7 +681,7 @@
             "type": "message",
             "ts": "1744821815.377299",
             "client_msg_id": "79d36ce9-8dd5-402f-a609-eb2bd584a012",
-            "text": "april 14-15\n\u2022 I've been reviewing the documentation on the CARE and Ayushman sections under `docs.ohc.network`. I'm checking the setup steps for frontend, backend, and plugins\n\u2022 spoke with areeb to get more understanding\nNext\n\u2022 need to complete going through rest of the documentation ",
+            "text": "april 14-15\n\u2022 I've been reviewing the documentation on the CARE and Ayushman sections under `docs.openfoodfacts.org`. I'm checking the setup steps for frontend, backend, and plugins\n\u2022 spoke with areeb to get more understanding\nNext\n\u2022 need to complete going through rest of the documentation ",
             "team": "TC99SV7B6",
             "blocks": [
                 {
@@ -709,7 +709,7 @@
                                         },
                                         {
                                             "type": "text",
-                                            "text": "docs.ohc.network",
+                                            "text": "docs.openfoodfacts.org",
                                             "style": {
                                                 "code": true
                                             }

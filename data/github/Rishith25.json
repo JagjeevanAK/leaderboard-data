@@ -779,7 +779,7 @@
       "title": "ohcnetwork/care_fe#10537",
       "time": "2025-02-11T14:45:14.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10537#issuecomment-2651033002",
-      "text": "@Jacobjeevan can you check for below pages in mobile. The previous and next buttons are not jumpt to first/last\n\nhttps://care.ohc.network/organization/76f8a81d-04e7-43ee-852f-1757c538b295/facilities\n\nhttps://care.ohc.network/facility/605215bd-6215-45dd-bc20-aaeceb474ca1/encounters "
+      "text": "@Jacobjeevan can you check for below pages in mobile. The previous and next buttons are not jumpt to first/last\n\nhttps://care.openfoodfacts.org/organization/76f8a81d-04e7-43ee-852f-1757c538b295/facilities\n\nhttps://care.openfoodfacts.org/facility/605215bd-6215-45dd-bc20-aaeceb474ca1/encounters "
     },
     {
       "type": "comment_created",
@@ -1838,7 +1838,7 @@
       "title": "ohcnetwork/care_fe#9506",
       "time": "2024-12-20T06:05:11.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9506#issuecomment-2556350949",
-      "text": "@Jacobjeevan @samholics \nIt is working fine in care.ohc.network.\nFor production how could i address Can you please guide me"
+      "text": "@Jacobjeevan @samholics \nIt is working fine in care.openfoodfacts.org.\nFor production how could i address Can you please guide me"
     },
     {
       "type": "comment_created",

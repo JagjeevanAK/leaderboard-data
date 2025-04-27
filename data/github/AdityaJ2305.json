@@ -2153,7 +2153,7 @@
       "title": "ohcnetwork/care_fe#11051",
       "time": "2025-03-05T12:52:05.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/11051#issuecomment-2700846482",
-      "text": "https://slack.ohc.network/"
+      "text": "https://slack.openfoodfacts.org/"
     },
     {
       "type": "comment_created",
@@ -3554,7 +3554,7 @@
       "title": "ohcnetwork/care_fe#10563",
       "time": "2025-02-13T13:06:14.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/10563#issuecomment-2656543774",
-      "text": "@amjithtitus09, please check this [preview link](https://deploy-preview-10563.preview.ohc.network/facility/605215bd-6215-45dd-bc20-aaeceb474ca1/patient/ae02cf2e-4a49-4a71-bb3e-3114a6a78ea9/encounter/bfff97be-1e5f-4041-8c5c-414c99c26c5c/treatment_summary) and let me know your thoughts on the changes made to the blue box."
+      "text": "@amjithtitus09, please check this [preview link](https://deploy-preview-10563.preview.openfoodfacts.org/facility/605215bd-6215-45dd-bc20-aaeceb474ca1/patient/ae02cf2e-4a49-4a71-bb3e-3114a6a78ea9/encounter/bfff97be-1e5f-4041-8c5c-414c99c26c5c/treatment_summary) and let me know your thoughts on the changes made to the blue box."
     },
     {
       "type": "comment_created",
@@ -5302,7 +5302,7 @@
       "title": "ohcnetwork/care_fe#9595",
       "time": "2024-12-27T12:01:36.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9595#issuecomment-2563631662",
-      "text": "> https://care-staging.ohc.network/facility/5880ad89-57ae-4994-af50-7d99855e7f9d/patient/050080f2-252b-46e4-a44e-eba324693c16/consultation/40396cc3-e859-419e-a659-c6d59cc6b81f/prescriptions\n> \n> [@AdityaJ2305](https://github.com/AdityaJ2305) try to add it here\n\nWorking fine "
+      "text": "> https://care-staging.openfoodfacts.org/facility/5880ad89-57ae-4994-af50-7d99855e7f9d/patient/050080f2-252b-46e4-a44e-eba324693c16/consultation/40396cc3-e859-419e-a659-c6d59cc6b81f/prescriptions\n> \n> [@AdityaJ2305](https://github.com/AdityaJ2305) try to add it here\n\nWorking fine "
     },
     {
       "type": "comment_created",
@@ -6287,7 +6287,7 @@
       "title": "ohcnetwork/care_fe#9101",
       "time": "2024-11-13T14:44:24.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/9101#issuecomment-2473822768",
-      "text": "> [@AdityaJ2305](https://github.com/AdityaJ2305) seem like your develop is out of sync, check in care.ohc.network or update your local develop\n\nNo, it is up to date "
+      "text": "> [@AdityaJ2305](https://github.com/AdityaJ2305) seem like your develop is out of sync, check in care.openfoodfacts.org or update your local develop\n\nNo, it is up to date "
     },
     {
       "type": "comment_created",

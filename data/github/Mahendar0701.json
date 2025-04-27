@@ -1130,7 +1130,7 @@
       "title": "ohcnetwork/care_fe#9377",
       "time": "2024-12-23T13:42:42.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/9377#issuecomment-2559734523",
-      "text": "@nihal467 , @rithviknishad @Jacobjeevan with the latest merges in care.ohc.network, the actions buttons in patient details page is looking inconsistent.This PR will resolve it. \r\n![image](https://github.com/user-attachments/assets/8d752583-ccf9-419e-895b-bc88559e228b)\r\n\r\n\r\nShould i raise a PR immediately to correct the design of buttons if this PR takes time to get merged??"
+      "text": "@nihal467 , @rithviknishad @Jacobjeevan with the latest merges in care.openfoodfacts.org, the actions buttons in patient details page is looking inconsistent.This PR will resolve it. \r\n![image](https://github.com/user-attachments/assets/8d752583-ccf9-419e-895b-bc88559e228b)\r\n\r\n\r\nShould i raise a PR immediately to correct the design of buttons if this PR takes time to get merged??"
     },
     {
       "type": "comment_created",

@@ -932,7 +932,7 @@
       "title": "ohcnetwork/care_fe#10777",
       "time": "2025-02-28T12:39:40.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/10777#issuecomment-2690546947",
-      "text": "@Jacobjeevan In  care.ohc.network , When navigating back using the mouse back button,\r\nThe search term disappears, and the page refreshes, but the search bar still shows the old search term.\r\nIn this video we can see, the search term  in still in the search bar\r\n\r\n\r\nhttps://github.com/user-attachments/assets/08d50e9f-52af-4f36-86c3-8b0e1510cfd2\r\n\r\n\r\n\r\n\r\nWhen using the browser's mouse back button, the 'Search Encounter' field should clear as if characters are being deleted one by one.\r\n\r\nhttps://github.com/user-attachments/assets/769f42ec-b932-4eb7-ac74-2af7f62db44f\r\n\r\n\r\n"
+      "text": "@Jacobjeevan In  care.openfoodfacts.org , When navigating back using the mouse back button,\r\nThe search term disappears, and the page refreshes, but the search bar still shows the old search term.\r\nIn this video we can see, the search term  in still in the search bar\r\n\r\n\r\nhttps://github.com/user-attachments/assets/08d50e9f-52af-4f36-86c3-8b0e1510cfd2\r\n\r\n\r\n\r\n\r\nWhen using the browser's mouse back button, the 'Search Encounter' field should clear as if characters are being deleted one by one.\r\n\r\nhttps://github.com/user-attachments/assets/769f42ec-b932-4eb7-ac74-2af7f62db44f\r\n\r\n\r\n"
     },
     {
       "type": "comment_created",

@@ -146,7 +146,7 @@
       "title": "ohcnetwork/care_teleicu_devices_fe#22",
       "time": "2025-04-21T14:04:08.000Z",
       "link": "https://github.com/ohcnetwork/care_teleicu_devices_fe/issues/22#issuecomment-2818473207",
-      "text": "https://develop-api.ohc.network\nUse this as backend "
+      "text": "https://develop-api.openfoodfacts.org\nUse this as backend "
     },
     {
       "type": "pr_merged",
@@ -728,7 +728,7 @@
       "title": "ohcnetwork/care_fe#11436",
       "time": "2025-04-02T09:36:35.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/11436#issuecomment-2771997544",
-      "text": "Otp should be like this,  Kerala Care Login, OTP 45612. @deploy-preview-11436.preview.ohc.network #45612"
+      "text": "Otp should be like this,  Kerala Care Login, OTP 45612. @deploy-preview-11436.preview.openfoodfacts.org #45612"
     },
     {
       "type": "comment_created",
@@ -945,7 +945,7 @@
       "title": "ohcnetwork/care_fe#11259",
       "time": "2025-03-12T16:58:34.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/11259#issuecomment-2718535729",
-      "text": "@deepANghan \n[Click here to reproduce](https://care.ohc.network/facility/490a6d07-1baf-47f3-9f0f-18be27284fcb/patient/0a337f3c-d4c0-47c1-85d3-86cc24d16f9a/encounter/23551bba-7daa-432a-8cf5-dfd3c67492f1/claims)"
+      "text": "@deepANghan \n[Click here to reproduce](https://care.openfoodfacts.org/facility/490a6d07-1baf-47f3-9f0f-18be27284fcb/patient/0a337f3c-d4c0-47c1-85d3-86cc24d16f9a/encounter/23551bba-7daa-432a-8cf5-dfd3c67492f1/claims)"
     },
     {
       "type": "pr_opened",
@@ -987,7 +987,7 @@
       "title": "ohcnetwork/care_fe#11132",
       "time": "2025-03-08T18:17:11.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/11132#issuecomment-2708428050",
-      "text": "@motaboii [Click here to reproduce](https://care.ohc.network/facility/605215bd-6215-45dd-bc20-aaeceb474ca1/patient/6e7b2961-6b21-4f1f-94ea-f12ae5fb692f/encounter/fb423c25-98c1-4081-a2f7-5d774204d6e6/prescriptions/print)"
+      "text": "@motaboii [Click here to reproduce](https://care.openfoodfacts.org/facility/605215bd-6215-45dd-bc20-aaeceb474ca1/patient/6e7b2961-6b21-4f1f-94ea-f12ae5fb692f/encounter/fb423c25-98c1-4081-a2f7-5d774204d6e6/prescriptions/print)"
     },
     {
       "type": "comment_created",
@@ -1276,7 +1276,7 @@
       "title": "ohcnetwork/care_fe#10926",
       "time": "2025-03-02T06:25:22.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10926#issuecomment-2692582353",
-      "text": "[Click here to reporoduce](https://care.ohc.network/facility/3b192b21-e466-4993-9674-87518e820170/patient/658b8a96-adce-4948-a5f5-018a1d7006c1/encounter/8c95cdc7-30c4-4210-b88a-ee2cb5f6404a/files)"
+      "text": "[Click here to reporoduce](https://care.openfoodfacts.org/facility/3b192b21-e466-4993-9674-87518e820170/patient/658b8a96-adce-4948-a5f5-018a1d7006c1/encounter/8c95cdc7-30c4-4210-b88a-ee2cb5f6404a/files)"
     },
     {
       "type": "comment_created",
@@ -2704,7 +2704,7 @@
       "title": "ohcnetwork/care_fe#8933",
       "time": "2024-10-27T00:30:09.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/8933#issuecomment-2439781083",
-      "text": "## Proposed Changes\r\n add responsive shadcn breadcrumbs\r\n\r\n- Fixes #8831 \r\n\r\nCurrent version\r\n![Screenshot 2024-10-27 055208](https://github.com/user-attachments/assets/04d123f1-5b20-4037-a36a-2d97f47b040c)\r\n\r\nLast item broken\r\n\r\n![Screenshot 2024-10-27 055401](https://github.com/user-attachments/assets/24d42762-966d-4995-89ff-241ff850f464)\r\n\r\nNo dropdown here\r\n\r\nUpdated version\r\n\r\n![Screenshot 2024-10-27 055745](https://github.com/user-attachments/assets/bd7fd764-3b87-4d0e-8b09-86007d10c358)\r\nLast item broken issue solved\r\n\r\n![Screenshot 2024-10-27 055906](https://github.com/user-attachments/assets/a68e54a6-ee9b-465d-91f0-686a3c9daaa1)\r\nShadcn Dropdown added\r\n\r\n@ohcnetwork/care-fe-code-reviewers\r\n\r\n## Merge Checklist\r\n\r\n- [ ] Add specs that demonstrate bug / test a new feature.\r\n- [ ] Update [product documentation](https://docs.ohc.network).\r\n- [ ] Ensure that UI text is kept in I18n files.\r\n- [ ] Prep screenshot or demo video for changelog entry, and attach it to issue.\r\n- [ ] Request for Peer Reviews\r\n- [ ] Completion of QA"
+      "text": "## Proposed Changes\r\n add responsive shadcn breadcrumbs\r\n\r\n- Fixes #8831 \r\n\r\nCurrent version\r\n![Screenshot 2024-10-27 055208](https://github.com/user-attachments/assets/04d123f1-5b20-4037-a36a-2d97f47b040c)\r\n\r\nLast item broken\r\n\r\n![Screenshot 2024-10-27 055401](https://github.com/user-attachments/assets/24d42762-966d-4995-89ff-241ff850f464)\r\n\r\nNo dropdown here\r\n\r\nUpdated version\r\n\r\n![Screenshot 2024-10-27 055745](https://github.com/user-attachments/assets/bd7fd764-3b87-4d0e-8b09-86007d10c358)\r\nLast item broken issue solved\r\n\r\n![Screenshot 2024-10-27 055906](https://github.com/user-attachments/assets/a68e54a6-ee9b-465d-91f0-686a3c9daaa1)\r\nShadcn Dropdown added\r\n\r\n@ohcnetwork/care-fe-code-reviewers\r\n\r\n## Merge Checklist\r\n\r\n- [ ] Add specs that demonstrate bug / test a new feature.\r\n- [ ] Update [product documentation](https://docs.openfoodfacts.org).\r\n- [ ] Ensure that UI text is kept in I18n files.\r\n- [ ] Prep screenshot or demo video for changelog entry, and attach it to issue.\r\n- [ ] Request for Peer Reviews\r\n- [ ] Completion of QA"
     },
     {
       "type": "comment_created",

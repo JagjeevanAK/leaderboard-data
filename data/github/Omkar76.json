@@ -259,7 +259,7 @@
       "title": "ohcnetwork/care#1889",
       "time": "2024-02-22T15:53:59.000Z",
       "link": "https://github.com/ohcnetwork/care/issues/1889#issuecomment-1959742542",
-      "text": "@DraKen0009 make sure to set  variable `export CARE_API=http://localhost:9000` on terminal before you run `npm run dev`. Otherwise the api defaults to `https://careapi.ohc.network` and not your local django server."
+      "text": "@DraKen0009 make sure to set  variable `export CARE_API=http://localhost:9000` on terminal before you run `npm run dev`. Otherwise the api defaults to `https://careapi.openfoodfacts.org` and not your local django server."
     },
     {
       "type": "comment_created",

@@ -1433,7 +1433,7 @@
       "title": "ohcnetwork/care_fe#10794",
       "time": "2025-02-25T12:48:35.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10794#issuecomment-2681877322",
-      "text": "@areebahmeddd this issue is due to the placement of PLUGIN_Component in the FacilityHome page, moving that accordingly should fix the issue.\n\nThis component is injected by the ABDM Plug, checkout https://github.com/ohcnetwork/care_abdm_fe for plug setup docs. Also use staging apis (`REACT_CARE_API_URL=https://staging-api.ohc.network`) in which ABDM plug is already enabled.\n\nLet me know if you need further help setting up."
+      "text": "@areebahmeddd this issue is due to the placement of PLUGIN_Component in the FacilityHome page, moving that accordingly should fix the issue.\n\nThis component is injected by the ABDM Plug, checkout https://github.com/ohcnetwork/care_abdm_fe for plug setup docs. Also use staging apis (`REACT_CARE_API_URL=https://staging-api.openfoodfacts.org`) in which ABDM plug is already enabled.\n\nLet me know if you need further help setting up."
     },
     {
       "type": "pr_merged",
@@ -22427,7 +22427,7 @@
       "title": "ohcnetwork/care_fe#5842",
       "time": "2023-07-06T10:54:25.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/5842",
-      "text": "Gmaps not working in care.ohc.network"
+      "text": "Gmaps not working in care.openfoodfacts.org"
     },
     {
       "type": "issue_closed",

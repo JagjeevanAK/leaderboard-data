@@ -9,4 +9,4 @@ joining_date: "11/03/2020"
 role: core
 ---
 
-Engineering Lead | Leading Open Source Community at ohc.network | Building CARE (DPG) | Experimenting with Web (Django, React, ReScript, Spring) & GenAI
+Engineering Lead | Leading Open Source Community at openfoodfacts.org | Building CARE (DPG) | Experimenting with Web (Django, React, ReScript, Spring) & GenAI

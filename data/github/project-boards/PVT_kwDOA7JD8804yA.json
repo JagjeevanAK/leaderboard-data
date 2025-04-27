@@ -3321,7 +3321,7 @@
   "PVTI_lADOA7JD8804yM4FCvkQ/tellmeY18": {
     "type": "ISSUE",
     "url": "https://github.com/ohcnetwork/landing/issues/16",
-    "title": "Move ohc network to cloudflare pages",
+    "title": "Move openfoodfacts.org to cloudflare pages",
     "createdAt": "2024-10-24T03:35:10Z",
     "updatedAt": "2024-11-14T14:23:31Z",
     "closedAt": "2024-11-14T14:23:28Z",
@@ -9788,7 +9788,7 @@
   "PVTI_lADOA7JD8804yM4CE2Qi/aparnacoronasafe": {
     "type": "ISSUE",
     "url": "https://github.com/ohcnetwork/care_fe/issues/5255",
-    "title": "Removal of Buttons for Live dashboard on ohc.network",
+    "title": "Removal of Buttons for Live dashboard on openfoodfacts.org",
     "createdAt": "2023-08-02T06:16:08Z",
     "updatedAt": "2024-08-19T17:01:48Z",
     "closedAt": "2024-08-19T17:01:44Z",
@@ -27233,7 +27233,7 @@
   "PVTI_lADOA7JD8804yM4GSQlv/rithviknishad": {
     "type": "PULL_REQUEST",
     "url": "https://github.com/ohcnetwork/care_fe/pull/11798",
-    "title": "docs: update API credentials in README for care.ohc.network",
+    "title": "docs: update API credentials in README for care.openfoodfacts.org",
     "createdAt": "2025-04-08T06:20:52Z",
     "updatedAt": "2025-04-15T06:26:04Z",
     "closedAt": "2025-04-08T07:21:30Z",

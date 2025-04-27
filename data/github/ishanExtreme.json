@@ -158,7 +158,7 @@
       "title": "ohcnetwork/ayushma#327",
       "time": "2023-09-17T19:18:11.000Z",
       "link": "https://github.com/ohcnetwork/ayushma/pull/327#issuecomment-1722546612",
-      "text": "> > > Is the endpoint supposed to be open? No authentication needed?\r\n> > \r\n> > \r\n> > for now, care-whisper endpoint is open we can deploy it in Private Network so that only care microservices can use it, or if required we can add auth. Currently its not for public usage so we don't necessary required auth we can just deploy it in a Private Network.\r\n> \r\n> The URL you added, `whisper.ohc.network` is not within a private network and is accessible and usable publicly. I am able to post URL of an audio and get it to transcribe. Just wanted to make sure if this was intentional and that by pushing that URL in this commit, the endpoint now being publicly known is okay.\r\n\r\nOh okay gotchya, fixing the issue..."
+      "text": "> > > Is the endpoint supposed to be open? No authentication needed?\r\n> > \r\n> > \r\n> > for now, care-whisper endpoint is open we can deploy it in Private Network so that only care microservices can use it, or if required we can add auth. Currently its not for public usage so we don't necessary required auth we can just deploy it in a Private Network.\r\n> \r\n> The URL you added, `whisper.openfoodfacts.org` is not within a private network and is accessible and usable publicly. I am able to post URL of an audio and get it to transcribe. Just wanted to make sure if this was intentional and that by pushing that URL in this commit, the endpoint now being publicly known is okay.\r\n\r\nOh okay gotchya, fixing the issue..."
     },
     {
       "type": "comment_created",
@@ -567,7 +567,7 @@
       "title": "ohcnetwork/ayushma#72",
       "time": "2023-04-28T10:14:07.000Z",
       "link": "https://github.com/ohcnetwork/ayushma/issues/72#issuecomment-1527326435",
-      "text": "Updates:\r\n\r\n1. New Prompt added: https://ayushma.ohc.network/project/c3c5ef72-0e86-4bb7-a887-ca62e13f2b46\r\n```\r\nMain Focused point: to limit the bots power and make it safe in terms of not giving unsafe answers.\r\n```"
+      "text": "Updates:\r\n\r\n1. New Prompt added: https://ayushma.openfoodfacts.org/project/c3c5ef72-0e86-4bb7-a887-ca62e13f2b46\r\n```\r\nMain Focused point: to limit the bots power and make it safe in terms of not giving unsafe answers.\r\n```"
     },
     {
       "type": "issue_opened",

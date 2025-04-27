@@ -1613,7 +1613,7 @@
       "title": "ohcnetwork/care_fe#10731",
       "time": "2025-02-21T11:48:39.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/issues/10731#issuecomment-2674343236",
-      "text": "> **To Reproduce** Steps to reproduce the behavior:\n> \n>     1. Navigate to [Staging Environment](https://staging.ohc.network/facility/451c19a1-17f2-4304-8165-f84d958f3efe/).\n> \n>     2. Click on Encounter and attempt to change the patient’s location.\n> \n>     3. Notice that the location field is not accessible.\n> \n> \n> note: test-feb-doc01 (password: Test@123)\n> \n\n\n<img width=\"1470\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fe507d1e-eedd-4b6b-9e9c-0d816228a2e5\" /> also there is no locations in it to update 🧐 "
+      "text": "> **To Reproduce** Steps to reproduce the behavior:\n> \n>     1. Navigate to [Staging Environment](https://staging.openfoodfacts.org/facility/451c19a1-17f2-4304-8165-f84d958f3efe/).\n> \n>     2. Click on Encounter and attempt to change the patient’s location.\n> \n>     3. Notice that the location field is not accessible.\n> \n> \n> note: test-feb-doc01 (password: Test@123)\n> \n\n\n<img width=\"1470\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/fe507d1e-eedd-4b6b-9e9c-0d816228a2e5\" /> also there is no locations in it to update 🧐 "
     },
     {
       "type": "comment_created",
@@ -2410,7 +2410,7 @@
       "title": "ohcnetwork/care_fe#9707",
       "time": "2025-01-03T16:20:57.000Z",
       "link": "https://github.com/ohcnetwork/care_fe/pull/9707#issuecomment-2569489566",
-      "text": "> Although this works, we are moving towards migrating to useQuery/useMutation from tanstack query.\r\n> \r\n> See docs: https://docs.ohc.network/docs/care/development/data-fetching-in-care/\r\n> \r\n> Do make changes as mentioned in the docs.\r\n> \r\n> It should automatically handle the notifications for you (for http errors). Success would still need to be manually handled though.\r\n\r\nokay @rithviknishad on it"
+      "text": "> Although this works, we are moving towards migrating to useQuery/useMutation from tanstack query.\r\n> \r\n> See docs: https://docs.openfoodfacts.org/docs/care/development/data-fetching-in-care/\r\n> \r\n> Do make changes as mentioned in the docs.\r\n> \r\n> It should automatically handle the notifications for you (for http errors). Success would still need to be manually handled though.\r\n\r\nokay @rithviknishad on it"
     },
     {
       "type": "comment_created",

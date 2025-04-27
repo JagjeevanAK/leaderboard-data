@@ -674,7 +674,7 @@
         {
             "client_msg_id": "8d72ce71-f077-48bf-95a2-9be5093a22e9",
             "type": "message",
-            "text": "EOD 06/07/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nHow did the day go?\n\u2022 Meeting with Sanketika team for a demo of Sunbird Obsrv.\n\u2022 Done Metabase changes requested by Gayan.\n\u2022 Troubleshot issues with Plexus Care instance. Upgraded the instance because it was under-provisioned.\n\u2022 Fixed issue with Maps on care.ohc.network.\n\u2022 Offloaded a Ops documentation to James.\n\u2022 Call with Naganath for clearing concerns on Mesh Network setup in Hubli. Send an email explaining steps with diagram.\nWhat's Next?\n\u2022 Metabase dashboard V3. The dashboard needs to have a hospital filter and a date filter.",
+            "text": "EOD 06/07/2023 <!subteam^S035L5S02RF|@care_engineering>\n\nHow did the day go?\n\u2022 Meeting with Sanketika team for a demo of Sunbird Obsrv.\n\u2022 Done Metabase changes requested by Gayan.\n\u2022 Troubleshot issues with Plexus Care instance. Upgraded the instance because it was under-provisioned.\n\u2022 Fixed issue with Maps on care.openfoodfacts.org.\n\u2022 Offloaded a Ops documentation to James.\n\u2022 Call with Naganath for clearing concerns on Mesh Network setup in Hubli. Send an email explaining steps with diagram.\nWhat's Next?\n\u2022 Metabase dashboard V3. The dashboard needs to have a hospital filter and a date filter.",
             "user": "UPW6XDGDD",
             "ts": "1688676298.906639",
             "blocks": [
@@ -734,7 +734,7 @@
                                     "elements": [
                                         {
                                             "type": "text",
-                                            "text": "Fixed issue with Maps on care.ohc.network."
+                                            "text": "Fixed issue with Maps on care.openfoodfacts.org."
                                         }
                                     ]
                                 },
