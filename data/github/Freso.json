@@ -1,0 +1,86 @@
+{
+  "last_updated": "2025-04-28T12:47:19.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11827",
+      "time": "2025-04-28T12:47:19.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11827#issuecomment-2835131791",
+      "text": "Were all the removals intentional?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11828",
+      "time": "2025-04-28T12:22:41.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11828",
+      "text": "taxonomy: Dedupe beauty ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11825",
+      "time": "2025-04-28T12:16:46.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11825",
+      "text": "taxonomy: Expand vegan food product categories",
+      "turnaround_time": 136801
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11830",
+      "title": "Demote products from vegan/vegetarian/palm-oil-free if they have ingredients specifically contradicting this",
+      "stale_for": 0,
+      "labels": [
+        "palm oil",
+        "🌱 Vegan",
+        "Vegetarian"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11798",
+      "title": "Category `en: Pickles` is both pickled cucumbers and pickled vegetables more generally",
+      "stale_for": 10,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1498",
+      "title": "Link products to country site of shop location",
+      "stale_for": 17,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11685",
+      "title": "Display currently served version of the taxonomies and website on pages",
+      "stale_for": 28,
+      "labels": [
+        "👩‍💻 DevOps"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11572",
+      "title": "Unrecognised ingredient (sv): “Rainforest Alliance-certifierad fettreducerat kakaopulver”",
+      "stale_for": 37,
+      "labels": [
+        "labels",
+        "🥗 Ingredients"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10678",
+      "title": "Allergen markup in ingredients lists breaks identification of compound words",
+      "stale_for": 192,
+      "labels": [
+        "🥗🔍 Ingredients analysis"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11707",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11687"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11707",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11726"
+    }
+  ]
+}

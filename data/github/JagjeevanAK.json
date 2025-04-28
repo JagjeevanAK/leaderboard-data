@@ -1,0 +1,22 @@
+{
+  "last_updated": "2025-04-28T12:18:08.000Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11826",
+      "time": "2025-04-28T12:18:08.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11826",
+      "text": "fix: Minor changes in spec file",
+      "turnaround_time": 104521
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11770",
+      "title": "Image of Schema of the ingredients flow in get-ingredient-related-analysis.md is missing",
+      "stale_for": 18,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-04-23T11:04:16.000Z",
+  "last_updated": "2025-04-28T12:30:07.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11823",
+      "time": "2025-04-28T12:30:07.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11823#issuecomment-2835086743",
+      "text": "make update_tests_results"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/folksonomy_api#258",
+      "time": "2025-04-28T09:54:46.000Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/258",
+      "text": "feat: Add pre-commit configuration for code quality checks",
+      "turnaround_time": 3802823
+    },
     {
       "type": "comment_created",
       "title": "ohcnetwork/care_fe#12044",
@@ -1087,80 +1102,32 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/ohcnetwork/care/pull/3002",
-      "title": "fix(ci): workflow perms",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/care_fe/pull/12000",
-      "title": "Configure security headers",
-      "stale_for": 2,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/docs/pull/115",
-      "title": "add FAQ for be, fe, plugins",
-      "stale_for": 5,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/hi-profiles/pull/5",
-      "title": "add action workflow for npm publishing",
-      "stale_for": 0,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/docs/pull/114",
-      "title": "feat: Add Azure deployment guides for CARE-BE app",
-      "stale_for": 13,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/docs/pull/110",
-      "title": "fix: Update documentation for AWS",
-      "stale_for": 1,
-      "labels": []
-    },
-    {
-      "link": "https://github.com/ohcnetwork/infra_template/pull/4",
-      "title": "fix: update kubernetes configurations for care infrastructure",
-      "stale_for": 47,
+      "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/123",
+      "title": "Docker CI workflow fails with 403 Forbidden error when pushing images from PRs",
+      "stale_for": 41,
       "labels": []
     }
   ],
   "authored_issue_and_pr": [
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11961",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11962"
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11723",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11743"
     },
     {
-      "issue_link": "https://github.com/ohcnetwork/docs/issues/106",
-      "pr_link": "https://github.com/ohcnetwork/docs/pull/107"
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11723",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11785"
     },
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11242",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11241"
+      "issue_link": "https://github.com/openfoodfacts/folksonomy_api/issues/264",
+      "pr_link": "https://github.com/openfoodfacts/folksonomy_api/pull/265"
     },
     {
-      "issue_link": "https://github.com/ohcnetwork/care_sbom/issues/9",
-      "pr_link": "https://github.com/ohcnetwork/care_sbom/pull/10"
+      "issue_link": "https://github.com/openfoodfacts/folksonomy_api/issues/256",
+      "pr_link": "https://github.com/openfoodfacts/folksonomy_api/pull/247"
     },
     {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/11048",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/11058"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10836",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10939"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_sbom/issues/6",
-      "pr_link": "https://github.com/ohcnetwork/care_sbom/pull/7"
-    },
-    {
-      "issue_link": "https://github.com/ohcnetwork/care_fe/issues/10461",
-      "pr_link": "https://github.com/ohcnetwork/care_fe/pull/10577"
+      "issue_link": "https://github.com/openfoodfacts/folksonomy_api/issues/256",
+      "pr_link": "https://github.com/openfoodfacts/folksonomy_api/pull/258"
     }
   ]
 }

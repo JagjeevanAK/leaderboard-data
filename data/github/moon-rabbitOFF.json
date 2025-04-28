@@ -1,0 +1,26 @@
+{
+  "last_updated": "2025-04-28T12:19:15.000Z",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11827",
+      "time": "2025-04-28T12:19:15.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11827",
+      "text": "taxonomy: paratha",
+      "turnaround_time": 93696
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1017",
+      "title": "Include search refinements in facets",
+      "stale_for": 75,
+      "labels": [
+        "🔎  Search",
+        "facets",
+        "🎨 Mockup available"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}
