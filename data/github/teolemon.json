@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-28T13:23:02.000Z",
+  "last_updated": "2025-04-28T14:00:47.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-04-28T13:55:56.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#11670",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11670#pullrequestreview-2799399595",
+      "text": "l10n: New Crowdin translations to review and merge"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-04-28T13:23:02.000Z",
@@ -235,7 +242,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11749",
       "title": "Products from South Korean app",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": [
         "Data import",
         "Data donations",

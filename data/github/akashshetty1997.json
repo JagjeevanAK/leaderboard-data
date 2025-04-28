@@ -1,0 +1,26 @@
+{
+  "last_updated": "2025-04-28T13:59:10.000Z",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#180",
+      "time": "2025-04-28T13:59:10.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/180#issuecomment-2835348605",
+      "text": "> [@akashshetty1997](https://github.com/akashshetty1997) is CSP triggered even when adding the web-components repo as a dependency and using it locally?\n\nYes, CSP still blocks it even when installed locally.\nIt's because <searchalicious-results> uses new Function() at runtime, and CSP blocks dynamic code evaluation by default."
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/470",
+      "title": "Console Error After Denying Location Permission on Product Page",
+      "stale_for": 14,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/510",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/511"
+    }
+  ]
+}

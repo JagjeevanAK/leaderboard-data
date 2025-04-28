@@ -202,7 +202,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10832",
       "title": "User deletion does not work on OPFF, OPF, OBF",
-      "stale_for": 180,
+      "stale_for": 181,
       "labels": [
         "🧴 Open Beauty Facts",
         "🐾 Open Pet Food Facts",
