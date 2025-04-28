@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-28T12:47:19.000Z",
+  "last_updated": "2025-04-28T14:26:41.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11830",
+      "time": "2025-04-28T14:26:41.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11830",
+      "text": "Demote products from vegan/vegetarian/palm-oil-free if they have ingredients specifically contradicting this"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-server#11827",

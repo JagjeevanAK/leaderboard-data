@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-28T13:59:10.000Z",
+  "last_updated": "2025-04-28T14:01:12.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#180",
+      "time": "2025-04-28T14:01:12.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/180#issuecomment-2835354624",
+      "text": "> [@akashshetty1997](https://github.com/akashshetty1997) if you know how to fix those issue on search-a-licious side, it is more than welcome !\n\nYes! I'd be happy to help with that.\nI understand that fixing this would require changing how <searchalicious-results> builds templates (avoiding the use of new Function() at runtime) to make it CSP-compatible."
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-explorer#180",

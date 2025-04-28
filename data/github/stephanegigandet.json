@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-28T12:32:36.000Z",
+  "last_updated": "2025-04-28T14:20:13.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11829",
+      "time": "2025-04-28T14:20:13.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11829",
+      "text": "fix: use 'yes' instead of 'en:yes' for vegan / vegetarian ingredients properties"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-04-28T12:32:36.000Z",
@@ -334,7 +341,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9752",
       "title": "Simplify the templates that render knowledge panels on the web",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "📖 Knowledge Panels",
         "Template::Toolkit"
