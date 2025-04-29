@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-10-29T08:07:51Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9225",
+      "time": "2023-10-29T08:07:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9225",
+      "text": "fix: enable all languages on world; fix language dropdown (#9209)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

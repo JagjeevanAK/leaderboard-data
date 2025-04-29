@@ -1,0 +1,35 @@
+{
+  "last_updated": "2020-03-05T09:43:26Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#19",
+      "time": "2020-03-05T09:43:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/19",
+      "text": "Fix for https://github.com/openfoodfacts/openfoodfacts-php/issues/18"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#19",
+      "time": "2020-03-05T13:46:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/19",
+      "text": "Fix for https://github.com/openfoodfacts/openfoodfacts-php/issues/18"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#21",
+      "time": "2020-03-05T20:01:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/21",
+      "text": "Increase PHP Unit Code Coverage"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#21",
+      "time": "2020-03-06T10:41:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/21",
+      "text": "Increase PHP Unit Code Coverage"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

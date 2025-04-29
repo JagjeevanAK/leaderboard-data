@@ -1,0 +1,70 @@
+{
+  "last_updated": "2020-10-14T11:40:41Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#26",
+      "time": "2020-10-14T11:40:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/26",
+      "text": "Support for Guzzle 7.x"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#44",
+      "time": "2022-08-18T07:32:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/44",
+      "text": "chore!: Upgrade dependencies (dropping < PHP8)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#65",
+      "time": "2024-06-11T05:31:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/65",
+      "text": "fix: ext-gd as dev. dependency"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-laravel#22",
+      "time": "2022-08-04T10:17:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/22",
+      "text": "feat: Explicit geography"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-laravel#22",
+      "time": "2024-05-01T20:31:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/22",
+      "text": "feat: Explicit geography"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-laravel#23",
+      "time": "2022-08-04T11:48:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/23",
+      "text": "fix: Deepsource config changes +  typehints"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-laravel#23",
+      "time": "2022-08-04T12:10:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/23",
+      "text": "fix: Deepsource config changes +  typehints"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-laravel#49",
+      "time": "2024-05-01T09:34:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/49",
+      "text": "feat: Laravel 10.x & 11.x Compatibility "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-laravel#49",
+      "time": "2024-05-01T10:33:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/49",
+      "text": "feat: Laravel 10.x & 11.x Compatibility "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

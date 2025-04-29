@@ -1,0 +1,77 @@
+{
+  "last_updated": "2023-02-11T17:25:31Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3696",
+      "time": "2023-02-11T17:25:31Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3696",
+      "text": "fix: 2987 - The section header are smaller and not as color flashy as the titles of the individual settings."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3696",
+      "time": "2023-05-19T16:27:26Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3696",
+      "text": "fix: 2987 - The section header are smaller and not as color flashy as the titles of the individual settings."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3708",
+      "time": "2023-02-14T19:49:42Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3708",
+      "text": "fix: 3700 - Fixed widget overflow issues in product editing page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3714",
+      "time": "2023-02-17T19:56:03Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3714",
+      "text": "fix: 3700 - Fixed widget overflow issues in product editing page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3714",
+      "time": "2023-02-20T14:01:45Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3714",
+      "text": "fix: 3700 - Fixed widget overflow issues in product editing page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3718",
+      "time": "2023-02-19T09:16:17Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3718",
+      "text": "fix: 3459 - Added a shortcut in app settings to In-app settings"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3726",
+      "time": "2023-02-21T18:29:15Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3726",
+      "text": "fix: 3459 - Added a shortcut in app settings to In-app settings"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3726",
+      "time": "2023-02-26T10:53:46Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3726",
+      "text": "fix: 3459 - Added a shortcut in app settings to In-app settings"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3727",
+      "time": "2023-02-21T19:25:35Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3727",
+      "text": "fix: 3724 - Fixed bottom overflowed on the history page in small devices"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3727",
+      "time": "2023-02-26T10:58:42Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3727",
+      "text": "fix: 3724 - Fixed bottom overflowed on the history page in small devices"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

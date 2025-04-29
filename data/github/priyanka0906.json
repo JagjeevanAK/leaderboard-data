@@ -1,0 +1,35 @@
+{
+  "last_updated": "2022-03-14T15:51:54Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6484",
+      "time": "2022-03-14T15:51:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6484",
+      "text": "docs: Changed message in the MakeFile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6484",
+      "time": "2022-03-15T16:39:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6484",
+      "text": "docs: Changed message in the MakeFile"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6488",
+      "time": "2022-03-15T16:51:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6488",
+      "text": "docs: Typo correction"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6488",
+      "time": "2022-03-17T08:21:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6488",
+      "text": "docs: Typo correction"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

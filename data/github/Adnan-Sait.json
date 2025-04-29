@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-10-01T13:46:09Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#239",
+      "time": "2022-10-01T13:46:09Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/239",
+      "text": "Fix insights service call for non-annotated search"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#239",
+      "time": "2022-10-02T08:41:25Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/239",
+      "text": "Fix insights service call for non-annotated search"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

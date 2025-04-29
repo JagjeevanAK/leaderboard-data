@@ -1,0 +1,392 @@
+{
+  "last_updated": "2019-02-20T15:33:43Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2267",
+      "time": "2019-02-20T15:33:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2267",
+      "text": "fixes #2265 : adds scroll to preferences"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2276",
+      "time": "2019-02-21T15:38:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2276",
+      "text": "fixes #2273 : When no items are added to offline edit, Text is misplaced "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2276",
+      "time": "2019-02-23T20:04:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2276",
+      "text": "fixes #2273 : When no items are added to offline edit, Text is misplaced "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2295",
+      "time": "2019-02-24T05:59:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2295",
+      "text": "fixes #2274 : when user types a password less than 6 characters,text view error is overlapping with see password button. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2295",
+      "time": "2019-02-24T17:21:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2295",
+      "text": "fixes #2274 : when user types a password less than 6 characters,text view error is overlapping with see password button. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2306",
+      "time": "2019-02-25T13:34:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2306",
+      "text": "fixes #2304 :Add scroll view to the \"your lists\" category."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2307",
+      "time": "2019-02-25T13:42:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2307",
+      "text": "fixes #2304 : Add scroll view to the \"your lists\" category. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2325",
+      "time": "2019-02-28T09:52:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2325",
+      "text": "fixes #2322 and #2318 : add icons to various buttons."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2339",
+      "time": "2019-03-03T09:22:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2339",
+      "text": "Fixes #2338 : Update RX Java2 dependencies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2339",
+      "time": "2019-03-06T10:41:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2339",
+      "text": "Fixes #2338 : Update RX Java2 dependencies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2340",
+      "time": "2019-03-03T10:11:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2340",
+      "text": "Fixes #2337 :  Increase the height of edit text in calculate calories layout. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2340",
+      "time": "2019-03-06T21:50:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2340",
+      "text": "Fixes #2337 :  Increase the height of edit text in calculate calories layout. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2363",
+      "time": "2019-03-05T13:24:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2363",
+      "text": "fixes #2323 and #2322 :Added icons to some buttons"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2363",
+      "time": "2019-03-09T14:55:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2363",
+      "text": "fixes #2323 and #2322 :Added icons to some buttons"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2366",
+      "time": "2019-03-05T16:18:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2366",
+      "text": "fixes #2365 : Floating action button of scan is overlapping with history in toolbar in product layout"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2366",
+      "time": "2019-03-06T10:42:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2366",
+      "text": "fixes #2365 : Floating action button of scan is overlapping with history in toolbar in product layout"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2378",
+      "time": "2019-03-08T13:43:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2378",
+      "text": "fixes #2377 : Color of ADD Fab button in alert allergens fragment is looking overlapped with item number indicated as it is blue in colour. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2378",
+      "time": "2019-03-09T14:53:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2378",
+      "text": "fixes #2377 : Color of ADD Fab button in alert allergens fragment is looking overlapped with item number indicated as it is blue in colour. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2379",
+      "time": "2019-03-08T15:00:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2379",
+      "text": "fixes #2309 :  Add Error Message for empty Password in Sign-in Screen "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2379",
+      "time": "2019-03-23T22:04:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2379",
+      "text": "fixes #2309 :  Add Error Message for empty Password in Sign-in Screen "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2384",
+      "time": "2019-03-09T14:25:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2384",
+      "text": "Fixes #2383 :  Add a toast message when user clicks on \"delete local search history\" "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2384",
+      "time": "2019-03-11T22:13:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2384",
+      "text": "Fixes #2383 :  Add a toast message when user clicks on \"delete local search history\" "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2387",
+      "time": "2019-03-10T07:44:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2387",
+      "text": "New Telugu translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2405",
+      "time": "2019-03-12T13:15:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2405",
+      "text": "New Crowdin translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2412",
+      "time": "2019-03-12T16:53:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2412",
+      "text": "Fixes #2406 : Add a toast message when user successfully changes units and resolution of images in preferences. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2416",
+      "time": "2019-03-12T19:08:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2416",
+      "text": "Fixes #2406 : Add a toast message when user successfully changes units and resolution of images in preferences. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2416",
+      "time": "2019-03-13T19:02:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2416",
+      "text": "Fixes #2406 : Add a toast message when user successfully changes units and resolution of images in preferences. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2417",
+      "time": "2019-03-13T12:29:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2417",
+      "text": "Fixes #2322: adding icons to buttons as a part of making pixel perfect app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2435",
+      "time": "2019-03-16T06:12:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2435",
+      "text": "Fixes #2400 : Add a \"Send updated nutrition photo\" button below nutrition image"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2435",
+      "time": "2019-04-07T19:10:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2435",
+      "text": "Fixes #2400 : Add a \"Send updated nutrition photo\" button below nutrition image"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2450",
+      "time": "2019-03-19T12:58:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2450",
+      "text": "fixes #2442 :Disable notification of taxonomy download"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2450",
+      "time": "2019-04-04T04:11:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2450",
+      "text": "fixes #2442 :Disable notification of taxonomy download"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2515",
+      "time": "2019-04-02T13:27:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2515",
+      "text": "Updated the dagger version"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2516",
+      "time": "2019-04-03T11:13:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2516",
+      "text": "Updated the dagger version to 2.22"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2516",
+      "time": "2019-06-19T12:01:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2516",
+      "text": "Updated the dagger version to 2.22"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2517",
+      "time": "2019-04-03T12:19:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2517",
+      "text": "added toasts when user changes language and country"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2517",
+      "time": "2019-04-07T11:20:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2517",
+      "text": "added toasts when user changes language and country"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2519",
+      "time": "2019-04-04T12:05:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2519",
+      "text": "Icon of extract ingredients button is mismatching"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2519",
+      "time": "2019-04-05T23:11:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2519",
+      "text": "Icon of extract ingredients button is mismatching"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2544",
+      "time": "2019-04-09T15:53:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2544",
+      "text": "Style of Add products button in compare products layout  is fixed to \"Border button\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2545",
+      "time": "2019-04-09T16:02:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2545",
+      "text": "Changed style of \"Add products\" button in comparision layout to \"Border button\" style"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2545",
+      "time": "2019-04-10T13:20:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2545",
+      "text": "Changed style of \"Add products\" button in comparision layout to \"Border button\" style"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2548",
+      "time": "2019-04-10T13:53:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2548",
+      "text": "Fixes #2529 : You can edit a product without being logged in if you click on \"Add nutrition facts to compute Nutri-Score\" #2529 "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2548",
+      "time": "2019-05-06T08:35:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2548",
+      "text": "Fixes #2529 : You can edit a product without being logged in if you click on \"Add nutrition facts to compute Nutri-Score\" #2529 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2556",
+      "time": "2019-04-15T07:39:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2556",
+      "text": "Fixes #2543:  Harmonize color of icon and add margin with image"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2556",
+      "time": "2019-05-07T14:31:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2556",
+      "text": "Fixes #2543:  Harmonize color of icon and add margin with image"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2560",
+      "time": "2019-04-21T14:01:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2560",
+      "text": "Added styles to some of the buttons in edit section to maintain consistency in app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2560",
+      "time": "2019-04-28T19:43:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2560",
+      "text": "Added styles to some of the buttons in edit section to maintain consistency in app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2647",
+      "time": "2019-05-20T16:44:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2647",
+      "text": "Changed the button style of \"go to full product\" button in product comparison list layout and added icon to it."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2647",
+      "time": "2019-06-26T16:30:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2647",
+      "text": "Changed the button style of \"go to full product\" button in product comparison list layout and added icon to it."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2880",
+      "time": "2019-09-11T14:52:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2880",
+      "text": "Fixes  #2851  Impossible to scroll beyond 10 items in lists "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2880",
+      "time": "2019-09-12T12:27:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2880",
+      "text": "Fixes  #2851  Impossible to scroll beyond 10 items in lists "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2885",
+      "time": "2019-09-13T11:40:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2885",
+      "text": "Extract ingredients button is looking odd"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2885",
+      "time": "2019-10-03T08:45:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2885",
+      "text": "Extract ingredients button is looking odd"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2886",
+      "time": "2019-09-13T14:50:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2886",
+      "text": "Fixes #2810 Bug in the gradle"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

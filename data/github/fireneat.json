@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-07-31T17:58:24Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2692",
+      "time": "2022-07-31T17:58:24Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2692",
+      "text": "docs: Update instructions on how to access developer mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2692",
+      "time": "2022-08-01T08:07:18Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2692",
+      "text": "docs: Update instructions on how to access developer mode"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

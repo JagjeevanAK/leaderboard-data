@@ -1,0 +1,49 @@
+{
+  "last_updated": "2022-03-25T18:08:02Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1334",
+      "time": "2022-03-25T18:08:02Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1334",
+      "text": "Added hero animation to the product summary card"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1334",
+      "time": "2022-03-26T13:32:58Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1334",
+      "text": "Added hero animation to the product summary card"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1412",
+      "time": "2022-03-29T21:10:11Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1412",
+      "text": "fix: Added Fitted Box for food preferences text shrinking "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1412",
+      "time": "2022-03-30T13:48:59Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1412",
+      "text": "fix: Added Fitted Box for food preferences text shrinking "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1497",
+      "time": "2022-04-05T04:31:28Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1497",
+      "text": "fix: Overflow in add new product front photo button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1497",
+      "time": "2022-04-13T10:51:54Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1497",
+      "text": "fix: Overflow in add new product front photo button"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

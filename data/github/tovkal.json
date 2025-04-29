@@ -1,0 +1,21 @@
+{
+  "last_updated": "2017-12-11T22:03:33Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#41",
+      "time": "2017-12-11T22:03:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/41",
+      "text": "History of scanned products"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#41",
+      "time": "2017-12-19T18:27:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/41",
+      "text": "History of scanned products"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

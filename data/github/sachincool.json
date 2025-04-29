@@ -1,0 +1,91 @@
+{
+  "last_updated": "2018-02-13T22:24:49Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#736",
+      "time": "2018-02-13T22:24:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/736",
+      "text": "Add SerialVersionUID to Nutriments.java"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#736",
+      "time": "2018-02-16T18:59:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/736",
+      "text": "Add SerialVersionUID to Nutriments.java"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#785",
+      "time": "2018-02-17T11:00:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/785",
+      "text": "Fix SerialVersionUID"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#785",
+      "time": "2018-02-17T12:46:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/785",
+      "text": "Fix SerialVersionUID"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#812",
+      "time": "2018-02-19T17:04:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/812",
+      "text": "Fix Freeze on Nougat"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#858",
+      "time": "2018-02-21T18:46:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/858",
+      "text": "Fixes TLS Certs on Nougat"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#858",
+      "time": "2018-02-24T11:21:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/858",
+      "text": "Fixes TLS Certs on Nougat"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#860",
+      "time": "2018-02-21T20:03:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/860",
+      "text": "Add guidelines"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#860",
+      "time": "2018-02-22T09:10:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/860",
+      "text": "Add guidelines"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#978",
+      "time": "2018-02-27T21:00:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/978",
+      "text": "Add Snackbar for Offline"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1017",
+      "time": "2018-03-01T16:15:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1017",
+      "text": "Fix Toast and some Minor changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1017",
+      "time": "2018-03-01T19:42:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1017",
+      "text": "Fix Toast and some Minor changes"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

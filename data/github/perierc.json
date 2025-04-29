@@ -1,0 +1,224 @@
+{
+  "last_updated": "2023-12-25T16:37:04Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#324",
+      "time": "2023-12-25T16:37:04Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/324",
+      "text": "feat: improve translations editing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#324",
+      "time": "2024-01-18T15:37:39Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/324",
+      "text": "feat: improve translations editing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#341",
+      "time": "2024-01-17T18:47:03Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/341",
+      "text": "feat: improve errors page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#341",
+      "time": "2024-01-18T12:04:37Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/341",
+      "text": "feat: improve errors page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#358",
+      "time": "2024-01-19T08:37:27Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/358",
+      "text": "feat: store raw stopwords and rewrite them at export"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#358",
+      "time": "2024-01-24T10:35:07Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/358",
+      "text": "feat: store raw stopwords and rewrite them at export"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#364",
+      "time": "2024-01-25T13:21:49Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/364",
+      "text": "feat(parser,frontend,backend): conserve comments order and sort properties at export"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#364",
+      "time": "2024-02-07T10:41:01Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/364",
+      "text": "feat(parser,frontend,backend): conserve comments order and sort properties at export"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#369",
+      "time": "2024-01-31T22:57:26Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/369",
+      "text": "fix(backend,parser): remove stopwords from normalized tags on node update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#369",
+      "time": "2024-02-01T22:41:30Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/369",
+      "text": "fix(backend,parser): remove stopwords from normalized tags on node update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#393",
+      "time": "2024-02-07T16:42:20Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/393",
+      "text": "fix(backend): fix create_node function"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#393",
+      "time": "2024-02-08T14:35:03Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/393",
+      "text": "fix(backend): fix create_node function"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#408",
+      "time": "2024-02-14T12:38:05Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/408",
+      "text": "feat(parser): handle duplicate ID errors during parsing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#408",
+      "time": "2024-02-14T20:48:28Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/408",
+      "text": "feat(parser): handle duplicate ID errors during parsing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#411",
+      "time": "2024-02-15T07:58:21Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/411",
+      "text": "fix(frontend): fix children and parents overflow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#411",
+      "time": "2024-02-15T09:33:07Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/411",
+      "text": "fix(frontend): fix children and parents overflow"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#413",
+      "time": "2024-02-15T11:24:36Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/413",
+      "text": "fix(frontend): fix root nodes page infinite loading when project exported"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#413",
+      "time": "2024-02-15T13:57:25Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/413",
+      "text": "fix(frontend): fix root nodes page infinite loading when project exported"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#429",
+      "time": "2024-03-06T14:42:06Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/429",
+      "text": "feat(parser,backend,frontend): enable extended taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#429",
+      "time": "2024-03-20T16:53:37Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/429",
+      "text": "feat(parser,backend,frontend): enable extended taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#445",
+      "time": "2024-03-13T23:46:34Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/445",
+      "text": "fix(backend): error on node creation from root nodes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#445",
+      "time": "2024-03-14T17:25:13Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/445",
+      "text": "fix(backend): error on node creation from root nodes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#447",
+      "time": "2024-03-14T00:10:22Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/447",
+      "text": "fix: error when adding child to node with no children"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#447",
+      "time": "2024-03-14T16:00:35Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/447",
+      "text": "fix: error when adding child to node with no children"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#461",
+      "time": "2024-03-22T23:34:36Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/461",
+      "text": "feat(frontend): make language selection for translations more intuitive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#461",
+      "time": "2024-03-27T15:33:44Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/461",
+      "text": "feat(frontend): make language selection for translations more intuitive"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#472",
+      "time": "2024-03-27T21:47:40Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/472",
+      "text": "feat: add link to the Taxonomy Editor project in PR description"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#472",
+      "time": "2024-04-10T21:20:42Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/472",
+      "text": "feat: add link to the Taxonomy Editor project in PR description"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#483",
+      "time": "2024-04-10T17:30:45Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/483",
+      "text": "feat: improve search results display"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#484",
+      "time": "2024-04-10T17:33:32Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/484",
+      "text": "feat: improve search results display"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#484",
+      "time": "2024-04-11T09:05:58Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/484",
+      "text": "feat: improve search results display"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

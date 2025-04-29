@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-05-03T23:11:07Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-dart#23",
+      "time": "2020-05-03T23:11:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/23",
+      "text": "Fix searching errors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-dart#23",
+      "time": "2020-05-19T06:55:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/23",
+      "text": "Fix searching errors"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

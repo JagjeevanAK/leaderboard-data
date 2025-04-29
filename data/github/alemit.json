@@ -1,0 +1,35 @@
+{
+  "last_updated": "2019-12-15T21:24:17Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2789",
+      "time": "2019-12-15T21:24:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2789",
+      "text": "Fixes #2788: Added missing CORS header to ingredients.pl endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2789",
+      "time": "2019-12-16T15:12:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2789",
+      "text": "Fixes #2788: Added missing CORS header to ingredients.pl endpoint"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2934",
+      "time": "2020-02-19T21:42:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2934",
+      "text": "Added access control allow origin in product image crop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2934",
+      "time": "2020-02-19T22:15:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2934",
+      "text": "Added access control allow origin in product image crop"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,441 @@
+{
+  "last_updated": "2023-12-20T15:32:27Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9560",
+      "time": "2023-12-20T15:32:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9560",
+      "text": "fix: fix small taxonomy encoding issues"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9560",
+      "time": "2023-12-20T21:54:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9560",
+      "text": "fix: fix small taxonomy encoding issues"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9672",
+      "time": "2024-01-18T21:30:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9672",
+      "text": "taxonomy: fix test taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9672",
+      "time": "2024-01-24T09:52:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9672",
+      "text": "taxonomy: fix test taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9730",
+      "time": "2024-02-01T16:11:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9730",
+      "text": "taxonomy: fix taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9730",
+      "time": "2024-02-05T15:45:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9730",
+      "text": "taxonomy: fix taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9771",
+      "time": "2024-02-07T07:40:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9771",
+      "text": "taxonomy: fix categories.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9771",
+      "time": "2024-02-07T08:25:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9771",
+      "text": "taxonomy: fix categories.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#267",
+      "time": "2023-10-26T08:12:41Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/267",
+      "text": "docs: Updating the dev setup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#267",
+      "time": "2023-11-01T18:51:51Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/267",
+      "text": "docs: Updating the dev setup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#278",
+      "time": "2023-11-04T23:34:34Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/278",
+      "text": "chore: Add Poetry for Python dependency management"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#278",
+      "time": "2023-11-13T14:54:07Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/278",
+      "text": "chore: Add Poetry for Python dependency management"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#288",
+      "time": "2023-11-14T23:28:33Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/288",
+      "text": "chore: Update monorepo setup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#288",
+      "time": "2023-11-27T17:30:18Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/288",
+      "text": "chore: Update monorepo setup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#317",
+      "time": "2023-12-21T12:53:39Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/317",
+      "text": "feat: Decouple parsing the taxonomy and writing the taxonomy to the database"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#317",
+      "time": "2024-01-17T11:50:22Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/317",
+      "text": "feat: Decouple parsing the taxonomy and writing the taxonomy to the database"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#318",
+      "time": "2023-12-21T13:49:32Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/318",
+      "text": "feat: Improve parser performance"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#318",
+      "time": "2024-01-17T12:01:37Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/318",
+      "text": "feat: Improve parser performance"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#320",
+      "time": "2023-12-23T13:56:59Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/320",
+      "text": "docs: Add overview excalidraw"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#320",
+      "time": "2024-01-12T12:41:09Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/320",
+      "text": "docs: Add overview excalidraw"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#335",
+      "time": "2024-01-17T12:08:04Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/335",
+      "text": "chore(devops): update dependabot frequency"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#335",
+      "time": "2024-01-17T19:03:19Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/335",
+      "text": "chore(devops): update dependabot frequency"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#336",
+      "time": "2024-01-17T12:57:32Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/336",
+      "text": "fix(test): remove determinism of parent order in tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#337",
+      "time": "2024-01-17T16:15:47Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/337",
+      "text": "feat: Add parent order determinism"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#337",
+      "time": "2024-01-17T18:42:11Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/337",
+      "text": "feat: Add parent order determinism"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#338",
+      "time": "2024-01-17T17:14:18Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/338",
+      "text": "feat: Improve node creation performance"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#338",
+      "time": "2024-01-17T18:30:16Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/338",
+      "text": "feat: Improve node creation performance"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#352",
+      "time": "2024-01-18T11:50:09Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/352",
+      "text": "fix: fix export to local file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#352",
+      "time": "2024-01-19T10:27:30Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/352",
+      "text": "fix: fix export to local file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#368",
+      "time": "2024-01-31T19:18:50Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/368",
+      "text": "feat: Update GitHub functions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#368",
+      "time": "2024-02-01T21:17:01Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/368",
+      "text": "feat: Update GitHub functions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#381",
+      "time": "2024-02-01T16:50:08Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/381",
+      "text": "chore: Log more expressive errors for missing child links"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#381",
+      "time": "2024-02-07T09:57:08Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/381",
+      "text": "chore: Log more expressive errors for missing child links"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#385",
+      "time": "2024-02-03T22:00:37Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/385",
+      "text": "feat: Delete projects when their Github PR is merged"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#385",
+      "time": "2024-02-07T10:32:20Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/385",
+      "text": "feat: Delete projects when their Github PR is merged"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#396",
+      "time": "2024-02-09T09:40:47Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/396",
+      "text": "chore: Upgrade frontend tooling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#396",
+      "time": "2024-02-13T20:42:50Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/396",
+      "text": "chore: Upgrade frontend tooling"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#405",
+      "time": "2024-02-13T21:43:27Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/405",
+      "text": "feat: add automatic client SDK generation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#405",
+      "time": "2024-02-15T09:02:25Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/405",
+      "text": "feat: add automatic client SDK generation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#421",
+      "time": "2024-02-17T11:30:16Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/421",
+      "text": "chore: Migrate to vite"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#421",
+      "time": "2024-03-07T11:06:38Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/421",
+      "text": "chore: Migrate to vite"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#427",
+      "time": "2024-03-06T11:53:55Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/427",
+      "text": "refactor(frontend): refactor pages to group common UI elements/data access"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#427",
+      "time": "2024-03-07T18:36:23Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/427",
+      "text": "refactor(frontend): refactor pages to group common UI elements/data access"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#436",
+      "time": "2024-03-12T19:37:52Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/436",
+      "text": "fix: Add camelCased aliases to Pydantic models"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#436",
+      "time": "2024-03-12T20:57:22Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/436",
+      "text": "fix: Add camelCased aliases to Pydantic models"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#438",
+      "time": "2024-03-12T21:43:28Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/438",
+      "text": "feat: Add advanced search API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#438",
+      "time": "2024-03-21T10:16:22Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/438",
+      "text": "feat: Add advanced search API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#439",
+      "time": "2024-03-12T21:43:50Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/439",
+      "text": "temp(frontend): Testing frontend for advanced search"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#440",
+      "time": "2024-03-12T21:50:17Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/440",
+      "text": "temp(frontend): Testing frontend for advanced search"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#443",
+      "time": "2024-03-13T10:21:59Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/443",
+      "text": "feat: Update Project List"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#443",
+      "time": "2024-03-20T11:46:29Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/443",
+      "text": "feat: Update Project List"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#452",
+      "time": "2024-03-20T16:08:44Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/452",
+      "text": "feat: add property filter to search API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#455",
+      "time": "2024-03-21T10:27:04Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/455",
+      "text": "fix: fix backwards compatibility for is:not:external search"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#455",
+      "time": "2024-03-21T10:58:09Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/455",
+      "text": "fix: fix backwards compatibility for is:not:external search"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#456",
+      "time": "2024-03-21T10:31:35Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/456",
+      "text": "feat: add property filter to search API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#456",
+      "time": "2024-03-27T15:53:44Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/456",
+      "text": "feat: add property filter to search API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#473",
+      "time": "2024-03-27T22:03:04Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/473",
+      "text": "chore: Add info banners on the frontend"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#473",
+      "time": "2024-03-28T11:07:03Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/473",
+      "text": "chore: Add info banners on the frontend"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#481",
+      "time": "2024-04-10T15:41:54Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/481",
+      "text": "refactor: add types to find_one_entry routes + start refactor PropertyTable"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#481",
+      "time": "2024-04-17T19:42:56Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/481",
+      "text": "refactor: add types to find_one_entry routes + start refactor PropertyTable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#492",
+      "time": "2024-04-17T08:47:47Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/492",
+      "text": "fix: frontend fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#492",
+      "time": "2024-04-17T19:42:47Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/492",
+      "text": "fix: frontend fixes"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

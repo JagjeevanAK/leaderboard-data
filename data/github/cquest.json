@@ -1,0 +1,77 @@
+{
+  "last_updated": "2019-05-24T06:23:41Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#299",
+      "time": "2019-05-24T06:23:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/299",
+      "text": "Remove double slashes in taxonomies URLs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#299",
+      "time": "2019-06-18T16:56:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/299",
+      "text": "Remove double slashes in taxonomies URLs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5241",
+      "time": "2021-05-19T16:30:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5241",
+      "text": "Update ecoscore french message banner"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5241",
+      "time": "2021-05-20T09:04:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5241",
+      "text": "Update ecoscore french message banner"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#23",
+      "time": "2021-01-29T17:16:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/23",
+      "text": "wording..."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#23",
+      "time": "2021-01-29T17:24:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/23",
+      "text": "wording..."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#421",
+      "time": "2024-10-06T10:01:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/421",
+      "text": "fix: mongoDB double backup removed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#421",
+      "time": "2024-10-07T07:58:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/421",
+      "text": "fix: mongoDB double backup removed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#422",
+      "time": "2024-10-06T16:43:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/422",
+      "text": "fix: filter config file empty lines in syncoid.service"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#422",
+      "time": "2024-10-07T07:57:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/422",
+      "text": "fix: filter config file empty lines in syncoid.service"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

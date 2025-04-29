@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-01-15T14:17:08Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6213",
+      "time": "2025-01-15T14:17:08Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6213",
+      "text": "feat: Convert Privacy warning to bottom sheet"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6213",
+      "time": "2025-01-20T18:21:11Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6213",
+      "text": "feat: Convert Privacy warning to bottom sheet"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

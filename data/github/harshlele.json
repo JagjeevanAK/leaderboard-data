@@ -1,0 +1,49 @@
+{
+  "last_updated": "2020-01-22T18:25:21Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3004",
+      "time": "2020-01-22T18:25:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3004",
+      "text": "Fix #2992 - Allow sorting of lists"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3004",
+      "time": "2020-04-11T17:06:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3004",
+      "text": "Fix #2992 - Allow sorting of lists"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3007",
+      "time": "2020-01-27T07:12:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3007",
+      "text": "Fix #2975 ask logged in users to rate the app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3007",
+      "time": "2020-04-10T23:58:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3007",
+      "text": "Fix #2975 ask logged in users to rate the app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3010",
+      "time": "2020-02-02T08:00:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3010",
+      "text": "added alcohol warning for products with category en:alcoholic-beverages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3010",
+      "time": "2020-03-09T16:25:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3010",
+      "text": "added alcohol warning for products with category en:alcoholic-beverages"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

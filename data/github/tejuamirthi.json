@@ -1,0 +1,35 @@
+{
+  "last_updated": "2020-10-03T14:26:43Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#756",
+      "time": "2020-10-03T14:26:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/756",
+      "text": "Hide \"City and country of purchase\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#756",
+      "time": "2020-10-10T08:30:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/756",
+      "text": "Hide \"City and country of purchase\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#758",
+      "time": "2020-10-03T16:33:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/758",
+      "text": "debug mode's authentication values for search api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#758",
+      "time": "2020-10-07T08:11:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/758",
+      "text": "debug mode's authentication values for search api"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

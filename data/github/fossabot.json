@@ -1,0 +1,21 @@
+{
+  "last_updated": "2018-04-09T15:17:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1185",
+      "time": "2018-04-09T15:17:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1185",
+      "text": "Add license scan report and status"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1185",
+      "time": "2018-04-09T21:36:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1185",
+      "text": "Add license scan report and status"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

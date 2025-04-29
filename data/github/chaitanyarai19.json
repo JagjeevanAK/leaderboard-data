@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-24T18:00:32Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#71",
+      "time": "2025-04-24T18:00:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/71",
+      "text": "Built Generate automatic documentation from code feature"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

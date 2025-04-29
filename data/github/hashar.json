@@ -1,0 +1,21 @@
+{
+  "last_updated": "2012-10-02T20:02:33Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-cordova-app-old-with-blob#7",
+      "time": "2012-10-02T20:02:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app-old-with-blob/pull/7",
+      "text": "copy license in root directory"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-cordova-app-old-with-blob#7",
+      "time": "2012-12-06T12:47:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app-old-with-blob/pull/7",
+      "text": "copy license in root directory"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

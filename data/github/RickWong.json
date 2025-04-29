@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-25T10:01:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#289",
+      "time": "2025-04-25T10:01:25Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/289",
+      "text": "feat: Allow CORS access from all origins"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

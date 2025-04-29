@@ -1,0 +1,35 @@
+{
+  "last_updated": "2018-03-15T02:13:12Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1248",
+      "time": "2018-03-15T02:13:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1248",
+      "text": "Closes #1247: add search feature to ProductBrowsingListActivity (Product list)."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1248",
+      "time": "2018-03-19T08:54:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1248",
+      "text": "Closes #1247: add search feature to ProductBrowsingListActivity (Product list)."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1320",
+      "time": "2018-03-22T21:34:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1320",
+      "text": "Fix issue #1319 products number text duplication."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1320",
+      "time": "2018-03-23T07:41:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1320",
+      "text": "Fix issue #1319 products number text duplication."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

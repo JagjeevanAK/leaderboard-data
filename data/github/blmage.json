@@ -1,0 +1,91 @@
+{
+  "last_updated": "2017-04-03T10:43:08Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#540",
+      "time": "2017-04-03T10:43:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/540",
+      "text": "Fix #470 (add common name below name)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#540",
+      "time": "2017-04-04T07:03:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/540",
+      "text": "Fix #470 (add common name below name)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#541",
+      "time": "2017-04-03T10:43:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/541",
+      "text": "Fix #409 (prevent crash when ingredients label is malformed)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#541",
+      "time": "2017-04-04T07:01:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/541",
+      "text": "Fix #409 (prevent crash when ingredients label is malformed)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#542",
+      "time": "2017-04-03T15:52:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/542",
+      "text": "Fix #432 (fix handling of languages with compound locales)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#542",
+      "time": "2017-04-04T06:51:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/542",
+      "text": "Fix #432 (fix handling of languages with compound locales)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#546",
+      "time": "2017-04-05T11:53:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/546",
+      "text": "Fix #419 (ingredients label not bolded)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#546",
+      "time": "2017-04-05T12:04:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/546",
+      "text": "Fix #419 (ingredients label not bolded)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#547",
+      "time": "2017-04-05T12:00:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/547",
+      "text": "Fix #378 (clean some of the product strings after deserialization)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#547",
+      "time": "2017-04-07T07:15:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/547",
+      "text": "Fix #378 (clean some of the product strings after deserialization)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#549",
+      "time": "2017-04-06T15:52:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/549",
+      "text": "Fix #516 (incomplete regex for allergen and ingredients detection)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#549",
+      "time": "2017-04-07T12:49:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/549",
+      "text": "Fix #516 (incomplete regex for allergen and ingredients detection)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

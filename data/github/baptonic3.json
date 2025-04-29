@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-02-10T11:22:28Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-web#537",
+      "time": "2024-02-10T11:22:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/537",
+      "text": "fix: Broken image  fixes #518"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-web#537",
+      "time": "2024-02-12T17:11:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/537",
+      "text": "fix: Broken image  fixes #518"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-web#553",
+      "time": "2024-02-24T09:03:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/553",
+      "text": "fix: Fixes un-sdg-broken-images links"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,77 @@
+{
+  "last_updated": "2020-05-24T11:03:49Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3174",
+      "time": "2020-05-24T11:03:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3174",
+      "text": "Fixes #3058 : Make the requests faster and less network intensive by using fields parameter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3174",
+      "time": "2020-05-24T15:57:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3174",
+      "text": "Fixes #3058 : Make the requests faster and less network intensive by using fields parameter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3219",
+      "time": "2020-06-06T12:11:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3219",
+      "text": "Fixes #3058 : Make the requests faster and less network intensive by using the ?fields= parameter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3219",
+      "time": "2020-06-06T22:56:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3219",
+      "text": "Fixes #3058 : Make the requests faster and less network intensive by using the ?fields= parameter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3348",
+      "time": "2020-07-19T11:36:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3348",
+      "text": "Fixes #3341 Add Nutri-Score in products to be completed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3348",
+      "time": "2020-08-04T16:17:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3348",
+      "text": "Fixes #3341 Add Nutri-Score in products to be completed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3387",
+      "time": "2020-08-02T11:20:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3387",
+      "text": "Fixes #3023 - Display ambiguous ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3387",
+      "time": "2020-08-08T12:34:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3387",
+      "text": "Fixes #3023 - Display ambiguous ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3403",
+      "time": "2020-08-08T16:54:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3403",
+      "text": "Feat : #2963 - Add onboarding tooltip on first use for image editing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3403",
+      "time": "2020-08-16T13:12:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3403",
+      "text": "Feat : #2963 - Add onboarding tooltip on first use for image editing"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

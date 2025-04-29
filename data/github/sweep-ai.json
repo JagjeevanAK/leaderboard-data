@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-07-10T12:14:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4287",
+      "time": "2023-07-10T12:14:25Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4287",
+      "text": "Create `sweep.yaml` Config File"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4288",
+      "time": "2023-07-10T12:21:28Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4288",
+      "text": "feat: Add Tests for Smooth App"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/nutripatrol#1",
+      "time": "2023-10-03T14:45:31Z",
+      "link": "https://github.com/openfoodfacts/nutripatrol/pull/1",
+      "text": "Configure Sweep"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

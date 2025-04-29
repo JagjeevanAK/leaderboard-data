@@ -1,0 +1,14 @@
+{
+  "last_updated": "2019-10-26T20:56:54Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#427",
+      "time": "2019-10-26T20:56:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/427",
+      "text": "Wrap `carthage update` in `travis_wait`"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

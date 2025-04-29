@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-01-24T19:43:08Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#38",
+      "time": "2022-01-24T19:43:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/38",
+      "text": "feat: prevent-product-not-found-response-from-being-cached"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#46",
+      "time": "2023-02-15T21:02:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/46",
+      "text": "feat: add support for psr/log ^2.0"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

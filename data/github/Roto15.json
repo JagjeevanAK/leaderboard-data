@@ -1,0 +1,826 @@
+{
+  "last_updated": "2022-02-06T21:30:10Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6390",
+      "time": "2022-02-06T21:30:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6390",
+      "text": "Added translations in Bulgarian in Taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6390",
+      "time": "2022-02-09T15:21:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6390",
+      "text": "Added translations in Bulgarian in Taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6405",
+      "time": "2022-02-11T14:55:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6405",
+      "text": "chore: Update taxonomies/packaging_materials.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6405",
+      "time": "2022-02-14T11:14:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6405",
+      "text": "chore: Update taxonomies/packaging_materials.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6409",
+      "time": "2022-02-11T20:44:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6409",
+      "text": "chore: Update bg.po"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6409",
+      "time": "2022-02-22T11:35:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6409",
+      "text": "chore: Update bg.po"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6410",
+      "time": "2022-02-11T21:03:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6410",
+      "text": "chore: Update bg.po"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6413",
+      "time": "2022-02-13T16:40:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6413",
+      "text": "chore: Update nova_groups.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6413",
+      "time": "2022-02-13T17:53:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6413",
+      "text": "chore: Update nova_groups.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6421",
+      "time": "2022-02-16T18:23:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6421",
+      "text": "chore: Update preservation.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6421",
+      "time": "2022-02-18T09:43:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6421",
+      "text": "chore: Update preservation.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6422",
+      "time": "2022-02-16T18:42:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6422",
+      "text": "chore: Update ingredients_analysis.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6422",
+      "time": "2022-02-18T15:17:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6422",
+      "text": "chore: Update ingredients_analysis.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6423",
+      "time": "2022-02-16T21:53:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6423",
+      "text": "chore: Fix bulgarian for nutrient_levels.result.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6423",
+      "time": "2022-02-18T13:23:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6423",
+      "text": "chore: Fix bulgarian for nutrient_levels.result.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6432",
+      "time": "2022-02-19T22:01:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6432",
+      "text": "chore: Update origins.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6437",
+      "time": "2022-02-24T09:32:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6437",
+      "text": "chore: Update ingredients.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6449",
+      "time": "2022-03-01T21:10:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6449",
+      "text": "chore: ingredients.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6450",
+      "time": "2022-03-01T21:49:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6450",
+      "text": "Update Ingredients.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6477",
+      "time": "2022-03-10T14:36:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6477",
+      "text": "chore: Add BG to periods_after_opening.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6477",
+      "time": "2022-03-14T10:56:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6477",
+      "text": "chore: Add BG to periods_after_opening.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6478",
+      "time": "2022-03-10T15:39:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6478",
+      "text": "chore: Add BG to ingredients_processing.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6478",
+      "time": "2022-03-14T10:56:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6478",
+      "text": "chore: Add BG to ingredients_processing.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6479",
+      "time": "2022-03-10T16:27:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6479",
+      "text": "chore: Add BG to containers.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6479",
+      "time": "2022-03-14T10:56:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6479",
+      "text": "chore: Add BG to containers.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6480",
+      "time": "2022-03-11T16:51:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6480",
+      "text": "chore: Update categories.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6480",
+      "time": "2022-03-14T10:55:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6480",
+      "text": "chore: Update categories.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6489",
+      "time": "2022-03-16T12:57:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6489",
+      "text": "chore: Add BG to packaging_shapes.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6489",
+      "time": "2022-03-17T08:27:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6489",
+      "text": "chore: Add BG to packaging_shapes.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6490",
+      "time": "2022-03-16T14:50:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6490",
+      "text": "chore: Translations for labels.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6490",
+      "time": "2022-03-17T08:25:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6490",
+      "text": "chore: Translations for labels.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6495",
+      "time": "2022-03-18T17:58:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6495",
+      "text": "chore: ADD BG to packaging_materials.result.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6504",
+      "time": "2022-03-23T21:20:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6504",
+      "text": "chore: Add new labels in BG"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6504",
+      "time": "2022-03-24T16:14:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6504",
+      "text": "chore: Add new labels in BG"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6507",
+      "time": "2022-03-24T13:15:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6507",
+      "text": "chore: Add ingredients translations in BG"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6507",
+      "time": "2022-03-24T16:14:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6507",
+      "text": "chore: Add ingredients translations in BG"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6508",
+      "time": "2022-03-24T17:40:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6508",
+      "text": "chore: Translation of nutrients in BG"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6508",
+      "time": "2022-03-25T13:04:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6508",
+      "text": "chore: Translation of nutrients in BG"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6548",
+      "time": "2022-04-02T16:09:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6548",
+      "text": "chore: update BG ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6548",
+      "time": "2022-04-04T07:54:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6548",
+      "text": "chore: update BG ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6549",
+      "time": "2022-04-02T16:40:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6549",
+      "text": "chore: Add BG to packagings.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6549",
+      "time": "2022-04-04T07:53:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6549",
+      "text": "chore: Add BG to packagings.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6550",
+      "time": "2022-04-03T15:33:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6550",
+      "text": "chore: Update categories.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6550",
+      "time": "2022-04-04T07:53:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6550",
+      "text": "chore: Update categories.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6560",
+      "time": "2022-04-05T12:39:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6560",
+      "text": "chore: Bulgarian Additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6560",
+      "time": "2022-04-05T16:16:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6560",
+      "text": "chore: Bulgarian Additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6574",
+      "time": "2022-04-07T15:39:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6574",
+      "text": "chore: New Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6574",
+      "time": "2022-04-07T16:20:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6574",
+      "text": "chore: New Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6581",
+      "time": "2022-04-10T11:28:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6581",
+      "text": "chore: BG Additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6581",
+      "time": "2022-04-11T08:40:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6581",
+      "text": "chore: BG Additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6624",
+      "time": "2022-04-15T11:17:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6624",
+      "text": "chore: BG Additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6624",
+      "time": "2022-04-15T13:16:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6624",
+      "text": "chore: BG Additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6660",
+      "time": "2022-04-21T16:04:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6660",
+      "text": "chore: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6660",
+      "time": "2022-04-22T14:18:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6660",
+      "text": "chore: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6725",
+      "time": "2022-05-01T18:03:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6725",
+      "text": "chore: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6725",
+      "time": "2022-05-02T07:33:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6725",
+      "text": "chore: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6784",
+      "time": "2022-05-16T09:40:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6784",
+      "text": "chore: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6784",
+      "time": "2022-05-25T11:20:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6784",
+      "text": "chore: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6831",
+      "time": "2022-05-29T19:11:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6831",
+      "text": "chore: New Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6831",
+      "time": "2022-06-14T12:38:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6831",
+      "text": "chore: New Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6918",
+      "time": "2022-06-18T11:45:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6918",
+      "text": "chore: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6918",
+      "time": "2022-06-22T08:15:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6918",
+      "text": "chore: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6982",
+      "time": "2022-06-29T17:43:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6982",
+      "text": "taxonomy: BG Additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6982",
+      "time": "2022-07-26T15:39:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6982",
+      "text": "taxonomy: BG Additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7190",
+      "time": "2022-08-09T17:08:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7190",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7190",
+      "time": "2022-08-16T12:47:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7190",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7297",
+      "time": "2022-09-05T15:01:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7297",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7297",
+      "time": "2022-09-06T07:41:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7297",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7435",
+      "time": "2022-10-03T15:47:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7435",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7435",
+      "time": "2022-10-04T12:14:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7435",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7591",
+      "time": "2022-10-23T15:42:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7591",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7591",
+      "time": "2022-10-26T17:13:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7591",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7740",
+      "time": "2022-11-21T17:42:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7740",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7740",
+      "time": "2022-11-24T11:51:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7740",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7800",
+      "time": "2022-12-05T13:35:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7800",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7800",
+      "time": "2022-12-06T15:53:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7800",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7914",
+      "time": "2022-12-29T12:24:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7914",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7914",
+      "time": "2023-01-02T14:53:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7914",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8029",
+      "time": "2023-01-24T11:58:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8029",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8029",
+      "time": "2023-01-25T09:39:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8029",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8061",
+      "time": "2023-02-01T18:00:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8061",
+      "text": "taxonomy: BG additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8061",
+      "time": "2023-02-03T08:59:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8061",
+      "text": "taxonomy: BG additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8117",
+      "time": "2023-02-16T16:01:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8117",
+      "text": "taxonomy: BG additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8117",
+      "time": "2023-02-17T17:12:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8117",
+      "text": "taxonomy: BG additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8267",
+      "time": "2023-03-29T13:43:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8267",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8267",
+      "time": "2023-03-30T08:17:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8267",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8465",
+      "time": "2023-05-26T15:54:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8465",
+      "text": "taxonomy: BG Additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8465",
+      "time": "2023-05-29T12:35:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8465",
+      "text": "taxonomy: BG Additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8643",
+      "time": "2023-07-02T17:18:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8643",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8643",
+      "time": "2023-07-04T09:51:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8643",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9010",
+      "time": "2023-09-16T17:29:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9010",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9418",
+      "time": "2023-11-27T15:09:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9418",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9418",
+      "time": "2023-11-28T08:52:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9418",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9518",
+      "time": "2023-12-12T15:46:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9518",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9518",
+      "time": "2023-12-12T20:01:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9518",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9590",
+      "time": "2023-12-23T13:44:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9590",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9590",
+      "time": "2023-12-24T09:53:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9590",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9778",
+      "time": "2024-02-10T18:05:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9778",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9778",
+      "time": "2024-02-11T14:40:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9778",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9808",
+      "time": "2024-02-18T19:01:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9808",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9808",
+      "time": "2024-02-18T22:18:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9808",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9922",
+      "time": "2024-03-14T19:53:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9922",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9922",
+      "time": "2024-03-15T10:36:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9922",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10224",
+      "time": "2024-05-03T17:07:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10224",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10224",
+      "time": "2024-05-07T12:06:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10224",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10430",
+      "time": "2024-06-11T16:19:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10430",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10430",
+      "time": "2024-06-12T08:09:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10430",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10478",
+      "time": "2024-06-21T11:16:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10478",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10478",
+      "time": "2024-07-01T08:21:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10478",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10800",
+      "time": "2024-09-16T16:21:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10800",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10800",
+      "time": "2024-09-17T10:27:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10800",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11122",
+      "time": "2024-12-13T11:07:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11122",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11274",
+      "time": "2025-01-21T16:01:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11274",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11274",
+      "time": "2025-01-22T10:23:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11274",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11305",
+      "time": "2025-01-28T13:21:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11305",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11305",
+      "time": "2025-02-04T10:07:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11305",
+      "text": "taxonomy: Bulgarian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#411",
+      "time": "2022-04-03T16:22:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/411",
+      "text": "chore: update bg.json"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

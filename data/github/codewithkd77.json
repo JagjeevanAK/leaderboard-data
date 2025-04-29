@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-03-31T05:33:53Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6500",
+      "time": "2025-03-31T05:33:53Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6500",
+      "text": "fix: update language filter to include English names (#6491)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

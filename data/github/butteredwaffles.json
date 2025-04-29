@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-11-13T16:01:06Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#184",
+      "time": "2023-11-13T16:01:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/184",
+      "text": "feat: Force user agent in API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#184",
+      "time": "2023-12-01T09:18:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/184",
+      "text": "feat: Force user agent in API"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

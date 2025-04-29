@@ -1,0 +1,21 @@
+{
+  "last_updated": "2018-03-08T08:22:21Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#19",
+      "time": "2018-03-08T08:22:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/19",
+      "text": "Fixing `getProduct(barcode)` to use correct endpoint "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#19",
+      "time": "2018-03-08T10:33:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/19",
+      "text": "Fixing `getProduct(barcode)` to use correct endpoint "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

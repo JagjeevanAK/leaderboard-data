@@ -1,0 +1,84 @@
+{
+  "last_updated": "2022-03-10T11:08:16Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1191",
+      "time": "2022-03-10T11:08:16Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1191",
+      "text": "fix: Wrong colored create account button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1191",
+      "time": "2022-03-10T11:51:20Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1191",
+      "text": "fix: Wrong colored create account button"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1198",
+      "time": "2022-03-11T18:50:54Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1198",
+      "text": "fix: AppBar does not fit theme"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1198",
+      "time": "2022-03-12T10:23:03Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1198",
+      "text": "fix: AppBar does not fit theme"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1203",
+      "time": "2022-03-13T10:45:49Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1203",
+      "text": "fix: Weird box artefact on pressing table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1203",
+      "time": "2022-03-16T16:02:46Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1203",
+      "text": "fix: Weird box artefact on pressing table"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1209",
+      "time": "2022-03-14T07:05:22Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1209",
+      "text": "feat: Added a button to close questions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1209",
+      "time": "2022-03-15T19:11:10Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1209",
+      "text": "feat: Added a button to close questions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1213",
+      "time": "2022-03-15T13:48:54Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1213",
+      "text": "fix: Switch dark mode color"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1213",
+      "time": "2022-03-15T18:12:18Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1213",
+      "text": "fix: Switch dark mode color"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1249",
+      "time": "2022-03-17T17:13:17Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1249",
+      "text": "fix: Question panel dark mode color"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

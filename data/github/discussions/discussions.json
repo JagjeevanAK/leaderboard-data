@@ -1,0 +1,18 @@
+[
+    {
+        "source": "github",
+        "title": "v24.31.0",
+        "text": "## What's Changed\r\n* ",
+        "author": "AlexG",
+        "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions",
+        "isAnswered": null,
+        "time": "2024-07-29T18:00:42Z",
+        "updateTime": "2024-07-29T18:00:43Z",
+        "category": {
+            "name": "Announcements",
+            "emoji": "📣"
+        },
+        "participants": [],
+        "repository": "openfoodfacts-server"
+    }
+]

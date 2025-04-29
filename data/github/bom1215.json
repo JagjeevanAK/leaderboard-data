@@ -1,0 +1,35 @@
+{
+  "last_updated": "2025-03-26T11:30:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/folksonomy_api#268",
+      "time": "2025-03-26T11:30:34Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/268",
+      "text": "docs: Add command lines in INSTALL.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/folksonomy_api#268",
+      "time": "2025-04-04T14:45:08Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/268",
+      "text": "docs: Add command lines in INSTALL.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/folksonomy_api#274",
+      "time": "2025-04-09T22:08:36Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/274",
+      "text": "docs: Add how to test API with docker on README.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/facets-knowledge-panels#173",
+      "time": "2025-03-29T16:49:32Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/173",
+      "text": "fix: json fetch error in data_quality_kp and change test cases"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

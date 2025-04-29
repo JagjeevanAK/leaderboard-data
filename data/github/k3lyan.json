@@ -1,0 +1,21 @@
+{
+  "last_updated": "2018-11-28T15:07:43Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1542",
+      "time": "2018-11-28T15:07:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1542",
+      "text": "Update taxonomy for carbon foot print estimation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1542",
+      "time": "2018-12-03T13:06:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1542",
+      "text": "Update taxonomy for carbon foot print estimation"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,63 @@
+{
+  "last_updated": "2023-11-26T22:39:12Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-web#502",
+      "time": "2023-11-26T22:39:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/502",
+      "text": "fix: Italian index.html used to redirect to error pages"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-web#509",
+      "time": "2023-11-30T14:57:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/509",
+      "text": "refactor: Delete lang/ar/texts/users.html #507"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-web#510",
+      "time": "2023-12-01T15:21:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/510",
+      "text": "fix: ADEME partner added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-web#510",
+      "time": "2024-02-07T10:46:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/510",
+      "text": "fix: ADEME partner added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-web#542",
+      "time": "2024-02-12T14:35:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/542",
+      "text": "fix: OBF Symbolic links Italian"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-web#542",
+      "time": "2024-02-12T19:17:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/542",
+      "text": "fix: OBF Symbolic links Italian"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9738",
+      "time": "2024-02-02T12:53:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9738",
+      "text": "fix: ADEME logo upload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9738",
+      "time": "2024-02-05T13:49:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9738",
+      "text": "fix: ADEME logo upload"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

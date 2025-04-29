@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-03-06T10:56:58Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9868",
+      "time": "2024-03-06T10:56:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9868",
+      "text": "feat: Add \"create product\" button to barcode search result page"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

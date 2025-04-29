@@ -1,0 +1,91 @@
+{
+  "last_updated": "2020-08-24T18:43:01Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#57",
+      "time": "2020-08-24T18:43:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/57",
+      "text": "added TableNet notebooks"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#57",
+      "time": "2020-08-24T18:43:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/57",
+      "text": "added TableNet notebooks"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#59",
+      "time": "2020-11-05T11:08:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/59",
+      "text": "Code updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#59",
+      "time": "2020-11-05T11:08:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/59",
+      "text": "Code updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#60",
+      "time": "2020-11-05T11:24:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/60",
+      "text": "add notebooks"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#60",
+      "time": "2020-11-05T11:25:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/60",
+      "text": "add notebooks"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#62",
+      "time": "2020-11-17T14:35:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/62",
+      "text": "added openfoodfacts library"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#62",
+      "time": "2020-11-17T14:35:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/62",
+      "text": "added openfoodfacts library"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#63",
+      "time": "2020-11-20T16:22:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/63",
+      "text": "Added pipeline"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#63",
+      "time": "2020-11-20T16:22:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/63",
+      "text": "Added pipeline"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#64",
+      "time": "2020-12-04T07:52:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/64",
+      "text": "code updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#64",
+      "time": "2020-12-04T07:52:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/64",
+      "text": "code updates"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

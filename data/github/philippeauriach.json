@@ -1,0 +1,798 @@
+{
+  "last_updated": "2019-01-25T09:43:47Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#118",
+      "time": "2019-01-25T09:43:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/118",
+      "text": "Continuous scan of products"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#118",
+      "time": "2019-01-31T10:58:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/118",
+      "text": "Continuous scan of products"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#119",
+      "time": "2019-01-30T12:52:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/119",
+      "text": "Use official images assets for nutriscore"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#119",
+      "time": "2019-01-31T12:02:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/119",
+      "text": "Use official images assets for nutriscore"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#120",
+      "time": "2019-01-30T15:26:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/120",
+      "text": "Update travis build for xcode 10.1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#120",
+      "time": "2019-01-30T15:31:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/120",
+      "text": "Update travis build for xcode 10.1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#125",
+      "time": "2019-02-01T10:29:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/125",
+      "text": "Update mocks to the new productApi interface signature"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#125",
+      "time": "2019-02-01T10:32:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/125",
+      "text": "Update mocks to the new productApi interface signature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#126",
+      "time": "2019-02-02T14:17:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/126",
+      "text": "Made some display fixes in the continous scan feature"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#126",
+      "time": "2019-02-02T15:29:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/126",
+      "text": "Made some display fixes in the continous scan feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#127",
+      "time": "2019-02-02T14:20:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/127",
+      "text": "Improved history and search results display"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#127",
+      "time": "2019-02-02T15:30:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/127",
+      "text": "Improved history and search results display"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#128",
+      "time": "2019-02-04T14:59:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/128",
+      "text": "Display some taxonomies full name and make them clickable"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#128",
+      "time": "2019-02-08T15:12:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/128",
+      "text": "Display some taxonomies full name and make them clickable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#129",
+      "time": "2019-02-04T22:08:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/129",
+      "text": "Images were not displayed in ingredients and nutrition table tabs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#129",
+      "time": "2019-02-08T15:12:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/129",
+      "text": "Images were not displayed in ingredients and nutrition table tabs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#134",
+      "time": "2019-02-08T19:39:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/134",
+      "text": "fix constraint in continuous scan summary (bug on ipad)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#134",
+      "time": "2019-02-08T20:52:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/134",
+      "text": "fix constraint in continuous scan summary (bug on ipad)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#156",
+      "time": "2019-02-11T23:06:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/156",
+      "text": "Full product creation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#156",
+      "time": "2019-02-22T13:02:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/156",
+      "text": "Full product creation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#165",
+      "time": "2019-02-22T13:47:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/165",
+      "text": "Ask confirmation before deleting search history"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#165",
+      "time": "2019-02-24T17:14:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/165",
+      "text": "Ask confirmation before deleting search history"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#174",
+      "time": "2019-02-24T21:03:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/174",
+      "text": "Allergens presence alerts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#174",
+      "time": "2019-02-26T10:32:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/174",
+      "text": "Allergens presence alerts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#175",
+      "time": "2019-02-26T09:35:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/175",
+      "text": "Branding & UI/UX"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#175",
+      "time": "2019-02-26T10:37:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/175",
+      "text": "Branding & UI/UX"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#192",
+      "time": "2019-02-27T23:34:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/192",
+      "text": "Tiny issues, carbon footprint, header reformat"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#192",
+      "time": "2019-02-28T08:13:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/192",
+      "text": "Tiny issues, carbon footprint, header reformat"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#228",
+      "time": "2019-03-04T13:27:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/228",
+      "text": "Issue 211"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#228",
+      "time": "2019-03-04T14:05:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/228",
+      "text": "Issue 211"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#231",
+      "time": "2019-03-04T14:50:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/231",
+      "text": "Save previous sections when saving. Fixes #179"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#231",
+      "time": "2019-03-04T15:07:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/231",
+      "text": "Save previous sections when saving. Fixes #179"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#234",
+      "time": "2019-03-04T15:13:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/234",
+      "text": "Accept coma or dot for double value. Fix #183"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#234",
+      "time": "2019-03-04T15:18:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/234",
+      "text": "Accept coma or dot for double value. Fix #183"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#249",
+      "time": "2019-03-05T19:08:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/249",
+      "text": "offline products consultation. Fix #35"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#249",
+      "time": "2019-03-05T21:24:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/249",
+      "text": "offline products consultation. Fix #35"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#252",
+      "time": "2019-03-05T21:45:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/252",
+      "text": "Nutrition table in webview. Fix #213"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#252",
+      "time": "2019-03-05T21:58:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/252",
+      "text": "Nutrition table in webview. Fix #213"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#255",
+      "time": "2019-03-06T13:39:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/255",
+      "text": "Missing states key in all and summary product fields"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#255",
+      "time": "2019-03-06T13:42:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/255",
+      "text": "Missing states key in all and summary product fields"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#283",
+      "time": "2019-04-15T09:40:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/283",
+      "text": "Xcode 10 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#283",
+      "time": "2019-04-22T08:55:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/283",
+      "text": "Xcode 10 2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#284",
+      "time": "2019-04-15T09:43:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/284",
+      "text": "Full product edition"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#284",
+      "time": "2019-05-20T13:46:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/284",
+      "text": "Full product edition"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#285",
+      "time": "2019-04-15T10:01:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/285",
+      "text": "Create product language #281"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#285",
+      "time": "2019-04-23T09:53:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/285",
+      "text": "Create product language #281"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#297",
+      "time": "2019-05-19T09:35:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/297",
+      "text": "Load full product when coming from search, to be sure we have all needed data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#297",
+      "time": "2019-05-20T13:45:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/297",
+      "text": "Load full product when coming from search, to be sure we have all needed data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#330",
+      "time": "2019-08-17T15:38:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/330",
+      "text": "Fix new product creation #325"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#330",
+      "time": "2019-08-19T09:30:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/330",
+      "text": "Fix new product creation #325"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#550",
+      "time": "2020-01-08T07:43:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/550",
+      "text": "Feature/promo system home #154"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#550",
+      "time": "2020-01-11T12:09:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/550",
+      "text": "Feature/promo system home #154"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#551",
+      "time": "2020-01-10T07:04:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/551",
+      "text": "Ignore scan of invalid barcodes. Fix #304"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#551",
+      "time": "2020-01-11T09:08:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/551",
+      "text": "Ignore scan of invalid barcodes. Fix #304"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#554",
+      "time": "2020-01-24T10:56:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/554",
+      "text": "Ingredients analysis fix #321"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#554",
+      "time": "2020-01-26T12:01:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/554",
+      "text": "Ingredients analysis fix #321"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#557",
+      "time": "2020-01-26T22:53:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/557",
+      "text": "[WIP] #321"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#557",
+      "time": "2020-01-28T09:06:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/557",
+      "text": "[WIP] #321"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#560",
+      "time": "2020-01-28T10:00:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/560",
+      "text": "fix #559"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#560",
+      "time": "2020-01-28T10:04:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/560",
+      "text": "fix #559"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#570",
+      "time": "2020-02-04T08:50:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/570",
+      "text": "#321"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#570",
+      "time": "2020-02-04T09:01:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/570",
+      "text": "#321"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#582",
+      "time": "2020-02-09T18:52:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/582",
+      "text": "Fix #580 & #581"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#582",
+      "time": "2020-02-10T11:00:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/582",
+      "text": "Fix #580 & #581"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#587",
+      "time": "2020-02-14T20:10:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/587",
+      "text": "Fix #583"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#587",
+      "time": "2020-02-15T09:05:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/587",
+      "text": "Fix #583"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#595",
+      "time": "2020-02-19T13:49:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/595",
+      "text": "Ask for robotoff questions if any"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#595",
+      "time": "2020-02-22T19:49:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/595",
+      "text": "Ask for robotoff questions if any"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#608",
+      "time": "2020-02-25T09:13:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/608",
+      "text": "fix padding of ingredients analysis switch label Fix #585"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#608",
+      "time": "2020-02-26T12:05:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/608",
+      "text": "fix padding of ingredients analysis switch label Fix #585"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#617",
+      "time": "2020-02-27T13:27:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/617",
+      "text": "fix settings cell selection fix#616"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#617",
+      "time": "2020-02-27T14:39:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/617",
+      "text": "fix settings cell selection fix#616"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#690",
+      "time": "2020-06-15T07:53:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/690",
+      "text": "Feature/sentry crash reports"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#690",
+      "time": "2020-07-07T13:11:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/690",
+      "text": "Feature/sentry crash reports"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#695",
+      "time": "2020-07-12T14:58:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/695",
+      "text": "Fix crash when setting a sentry log key/value"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#696",
+      "time": "2020-07-18T16:18:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/696",
+      "text": "Fix crash in AnalyticsManager using setValue instead of setTag"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#696",
+      "time": "2020-08-06T10:14:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/696",
+      "text": "Fix crash in AnalyticsManager using setValue instead of setTag"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#697",
+      "time": "2020-07-19T16:17:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/697",
+      "text": "feat: [WIP] Integrate Matomo analytics tracking"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#786",
+      "time": "2020-11-04T14:29:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/786",
+      "text": "Fastlane beta script now uses the version indicated in the branch name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#786",
+      "time": "2020-11-05T08:37:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/786",
+      "text": "Fastlane beta script now uses the version indicated in the branch name"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2371",
+      "time": "2019-03-07T20:48:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2371",
+      "text": "hotfix blank product summary"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2371",
+      "time": "2019-03-07T20:53:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2371",
+      "text": "hotfix blank product summary"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2372",
+      "time": "2019-03-07T21:06:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2372",
+      "text": "hotfix blank product summary fix #2369"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2372",
+      "time": "2019-03-07T21:07:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2372",
+      "text": "hotfix blank product summary fix #2369"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2373",
+      "time": "2019-03-07T21:29:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2373",
+      "text": "fix crash on compirason fix #2369"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2373",
+      "time": "2019-03-07T21:30:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2373",
+      "text": "fix crash on compirason fix #2369"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2430",
+      "time": "2019-03-15T14:20:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2430",
+      "text": "use only flag View.SYSTEM_UI_FLAG_FULLSCREEN"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2430",
+      "time": "2019-03-15T15:46:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2430",
+      "text": "use only flag View.SYSTEM_UI_FLAG_FULLSCREEN"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2432",
+      "time": "2019-03-15T15:13:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2432",
+      "text": "scroll to top of product summary when sliding bottom sheet up"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2432",
+      "time": "2019-03-15T15:46:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2432",
+      "text": "scroll to top of product summary when sliding bottom sheet up"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3031",
+      "time": "2020-03-07T15:13:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3031",
+      "text": "Add a button on new product card"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3031",
+      "time": "2020-03-10T17:39:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3031",
+      "text": "Add a button on new product card"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3032",
+      "time": "2020-03-07T16:53:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3032",
+      "text": "Load invalid barcodes locally and ignore them when scanned"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3032",
+      "time": "2020-03-10T17:39:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3032",
+      "text": "Load invalid barcodes locally and ignore them when scanned"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3060",
+      "time": "2020-04-13T16:33:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3060",
+      "text": "Fix DB closed crash at startup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3060",
+      "time": "2020-04-13T16:34:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3060",
+      "text": "Fix DB closed crash at startup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3072",
+      "time": "2020-04-19T12:57:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3072",
+      "text": "[WIP] Offline first product edition"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3072",
+      "time": "2020-05-26T16:07:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3072",
+      "text": "[WIP] Offline first product edition"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3258",
+      "time": "2020-06-15T13:34:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3258",
+      "text": "Sentry crash reporting"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3258",
+      "time": "2020-06-19T18:16:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3258",
+      "text": "Sentry crash reporting"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3280",
+      "time": "2020-06-20T15:23:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3280",
+      "text": "Remove token which was public"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3280",
+      "time": "2020-06-20T16:08:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3280",
+      "text": "Remove token which was public"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3297",
+      "time": "2020-06-23T12:39:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3297",
+      "text": "Automatic release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3297",
+      "time": "2020-06-25T07:46:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3297",
+      "text": "Automatic release"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3366",
+      "time": "2020-07-25T11:10:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3366",
+      "text": "chore(stats): Matomo integration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3597",
+      "time": "2020-11-17T20:39:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3597",
+      "text": "Fastlane beta script now uses the version indicated in the branch name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3597",
+      "time": "2020-11-18T15:16:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3597",
+      "text": "Fastlane beta script now uses the version indicated in the branch name"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3598",
+      "time": "2020-11-17T21:01:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3598",
+      "text": "Finalize Sentry release (to mark it as live)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3598",
+      "time": "2020-11-18T11:23:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3598",
+      "text": "Finalize Sentry release (to mark it as live)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3607",
+      "time": "2020-11-23T10:54:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3607",
+      "text": "Feature/daily sentry finalize"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3607",
+      "time": "2020-11-27T18:40:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3607",
+      "text": "Feature/daily sentry finalize"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3719",
+      "time": "2021-01-11T13:29:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3719",
+      "text": "updated fastlane"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3719",
+      "time": "2021-01-11T13:30:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3719",
+      "text": "updated fastlane"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

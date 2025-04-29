@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-07-11T14:58:09Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7053",
+      "time": "2022-07-11T14:58:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7053",
+      "text": "docs: Add how-to for remote dev (Gitpod)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7053",
+      "time": "2022-07-15T16:00:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7053",
+      "text": "docs: Add how-to for remote dev (Gitpod)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

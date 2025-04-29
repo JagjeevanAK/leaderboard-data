@@ -1,0 +1,952 @@
+{
+  "last_updated": "2022-03-16T07:50:29Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-dart#415",
+      "time": "2022-03-16T07:50:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/415",
+      "text": "fix: #414 -  changed get request to post"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-dart#415",
+      "time": "2022-03-18T06:34:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/415",
+      "text": "fix: #414 -  changed get request to post"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1269",
+      "time": "2022-03-19T17:01:49Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1269",
+      "text": "loading indicator while cropping image"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1269",
+      "time": "2022-03-20T14:11:23Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1269",
+      "text": "loading indicator while cropping image"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1276",
+      "time": "2022-03-20T14:14:43Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1276",
+      "text": "feat: Auto detect dark theme"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1276",
+      "time": "2022-03-30T16:52:08Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1276",
+      "text": "feat: Auto detect dark theme"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1336",
+      "time": "2022-03-26T08:46:44Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1336",
+      "text": "fix: tab top padding hides text below it #1335"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1336",
+      "time": "2022-03-26T13:31:16Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1336",
+      "text": "fix: tab top padding hides text below it #1335"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1355",
+      "time": "2022-03-28T04:28:38Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1355",
+      "text": "fix: Refresh indicator"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1357",
+      "time": "2022-03-28T06:32:48Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1357",
+      "text": "fix: Removed hardcoded \"See more\" color from scan card"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1357",
+      "time": "2022-03-28T14:42:32Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1357",
+      "text": "fix: Removed hardcoded \"See more\" color from scan card"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1368",
+      "time": "2022-03-28T15:09:31Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1368",
+      "text": "fix: pull to refresh indicator for History"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1368",
+      "time": "2022-03-28T16:40:30Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1368",
+      "text": "fix: pull to refresh indicator for History"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1402",
+      "time": "2022-03-29T16:48:07Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1402",
+      "text": "fix: On boarding dark mode fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1402",
+      "time": "2022-03-30T06:18:22Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1402",
+      "text": "fix: On boarding dark mode fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1422",
+      "time": "2022-03-31T06:56:08Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1422",
+      "text": "fix: old crop utility  brought back"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1422",
+      "time": "2022-04-01T16:15:22Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1422",
+      "text": "fix: old crop utility  brought back"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1442",
+      "time": "2022-04-01T16:14:15Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1442",
+      "text": "fix: knowledge panel name made visible"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1442",
+      "time": "2022-04-02T09:57:48Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1442",
+      "text": "fix: knowledge panel name made visible"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1476",
+      "time": "2022-04-03T14:10:26Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1476",
+      "text": "feat: dismissible color added to personalized ranking"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1476",
+      "time": "2022-04-03T16:39:51Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1476",
+      "text": "feat: dismissible color added to personalized ranking"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1488",
+      "time": "2022-04-03T20:44:21Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1488",
+      "text": "fix: make card bottom prompt visible"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1488",
+      "time": "2022-04-19T19:48:56Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1488",
+      "text": "fix: make card bottom prompt visible"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1611",
+      "time": "2022-04-22T12:55:22Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1611",
+      "text": "fix: #1472 Stop on boarding next button to get spammed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1611",
+      "time": "2022-04-22T17:20:27Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1611",
+      "text": "fix: #1472 Stop on boarding next button to get spammed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1627",
+      "time": "2022-04-23T02:14:05Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1627",
+      "text": "fix: Nutrient search field added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1627",
+      "time": "2022-04-24T16:58:41Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1627",
+      "text": "fix: Nutrient search field added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1648",
+      "time": "2022-04-25T17:12:22Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1648",
+      "text": "fix: Don't show un-necessary alert dialog on nutrient page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1648",
+      "time": "2022-04-26T08:37:37Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1648",
+      "text": "fix: Don't show un-necessary alert dialog on nutrient page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1664",
+      "time": "2022-04-27T01:39:33Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1664",
+      "text": "fix: made analytics screen scrollable"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1664",
+      "time": "2022-04-27T05:39:06Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1664",
+      "text": "fix: made analytics screen scrollable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1695",
+      "time": "2022-04-29T10:33:23Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1695",
+      "text": "fix: update image cropper to 2.0.0 #1672"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1695",
+      "time": "2022-04-29T16:04:35Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1695",
+      "text": "fix: update image cropper to 2.0.0 #1672"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1728",
+      "time": "2022-05-01T11:51:43Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1728",
+      "text": "fix: filter while selecting countries #1200"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1728",
+      "time": "2022-05-02T06:06:28Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1728",
+      "text": "fix: filter while selecting countries #1200"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1745",
+      "time": "2022-05-05T05:34:30Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1745",
+      "text": "make app name resize itself"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1745",
+      "time": "2022-05-05T05:37:59Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1745",
+      "text": "make app name resize itself"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1746",
+      "time": "2022-05-05T06:15:05Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1746",
+      "text": "fix: added confirmation dialog"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1746",
+      "time": "2022-05-05T16:14:03Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1746",
+      "text": "fix: added confirmation dialog"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1758",
+      "time": "2022-05-05T18:24:05Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1758",
+      "text": "fix: properly managed state for country selector"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1758",
+      "time": "2022-05-05T18:30:05Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1758",
+      "text": "fix: properly managed state for country selector"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1801",
+      "time": "2022-05-10T02:38:10Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1801",
+      "text": "fix: Attribute indicator addition"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1801",
+      "time": "2022-05-10T17:43:01Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1801",
+      "text": "fix: Attribute indicator addition"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1980",
+      "time": "2022-05-25T09:48:40Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1980",
+      "text": "fix: #1972 simplify confirm image text"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1980",
+      "time": "2022-05-25T12:51:43Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1980",
+      "text": "fix: #1972 simplify confirm image text"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2043",
+      "time": "2022-05-28T07:10:50Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2043",
+      "text": "fix: confirm and upload fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2043",
+      "time": "2022-05-28T13:13:04Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2043",
+      "text": "fix: confirm and upload fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2044",
+      "time": "2022-05-28T07:54:56Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2044",
+      "text": "fix: Align the buttons to bottom"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2044",
+      "time": "2022-05-28T10:44:01Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2044",
+      "text": "fix: Align the buttons to bottom"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2052",
+      "time": "2022-05-28T16:17:13Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2052",
+      "text": "fix: Align text in center"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2052",
+      "time": "2022-05-28T16:22:56Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2052",
+      "text": "fix: Align text in center"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2095",
+      "time": "2022-05-31T17:07:45Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2095",
+      "text": "fix: show edit options immediately"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2095",
+      "time": "2022-06-01T13:33:16Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2095",
+      "text": "fix: show edit options immediately"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2106",
+      "time": "2022-05-31T20:32:06Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2106",
+      "text": "fix: centered the text and made the label with text"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2106",
+      "time": "2022-06-01T08:42:36Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2106",
+      "text": "fix: centered the text and made the label with text"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2162",
+      "time": "2022-06-05T02:43:13Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2162",
+      "text": "fix: repeated packing info button resolved"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2162",
+      "time": "2022-06-05T11:21:32Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2162",
+      "text": "fix: repeated packing info button resolved"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2163",
+      "time": "2022-06-05T02:48:47Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2163",
+      "text": "fix: resolve color issues"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2163",
+      "time": "2022-06-05T11:22:47Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2163",
+      "text": "fix: resolve color issues"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2208",
+      "time": "2022-06-07T17:12:41Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2208",
+      "text": "fix: added the gallery indicator"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2208",
+      "time": "2022-06-07T19:29:42Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2208",
+      "text": "fix: added the gallery indicator"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2263",
+      "time": "2022-06-13T13:19:29Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2263",
+      "text": "fix: added error svg's"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2263",
+      "time": "2022-06-13T14:34:34Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2263",
+      "text": "fix: added error svg's"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2290",
+      "time": "2022-06-15T17:24:52Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2290",
+      "text": "fix: Pick image from file too"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2290",
+      "time": "2022-06-19T11:40:55Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2290",
+      "text": "fix: Pick image from file too"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2322",
+      "time": "2022-06-19T15:50:15Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2322",
+      "text": "feat: Add offline mode data manager"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2433",
+      "time": "2022-06-29T19:47:05Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2433",
+      "text": "fix: Background image upload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2433",
+      "time": "2022-09-01T10:15:09Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2433",
+      "text": "fix: Background image upload"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2487",
+      "time": "2022-07-03T14:50:48Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2487",
+      "text": "fix: make textfield more visible in darkmode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2487",
+      "time": "2022-07-04T04:39:33Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2487",
+      "text": "fix: make textfield more visible in darkmode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2524",
+      "time": "2022-07-06T20:06:52Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2524",
+      "text": "feat: use gzip to compress the json data for product"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2560",
+      "time": "2022-07-08T19:19:44Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2560",
+      "text": "fix: better place holder when no internet connection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2560",
+      "time": "2022-07-09T17:19:24Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2560",
+      "text": "fix: better place holder when no internet connection"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2632",
+      "time": "2022-07-19T23:01:08Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2632",
+      "text": "fix: double-response mechanism in the scan screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2632",
+      "time": "2022-07-21T13:45:33Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2632",
+      "text": "fix: double-response mechanism in the scan screen"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2661",
+      "time": "2022-07-26T11:24:17Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2661",
+      "text": "feat: added feat in dev mode to preload 1k products"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2661",
+      "time": "2022-07-27T13:08:09Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2661",
+      "text": "feat: added feat in dev mode to preload 1k products"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2691",
+      "time": "2022-07-31T15:39:52Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2691",
+      "text": "fix: localized title for email"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2691",
+      "time": "2022-08-01T13:20:44Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2691",
+      "text": "fix: localized title for email"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2693",
+      "time": "2022-07-31T18:28:40Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2693",
+      "text": "fix: Offline product knowledge panel issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2693",
+      "time": "2022-08-11T14:04:29Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2693",
+      "text": "fix: Offline product knowledge panel issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2713",
+      "time": "2022-08-02T13:09:28Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2713",
+      "text": "fix:  loop loading when scanning #2669"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2713",
+      "time": "2022-08-04T15:55:41Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2713",
+      "text": "fix:  loop loading when scanning #2669"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2727",
+      "time": "2022-08-04T03:33:18Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2727",
+      "text": "fix: added loading indicator while sign-in in process"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2727",
+      "time": "2022-08-04T08:13:31Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2727",
+      "text": "fix: added loading indicator while sign-in in process"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2808",
+      "time": "2022-08-19T09:27:29Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2808",
+      "text": "fix: infinite loading while image upload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2808",
+      "time": "2022-08-20T12:06:06Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2808",
+      "text": "fix: infinite loading while image upload"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2831",
+      "time": "2022-08-22T20:25:30Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2831",
+      "text": "feat: use adaptive progress Indicator"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2831",
+      "time": "2022-08-23T09:18:59Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2831",
+      "text": "feat: use adaptive progress Indicator"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2857",
+      "time": "2022-08-28T16:13:51Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2857",
+      "text": "fix: Placeholder image in case of image not loading"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2857",
+      "time": "2022-08-29T13:07:40Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2857",
+      "text": "fix: Placeholder image in case of image not loading"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2901",
+      "time": "2022-09-01T20:57:37Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2901",
+      "text": "feat: Instant refresh views"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2901",
+      "time": "2022-09-06T10:46:22Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2901",
+      "text": "feat: Instant refresh views"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2950",
+      "time": "2022-09-06T14:30:08Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2950",
+      "text": "fix: Conflicting task names for ingredients and packaging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2950",
+      "time": "2022-09-06T15:28:30Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2950",
+      "text": "fix: Conflicting task names for ingredients and packaging"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2971",
+      "time": "2022-09-08T15:36:40Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2971",
+      "text": "feat: menu to manage offline data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2971",
+      "time": "2022-09-10T13:27:21Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2971",
+      "text": "feat: menu to manage offline data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3023",
+      "time": "2022-09-16T07:19:23Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3023",
+      "text": "fix: refresh images from gallery screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3023",
+      "time": "2022-09-16T09:55:31Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3023",
+      "text": "fix: refresh images from gallery screen"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3040",
+      "time": "2022-09-19T16:18:31Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3040",
+      "text": "fix: Sticky headers in search dialogs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3040",
+      "time": "2022-09-19T18:20:38Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3040",
+      "text": "fix: Sticky headers in search dialogs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3051",
+      "time": "2022-09-20T17:08:11Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3051",
+      "text": "fix: show nutrient button when image is present"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3051",
+      "time": "2022-09-21T18:49:11Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3051",
+      "text": "fix: show nutrient button when image is present"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3077",
+      "time": "2022-09-28T16:21:31Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3077",
+      "text": "fix: Check if user credential still holds"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3077",
+      "time": "2022-10-01T12:05:02Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3077",
+      "text": "fix: Check if user credential still holds"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3083",
+      "time": "2022-10-01T19:00:39Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3083",
+      "text": "fix: united kingdom with correct capitalizations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3083",
+      "time": "2022-10-02T11:25:23Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3083",
+      "text": "fix: united kingdom with correct capitalizations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3085",
+      "time": "2022-10-03T14:00:10Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3085",
+      "text": "fix: harmonize search modals"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3085",
+      "time": "2022-10-04T07:15:58Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3085",
+      "text": "fix: harmonize search modals"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3106",
+      "time": "2022-10-08T12:34:17Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3106",
+      "text": "fix: make new crop tool default"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3106",
+      "time": "2022-10-08T15:46:29Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3106",
+      "text": "fix: make new crop tool default"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3182",
+      "time": "2022-10-20T18:46:40Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3182",
+      "text": "fix: make links clickable again"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3182",
+      "time": "2022-10-21T05:45:14Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3182",
+      "text": "fix: make links clickable again"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3190",
+      "time": "2022-10-22T04:19:31Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3190",
+      "text": "chore: add golden tests and files for dialogs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3190",
+      "time": "2022-10-25T15:59:36Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3190",
+      "text": "chore: add golden tests and files for dialogs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3230",
+      "time": "2022-10-29T09:43:08Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3230",
+      "text": "fix: added auto complete text field for origins  #3209"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3230",
+      "time": "2022-10-29T13:52:28Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3230",
+      "text": "fix: added auto complete text field for origins  #3209"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3265",
+      "time": "2022-11-04T16:13:05Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3265",
+      "text": "fix: empty product addition"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3265",
+      "time": "2022-11-05T12:33:29Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3265",
+      "text": "fix: empty product addition"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3356",
+      "time": "2022-11-26T17:02:33Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3356",
+      "text": "fix: remove the progress indicator on ingredient extraction screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3356",
+      "time": "2022-11-27T15:30:52Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3356",
+      "text": "fix: remove the progress indicator on ingredient extraction screen"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3489",
+      "time": "2022-12-29T15:11:44Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3489",
+      "text": "fix: Prevent edit of perfect product on onboarding"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3489",
+      "time": "2022-12-31T10:55:39Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3489",
+      "text": "fix: Prevent edit of perfect product on onboarding"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3499",
+      "time": "2023-01-02T17:57:42Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3499",
+      "text": "fix: Sign in with email no longer have unwanted consquences"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3499",
+      "time": "2023-01-02T19:05:18Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3499",
+      "text": "fix: Sign in with email no longer have unwanted consquences"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3540",
+      "time": "2023-01-06T13:41:01Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3540",
+      "text": "fix: #3536 don't force entry into edit screen on card tap"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3540",
+      "time": "2023-01-06T13:57:37Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3540",
+      "text": "fix: #3536 don't force entry into edit screen on card tap"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3755",
+      "time": "2023-03-02T16:11:12Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3755",
+      "text": "chore: Track edit events"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3755",
+      "time": "2023-03-16T17:36:48Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3755",
+      "text": "chore: Track edit events"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4055",
+      "time": "2023-05-31T15:26:33Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4055",
+      "text": "fix: #4025 translate the offline data page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4055",
+      "time": "2023-06-01T08:23:33Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4055",
+      "text": "fix: #4025 translate the offline data page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#5004",
+      "time": "2024-01-22T17:24:02Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/5004",
+      "text": "fix: Add hunger game analytics event and track it"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#5004",
+      "time": "2024-01-25T16:02:51Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/5004",
+      "text": "fix: Add hunger game analytics event and track it"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#5074",
+      "time": "2024-02-18T13:07:10Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/5074",
+      "text": "feat: Add privacy policy link in app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#5074",
+      "time": "2024-02-19T16:49:38Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/5074",
+      "text": "feat: Add privacy policy link in app"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

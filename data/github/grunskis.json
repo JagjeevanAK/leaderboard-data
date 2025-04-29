@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-03-28T08:27:47Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#784",
+      "time": "2025-03-28T08:27:47Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/784",
+      "text": "chore(docs): create dotenv example file, ignore the local one"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices#784",
+      "time": "2025-03-30T15:22:14Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/784",
+      "text": "chore(docs): create dotenv example file, ignore the local one"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

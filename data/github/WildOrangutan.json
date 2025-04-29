@@ -1,0 +1,168 @@
+{
+  "last_updated": "2022-10-01T15:01:55Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3080",
+      "time": "2022-10-01T15:01:55Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3080",
+      "text": "feat: Add checkmarks on 'add new product' screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3080",
+      "time": "2022-10-03T16:14:54Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3080",
+      "text": "feat: Add checkmarks on 'add new product' screen"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3081",
+      "time": "2022-10-01T16:39:44Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3081",
+      "text": "feat: Remove 'empty list' from product query page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3081",
+      "time": "2022-10-03T16:17:03Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3081",
+      "text": "feat: Remove 'empty list' from product query page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3088",
+      "time": "2022-10-03T18:08:31Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3088",
+      "text": "refactor: ProductImageData to contain all image links"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3088",
+      "time": "2022-10-12T17:19:10Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3088",
+      "text": "refactor: ProductImageData to contain all image links"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3089",
+      "time": "2022-10-03T19:33:33Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3089",
+      "text": "fix: Correctly format commas between product brands"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3089",
+      "time": "2022-10-05T19:34:27Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3089",
+      "text": "fix: Correctly format commas between product brands"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4678",
+      "time": "2023-09-30T22:12:53Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4678",
+      "text": "fix: \"Stores\" field to not show loading spinner (#4669)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4678",
+      "time": "2023-10-02T11:21:53Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4678",
+      "text": "fix: \"Stores\" field to not show loading spinner (#4669)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4680",
+      "time": "2023-10-02T13:21:29Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4680",
+      "text": "fix: Product card shimmer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4680",
+      "time": "2023-10-04T20:16:06Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4680",
+      "text": "fix: Product card shimmer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4683",
+      "time": "2023-10-02T17:22:29Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4683",
+      "text": "fix: Tagline url opening inconsistency"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4683",
+      "time": "2023-10-04T20:12:18Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4683",
+      "text": "fix: Tagline url opening inconsistency"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4687",
+      "time": "2023-10-02T18:34:07Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4687",
+      "text": "fix: Tagline language refresh"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4699",
+      "time": "2023-10-05T18:32:25Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4699",
+      "text": "fix: Exception when product brands are null"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4699",
+      "time": "2023-10-06T06:57:26Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4699",
+      "text": "fix: Exception when product brands are null"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4705",
+      "time": "2023-10-07T18:51:40Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4705",
+      "text": "fix: Product name/brands exception"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4705",
+      "time": "2023-10-08T05:42:55Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4705",
+      "text": "fix: Product name/brands exception"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4706",
+      "time": "2023-10-08T15:24:40Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4706",
+      "text": "feat: Add btn to finish adding new product"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4706",
+      "time": "2023-10-31T22:51:59Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4706",
+      "text": "feat: Add btn to finish adding new product"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3538",
+      "time": "2020-10-04T14:14:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3538",
+      "text": "Fixes #3537: Add \"Update image\" button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3538",
+      "time": "2020-10-12T08:19:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3538",
+      "text": "Fixes #3537: Add \"Update image\" button"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

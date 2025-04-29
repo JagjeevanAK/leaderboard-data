@@ -1,0 +1,35 @@
+{
+  "last_updated": "2023-06-22T19:45:46Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#637",
+      "time": "2023-06-22T19:45:46Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/637",
+      "text": "fix: Swapped old microsoft link with new one"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#637",
+      "time": "2023-06-23T08:32:02Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/637",
+      "text": "fix: Swapped old microsoft link with new one"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#641",
+      "time": "2023-06-27T21:39:46Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/641",
+      "text": "Fix: fixed warn on empty values"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#641",
+      "time": "2023-06-30T06:45:18Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/641",
+      "text": "Fix: fixed warn on empty values"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

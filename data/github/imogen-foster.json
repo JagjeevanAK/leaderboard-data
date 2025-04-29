@@ -1,0 +1,14 @@
+{
+  "last_updated": "2021-12-16T22:26:36Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4405",
+      "time": "2021-12-16T22:26:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4405",
+      "text": "Fixes #3539: Add a link to the ingredient analysis section of settings & Fixes #3053: Fix the \"portion vs. serving\" wording issue"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

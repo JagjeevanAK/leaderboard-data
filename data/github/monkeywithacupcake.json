@@ -1,0 +1,21 @@
+{
+  "last_updated": "2019-02-03T15:32:21Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1645",
+      "time": "2019-02-03T15:32:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1645",
+      "text": "Activating Open Collective"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1645",
+      "time": "2019-02-04T18:07:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1645",
+      "text": "Activating Open Collective"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

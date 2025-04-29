@@ -1,0 +1,14 @@
+{
+  "last_updated": "2019-06-26T23:51:15Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2013",
+      "time": "2019-06-26T23:51:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2013",
+      "text": "Add Sphinx Documentation"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

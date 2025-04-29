@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-12-24T09:28:07Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4920",
+      "time": "2023-12-24T09:28:07Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4920",
+      "text": "fix:  the bug related to changing the language of countries when changing the Food App language."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4920",
+      "time": "2023-12-28T08:24:18Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4920",
+      "text": "fix:  the bug related to changing the language of countries when changing the Food App language."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4922",
+      "time": "2023-12-24T10:25:59Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4922",
+      "text": "feat: Add a complete list of localizedCountries"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

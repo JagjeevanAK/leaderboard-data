@@ -1,0 +1,14 @@
+{
+  "last_updated": "2018-09-23T09:11:11Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#39",
+      "time": "2018-09-23T09:11:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/39",
+      "text": "detection of nutriscore labels"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

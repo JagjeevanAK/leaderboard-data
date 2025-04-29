@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-06-21T15:32:11Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4221",
+      "time": "2023-06-21T15:32:11Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4221",
+      "text": "fix: Added text 'compare to category' for the comparison page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4221",
+      "time": "2023-07-22T12:44:52Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4221",
+      "text": "fix: Added text 'compare to category' for the comparison page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4234",
+      "time": "2023-06-25T16:31:45Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4234",
+      "text": "fix: Fixed buttons not having equal heights"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

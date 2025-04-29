@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-02-28T16:55:53Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8150",
+      "time": "2023-02-28T16:55:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8150",
+      "text": "taxonomy: add some missing Italian ingredients and additives alternative spellings"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8150",
+      "time": "2023-03-13T09:16:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8150",
+      "text": "taxonomy: add some missing Italian ingredients and additives alternative spellings"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

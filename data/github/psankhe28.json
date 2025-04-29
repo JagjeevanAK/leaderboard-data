@@ -1,0 +1,77 @@
+{
+  "last_updated": "2024-02-04T17:58:00Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices-frontend#278",
+      "time": "2024-02-04T17:58:00Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/278",
+      "text": "feat: Dark mode implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices-frontend#339",
+      "time": "2024-02-16T08:56:12Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/339",
+      "text": "feat: Dark mode implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices-frontend#366",
+      "time": "2024-02-21T15:15:10Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/366",
+      "text": "feat: Dark mode implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#457",
+      "time": "2023-01-05T05:12:00Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/457",
+      "text": "Fix: Recycling dashboard links to labels vs packaging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#457",
+      "time": "2023-01-05T13:06:41Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/457",
+      "text": "Fix: Recycling dashboard links to labels vs packaging"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#531",
+      "time": "2023-02-06T07:23:36Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/531",
+      "text": "Fix: Packaging added to question type dropdown"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#532",
+      "time": "2023-02-06T07:33:35Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/532",
+      "text": "fix: Logo games accessible to logged in users #502"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#532",
+      "time": "2023-02-13T18:42:35Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/532",
+      "text": "fix: Logo games accessible to logged in users #502"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smoothielanding#32",
+      "time": "2023-01-03T11:58:57Z",
+      "link": "https://github.com/openfoodfacts/smoothielanding/pull/32",
+      "text": "fix: Favicon added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smoothielanding#32",
+      "time": "2023-01-06T10:55:03Z",
+      "link": "https://github.com/openfoodfacts/smoothielanding/pull/32",
+      "text": "fix: Favicon added"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

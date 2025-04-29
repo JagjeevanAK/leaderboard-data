@@ -1,0 +1,21 @@
+{
+  "last_updated": "2019-08-01T16:12:57Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2850",
+      "time": "2019-08-01T16:12:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2850",
+      "text": "Fixes #2844: Hiding the product card on pressing the scan button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2850",
+      "time": "2019-08-12T13:55:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2850",
+      "text": "Fixes #2844: Hiding the product card on pressing the scan button"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

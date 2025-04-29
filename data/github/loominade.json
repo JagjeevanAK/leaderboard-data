@@ -1,0 +1,21 @@
+{
+  "last_updated": "2016-12-23T10:26:48Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#363",
+      "time": "2016-12-23T10:26:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/363",
+      "text": "Update strings-de.po"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#363",
+      "time": "2016-12-23T14:01:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/363",
+      "text": "Update strings-de.po"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

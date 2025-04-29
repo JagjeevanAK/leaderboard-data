@@ -1,0 +1,35 @@
+{
+  "last_updated": "2022-03-21T10:31:16Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4567",
+      "time": "2022-03-21T10:31:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4567",
+      "text": "fix: Add background on tagline in home page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4567",
+      "time": "2022-03-21T12:16:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4567",
+      "text": "fix: Add background on tagline in home page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4573",
+      "time": "2022-03-21T12:21:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4573",
+      "text": "fix: Barcode scanner: No visual cues for icons on top of the screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4573",
+      "time": "2022-03-21T15:55:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4573",
+      "text": "fix: Barcode scanner: No visual cues for icons on top of the screen"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

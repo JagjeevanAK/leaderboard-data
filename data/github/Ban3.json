@@ -1,0 +1,651 @@
+{
+  "last_updated": "2019-11-02T17:06:03Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2537",
+      "time": "2019-11-02T17:06:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2537",
+      "text": "Ingredients taxonomy: update Finnish translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2537",
+      "time": "2019-11-10T14:59:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2537",
+      "text": "Ingredients taxonomy: update Finnish translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2620",
+      "time": "2019-11-18T18:35:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2620",
+      "text": "packager-codes: Add Finnish codes & fixes for other countries"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2620",
+      "time": "2019-11-20T17:55:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2620",
+      "text": "packager-codes: Add Finnish codes & fixes for other countries"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2649",
+      "time": "2019-11-23T11:35:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2649",
+      "text": "nutrients: update Finnish translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2649",
+      "time": "2019-11-23T14:04:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2649",
+      "text": "nutrients: update Finnish translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2660",
+      "time": "2019-11-26T17:57:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2660",
+      "text": "ingredient parsing: improve Finnish parsing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2660",
+      "time": "2019-11-28T08:53:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2660",
+      "text": "ingredient parsing: improve Finnish parsing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2697",
+      "time": "2019-12-01T13:26:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2697",
+      "text": "allergens: update Finnish translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2697",
+      "time": "2019-12-01T15:09:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2697",
+      "text": "allergens: update Finnish translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2746",
+      "time": "2019-12-07T14:41:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2746",
+      "text": "labels taxonomy: Finnish updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2746",
+      "time": "2019-12-10T16:59:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2746",
+      "text": "labels taxonomy: Finnish updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2752",
+      "time": "2019-12-08T11:46:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2752",
+      "text": "allergens: fix gluten wikidata link"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2752",
+      "time": "2019-12-08T17:56:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2752",
+      "text": "allergens: fix gluten wikidata link"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2965",
+      "time": "2020-03-02T14:03:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2965",
+      "text": "additives: update Finnish translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2965",
+      "time": "2020-03-02T14:22:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2965",
+      "text": "additives: update Finnish translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3356",
+      "time": "2020-05-02T09:00:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3356",
+      "text": "Normalize Finnish packager codes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3356",
+      "time": "2020-05-02T10:04:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3356",
+      "text": "Normalize Finnish packager codes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3357",
+      "time": "2020-05-02T09:08:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3357",
+      "text": "ingredient parsing: normalize Finnish vitamins correctly"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3357",
+      "time": "2020-05-02T14:17:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3357",
+      "text": "ingredient parsing: normalize Finnish vitamins correctly"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3402",
+      "time": "2020-05-10T13:33:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3402",
+      "text": "Fix malformed wiki-links"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3402",
+      "time": "2020-05-11T10:12:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3402",
+      "text": "Fix malformed wiki-links"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3433",
+      "time": "2020-05-17T10:34:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3433",
+      "text": "ingredients-analysis: expand abbreviated fi stopwords"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3433",
+      "time": "2020-05-18T10:08:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3433",
+      "text": "ingredients-analysis: expand abbreviated fi stopwords"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3524",
+      "time": "2020-06-01T10:47:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3524",
+      "text": "Add packager codes for Estonia"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3524",
+      "time": "2020-06-02T17:44:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3524",
+      "text": "Add packager codes for Estonia"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3628",
+      "time": "2020-06-15T07:02:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3628",
+      "text": "Nordic unknown ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3628",
+      "time": "2020-06-15T15:33:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3628",
+      "text": "Nordic unknown ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3654",
+      "time": "2020-06-17T11:20:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3654",
+      "text": "Nordic ingredient preparsing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3654",
+      "time": "2020-06-19T12:04:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3654",
+      "text": "Nordic ingredient preparsing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3810",
+      "time": "2020-07-06T18:42:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3810",
+      "text": "Finnish category spelling corrections"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3810",
+      "time": "2020-07-08T08:31:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3810",
+      "text": "Finnish category spelling corrections"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3884",
+      "time": "2020-07-18T18:07:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3884",
+      "text": "Refresh FR packager codes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3884",
+      "time": "2020-07-20T08:18:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3884",
+      "text": "Refresh FR packager codes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3916",
+      "time": "2020-07-22T11:53:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3916",
+      "text": "Fix FR separator"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3916",
+      "time": "2020-07-23T11:02:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3916",
+      "text": "Fix FR separator"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4007",
+      "time": "2020-08-08T20:56:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4007",
+      "text": "Refresh ES packager codes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4007",
+      "time": "2020-08-10T08:49:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4007",
+      "text": "Refresh ES packager codes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4016",
+      "time": "2020-08-12T16:55:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4016",
+      "text": "Add Nordic organic labels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4016",
+      "time": "2020-08-18T10:07:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4016",
+      "text": "Add Nordic organic labels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4022",
+      "time": "2020-08-13T18:29:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4022",
+      "text": "Preparse fi organic label from compound words"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4022",
+      "time": "2020-08-16T16:40:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4022",
+      "text": "Preparse fi organic label from compound words"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4023",
+      "time": "2020-08-14T22:53:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4023",
+      "text": "Improve Perl critique"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4023",
+      "time": "2020-08-22T15:31:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4023",
+      "text": "Improve Perl critique"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4051",
+      "time": "2020-08-22T15:26:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4051",
+      "text": "Support running a debugger under mod_perl inside docker"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4051",
+      "time": "2020-08-22T18:12:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4051",
+      "text": "Support running a debugger under mod_perl inside docker"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4066",
+      "time": "2020-08-24T13:34:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4066",
+      "text": "Replace separators embedded in FR and ES packager code fields"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4066",
+      "time": "2020-08-24T22:27:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4066",
+      "text": "Replace separators embedded in FR and ES packager code fields"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4068",
+      "time": "2020-08-24T17:12:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4068",
+      "text": "Revert agribalyse_food_codes back"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4068",
+      "time": "2020-08-25T17:24:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4068",
+      "text": "Revert agribalyse_food_codes back"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4086",
+      "time": "2020-08-29T15:58:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4086",
+      "text": "Port update_packager_codes to using Text::CSV & SE code refresh"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4086",
+      "time": "2020-08-30T16:44:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4086",
+      "text": "Port update_packager_codes to using Text::CSV & SE code refresh"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4109",
+      "time": "2020-08-31T11:47:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4109",
+      "text": "fix: use HTML::Entities instead of require"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4109",
+      "time": "2020-08-31T19:18:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4109",
+      "text": "fix: use HTML::Entities instead of require"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4114",
+      "time": "2020-08-31T20:59:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4114",
+      "text": "Don't use method invocation where it isn't needed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4114",
+      "time": "2020-09-01T09:16:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4114",
+      "text": "Don't use method invocation where it isn't needed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4118",
+      "time": "2020-09-01T09:55:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4118",
+      "text": "Finnish translations for Nova groups"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4118",
+      "time": "2020-09-01T11:36:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4118",
+      "text": "Finnish translations for Nova groups"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4123",
+      "time": "2020-09-01T11:02:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4123",
+      "text": "ingredients parsing: add missing '.' to 'bl. a.' abbreviation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4123",
+      "time": "2020-09-01T12:09:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4123",
+      "text": "ingredients parsing: add missing '.' to 'bl. a.' abbreviation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4124",
+      "time": "2020-09-01T12:32:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4124",
+      "text": "ingredient parsing: don't truncate purée after percentage"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4124",
+      "time": "2020-09-01T13:14:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4124",
+      "text": "ingredient parsing: don't truncate purée after percentage"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4190",
+      "time": "2020-09-13T10:25:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4190",
+      "text": "Nordic ingredient list cleaning patterns"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4190",
+      "time": "2020-09-13T10:55:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4190",
+      "text": "Nordic ingredient list cleaning patterns"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4192",
+      "time": "2020-09-13T14:58:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4192",
+      "text": "fix: set useragent IP to X-Forwarded-For"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4192",
+      "time": "2020-09-13T16:08:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4192",
+      "text": "fix: set useragent IP to X-Forwarded-For"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4209",
+      "time": "2020-09-14T19:29:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4209",
+      "text": "Correct ASC logo width"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4209",
+      "time": "2020-09-14T21:02:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4209",
+      "text": "Correct ASC logo width"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4214",
+      "time": "2020-09-16T14:04:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4214",
+      "text": "Sort processing regexes by length"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4214",
+      "time": "2020-09-17T19:01:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4214",
+      "text": "Sort processing regexes by length"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4236",
+      "time": "2020-09-20T20:56:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4236",
+      "text": "Improve error handling in update_packager_codes_pl, refresh DE codes."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4236",
+      "time": "2020-09-21T09:34:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4236",
+      "text": "Improve error handling in update_packager_codes_pl, refresh DE codes."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4259",
+      "time": "2020-09-26T21:59:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4259",
+      "text": "Fix use of undefined translation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4259",
+      "time": "2020-09-27T10:49:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4259",
+      "text": "Fix use of undefined translation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4295",
+      "time": "2020-10-02T14:33:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4295",
+      "text": "Capture signal when refreshing taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4295",
+      "time": "2020-10-03T08:55:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4295",
+      "text": "Capture signal when refreshing taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4342",
+      "time": "2020-10-09T21:23:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4342",
+      "text": "Don't count '... photo selected' as a TODO state"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4342",
+      "time": "2020-10-10T08:38:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4342",
+      "text": "Don't count '... photo selected' as a TODO state"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4657",
+      "time": "2020-12-22T22:00:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4657",
+      "text": "Nordic unknown ingredients W52"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4657",
+      "time": "2020-12-24T09:55:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4657",
+      "text": "Nordic unknown ingredients W52"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4658",
+      "time": "2020-12-22T22:34:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4658",
+      "text": "Nordic label translations W52"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4658",
+      "time": "2020-12-23T13:15:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4658",
+      "text": "Nordic label translations W52"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4660",
+      "time": "2020-12-23T13:04:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4660",
+      "text": "Ingredient analyzer patterns sourced from Nordic ingredient lists"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4660",
+      "time": "2020-12-23T14:37:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4660",
+      "text": "Ingredient analyzer patterns sourced from Nordic ingredient lists"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4742",
+      "time": "2021-01-12T21:01:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4742",
+      "text": "ci: Label stale issues automatically"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4742",
+      "time": "2021-01-13T09:47:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4742",
+      "text": "ci: Label stale issues automatically"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8550",
+      "time": "2023-06-12T18:49:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8550",
+      "text": "taxonomy: add fi translation for Crossed Grain Trademark"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8550",
+      "time": "2023-06-13T13:29:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8550",
+      "text": "taxonomy: add fi translation for Crossed Grain Trademark"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8574",
+      "time": "2023-06-16T14:26:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8574",
+      "text": "taxonomy: Finnish translations for doughnut categories"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8574",
+      "time": "2023-06-19T16:33:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8574",
+      "text": "taxonomy: Finnish translations for doughnut categories"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8600",
+      "time": "2023-06-23T20:25:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8600",
+      "text": "fix: Add back the \"Remember me\" checkbox"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8600",
+      "time": "2023-06-26T07:30:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8600",
+      "text": "fix: Add back the \"Remember me\" checkbox"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

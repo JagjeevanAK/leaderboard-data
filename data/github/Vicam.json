@@ -1,0 +1,35 @@
+{
+  "last_updated": "2018-11-14T21:03:02Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1507",
+      "time": "2018-11-14T21:03:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1507",
+      "text": "Ajout carbonfoodprint foodges 3 aliments poulet"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1507",
+      "time": "2018-11-15T15:37:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1507",
+      "text": "Ajout carbonfoodprint foodges 3 aliments poulet"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1531",
+      "time": "2018-11-21T19:27:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1531",
+      "text": "taxonomie FoodGES Victor 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1531",
+      "time": "2018-12-04T13:48:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1531",
+      "text": "taxonomie FoodGES Victor 2"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

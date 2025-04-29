@@ -1,0 +1,14 @@
+{
+  "last_updated": "2022-10-02T13:08:27Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#999",
+      "time": "2022-10-02T13:08:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/999",
+      "text": "fix: fixes #981 issue wrong language"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

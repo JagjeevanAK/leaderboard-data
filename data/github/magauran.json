@@ -1,0 +1,21 @@
+{
+  "last_updated": "2019-08-24T19:26:36Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#333",
+      "time": "2019-08-24T19:26:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/333",
+      "text": "Delete duplicate localization files and fix en.lproj and nl.lproj paths"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#333",
+      "time": "2019-11-13T15:43:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/333",
+      "text": "Delete duplicate localization files and fix en.lproj and nl.lproj paths"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

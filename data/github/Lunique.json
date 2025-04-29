@@ -1,0 +1,49 @@
+{
+  "last_updated": "2019-05-14T17:37:35Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1777",
+      "time": "2019-05-14T17:37:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1777",
+      "text": "Update categories.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1777",
+      "time": "2019-05-17T13:06:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1777",
+      "text": "Update categories.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1897",
+      "time": "2019-06-07T18:20:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1897",
+      "text": "Update allergens.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1897",
+      "time": "2019-06-08T13:33:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1897",
+      "text": "Update allergens.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2121",
+      "time": "2019-07-19T16:56:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2121",
+      "text": "Create brands.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2121",
+      "time": "2019-07-20T19:02:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2121",
+      "text": "Create brands.txt"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

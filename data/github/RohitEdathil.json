@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-04-18T17:36:00Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1601",
+      "time": "2022-04-18T17:36:00Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1601",
+      "text": "fix: Fixed phantom space issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1601",
+      "time": "2022-04-19T19:54:12Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1601",
+      "text": "fix: Fixed phantom space issue"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

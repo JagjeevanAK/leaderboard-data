@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-04-02T12:03:52Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#326",
+      "time": "2021-04-02T12:03:52Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/326",
+      "text": "le wagon model categories prediction"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#326",
+      "time": "2021-05-18T15:00:41Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/326",
+      "text": "le wagon model categories prediction"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

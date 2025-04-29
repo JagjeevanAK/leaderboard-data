@@ -1,0 +1,63 @@
+{
+  "last_updated": "2022-10-29T12:52:55Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/folksonomy_api#112",
+      "time": "2022-10-29T12:52:55Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/112",
+      "text": "feat: add logging with real time recording uvicorn's logs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/folksonomy_api#112",
+      "time": "2022-11-07T17:35:41Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/112",
+      "text": "feat: add logging with real time recording uvicorn's logs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#113",
+      "time": "2022-10-12T12:24:53Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/113",
+      "text": "feat: add new user with USER_GID parameter & replace root user"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#113",
+      "time": "2022-10-19T17:01:40Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/113",
+      "text": "feat: add new user with USER_GID parameter & replace root user"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/facets-knowledge-panels#40",
+      "time": "2022-09-28T02:53:53Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/40",
+      "text": "refactor: remove root user and separate dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/facets-knowledge-panels#40",
+      "time": "2022-10-11T09:49:36Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/40",
+      "text": "refactor: remove root user and separate dev"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/facets-knowledge-panels#55",
+      "time": "2022-10-22T10:26:15Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/55",
+      "text": "docs: add the CONTRIBUTING.md "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/facets-knowledge-panels#55",
+      "time": "2022-10-22T13:17:28Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/55",
+      "text": "docs: add the CONTRIBUTING.md "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

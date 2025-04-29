@@ -1,0 +1,147 @@
+{
+  "last_updated": "2018-09-11T14:27:24Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#9",
+      "time": "2018-09-11T14:27:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/9",
+      "text": "Update the code with more POO"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#9",
+      "time": "2018-10-30T08:48:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/9",
+      "text": "Update the code with more POO"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#35",
+      "time": "2021-09-29T21:08:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/35",
+      "text": "Check PHP8 + add Phpstan + some improvment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#35",
+      "time": "2021-10-28T16:01:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/35",
+      "text": "Check PHP8 + add Phpstan + some improvment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#37",
+      "time": "2021-10-30T18:05:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/37",
+      "text": "[WIP] feat: Bump php74 + improve api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#40",
+      "time": "2022-02-01T21:12:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/40",
+      "text": "chore(deps):  Update dependency"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#42",
+      "time": "2022-08-11T23:07:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/42",
+      "text": "feat: upgrade to php 8.1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#49",
+      "time": "2023-08-22T13:37:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/49",
+      "text": "feat: force user agent"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#52",
+      "time": "2024-05-01T10:13:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/52",
+      "text": "feat: docker update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#52",
+      "time": "2024-05-07T15:49:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/52",
+      "text": "feat: docker update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#53",
+      "time": "2024-05-01T10:17:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/53",
+      "text": "feat: force user agent"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#53",
+      "time": "2024-05-07T17:09:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/53",
+      "text": "feat: force user agent"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#62",
+      "time": "2024-05-07T23:08:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/62",
+      "text": "feat: add search api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#62",
+      "time": "2024-05-11T13:23:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/62",
+      "text": "feat: add search api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-laravel#54",
+      "time": "2024-07-11T18:23:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/54",
+      "text": "feat: improve ci"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-laravel#54",
+      "time": "2024-09-26T07:26:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/54",
+      "text": "feat: improve ci"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-laravel#55",
+      "time": "2024-07-11T18:28:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/55",
+      "text": "feat: allow other environment like OpenBeautyFacts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-laravel#55",
+      "time": "2024-07-25T06:19:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/55",
+      "text": "feat: allow other environment like OpenBeautyFacts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-laravel#62",
+      "time": "2025-01-23T17:39:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/62",
+      "text": "fix: remove deprecated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-laravel#62",
+      "time": "2025-03-04T20:47:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/62",
+      "text": "fix: remove deprecated"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

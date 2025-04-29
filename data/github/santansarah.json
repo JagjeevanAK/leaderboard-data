@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-04-04T23:35:56Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4961",
+      "time": "2023-04-04T23:35:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4961",
+      "text": "fix: Launch (fragment-ktx), Product Photos, Contributions bug fixes."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4961",
+      "time": "2023-04-06T19:18:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4961",
+      "text": "fix: Launch (fragment-ktx), Product Photos, Contributions bug fixes."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

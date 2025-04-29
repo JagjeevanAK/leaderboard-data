@@ -1,0 +1,14 @@
+{
+  "last_updated": "2018-03-24T14:00:49Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#34",
+      "time": "2018-03-24T14:00:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/34",
+      "text": "Added a link for annotated barcode dataset "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-12-17T11:05:39Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4643",
+      "time": "2020-12-17T11:05:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4643",
+      "text": "fix #4307 and improve focus by rolling."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4643",
+      "time": "2020-12-17T16:56:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4643",
+      "text": "fix #4307 and improve focus by rolling."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

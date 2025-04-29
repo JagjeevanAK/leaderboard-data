@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-12-18T15:36:09Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-csharp#2",
+      "time": "2023-12-18T15:36:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-csharp/pull/2",
+      "text": "Adds parts of EcoscoreData to api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-csharp#2",
+      "time": "2024-02-21T10:29:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-csharp/pull/2",
+      "text": "Adds parts of EcoscoreData to api"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

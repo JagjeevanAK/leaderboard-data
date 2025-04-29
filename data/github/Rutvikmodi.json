@@ -1,0 +1,84 @@
+{
+  "last_updated": "2018-06-29T18:33:20Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1751",
+      "time": "2018-06-29T18:33:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1751",
+      "text": "Fixed #1723"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1755",
+      "time": "2018-06-30T17:44:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1755",
+      "text": "Sign up button enabled"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1762",
+      "time": "2018-07-02T10:28:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1762",
+      "text": "Fixes #1761 Unexpected login of user"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1762",
+      "time": "2018-07-06T08:54:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1762",
+      "text": "Fixes #1761 Unexpected login of user"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1769",
+      "time": "2018-07-11T21:08:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1769",
+      "text": "Fix #1694 Caught the Null pointer exception on sort with Brand missing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1772",
+      "time": "2018-07-13T18:40:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1772",
+      "text": "Fixes #1694 and partial sorting done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1772",
+      "time": "2018-07-16T19:17:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1772",
+      "text": "Fixes #1694 and partial sorting done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1774",
+      "time": "2018-07-14T23:35:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1774",
+      "text": "Fixes #1634 and user can calculate nutrition facts of a product"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1774",
+      "time": "2018-07-24T18:08:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1774",
+      "text": "Fixes #1634 and user can calculate nutrition facts of a product"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1800",
+      "time": "2018-07-31T10:45:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1800",
+      "text": "Modified text view in CalculateDetails"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1800",
+      "time": "2018-08-07T20:25:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1800",
+      "text": "Modified text view in CalculateDetails"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

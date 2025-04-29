@@ -1,0 +1,49 @@
+{
+  "last_updated": "2022-09-15T16:22:13Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3019",
+      "time": "2022-09-15T16:22:13Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3019",
+      "text": "fix: handling of back tap in select products list screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3019",
+      "time": "2022-09-17T05:53:01Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3019",
+      "text": "fix: handling of back tap in select products list screen"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3276",
+      "time": "2022-11-06T16:53:22Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3276",
+      "text": "fix: pull to refresh in product query page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3276",
+      "time": "2022-11-09T19:03:40Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3276",
+      "text": "fix: pull to refresh in product query page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3289",
+      "time": "2022-11-09T15:12:55Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3289",
+      "text": "fix: duplicate entries in search query"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3289",
+      "time": "2022-11-09T19:20:28Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3289",
+      "text": "fix: duplicate entries in search query"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

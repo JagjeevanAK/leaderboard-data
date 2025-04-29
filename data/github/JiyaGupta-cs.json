@@ -1,0 +1,28 @@
+{
+  "last_updated": "2025-02-27T23:17:28Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#150",
+      "time": "2025-02-27T23:17:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/150",
+      "text": "feat: dark/light mode toggle in settings"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#211",
+      "time": "2025-03-04T22:39:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/211",
+      "text": "feat: updated favicon"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-explorer#211",
+      "time": "2025-03-10T19:08:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/211",
+      "text": "feat: updated favicon"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

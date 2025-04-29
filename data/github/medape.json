@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-04-14T18:43:10Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11787",
+      "time": "2025-04-14T18:43:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11787",
+      "text": "taxonomy: translations and logo to the Gluten Free Trademark from the AOECS"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11787",
+      "time": "2025-04-19T17:20:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11787",
+      "text": "taxonomy: translations and logo to the Gluten Free Trademark from the AOECS"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

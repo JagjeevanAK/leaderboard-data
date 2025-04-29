@@ -1,0 +1,84 @@
+{
+  "last_updated": "2022-07-11T10:14:57Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7049",
+      "time": "2022-07-11T10:14:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7049",
+      "text": "taxonomy: Changed some entries, mostly double entries"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7049",
+      "time": "2022-07-13T08:54:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7049",
+      "text": "taxonomy: Changed some entries, mostly double entries"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7200",
+      "time": "2022-08-11T12:45:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7200",
+      "text": "taxonomy: Remove repeated entries"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7200",
+      "time": "2022-08-16T09:42:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7200",
+      "text": "taxonomy: Remove repeated entries"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#18",
+      "time": "2022-07-06T19:30:03Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/18",
+      "text": "feat: taxonomy parser library"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#18",
+      "time": "2022-07-29T15:25:16Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/18",
+      "text": "feat: taxonomy parser library"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#36",
+      "time": "2022-08-02T07:27:31Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/36",
+      "text": "feat: Create unparser.py"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#36",
+      "time": "2022-08-19T15:44:47Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/36",
+      "text": "feat: Create unparser.py"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#37",
+      "time": "2022-08-03T17:30:37Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/37",
+      "text": "feat: add error logs to parser"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#37",
+      "time": "2022-08-19T13:25:52Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/37",
+      "text": "feat: add error logs to parser"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#39",
+      "time": "2022-08-05T17:16:55Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/39",
+      "text": "feat: add checks"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

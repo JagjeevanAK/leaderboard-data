@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-03-17T11:07:06Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1322",
+      "time": "2024-03-17T11:07:06Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1322",
+      "text": "feat(main): correct and add label logos"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#1322",
+      "time": "2024-03-21T08:56:02Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1322",
+      "text": "feat(main): correct and add label logos"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

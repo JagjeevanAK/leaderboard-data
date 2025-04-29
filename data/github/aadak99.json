@@ -1,0 +1,63 @@
+{
+  "last_updated": "2023-05-14T09:57:08Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8418",
+      "time": "2023-05-14T09:57:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8418",
+      "text": "fix: HTML addition for youtube link for pro platform #8407"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8437",
+      "time": "2023-05-20T19:43:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8437",
+      "text": "fix: Squashed commits of various fixes #8408, #8332, #8354, #6525, #3372"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8437",
+      "time": "2023-06-08T15:12:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8437",
+      "text": "fix: Squashed commits of various fixes #8408, #8332, #8354, #6525, #3372"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9803",
+      "time": "2024-02-16T05:49:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9803",
+      "text": "Fix: Added Privacy Policy link as well as translation strings #9776"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9804",
+      "time": "2024-02-16T06:17:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9804",
+      "text": "fix: Addition of privacy link, and translatable strings #9776"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9804",
+      "time": "2024-02-19T14:10:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9804",
+      "text": "fix: Addition of privacy link, and translatable strings #9776"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9805",
+      "time": "2024-02-16T21:55:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9805",
+      "text": "Fix: Updated two links and corrected previous strings, Additionally added a string to en.po #543"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9805",
+      "time": "2024-02-19T10:03:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9805",
+      "text": "Fix: Updated two links and corrected previous strings, Additionally added a string to en.po #543"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

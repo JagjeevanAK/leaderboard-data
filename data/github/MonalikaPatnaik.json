@@ -1,0 +1,413 @@
+{
+  "last_updated": "2023-08-11T14:41:23Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-web#436",
+      "time": "2023-08-11T14:41:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/436",
+      "text": "feat: Adding welcome Video"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-web#436",
+      "time": "2023-08-14T10:05:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/436",
+      "text": "feat: Adding welcome Video"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8196",
+      "time": "2023-03-13T21:55:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8196",
+      "text": "fix: responsive-scroll-bar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8196",
+      "time": "2023-03-14T08:13:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8196",
+      "text": "fix: responsive-scroll-bar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8205",
+      "time": "2023-03-14T17:52:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8205",
+      "text": "fix: Nutri Score Nutriments with an asterisk"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8205",
+      "time": "2023-03-20T08:20:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8205",
+      "text": "fix: Nutri Score Nutriments with an asterisk"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8255",
+      "time": "2023-03-25T10:13:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8255",
+      "text": "fix: Invalid facets in the url return 404"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8255",
+      "time": "2023-03-31T13:53:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8255",
+      "text": "fix: Invalid facets in the url return 404"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8272",
+      "time": "2023-03-30T15:30:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8272",
+      "text": "docs: Updated how-to-write-and-run-tests.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8452",
+      "time": "2023-05-24T08:39:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8452",
+      "text": "fix: Preventing Email Addresses as Entries in Fields"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8452",
+      "time": "2023-06-05T07:55:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8452",
+      "text": "fix: Preventing Email Addresses as Entries in Fields"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8494",
+      "time": "2023-06-01T05:49:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8494",
+      "text": "docs: Restructured Pro-docs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8494",
+      "time": "2023-06-01T12:57:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8494",
+      "text": "docs: Restructured Pro-docs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8500",
+      "time": "2023-06-02T05:56:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8500",
+      "text": "fix: Hide the Classic Packaging Field in Edit Mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8500",
+      "time": "2023-06-05T17:57:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8500",
+      "text": "fix: Hide the Classic Packaging Field in Edit Mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8511",
+      "time": "2023-06-03T18:40:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8511",
+      "text": "feat: Able to view the list of users associated with an Organization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8511",
+      "time": "2023-06-14T10:31:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8511",
+      "text": "feat: Able to view the list of users associated with an Organization"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8512",
+      "time": "2023-06-04T10:00:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8512",
+      "text": "feat: Added Pros' Meet-Ups link in Menu"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8512",
+      "time": "2023-06-06T09:58:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8512",
+      "text": "feat: Added Pros' Meet-Ups link in Menu"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8532",
+      "time": "2023-06-07T14:35:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8532",
+      "text": "fix: Restore Search Bar in Producers Platform"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8532",
+      "time": "2023-06-07T15:30:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8532",
+      "text": "fix: Restore Search Bar in Producers Platform"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8533",
+      "time": "2023-06-08T08:20:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8533",
+      "text": "fix: Added Template Comments instead of html"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8533",
+      "time": "2023-06-09T12:20:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8533",
+      "text": "fix: Added Template Comments instead of html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8538",
+      "time": "2023-06-08T21:10:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8538",
+      "text": "fix: Replace existing values with Producer Supplied Allergens and Traces values"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8538",
+      "time": "2023-06-19T10:22:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8538",
+      "text": "fix: Replace existing values with Producer Supplied Allergens and Traces values"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8565",
+      "time": "2023-06-16T09:36:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8565",
+      "text": "feat: Added Welcome Video in Pro Platform"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8565",
+      "time": "2023-06-16T10:01:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8565",
+      "text": "feat: Added Welcome Video in Pro Platform"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8572",
+      "time": "2023-06-16T12:57:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8572",
+      "text": "feat: Added Tutorial Videos about Data-Import in Pro Platform"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8572",
+      "time": "2023-06-21T07:57:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8572",
+      "text": "feat: Added Tutorial Videos about Data-Import in Pro Platform"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8577",
+      "time": "2023-06-18T19:26:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8577",
+      "text": "feat: Adding Tutorial about Account Creation in Pro platform"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8577",
+      "time": "2023-07-25T13:09:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8577",
+      "text": "feat: Adding Tutorial about Account Creation in Pro platform"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8610",
+      "time": "2023-06-27T11:17:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8610",
+      "text": "fix: Added Protection On Images for normal Users"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8610",
+      "time": "2023-08-14T10:29:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8610",
+      "text": "fix: Added Protection On Images for normal Users"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8626",
+      "time": "2023-06-28T12:55:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8626",
+      "text": "feat: Test for Image Upload API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8705",
+      "time": "2023-07-19T08:07:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8705",
+      "text": "feat: Allow Org admins to Remove Users from their Organization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8705",
+      "time": "2023-07-31T09:55:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8705",
+      "text": "feat: Allow Org admins to Remove Users from their Organization"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8713",
+      "time": "2023-07-20T21:31:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8713",
+      "text": "feat: Added Hide/Show toggle eye icon beside password field "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8713",
+      "time": "2023-07-31T12:44:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8713",
+      "text": "feat: Added Hide/Show toggle eye icon beside password field "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8763",
+      "time": "2023-07-31T10:41:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8763",
+      "text": "feat: Allowing Org Admins to Add/Invite Users"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8763",
+      "time": "2023-08-14T15:35:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8763",
+      "text": "feat: Allowing Org Admins to Add/Invite Users"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8840",
+      "time": "2023-08-12T08:32:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8840",
+      "text": "feat: Enable Org Admins to View and Modify Member Admin Status"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8840",
+      "time": "2023-11-14T21:34:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8840",
+      "text": "feat: Enable Org Admins to View and Modify Member Admin Status"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8851",
+      "time": "2023-08-14T20:56:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8851",
+      "text": "fix: Logic error in user account form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8851",
+      "time": "2023-09-29T08:03:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8851",
+      "text": "fix: Logic error in user account form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8854",
+      "time": "2023-08-15T13:16:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8854",
+      "text": "feat: Added display message for normal users for protected images"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8854",
+      "time": "2023-10-02T14:59:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8854",
+      "text": "feat: Added display message for normal users for protected images"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8856",
+      "time": "2023-08-15T20:00:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8856",
+      "text": "feat: Allowing Users to subscribe to the pro-newsletter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8856",
+      "time": "2024-01-17T10:41:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8856",
+      "text": "feat: Allowing Users to subscribe to the pro-newsletter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9619",
+      "time": "2024-01-04T16:08:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9619",
+      "text": "fix: Removed Extra Character in Delete Images Button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9619",
+      "time": "2024-01-15T15:44:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9619",
+      "text": "fix: Removed Extra Character in Delete Images Button"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9620",
+      "time": "2024-01-05T15:44:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9620",
+      "text": "feat: Added Producers button in the footer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9620",
+      "time": "2024-01-11T08:38:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9620",
+      "text": "feat: Added Producers button in the footer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9674",
+      "time": "2024-01-21T09:10:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9674",
+      "text": "feat: Converted JS in Perl template into real JS"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9690",
+      "time": "2024-01-24T21:14:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9690",
+      "text": "feat: Added email warning in the Producers Platform"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9690",
+      "time": "2024-01-25T16:38:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9690",
+      "text": "feat: Added email warning in the Producers Platform"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9961",
+      "time": "2024-03-19T15:09:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9961",
+      "text": "fix: Added Translations in Spanish"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9961",
+      "time": "2024-03-21T16:08:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9961",
+      "text": "fix: Added Translations in Spanish"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9966",
+      "time": "2024-03-20T16:05:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9966",
+      "text": "fix: Migrated the JS from template form to real JS"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

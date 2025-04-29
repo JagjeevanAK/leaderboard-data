@@ -1,0 +1,42 @@
+{
+  "last_updated": "2018-03-15T13:44:26Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1250",
+      "time": "2018-03-15T13:44:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1250",
+      "text": "Fixed #864 : Remove \"no data\" Toast from Offline edit fragment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1266",
+      "time": "2018-03-17T17:22:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1266",
+      "text": "Fixed #864 : Remove \"no data\" Toast from Offline edit fragment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1266",
+      "time": "2018-03-17T23:18:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1266",
+      "text": "Fixed #864 : Remove \"no data\" Toast from Offline edit fragment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1307",
+      "time": "2018-03-21T13:39:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1307",
+      "text": "modified offline fragment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1361",
+      "time": "2018-03-31T13:12:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1361",
+      "text": "Fixed #305: Improve the login flow"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

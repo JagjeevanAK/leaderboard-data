@@ -1,0 +1,28 @@
+{
+  "last_updated": "2025-03-07T10:21:44Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6422",
+      "time": "2025-03-07T10:21:44Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6422",
+      "text": "feat: Add photo editing icon shortcut to product image viewer of nutrition facts page."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6438",
+      "time": "2025-03-10T06:53:05Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6438",
+      "text": "fix: Swipe to refresh in ingredients sub-knowledge panel"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6438",
+      "time": "2025-03-10T08:27:17Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6438",
+      "text": "fix: Swipe to refresh in ingredients sub-knowledge panel"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

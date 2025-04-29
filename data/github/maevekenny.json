@@ -1,0 +1,21 @@
+{
+  "last_updated": "2018-05-28T02:03:31Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#103",
+      "time": "2018-05-28T02:03:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/103",
+      "text": "Updated string for issue #100"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#103",
+      "time": "2018-06-01T18:12:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/103",
+      "text": "Updated string for issue #100"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

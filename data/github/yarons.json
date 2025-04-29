@@ -1,0 +1,105 @@
+{
+  "last_updated": "2019-10-25T07:48:50Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2480",
+      "time": "2019-10-25T07:48:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2480",
+      "text": "Typo fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2480",
+      "time": "2019-10-25T08:21:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2480",
+      "text": "Typo fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4481",
+      "time": "2020-11-08T14:27:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4481",
+      "text": "Adding the Israeli mandatory labels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4481",
+      "time": "2021-02-11T07:49:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4481",
+      "text": "Adding the Israeli mandatory labels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4611",
+      "time": "2020-12-10T10:35:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4611",
+      "text": "Added the Israeli Mandatory labels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4611",
+      "time": "2021-02-10T18:30:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4611",
+      "text": "Added the Israeli Mandatory labels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4709",
+      "time": "2021-01-04T22:40:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4709",
+      "text": "Added the Israeli stores"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4709",
+      "time": "2021-01-13T13:13:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4709",
+      "text": "Added the Israeli stores"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4719",
+      "time": "2021-01-06T06:50:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4719",
+      "text": "Added some wikidata links"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4719",
+      "time": "2021-01-16T13:56:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4719",
+      "text": "Added some wikidata links"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5402",
+      "time": "2021-07-23T08:35:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5402",
+      "text": "Some Hebrew fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5402",
+      "time": "2021-07-27T13:53:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5402",
+      "text": "Some Hebrew fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-resources#2",
+      "time": "2014-01-06T16:28:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-resources/pull/2",
+      "text": "Added the Hebrew version of the logo"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-resources#2",
+      "time": "2014-01-13T12:28:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-resources/pull/2",
+      "text": "Added the Hebrew version of the logo"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

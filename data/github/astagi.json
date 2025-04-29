@@ -1,0 +1,364 @@
+{
+  "last_updated": "2020-09-21T21:26:43Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4242",
+      "time": "2020-09-21T21:26:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4242",
+      "text": "Add exec permission to import_sample_data.sh"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4242",
+      "time": "2020-09-22T06:51:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4242",
+      "text": "Add exec permission to import_sample_data.sh"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4244",
+      "time": "2020-09-22T16:52:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4244",
+      "text": "Fix issue cropping on a new product"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4244",
+      "time": "2020-09-23T14:49:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4244",
+      "text": "Fix issue cropping on a new product"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4257",
+      "time": "2020-09-25T15:22:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4257",
+      "text": "Add build:watch command to watch changes on scss and js files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4257",
+      "time": "2020-10-05T09:27:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4257",
+      "text": "Add build:watch command to watch changes on scss and js files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#58",
+      "time": "2020-07-06T12:47:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/58",
+      "text": "Add coverage support"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#58",
+      "time": "2020-07-06T12:57:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/58",
+      "text": "Add coverage support"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#59",
+      "time": "2020-07-07T08:53:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/59",
+      "text": "Remove useless omitted files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#59",
+      "time": "2020-07-07T22:16:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/59",
+      "text": "Remove useless omitted files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#60",
+      "time": "2020-07-08T23:00:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/60",
+      "text": "Add files for package setup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#60",
+      "time": "2020-07-09T13:58:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/60",
+      "text": "Add files for package setup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#61",
+      "time": "2020-07-08T23:18:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/61",
+      "text": "Add generator for search, get_by ..."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#61",
+      "time": "2020-07-10T12:18:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/61",
+      "text": "Add generator for search, get_by ..."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#62",
+      "time": "2020-07-13T09:26:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/62",
+      "text": "Use pet_products and beauty_products as aliases"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#62",
+      "time": "2020-07-13T10:58:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/62",
+      "text": "Use pet_products and beauty_products as aliases"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#63",
+      "time": "2020-07-13T09:31:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/63",
+      "text": "Replace deprecated pep8 with pycodestyle"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#63",
+      "time": "2020-07-13T10:04:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/63",
+      "text": "Replace deprecated pep8 with pycodestyle"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#64",
+      "time": "2020-07-17T14:43:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/64",
+      "text": "Update READMEs with package information"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#64",
+      "time": "2020-07-17T15:07:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/64",
+      "text": "Update READMEs with package information"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#56",
+      "time": "2020-07-10T16:09:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/56",
+      "text": "Tests run offline"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#56",
+      "time": "2020-09-04T18:42:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/56",
+      "text": "Tests run offline"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#135",
+      "time": "2021-05-18T20:12:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/135",
+      "text": "fix: tests for ci (npm ci)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#135",
+      "time": "2021-08-20T19:35:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/135",
+      "text": "fix: tests for ci (npm ci)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#151",
+      "time": "2021-08-30T20:42:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/151",
+      "text": "Fix Dependabot CI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#151",
+      "time": "2021-08-30T21:27:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/151",
+      "text": "Fix Dependabot CI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#56",
+      "time": "2020-07-08T13:35:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/56",
+      "text": "WIP: Add i18n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#56",
+      "time": "2020-07-17T09:08:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/56",
+      "text": "WIP: Add i18n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#62",
+      "time": "2020-07-17T10:09:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/62",
+      "text": "Fix en links"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#62",
+      "time": "2020-07-17T10:13:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/62",
+      "text": "Fix en links"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#64",
+      "time": "2020-07-18T13:06:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/64",
+      "text": "Make logo game responsive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#64",
+      "time": "2020-07-20T13:47:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/64",
+      "text": "Make logo game responsive"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#66",
+      "time": "2020-07-20T13:40:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/66",
+      "text": "Make settings responsive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#66",
+      "time": "2020-07-20T13:49:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/66",
+      "text": "Make settings responsive"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#69",
+      "time": "2020-07-21T07:36:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/69",
+      "text": "Make Insights responsive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#69",
+      "time": "2020-07-31T08:42:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/69",
+      "text": "Make Insights responsive"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#70",
+      "time": "2020-07-21T08:20:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/70",
+      "text": "Better logos visualization on mobile landscape and portrait modes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#70",
+      "time": "2020-08-04T14:46:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/70",
+      "text": "Better logos visualization on mobile landscape and portrait modes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#84",
+      "time": "2020-08-01T14:17:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/84",
+      "text": "design: new expanded menu on desktop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#84",
+      "time": "2020-08-08T10:35:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/84",
+      "text": "design: new expanded menu on desktop"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#85",
+      "time": "2020-08-01T15:43:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/85",
+      "text": "Display product card centered on mobile device"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#85",
+      "time": "2020-08-01T17:39:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/85",
+      "text": "Display product card centered on mobile device"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#88",
+      "time": "2020-08-05T13:05:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/88",
+      "text": "chore: group API calls"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#88",
+      "time": "2020-08-08T10:35:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/88",
+      "text": "chore: group API calls"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#99",
+      "time": "2020-08-10T09:39:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/99",
+      "text": "feat: make dependabot PRs semantic"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#100",
+      "time": "2020-08-10T09:49:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/100",
+      "text": "feat: make dependabot semantic"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#100",
+      "time": "2020-08-10T09:53:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/100",
+      "text": "feat: make dependabot semantic"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#108",
+      "time": "2020-08-17T10:50:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/108",
+      "text": "feat: add new loading spinner on pages and actions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#108",
+      "time": "2020-08-17T17:28:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/108",
+      "text": "feat: add new loading spinner on pages and actions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#152",
+      "time": "2020-12-15T16:21:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/152",
+      "text": "fix: prevent submit on search"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#152",
+      "time": "2020-12-15T20:14:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/152",
+      "text": "fix: prevent submit on search"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

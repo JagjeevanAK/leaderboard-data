@@ -1,0 +1,28 @@
+{
+  "last_updated": "2020-03-25T15:13:08Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3107",
+      "time": "2020-03-25T15:13:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3107",
+      "text": "CIQUAL ericwang"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3342",
+      "time": "2020-04-29T07:43:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3342",
+      "text": "CIQUAL ericwang2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3342",
+      "time": "2020-05-02T17:48:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3342",
+      "text": "CIQUAL ericwang2"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

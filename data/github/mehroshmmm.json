@@ -1,0 +1,21 @@
+{
+  "last_updated": "2018-02-19T20:27:49Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#821",
+      "time": "2018-02-19T20:27:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/821",
+      "text": "Fixes #755 Option for deleting a particular item in History"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#821",
+      "time": "2018-02-22T21:36:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/821",
+      "text": "Fixes #755 Option for deleting a particular item in History"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

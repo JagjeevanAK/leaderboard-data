@@ -1,0 +1,35 @@
+{
+  "last_updated": "2019-07-25T23:07:17Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2846",
+      "time": "2019-07-25T23:07:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2846",
+      "text": "Fix broken AndroidX and Apache Commons CSV imports"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2846",
+      "time": "2019-07-26T14:22:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2846",
+      "text": "Fix broken AndroidX and Apache Commons CSV imports"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2848",
+      "time": "2019-07-26T17:20:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2848",
+      "text": "Force the usage of Ubuntu Trusty in Travis"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2848",
+      "time": "2019-07-27T11:48:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2848",
+      "text": "Force the usage of Ubuntu Trusty in Travis"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

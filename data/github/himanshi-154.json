@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-03-12T18:20:47Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9906",
+      "time": "2024-03-12T18:20:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9906",
+      "text": "feat: issue#9793 Automatically unselect image when the source image is deleted"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9950",
+      "time": "2024-03-18T19:44:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9950",
+      "text": "feat: Automatically unselect images when source image deleted Issue#9793"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9977",
+      "time": "2024-03-22T14:01:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9977",
+      "text": "feat: Convert the view link into a \"View this revision\" button as required in issue#9943"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

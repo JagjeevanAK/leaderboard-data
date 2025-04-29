@@ -1,0 +1,35 @@
+{
+  "last_updated": "2025-03-29T19:43:24Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#393",
+      "time": "2025-03-29T19:43:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/393",
+      "text": "Fix for undefined error in search results loading skeleton"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#394",
+      "time": "2025-03-30T11:14:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/394",
+      "text": "Fix for undefined error in search results loading skeleton "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#395",
+      "time": "2025-03-30T11:20:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/395",
+      "text": "fix: undefined error in search results loading skeleton "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-explorer#395",
+      "time": "2025-04-08T11:17:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/395",
+      "text": "fix: undefined error in search results loading skeleton "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

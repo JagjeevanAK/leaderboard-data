@@ -1,0 +1,784 @@
+{
+  "last_updated": "2025-04-14T16:58:10Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1547",
+      "time": "2025-04-14T16:58:10Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1547",
+      "text": "feat: add `language_codes` filter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#1547",
+      "time": "2025-04-15T12:33:55Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1547",
+      "text": "feat: add `language_codes` filter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11545",
+      "time": "2025-03-05T19:44:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11545",
+      "text": "feat: integrate `robotoff-question` from off-webcomponents"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11545",
+      "time": "2025-03-07T08:07:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11545",
+      "text": "feat: integrate `robotoff-question` from off-webcomponents"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11581",
+      "time": "2025-03-10T12:50:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11581",
+      "text": "feat: update to add nutrients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11581",
+      "time": "2025-03-26T11:14:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11581",
+      "text": "feat: update to add nutrients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11677",
+      "time": "2025-03-26T13:05:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11677",
+      "text": "feat: update code to get assets images from @openfoodfacts/openfoodfacts-webcomponents"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11677",
+      "time": "2025-03-26T15:35:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11677",
+      "text": "feat: update code to get assets images from @openfoodfacts/openfoodfacts-webcomponents"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11692",
+      "time": "2025-03-28T16:11:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11692",
+      "text": "feat: reload element after complete nutrient element"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11692",
+      "time": "2025-03-31T14:13:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11692",
+      "text": "feat: reload element after complete nutrient element"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11748",
+      "time": "2025-04-07T14:51:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11748",
+      "text": "feat: update robotoff-question and robotoff-nutrients to last version"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11748",
+      "time": "2025-04-08T16:01:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11748",
+      "text": "feat: update robotoff-question and robotoff-nutrients to last version"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11757",
+      "time": "2025-04-08T16:08:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11757",
+      "text": "feat: add barcode scanner"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11757",
+      "time": "2025-04-14T09:25:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11757",
+      "text": "feat: add barcode scanner"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11791",
+      "time": "2025-04-16T13:57:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11791",
+      "text": "fix: barcode-scanner event"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11791",
+      "time": "2025-04-16T14:44:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11791",
+      "text": "fix: barcode-scanner event"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11793",
+      "time": "2025-04-16T15:43:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11793",
+      "text": "fix: barcode-scanner"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11793",
+      "time": "2025-04-16T16:32:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11793",
+      "text": "fix: barcode-scanner"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#4",
+      "time": "2025-02-04T13:59:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/4",
+      "text": "initialize project"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#4",
+      "time": "2025-02-05T11:56:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/4",
+      "text": "initialize project"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#6",
+      "time": "2025-02-07T10:02:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/6",
+      "text": "Feat: start to implement questions and update config to build with rollup "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#6",
+      "time": "2025-02-13T10:17:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/6",
+      "text": "Feat: start to implement questions and update config to build with rollup "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#11",
+      "time": "2025-02-13T15:00:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/11",
+      "text": "feat: add Playbook"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#11",
+      "time": "2025-02-13T15:44:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/11",
+      "text": "feat: add Playbook"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#12",
+      "time": "2025-02-13T16:53:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/12",
+      "text": "feat: finish to add langs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#12",
+      "time": "2025-02-17T08:10:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/12",
+      "text": "feat: finish to add langs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#13",
+      "time": "2025-02-18T09:13:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/13",
+      "text": "feat: update signals to handle multiple components"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#13",
+      "time": "2025-02-18T14:19:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/13",
+      "text": "feat: update signals to handle multiple components"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#14",
+      "time": "2025-02-18T10:56:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/14",
+      "text": "Configuration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#14",
+      "time": "2025-02-24T09:54:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/14",
+      "text": "Configuration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#15",
+      "time": "2025-02-18T10:57:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/15",
+      "text": "feat: clean with signal-utils"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#20",
+      "time": "2025-02-19T10:15:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/20",
+      "text": "feat: configure for npm package"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#20",
+      "time": "2025-02-21T08:11:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/20",
+      "text": "feat: configure for npm package"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#21",
+      "time": "2025-02-21T08:32:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/21",
+      "text": "feat: Add nutritional component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#21",
+      "time": "2025-03-03T13:03:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/21",
+      "text": "feat: Add nutritional component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#25",
+      "time": "2025-03-04T16:24:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/25",
+      "text": "feat: move lang to configuration component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#25",
+      "time": "2025-03-05T08:38:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/25",
+      "text": "feat: move lang to configuration component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#27",
+      "time": "2025-03-05T10:01:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/27",
+      "text": "feat: docs for packaging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#27",
+      "time": "2025-03-05T13:41:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/27",
+      "text": "feat: docs for packaging"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#30",
+      "time": "2025-03-10T12:47:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/30",
+      "text": "feat: update nutrients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#30",
+      "time": "2025-03-18T07:33:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/30",
+      "text": "feat: update nutrients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#38",
+      "time": "2025-03-18T14:52:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/38",
+      "text": "docs: update doc to be served from github page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#38",
+      "time": "2025-03-18T20:18:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/38",
+      "text": "docs: update doc to be served from github page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#45",
+      "time": "2025-03-19T10:10:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/45",
+      "text": "feat: add robotoff-crops"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#49",
+      "time": "2025-03-20T10:12:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/49",
+      "text": "feat: configure linter to prepare github actions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#49",
+      "time": "2025-03-20T10:51:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/49",
+      "text": "feat: configure linter to prepare github actions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#57",
+      "time": "2025-03-25T09:10:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/57",
+      "text": "feat: add robotoff-crops of ingredients using cropperjs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#61",
+      "time": "2025-03-26T11:40:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/61",
+      "text": "feat: correct image asset paths to enable changing the display path."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#61",
+      "time": "2025-03-26T11:43:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/61",
+      "text": "feat: correct image asset paths to enable changing the display path."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#63",
+      "time": "2025-03-27T08:28:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/63",
+      "text": "fix: knowledge-panels imports"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#63",
+      "time": "2025-03-27T08:30:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/63",
+      "text": "fix: knowledge-panels imports"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#67",
+      "time": "2025-03-28T09:40:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/67",
+      "text": "feat: add Qr code scanner"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#69",
+      "time": "2025-03-31T14:35:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/69",
+      "text": "feat: add barcode scanner webcomponent"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#69",
+      "time": "2025-04-07T08:10:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/69",
+      "text": "feat: add barcode scanner webcomponent"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#70",
+      "time": "2025-04-01T09:12:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/70",
+      "text": "feat: start ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#70",
+      "time": "2025-04-25T08:31:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/70",
+      "text": "feat: start ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#85",
+      "time": "2025-04-02T09:21:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/85",
+      "text": "fix: requested changes for robotoff-question and robotoff-nutrients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#85",
+      "time": "2025-04-07T08:49:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/85",
+      "text": "fix: requested changes for robotoff-question and robotoff-nutrients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#88",
+      "time": "2025-04-02T11:22:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/88",
+      "text": "fix: mobile badges"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#88",
+      "time": "2025-04-02T11:24:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/88",
+      "text": "fix: mobile badges"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#92",
+      "time": "2025-04-02T15:23:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/92",
+      "text": "feat: add `download-app-qr-code` component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#92",
+      "time": "2025-04-02T15:24:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/92",
+      "text": "feat: add `download-app-qr-code` component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#94",
+      "time": "2025-04-03T10:37:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/94",
+      "text": "fix: add \"source\" by for default local code to use en.xlf and to allo…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#99",
+      "time": "2025-04-07T12:37:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/99",
+      "text": "fix: clean code before next version"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#99",
+      "time": "2025-04-07T12:38:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/99",
+      "text": "fix: clean code before next version"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#103",
+      "time": "2025-04-08T16:43:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/103",
+      "text": "feat: update robotoff-question to enlarge image on click"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#103",
+      "time": "2025-04-16T13:39:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/103",
+      "text": "feat: update robotoff-question to enlarge image on click"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#113",
+      "time": "2025-04-15T08:58:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/113",
+      "text": "fix: update dependencies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#113",
+      "time": "2025-04-16T13:39:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/113",
+      "text": "fix: update dependencies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#129",
+      "time": "2024-06-05T10:57:31Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/129",
+      "text": "chore: rewrite README.md for development  and add `data/**/*.jsonl` to .gitignore"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#129",
+      "time": "2024-06-05T13:00:17Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/129",
+      "text": "chore: rewrite README.md for development  and add `data/**/*.jsonl` to .gitignore"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#131",
+      "time": "2024-06-05T12:51:26Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/131",
+      "text": "feat: Change CORS headers to allow JS queries"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#131",
+      "time": "2024-06-06T07:46:57Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/131",
+      "text": "feat: Change CORS headers to allow JS queries"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#134",
+      "time": "2024-06-05T18:05:03Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/134",
+      "text": "feat:  user can select a facet value eg category which is not yet displayed - fixes #125"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#134",
+      "time": "2024-06-12T14:06:11Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/134",
+      "text": "feat:  user can select a facet value eg category which is not yet displayed - fixes #125"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#142",
+      "time": "2024-06-10T15:12:46Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/142",
+      "text": "feat: add search params in url"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#142",
+      "time": "2024-06-18T10:11:59Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/142",
+      "text": "feat: add search params in url"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#162",
+      "time": "2024-06-13T08:12:08Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/162",
+      "text": "docs: update frontend/README.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#162",
+      "time": "2024-06-13T08:18:25Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/162",
+      "text": "docs: update frontend/README.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#164",
+      "time": "2024-06-13T14:00:14Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/164",
+      "text": "feat: handle multiple concurrent request"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#164",
+      "time": "2024-06-18T07:29:19Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/164",
+      "text": "feat: handle multiple concurrent request"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#165",
+      "time": "2024-06-14T12:32:35Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/165",
+      "text": "feat: add autocomplete in search bar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#165",
+      "time": "2024-06-20T13:19:39Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/165",
+      "text": "feat: add autocomplete in search bar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#169",
+      "time": "2024-06-18T07:00:34Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/169",
+      "text": "feat: start build new stucture of page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#171",
+      "time": "2024-06-19T13:55:47Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/171",
+      "text": "feat: Add i18n"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#171",
+      "time": "2024-06-21T15:15:34Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/171",
+      "text": "feat: Add i18n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#175",
+      "time": "2024-06-20T13:38:00Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/175",
+      "text": "feat: add checkbox, radio, toggle components"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#175",
+      "time": "2024-06-21T12:15:57Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/175",
+      "text": "feat: add checkbox, radio, toggle components"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#183",
+      "time": "2024-06-21T15:24:31Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/183",
+      "text": "fix: add some frontend fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#183",
+      "time": "2024-06-24T09:18:28Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/183",
+      "text": "fix: add some frontend fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#188",
+      "time": "2024-06-24T12:49:56Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/188",
+      "text": "feat: update search bar to add \"Search\" text to encourage the user to search and add reset button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#188",
+      "time": "2024-06-26T06:46:42Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/188",
+      "text": "feat: update search bar to add \"Search\" text to encourage the user to search and add reset button"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#194",
+      "time": "2024-06-26T13:26:06Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/194",
+      "text": "feat: update search-bar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#194",
+      "time": "2024-06-26T13:51:53Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/194",
+      "text": "feat: update search-bar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#195",
+      "time": "2024-06-26T14:27:03Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/195",
+      "text": "fix: translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#195",
+      "time": "2024-06-26T14:45:26Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/195",
+      "text": "fix: translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#196",
+      "time": "2024-06-27T07:41:16Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/196",
+      "text": "build: add translations in docker image"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#196",
+      "time": "2024-06-27T08:21:03Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/196",
+      "text": "build: add translations in docker image"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#197",
+      "time": "2024-06-27T09:13:10Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/197",
+      "text": "feat: move buttons outside the search-bar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#197",
+      "time": "2024-06-28T10:07:12Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/197",
+      "text": "feat: move buttons outside the search-bar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#198",
+      "time": "2024-06-27T15:01:47Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/198",
+      "text": "fix: check-translations to work every time"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#199",
+      "time": "2024-06-27T16:08:07Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/199",
+      "text": "fix: i18n are not loaded because is dynamically import"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#199",
+      "time": "2024-06-28T07:03:04Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/199",
+      "text": "fix: i18n are not loaded because is dynamically import"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#203",
+      "time": "2024-06-28T15:33:48Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/203",
+      "text": "feat: update count and refacto code with Signal"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#203",
+      "time": "2024-07-08T09:30:08Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/203",
+      "text": "feat: update count and refacto code with Signal"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#209",
+      "time": "2024-07-01T09:13:35Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/209",
+      "text": "feat: add loader in search-results"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#209",
+      "time": "2024-07-04T09:56:46Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/209",
+      "text": "feat: add loader in search-results"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#214",
+      "time": "2024-07-08T10:11:01Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/214",
+      "text": "feat: hide charts when search is not launched"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#214",
+      "time": "2024-07-08T14:44:10Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/214",
+      "text": "feat: hide charts when search is not launched"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#215",
+      "time": "2024-07-08T14:53:21Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/215",
+      "text": "fix: move docs and fix content"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#215",
+      "time": "2024-07-10T07:38:28Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/215",
+      "text": "fix: move docs and fix content"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

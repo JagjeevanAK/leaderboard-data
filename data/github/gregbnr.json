@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-03-24T09:29:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4603",
+      "time": "2022-03-24T09:29:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4603",
+      "text": "feat: Scan tile (quick settings)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4603",
+      "time": "2022-03-24T12:33:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4603",
+      "text": "feat: Scan tile (quick settings)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

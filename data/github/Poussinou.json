@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-08-09T14:33:48Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#5268",
+      "time": "2024-08-09T14:33:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/5268",
+      "text": "Update FUNDING.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#5268",
+      "time": "2024-08-18T23:49:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/5268",
+      "text": "Update FUNDING.yml"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

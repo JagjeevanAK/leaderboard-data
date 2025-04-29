@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-02-27T21:29:32Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-swift#26",
+      "time": "2025-02-27T21:29:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-swift/pull/26",
+      "text": "feat: make product query configuration init public"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-07-02T16:23:16Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3781",
+      "time": "2020-07-02T16:23:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3781",
+      "text": "Lemon (fr), grape (fr+en)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3781",
+      "time": "2020-07-02T17:08:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3781",
+      "text": "Lemon (fr), grape (fr+en)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

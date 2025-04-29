@@ -1,0 +1,21 @@
+{
+  "last_updated": "2018-03-01T15:51:09Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-cordova-app#42",
+      "time": "2018-03-01T15:51:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/pull/42",
+      "text": "Fix travis build"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-cordova-app#42",
+      "time": "2018-03-03T14:35:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/pull/42",
+      "text": "Fix travis build"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

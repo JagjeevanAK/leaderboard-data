@@ -1,0 +1,21 @@
+{
+  "last_updated": "2018-05-03T17:55:12Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1549",
+      "time": "2018-05-03T17:55:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1549",
+      "text": "Closes #1484: Add a little padding on top of the add photo message"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1549",
+      "time": "2018-05-03T20:56:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1549",
+      "text": "Closes #1484: Add a little padding on top of the add photo message"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

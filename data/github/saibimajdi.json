@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-06-20T16:31:21Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10473",
+      "time": "2024-06-20T16:31:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10473",
+      "text": "docs: Added the .NET repo to the list of supported SDKs on the API documentation."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10473",
+      "time": "2024-07-02T07:47:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10473",
+      "text": "docs: Added the .NET repo to the list of supported SDKs on the API documentation."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

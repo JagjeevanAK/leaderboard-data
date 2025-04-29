@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-07-12T11:43:41Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6",
+      "time": "2020-07-12T11:43:41Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6",
+      "text": "Add internationalization package to prepare for localization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6",
+      "time": "2020-07-13T10:23:50Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6",
+      "text": "Add internationalization package to prepare for localization"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-04-01T19:48:32Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#5194",
+      "time": "2024-04-01T19:48:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/5194",
+      "text": "build(deps): Bump Truth to 1.4.2."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

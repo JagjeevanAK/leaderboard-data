@@ -1,0 +1,14 @@
+{
+  "last_updated": "2019-06-25T10:48:39Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2784",
+      "time": "2019-06-25T10:48:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2784",
+      "text": "Add test of lastDLIngredients before downloading ingredients taxonomy"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

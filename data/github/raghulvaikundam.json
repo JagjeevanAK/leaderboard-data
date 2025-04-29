@@ -1,0 +1,35 @@
+{
+  "last_updated": "2020-05-16T16:02:04Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3125",
+      "time": "2020-05-16T16:02:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3125",
+      "text": "Migrate to WorkManager"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3125",
+      "time": "2020-05-17T11:53:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3125",
+      "text": "Migrate to WorkManager"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3129",
+      "time": "2020-05-17T12:54:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3129",
+      "text": "WorkManager Migration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3374",
+      "time": "2020-07-28T03:37:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3374",
+      "text": "Rxjava 3 Migration"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

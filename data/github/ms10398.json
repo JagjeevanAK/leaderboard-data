@@ -1,0 +1,77 @@
+{
+  "last_updated": "2018-02-24T21:28:37Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1113",
+      "time": "2018-02-24T21:28:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1113",
+      "text": "Add Contributing.md and ISSUE_TEMPLATE.md and PULL_REQUEST_TEMPLATE"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1113",
+      "time": "2018-03-01T10:51:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1113",
+      "text": "Add Contributing.md and ISSUE_TEMPLATE.md and PULL_REQUEST_TEMPLATE"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#1",
+      "time": "2018-02-13T10:56:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/1",
+      "text": "Start the API wrapper with the first function"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#1",
+      "time": "2018-02-13T23:13:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/1",
+      "text": "Start the API wrapper with the first function"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#4",
+      "time": "2018-02-15T19:18:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/4",
+      "text": "feat(brands): add getBrands and country function"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#4",
+      "time": "2018-02-22T10:41:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/4",
+      "text": "feat(brands): add getBrands and country function"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#12",
+      "time": "2018-02-28T16:23:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/12",
+      "text": "feat(feature added): more functions added in the package"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#12",
+      "time": "2018-03-01T11:10:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/12",
+      "text": "feat(feature added): more functions added in the package"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#18",
+      "time": "2018-03-06T12:56:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/18",
+      "text": "docs(add documentation): add documentation of all functions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#18",
+      "time": "2018-03-06T13:47:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/18",
+      "text": "docs(add documentation): add documentation of all functions"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

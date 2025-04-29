@@ -1,0 +1,14 @@
+{
+  "last_updated": "2018-02-16T20:18:12Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#774",
+      "time": "2018-02-16T20:18:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/774",
+      "text": "Fixes #771 Replace hardcoded strings with string resource in the project"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

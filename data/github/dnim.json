@@ -1,0 +1,14 @@
+{
+  "last_updated": "2021-10-02T20:57:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5806",
+      "time": "2021-10-02T20:57:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5806",
+      "text": "Update packaging_materials.txt"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,91 @@
+{
+  "last_updated": "2020-04-08T17:34:43Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#136",
+      "time": "2020-04-08T17:34:43Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/136",
+      "text": "Location extraction using regex"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#136",
+      "time": "2020-04-16T16:15:00Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/136",
+      "text": "Location extraction using regex"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#140",
+      "time": "2020-04-17T09:45:56Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/140",
+      "text": "Location insight - Improved postal code validation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#141",
+      "time": "2020-04-17T10:04:04Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/141",
+      "text": "Location insight - Improved postal code validation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#141",
+      "time": "2020-04-24T09:47:59Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/141",
+      "text": "Location insight - Improved postal code validation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#145",
+      "time": "2020-04-24T08:43:53Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/145",
+      "text": "Extend generate-ocr-insights CLI command"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#145",
+      "time": "2020-04-27T09:33:31Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/145",
+      "text": "Extend generate-ocr-insights CLI command"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#146",
+      "time": "2020-04-25T15:33:52Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/146",
+      "text": "[WIP] feat: Extend location insight"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3364",
+      "time": "2020-05-04T09:46:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3364",
+      "text": "feat: Non-EU packager codes download"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3364",
+      "time": "2022-12-14T11:27:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3364",
+      "text": "feat: Non-EU packager codes download"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3444",
+      "time": "2020-05-19T17:32:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3444",
+      "text": "Non-EU packager codes extraction"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3444",
+      "time": "2020-06-16T13:03:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3444",
+      "text": "Non-EU packager codes extraction"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

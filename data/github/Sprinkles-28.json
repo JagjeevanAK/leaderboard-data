@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-08T17:51:37Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#451",
+      "time": "2025-04-08T17:51:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/451",
+      "text": "Fix : Don't Show Rotating Icon when the placeholder image is present."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

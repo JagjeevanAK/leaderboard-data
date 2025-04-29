@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-03-28T20:00:58Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10047",
+      "time": "2024-03-28T20:00:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10047",
+      "text": "docs: updated quick start guide with prerequisites for WSL "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10047",
+      "time": "2024-03-29T08:35:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10047",
+      "text": "docs: updated quick start guide with prerequisites for WSL "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

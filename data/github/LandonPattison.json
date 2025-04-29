@@ -1,0 +1,77 @@
+{
+  "last_updated": "2022-04-12T22:39:39Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6597",
+      "time": "2022-04-12T22:39:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6597",
+      "text": "feat: add app store promo banner"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6620",
+      "time": "2022-04-15T08:05:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6620",
+      "text": "feat: add recycling for glass bottles"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6865",
+      "time": "2022-06-07T03:58:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6865",
+      "text": "Added OryKratos docker image and config files "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6868",
+      "time": "2022-06-08T06:18:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6868",
+      "text": "build: implementing ory kratos and ory hydra"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6868",
+      "time": "2022-07-01T16:09:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6868",
+      "text": "build: implementing ory kratos and ory hydra"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7001",
+      "time": "2022-07-01T19:30:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7001",
+      "text": "build: implementing ory kratos and ory hydra (#6868)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7071",
+      "time": "2022-07-14T19:36:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7071",
+      "text": "build: configure Ory Kratos"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7442",
+      "time": "2022-10-04T22:10:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7442",
+      "text": "fix: add registration and forgot password links in redesign2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7442",
+      "time": "2022-10-05T10:12:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7442",
+      "text": "fix: add registration and forgot password links in redesign2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/kratos-selfservice-ui-node#1",
+      "time": "2022-10-05T02:06:13Z",
+      "link": "https://github.com/openfoodfacts/kratos-selfservice-ui-node/pull/1",
+      "text": "feat: Allow for i18n"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

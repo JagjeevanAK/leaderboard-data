@@ -1,0 +1,35 @@
+{
+  "last_updated": "2022-02-11T16:18:40Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1105",
+      "time": "2022-02-11T16:18:40Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1105",
+      "text": "feat: Add retry button in case of Internet Error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1105",
+      "time": "2022-02-11T22:48:10Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1105",
+      "text": "feat: Add retry button in case of Internet Error"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1130",
+      "time": "2022-02-12T13:06:49Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1130",
+      "text": "feat: Add SafeArea to ScannerOverlay page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1130",
+      "time": "2022-02-12T17:09:37Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1130",
+      "text": "feat: Add SafeArea to ScannerOverlay page"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

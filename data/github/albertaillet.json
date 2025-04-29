@@ -1,0 +1,56 @@
+{
+  "last_updated": "2024-11-14T09:26:22Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#566",
+      "time": "2024-11-14T09:26:22Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/566",
+      "text": "refactor(proofs): more features to OCR extraction"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices#566",
+      "time": "2024-11-14T09:48:12Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/566",
+      "text": "refactor(proofs): more features to OCR extraction"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices-frontend#1465",
+      "time": "2025-03-23T11:35:50Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1465",
+      "text": "docs: Update reuses.json"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices-frontend#1467",
+      "time": "2025-03-23T13:57:55Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1467",
+      "text": "feat(Reuses): add 2 new reuses by Albert :rocket: "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices-frontend#1467",
+      "time": "2025-03-23T14:10:45Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1467",
+      "text": "feat(Reuses): add 2 new reuses by Albert :rocket: "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/recipe-estimator#65",
+      "time": "2024-08-11T06:46:20Z",
+      "link": "https://github.com/openfoodfacts/recipe-estimator/pull/65",
+      "text": "fix: vitamin-b1_unit to vitamin-b1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/recipe-estimator#65",
+      "time": "2024-11-07T12:52:23Z",
+      "link": "https://github.com/openfoodfacts/recipe-estimator/pull/65",
+      "text": "fix: vitamin-b1_unit to vitamin-b1"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

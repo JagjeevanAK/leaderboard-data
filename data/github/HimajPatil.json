@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-10-26T13:56:45Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9208",
+      "time": "2023-10-26T13:56:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9208",
+      "text": "fix: README.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9208",
+      "time": "2023-10-26T15:53:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9208",
+      "text": "fix: README.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

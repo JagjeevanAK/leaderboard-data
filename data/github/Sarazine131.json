@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-05-12T10:00:16Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-translations#104",
+      "time": "2023-05-12T10:00:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-translations/pull/104",
+      "text": "Create tackling-food-packaging-podcast.html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-translations#110",
+      "time": "2023-06-16T13:34:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-translations/pull/110",
+      "text": "feat: new article on science"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-translations#110",
+      "time": "2023-06-16T14:36:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-translations/pull/110",
+      "text": "feat: new article on science"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

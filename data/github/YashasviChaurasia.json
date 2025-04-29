@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-08-04T11:43:18Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#119",
+      "time": "2022-08-04T11:43:18Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/119",
+      "text": "feat: Added an explanation for The Logo Game (solves #84)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#119",
+      "time": "2022-08-07T16:34:40Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/119",
+      "text": "feat: Added an explanation for The Logo Game (solves #84)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

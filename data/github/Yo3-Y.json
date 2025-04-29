@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-09-23T09:29:43Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-swift#9",
+      "time": "2024-09-23T09:29:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-swift/pull/9",
+      "text": "refactor: Make the spm package part of the xcode project"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

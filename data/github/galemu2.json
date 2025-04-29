@@ -1,0 +1,28 @@
+{
+  "last_updated": "2022-04-05T23:08:43Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4628",
+      "time": "2022-04-05T23:08:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4628",
+      "text": "Fix Issue #4613: Dark mode error in Contributions tab"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4628",
+      "time": "2022-04-06T21:55:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4628",
+      "text": "Fix Issue #4613: Dark mode error in Contributions tab"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4697",
+      "time": "2022-04-21T18:19:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4697",
+      "text": "remove unused dependencies"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

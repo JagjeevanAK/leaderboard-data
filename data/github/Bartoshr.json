@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-11-01T17:45:13Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3567",
+      "time": "2020-11-01T17:45:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3567",
+      "text": "Add onboarding tooltip for list deletion"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3567",
+      "time": "2020-11-03T15:15:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3567",
+      "text": "Add onboarding tooltip for list deletion"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-07-31T11:39:06Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-swift#7",
+      "time": "2024-07-31T11:39:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-swift/pull/7",
+      "text": "fix: \"* initializer is inaccessible due to 'internal' protection level\""
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

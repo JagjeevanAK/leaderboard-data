@@ -1,0 +1,42 @@
+{
+  "last_updated": "2020-07-17T15:03:14Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3877",
+      "time": "2020-07-17T15:03:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3877",
+      "text": "feat: standalone version of the tuttifrutti website inserted into html/tuttifrutti"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3957",
+      "time": "2020-07-29T06:55:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3957",
+      "text": "feat: integration of the \"tuttifrutti\" website into cgi/graph"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#73",
+      "time": "2016-05-05T19:41:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/73",
+      "text": "Addition of german translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#73",
+      "time": "2016-05-05T20:49:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/73",
+      "text": "Addition of german translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-apirestpython#3",
+      "time": "2016-03-26T13:11:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/3",
+      "text": "My graph feature"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

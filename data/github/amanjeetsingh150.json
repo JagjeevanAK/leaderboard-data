@@ -1,0 +1,56 @@
+{
+  "last_updated": "2018-03-18T11:10:50Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1274",
+      "time": "2018-03-18T11:10:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1274",
+      "text": "Fixed #1270 the Load Toast visibility"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1274",
+      "time": "2018-03-19T08:45:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1274",
+      "text": "Fixed #1270 the Load Toast visibility"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1282",
+      "time": "2018-03-19T01:00:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1282",
+      "text": "Closes #1275: Vitamins, minerals, amino acid and others tags support added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1282",
+      "time": "2018-03-21T09:17:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1282",
+      "text": "Closes #1275: Vitamins, minerals, amino acid and others tags support added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1290",
+      "time": "2018-03-19T21:14:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1290",
+      "text": "Shared element transition in SummaryProductFragment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1290",
+      "time": "2018-03-20T14:25:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1290",
+      "text": "Shared element transition in SummaryProductFragment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1299",
+      "time": "2018-03-21T01:00:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1299",
+      "text": "Fixed #517: Splash screen fix for Open Food Facts"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

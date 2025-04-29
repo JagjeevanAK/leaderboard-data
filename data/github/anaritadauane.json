@@ -1,0 +1,42 @@
+{
+  "last_updated": "2024-03-14T15:30:45Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9920",
+      "time": "2024-03-14T15:30:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9920",
+      "text": "fix: Added a description line to the import spreadsheet template"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9920",
+      "time": "2024-03-15T17:25:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9920",
+      "text": "fix: Added a description line to the import spreadsheet template"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9926",
+      "time": "2024-03-15T05:58:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9926",
+      "text": "fix: Improve the style of the header and cells of the import spreadsheet template"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9960",
+      "time": "2024-03-19T15:07:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9960",
+      "text": "fix: Added remove tags from field function "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9976",
+      "time": "2024-03-22T13:12:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9976",
+      "text": "fix: changed the username field name to userid "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,140 @@
+{
+  "last_updated": "2020-03-19T19:02:50Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3067",
+      "time": "2020-03-19T19:02:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3067",
+      "text": "Association CIQUAL AGB : Lines 997 to 1038"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3068",
+      "time": "2020-03-19T22:59:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3068",
+      "text": "Association CIQUAL AGB : lines 997 to 1087"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3074",
+      "time": "2020-03-20T19:33:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3074",
+      "text": "Association CIQUAL AGB : lines 997 to 1246"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3075",
+      "time": "2020-03-21T13:37:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3075",
+      "text": "Association CIQUAL AGB : lines 997 to 1286"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3090",
+      "time": "2020-03-23T13:32:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3090",
+      "text": "Association CIQUAL AGB : lines 997 to 1336"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3096",
+      "time": "2020-03-24T12:02:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3096",
+      "text": "Association CIQUAL AGB : lines 997 to 1400"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3110",
+      "time": "2020-03-25T17:33:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3110",
+      "text": "Association CIQUAL AGB : lines 997 to 1497"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3117",
+      "time": "2020-03-26T12:06:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3117",
+      "text": "Association CIQUAL AGB (starting from line 997)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3117",
+      "time": "2020-03-27T16:03:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3117",
+      "text": "Association CIQUAL AGB (starting from line 997)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3138",
+      "time": "2020-03-28T12:35:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3138",
+      "text": "Association CIQUAL AGB (starting from line 997)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3138",
+      "time": "2020-05-02T17:08:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3138",
+      "text": "Association CIQUAL AGB (starting from line 997)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3286",
+      "time": "2020-04-18T12:23:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3286",
+      "text": "Association CIQUAL AGB (starting from line 1)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3286",
+      "time": "2020-04-24T22:57:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3286",
+      "text": "Association CIQUAL AGB (starting from line 1)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3382",
+      "time": "2020-05-07T09:15:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3382",
+      "text": "chore(taxonomies): Unknown CIQUAL codes in taxonomie Yaourts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3382",
+      "time": "2023-05-02T07:20:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3382",
+      "text": "chore(taxonomies): Unknown CIQUAL codes in taxonomie Yaourts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3430",
+      "time": "2020-05-15T12:02:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3430",
+      "text": "Unknown CIQUAL codes in taxonomie Boissons"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3430",
+      "time": "2020-06-02T07:05:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3430",
+      "text": "Unknown CIQUAL codes in taxonomie Boissons"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3437",
+      "time": "2020-05-18T09:28:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3437",
+      "text": "Extra lines from TODO Association CIQUAL/AGB"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3437",
+      "time": "2020-06-16T13:02:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3437",
+      "text": "Extra lines from TODO Association CIQUAL/AGB"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

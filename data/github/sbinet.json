@@ -1,0 +1,63 @@
+{
+  "last_updated": "2018-02-12T22:29:26Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-go#11",
+      "time": "2018-02-12T22:29:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/11",
+      "text": "Issue 10"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-go#11",
+      "time": "2019-12-16T15:07:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/11",
+      "text": "Issue 10"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-go#13",
+      "time": "2018-02-12T23:02:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/13",
+      "text": "Travis ci"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-go#13",
+      "time": "2019-12-16T15:09:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/13",
+      "text": "Travis ci"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-go#14",
+      "time": "2018-02-12T23:03:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/14",
+      "text": "epoch: detect strconv.ParseInt error and propagate"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-go#14",
+      "time": "2019-12-16T04:24:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/14",
+      "text": "epoch: detect strconv.ParseInt error and propagate"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-go#21",
+      "time": "2019-12-16T08:54:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/21",
+      "text": "all: unexport EpochTime.isSet"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-go#21",
+      "time": "2019-12-16T14:15:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/21",
+      "text": "all: unexport EpochTime.isSet"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

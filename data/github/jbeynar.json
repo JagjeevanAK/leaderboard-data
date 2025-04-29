@@ -1,0 +1,49 @@
+{
+  "last_updated": "2023-01-07T22:12:58Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#248",
+      "time": "2023-01-07T22:12:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/248",
+      "text": "fix: invalid reference to APIResponse property"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#248",
+      "time": "2023-01-09T17:18:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/248",
+      "text": "fix: invalid reference to APIResponse property"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#250",
+      "time": "2023-01-10T08:29:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/250",
+      "text": "chore: general cleanup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#250",
+      "time": "2023-01-11T17:57:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/250",
+      "text": "chore: general cleanup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#253",
+      "time": "2023-01-14T20:52:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/253",
+      "text": "docs: update documentation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#253",
+      "time": "2023-01-17T10:47:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/253",
+      "text": "docs: update documentation"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-10-25T01:57:09Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/folksonomy_api#109",
+      "time": "2022-10-25T01:57:09Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/109",
+      "text": "docs: Updated Typo in Readme.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/folksonomy_api#109",
+      "time": "2022-10-25T04:58:53Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/109",
+      "text": "docs: Updated Typo in Readme.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

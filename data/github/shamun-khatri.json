@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-12-27T07:26:48Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9602",
+      "time": "2023-12-27T07:26:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9602",
+      "text": "fix: Leaflet map goes above content."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9602",
+      "time": "2024-01-15T22:04:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9602",
+      "text": "fix: Leaflet map goes above content."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-11-22T14:45:53Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7751",
+      "time": "2022-11-22T14:45:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7751",
+      "text": "taxonomy: add \"Prix Juste Producteur\" label"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7751",
+      "time": "2022-11-25T21:40:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7751",
+      "text": "taxonomy: add \"Prix Juste Producteur\" label"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-12-07T14:21:16Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#301",
+      "time": "2020-12-07T14:21:16Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/301",
+      "text": "Auto-select recycling images (closes #260)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#301",
+      "time": "2021-01-19T13:36:44Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/301",
+      "text": "Auto-select recycling images (closes #260)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

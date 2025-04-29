@@ -1,0 +1,49 @@
+{
+  "last_updated": "2024-05-30T07:19:38Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10367",
+      "time": "2024-05-30T07:19:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10367",
+      "text": "taxonomy: add Cyanocobalamin -> b12"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10367",
+      "time": "2024-05-31T09:03:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10367",
+      "text": "taxonomy: add Cyanocobalamin -> b12"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10436",
+      "time": "2024-06-13T07:31:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10436",
+      "text": "taxonomy: add support for \"chargrilled corn\" and \"red capsicum\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10436",
+      "time": "2024-06-13T09:24:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10436",
+      "text": "taxonomy: add support for \"chargrilled corn\" and \"red capsicum\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10437",
+      "time": "2024-06-13T07:40:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10437",
+      "text": "fix: detect_allergens_from_ingredients typo"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10437",
+      "time": "2024-06-18T06:34:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10437",
+      "text": "fix: detect_allergens_from_ingredients typo"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

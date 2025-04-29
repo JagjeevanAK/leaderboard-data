@@ -1,0 +1,133 @@
+{
+  "last_updated": "2022-07-04T12:43:28Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2494",
+      "time": "2022-07-04T12:43:28Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2494",
+      "text": "fix: register checkbox darkmode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2494",
+      "time": "2022-07-04T13:42:10Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2494",
+      "text": "fix: register checkbox darkmode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2539",
+      "time": "2022-07-07T20:11:08Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2539",
+      "text": "feat: Language filter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2539",
+      "time": "2022-07-22T11:58:17Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2539",
+      "text": "feat: Language filter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2899",
+      "time": "2022-09-01T18:56:21Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2899",
+      "text": "fix: #2846 horizontal layout buttons"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2899",
+      "time": "2022-09-05T13:57:24Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2899",
+      "text": "fix: #2846 horizontal layout buttons"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3025",
+      "time": "2022-09-16T10:05:14Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3025",
+      "text": "fix: fixes Confirm password field focus"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3025",
+      "time": "2022-09-16T13:07:34Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3025",
+      "text": "fix: fixes Confirm password field focus"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3069",
+      "time": "2022-09-27T15:00:40Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3069",
+      "text": "fix: #1239 Create a test for registration and login"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3069",
+      "time": "2022-10-03T16:12:42Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3069",
+      "text": "fix: #1239 Create a test for registration and login"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3216",
+      "time": "2022-10-25T14:37:32Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3216",
+      "text": "feat: Product addition test"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3233",
+      "time": "2022-10-29T17:36:27Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3233",
+      "text": "chore: user authentication page testing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3233",
+      "time": "2022-11-02T16:01:14Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3233",
+      "text": "chore: user authentication page testing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3675",
+      "time": "2023-02-06T10:32:21Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3675",
+      "text": "fix: Added unique id to API Request header."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3675",
+      "time": "2023-02-21T16:05:08Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3675",
+      "text": "fix: Added unique id to API Request header."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3703",
+      "time": "2023-02-13T15:06:18Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3703",
+      "text": "feat: AMOLED Dark Mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3703",
+      "time": "2023-03-09T17:19:39Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3703",
+      "text": "feat: AMOLED Dark Mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-rust#17",
+      "time": "2022-06-27T11:32:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-rust/pull/17",
+      "text": "ci: Automatic publication of the package"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

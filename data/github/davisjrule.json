@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-11-22T21:53:48Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11037",
+      "time": "2024-11-22T21:53:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11037",
+      "text": "feat: Improve edit button visibility"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-03-24T16:01:24Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8247",
+      "time": "2023-03-24T16:01:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8247",
+      "text": "fix: Update logo of the label V-label"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

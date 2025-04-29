@@ -1,0 +1,35 @@
+{
+  "last_updated": "2022-05-16T21:17:22Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6787",
+      "time": "2022-05-16T21:17:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6787",
+      "text": "chore: improve Slovak translations in allergens.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6787",
+      "time": "2022-05-17T14:38:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6787",
+      "text": "chore: improve Slovak translations in allergens.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6791",
+      "time": "2022-05-17T15:59:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6791",
+      "text": "chore: Git ignore settings for JetBrains editors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6791",
+      "time": "2022-05-18T07:25:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6791",
+      "text": "chore: Git ignore settings for JetBrains editors"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

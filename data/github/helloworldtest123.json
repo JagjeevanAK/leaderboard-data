@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-08-10T22:38:44Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7198",
+      "time": "2022-08-10T22:38:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7198",
+      "text": "taxonomy: Add new packaging materials and translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7198",
+      "time": "2022-08-24T07:56:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7198",
+      "text": "taxonomy: Add new packaging materials and translations"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-11-22T01:20:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3605",
+      "time": "2020-11-22T01:20:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3605",
+      "text": "Add day/night mode switch in settings"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3605",
+      "time": "2020-11-23T09:55:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3605",
+      "text": "Add day/night mode switch in settings"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

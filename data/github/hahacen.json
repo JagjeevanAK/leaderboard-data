@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-04-25T18:11:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#325",
+      "time": "2025-04-25T18:11:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/325",
+      "text": "Add folksonomy tagging support with tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#326",
+      "time": "2025-04-25T18:20:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/326",
+      "text": "Searchalicious integration"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

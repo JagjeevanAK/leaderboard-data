@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-10-27T13:23:54Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#28",
+      "time": "2020-10-27T13:23:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/28",
+      "text": "Issue #27 Fix failed test"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#28",
+      "time": "2020-11-10T14:31:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/28",
+      "text": "Issue #27 Fix failed test"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

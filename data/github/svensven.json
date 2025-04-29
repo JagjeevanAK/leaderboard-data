@@ -1,0 +1,1386 @@
+{
+  "last_updated": "2020-08-16T18:23:10Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4028",
+      "time": "2020-08-16T18:23:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4028",
+      "text": "Taxonomy edits"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4031",
+      "time": "2020-08-17T01:46:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4031",
+      "text": "Taxonomy edits"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4031",
+      "time": "2020-08-18T14:40:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4031",
+      "text": "Taxonomy edits"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4041",
+      "time": "2020-08-19T14:35:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4041",
+      "text": "Taxonomy edits - ingredients and categories"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4042",
+      "time": "2020-08-19T14:46:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4042",
+      "text": "Taxonomy edits - ingredients and categories"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4042",
+      "time": "2020-08-20T08:36:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4042",
+      "text": "Taxonomy edits - ingredients and categories"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4047",
+      "time": "2020-08-21T06:45:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4047",
+      "text": "Taxonomy edits - ingredients and additives"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4047",
+      "time": "2020-08-21T08:38:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4047",
+      "text": "Taxonomy edits - ingredients and additives"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4048",
+      "time": "2020-08-21T12:15:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4048",
+      "text": "Taxonomy edits - ingredient deduplication"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4048",
+      "time": "2020-08-22T14:46:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4048",
+      "text": "Taxonomy edits - ingredient deduplication"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4063",
+      "time": "2020-08-24T09:17:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4063",
+      "text": "Taxonomy edits 5 - ingredient additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4063",
+      "time": "2020-08-26T10:49:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4063",
+      "text": "Taxonomy edits 5 - ingredient additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4064",
+      "time": "2020-08-24T09:21:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4064",
+      "text": "Taxonomy edits 5 - ingredient dedupes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4064",
+      "time": "2020-08-26T10:48:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4064",
+      "text": "Taxonomy edits 5 - ingredient dedupes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4079",
+      "time": "2020-08-27T10:25:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4079",
+      "text": "Changing \"Modern Greek\" to \"Greek\", fixes #4070"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4079",
+      "time": "2020-08-29T09:02:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4079",
+      "text": "Changing \"Modern Greek\" to \"Greek\", fixes #4070"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4081",
+      "time": "2020-08-27T14:52:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4081",
+      "text": "Taxonomy edits 6 - ingredients & additives"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4081",
+      "time": "2020-08-30T14:44:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4081",
+      "text": "Taxonomy edits 6 - ingredients & additives"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4089",
+      "time": "2020-08-30T03:19:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4089",
+      "text": "Taxonomy edits 7 - additions only this time ;)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4089",
+      "time": "2020-08-30T14:53:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4089",
+      "text": "Taxonomy edits 7 - additions only this time ;)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4098",
+      "time": "2020-08-30T20:49:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4098",
+      "text": "Categories - move en: translation to top where it exists. For #4082"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4098",
+      "time": "2020-08-31T19:11:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4098",
+      "text": "Categories - move en: translation to top where it exists. For #4082"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4111",
+      "time": "2020-08-31T17:11:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4111",
+      "text": "Taxonomy edits 8 - mostly adding romanian ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4111",
+      "time": "2020-08-31T19:12:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4111",
+      "text": "Taxonomy edits 8 - mostly adding romanian ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4125",
+      "time": "2020-09-01T18:44:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4125",
+      "text": "Taxonomy edits 9 - translations, tidying, deduping, ingredients analysis..."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4125",
+      "time": "2020-09-02T16:48:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4125",
+      "text": "Taxonomy edits 9 - translations, tidying, deduping, ingredients analysis..."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4137",
+      "time": "2020-09-03T20:31:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4137",
+      "text": "Remove dangling symlink lang/pt/texts/dados.html"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4137",
+      "time": "2020-09-03T22:21:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4137",
+      "text": "Remove dangling symlink lang/pt/texts/dados.html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4138",
+      "time": "2020-09-04T07:44:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4138",
+      "text": "Taxonomy edits 10 - category dedupes and translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4138",
+      "time": "2020-09-04T11:18:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4138",
+      "text": "Taxonomy edits 10 - category dedupes and translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4142",
+      "time": "2020-09-04T19:52:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4142",
+      "text": "fix broken html in italian translation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4142",
+      "time": "2020-09-05T11:01:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4142",
+      "text": "fix broken html in italian translation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4148",
+      "time": "2020-09-05T21:29:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4148",
+      "text": "Taxonomy edits 11 - mostly translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4148",
+      "time": "2020-09-07T08:24:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4148",
+      "text": "Taxonomy edits 11 - mostly translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4152",
+      "time": "2020-09-06T13:49:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4152",
+      "text": "add terms to ignore on the end of ingredients list for english"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4152",
+      "time": "2020-09-06T15:01:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4152",
+      "text": "add terms to ignore on the end of ingredients list for english"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4161",
+      "time": "2020-09-07T06:58:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4161",
+      "text": "ingredients parsing - ignore \"allergy advice\" in ingredients lists"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4161",
+      "time": "2020-09-07T14:58:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4161",
+      "text": "ingredients parsing - ignore \"allergy advice\" in ingredients lists"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4165",
+      "time": "2020-09-08T07:19:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4165",
+      "text": "Taxonomy edits 12 - mostly adding missing terms from products"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4165",
+      "time": "2020-09-08T08:46:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4165",
+      "text": "Taxonomy edits 12 - mostly adding missing terms from products"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4175",
+      "time": "2020-09-10T07:10:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4175",
+      "text": "Taxonomy edits 13 - mostly added synonyms/translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4175",
+      "time": "2020-09-10T10:55:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4175",
+      "text": "Taxonomy edits 13 - mostly added synonyms/translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4184",
+      "time": "2020-09-11T16:14:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4184",
+      "text": "ingredients processing - Quick fix for example in #3753"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4184",
+      "time": "2020-09-12T17:02:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4184",
+      "text": "ingredients processing - Quick fix for example in #3753"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4187",
+      "time": "2020-09-12T08:39:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4187",
+      "text": "performance - stop Lang.pm sleep(1)-ing every time it's loaded"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4187",
+      "time": "2020-09-12T15:14:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4187",
+      "text": "performance - stop Lang.pm sleep(1)-ing every time it's loaded"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4188",
+      "time": "2020-09-12T10:10:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4188",
+      "text": "performance - Make Tags.pm perform its 9600 file-exists checks on demand instead of on load"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4188",
+      "time": "2020-09-12T18:15:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4188",
+      "text": "performance - Make Tags.pm perform its 9600 file-exists checks on demand instead of on load"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4189",
+      "time": "2020-09-12T14:47:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4189",
+      "text": "performance - make build_tags_taxonomy() use string comparisons instead of regexps"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4189",
+      "time": "2020-09-12T21:46:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4189",
+      "text": "performance - make build_tags_taxonomy() use string comparisons instead of regexps"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4193",
+      "time": "2020-09-13T16:23:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4193",
+      "text": "ingredients parsing - ignore french \"allergy advice\" in ingredients lists"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4193",
+      "time": "2020-09-14T07:39:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4193",
+      "text": "ingredients parsing - ignore french \"allergy advice\" in ingredients lists"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4194",
+      "time": "2020-09-13T16:33:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4194",
+      "text": "Taxonomy edits 14 - additions, resolving some mixed up translations, more \"may contain\" patterns..."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4194",
+      "time": "2020-09-14T07:39:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4194",
+      "text": "Taxonomy edits 14 - additions, resolving some mixed up translations, more \"may contain\" patterns..."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4196",
+      "time": "2020-09-13T18:09:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4196",
+      "text": "Ingredients.pm - try to silence a repeated warning in unit tests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4196",
+      "time": "2020-09-14T07:51:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4196",
+      "text": "Ingredients.pm - try to silence a repeated warning in unit tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4205",
+      "time": "2020-09-14T10:19:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4205",
+      "text": "Building Taxonomies - log the fact we're discarding lines, rather than just causing an unhelpful perl warning."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4205",
+      "time": "2020-09-15T13:01:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4205",
+      "text": "Building Taxonomies - log the fact we're discarding lines, rather than just causing an unhelpful perl warning."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4206",
+      "time": "2020-09-14T11:46:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4206",
+      "text": "add russian abbreviations. fixes #3925"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4206",
+      "time": "2020-09-15T13:00:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4206",
+      "text": "add russian abbreviations. fixes #3925"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4208",
+      "time": "2020-09-14T17:16:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4208",
+      "text": "Taxonomy edits 15 - category PGI/PDO dedupes, and some added ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4208",
+      "time": "2020-09-15T12:59:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4208",
+      "text": "Taxonomy edits 15 - category PGI/PDO dedupes, and some added ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4211",
+      "time": "2020-09-15T19:48:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4211",
+      "text": "performance - Move two Storable loads from BEGIN to INIT phase, to speed up syntax check"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4211",
+      "time": "2020-09-16T11:38:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4211",
+      "text": "performance - Move two Storable loads from BEGIN to INIT phase, to speed up syntax check"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4213",
+      "time": "2020-09-15T21:51:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4213",
+      "text": "Add HTTP caching header to suggest.pl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4213",
+      "time": "2020-09-16T11:38:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4213",
+      "text": "Add HTTP caching header to suggest.pl"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4231",
+      "time": "2020-09-19T16:18:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4231",
+      "text": "performance improvements for scripts/update_all_products.pl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4231",
+      "time": "2020-09-19T20:36:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4231",
+      "text": "performance improvements for scripts/update_all_products.pl"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4234",
+      "time": "2020-09-20T01:37:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4234",
+      "text": "text_direction translation - fix and prevention for #4233"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4234",
+      "time": "2020-09-20T11:23:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4234",
+      "text": "text_direction translation - fix and prevention for #4233"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4235",
+      "time": "2020-09-20T20:09:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4235",
+      "text": "fix google translate link in taxonomy translation page - for #4004"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4235",
+      "time": "2020-09-21T11:58:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4235",
+      "text": "fix google translate link in taxonomy translation page - for #4004"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4241",
+      "time": "2020-09-21T20:20:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4241",
+      "text": "add test to make sure #3838 stays fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4241",
+      "time": "2020-09-22T07:03:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4241",
+      "text": "add test to make sure #3838 stays fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4249",
+      "time": "2020-09-23T02:02:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4249",
+      "text": "Experimentally add some TODO tests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4249",
+      "time": "2020-09-23T13:14:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4249",
+      "text": "Experimentally add some TODO tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4251",
+      "time": "2020-09-24T02:59:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4251",
+      "text": "fix error message typo in build_tags_taxonomy.pl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4251",
+      "time": "2020-09-24T11:54:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4251",
+      "text": "fix error message typo in build_tags_taxonomy.pl"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4252",
+      "time": "2020-09-24T06:07:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4252",
+      "text": "Taxonomy edits 16 - ingredient additions and dedupes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4252",
+      "time": "2020-09-24T12:28:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4252",
+      "text": "Taxonomy edits 16 - ingredient additions and dedupes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4253",
+      "time": "2020-09-24T14:50:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4253",
+      "text": "add w/ & w/o abbreviations, fixes #3270"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4253",
+      "time": "2020-09-24T18:07:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4253",
+      "text": "add w/ & w/o abbreviations, fixes #3270"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4258",
+      "time": "2020-09-26T08:03:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4258",
+      "text": "performance - gen_top_tags_per_country.pl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4258",
+      "time": "2020-09-27T09:05:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4258",
+      "text": "performance - gen_top_tags_per_country.pl"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4261",
+      "time": "2020-09-27T09:46:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4261",
+      "text": "clear most of the warnings on the unit tests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4261",
+      "time": "2020-09-28T13:12:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4261",
+      "text": "clear most of the warnings on the unit tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4278",
+      "time": "2020-09-29T00:20:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4278",
+      "text": "apache.conf - indent for readability"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4278",
+      "time": "2020-09-29T07:53:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4278",
+      "text": "apache.conf - indent for readability"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4279",
+      "time": "2020-09-29T00:36:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4279",
+      "text": "add \"less\" to docker image"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4279",
+      "time": "2020-09-29T07:54:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4279",
+      "text": "add \"less\" to docker image"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4281",
+      "time": "2020-09-29T09:13:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4281",
+      "text": "Taxonomy edits 17 - additions & some tidying"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4281",
+      "time": "2020-09-29T19:41:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4281",
+      "text": "Taxonomy edits 17 - additions & some tidying"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4283",
+      "time": "2020-09-29T21:50:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4283",
+      "text": "export_database.pl - only overwrite previous export if the new one is bigger"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4283",
+      "time": "2020-09-30T09:55:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4283",
+      "text": "export_database.pl - only overwrite previous export if the new one is bigger"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4289",
+      "time": "2020-09-30T20:25:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4289",
+      "text": "Add Catalan unaccenting to docker Config.pm, to match ProductOpener/Config_off.pm, fixes #4276"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4289",
+      "time": "2020-10-01T01:18:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4289",
+      "text": "Add Catalan unaccenting to docker Config.pm, to match ProductOpener/Config_off.pm, fixes #4276"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4291",
+      "time": "2020-10-01T10:47:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4291",
+      "text": "Move \"world\" to top of country dropdown, add UK regional languages, country taxonomy updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4291",
+      "time": "2020-10-02T13:26:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4291",
+      "text": "Move \"world\" to top of country dropdown, add UK regional languages, country taxonomy updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4294",
+      "time": "2020-10-02T14:24:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4294",
+      "text": "Perl modules from apt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4294",
+      "time": "2020-10-02T15:08:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4294",
+      "text": "Perl modules from apt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4311",
+      "time": "2020-10-05T06:59:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4311",
+      "text": "export_database.pl - make cursor immortal"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4311",
+      "time": "2020-10-05T07:27:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4311",
+      "text": "export_database.pl - make cursor immortal"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4315",
+      "time": "2020-10-05T13:38:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4315",
+      "text": "taxonomy edits 18 - ingredient additions/corrections"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4315",
+      "time": "2020-10-05T14:44:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4315",
+      "text": "taxonomy edits 18 - ingredient additions/corrections"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4319",
+      "time": "2020-10-05T17:58:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4319",
+      "text": "startup_apache2.pl - setup error log before running code"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4319",
+      "time": "2020-10-05T18:22:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4319",
+      "text": "startup_apache2.pl - setup error log before running code"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4320",
+      "time": "2020-10-05T18:58:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4320",
+      "text": "po-foreground.sh - add ecoscore folder into dev docker"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4320",
+      "time": "2020-10-05T19:30:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4320",
+      "text": "po-foreground.sh - add ecoscore folder into dev docker"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4328",
+      "time": "2020-10-07T18:50:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4328",
+      "text": "perl syntax checking in parallel, but limit the number of processes."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4328",
+      "time": "2020-10-09T11:49:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4328",
+      "text": "perl syntax checking in parallel, but limit the number of processes."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4329",
+      "time": "2020-10-07T20:37:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4329",
+      "text": "refresh_taxonomies.js - handle signals & limit parallelism (for Travis)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4329",
+      "time": "2020-10-09T15:45:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4329",
+      "text": "refresh_taxonomies.js - handle signals & limit parallelism (for Travis)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4331",
+      "time": "2020-10-08T10:39:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4331",
+      "text": "Try out changed-files plugin for perl syntax check"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4332",
+      "time": "2020-10-08T11:03:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4332",
+      "text": "\"do we need the Travis check?\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4334",
+      "time": "2020-10-08T21:54:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4334",
+      "text": "more performance tweaks for update_all_products.pl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4334",
+      "time": "2020-10-09T09:17:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4334",
+      "text": "more performance tweaks for update_all_products.pl"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4339",
+      "time": "2020-10-09T15:20:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4339",
+      "text": "product editing - add back current-image html for non-ocr images"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4339",
+      "time": "2020-10-09T15:43:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4339",
+      "text": "product editing - add back current-image html for non-ocr images"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4341",
+      "time": "2020-10-09T17:20:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4341",
+      "text": "Fix empty dropdowns on advanced search form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4341",
+      "time": "2020-10-10T08:31:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4341",
+      "text": "Fix empty dropdowns on advanced search form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4344",
+      "time": "2020-10-10T08:58:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4344",
+      "text": "Run unit tests in parallel"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4344",
+      "time": "2020-10-10T09:09:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4344",
+      "text": "Run unit tests in parallel"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4354",
+      "time": "2020-10-12T21:42:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4354",
+      "text": "Add ability to pass a wait timeout to the mongodb connection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4354",
+      "time": "2020-10-15T07:30:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4354",
+      "text": "Add ability to pass a wait timeout to the mongodb connection"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4356",
+      "time": "2020-10-14T05:50:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4356",
+      "text": "Handle edit page ajax failures"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4356",
+      "time": "2020-10-14T09:47:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4356",
+      "text": "Handle edit page ajax failures"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4373",
+      "time": "2020-10-15T23:30:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4373",
+      "text": "Taxonomy edits 19 - mostly ingredient additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4373",
+      "time": "2020-10-16T08:29:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4373",
+      "text": "Taxonomy edits 19 - mostly ingredient additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4376",
+      "time": "2020-10-18T08:46:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4376",
+      "text": "migrate from defunct cropper to cropperjs+jquery-cropper"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4376",
+      "time": "2020-10-18T19:24:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4376",
+      "text": "migrate from defunct cropper to cropperjs+jquery-cropper"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4387",
+      "time": "2020-10-21T00:29:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4387",
+      "text": "add Mongolian to language taxonomy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4387",
+      "time": "2020-10-21T08:35:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4387",
+      "text": "add Mongolian to language taxonomy"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4388",
+      "time": "2020-10-21T06:51:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4388",
+      "text": "display.js - fix searching in country dropdown"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4388",
+      "time": "2020-10-21T09:00:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4388",
+      "text": "display.js - fix searching in country dropdown"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4395",
+      "time": "2020-10-22T11:32:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4395",
+      "text": "Taxonomy edits 20 - ingredient & parsing additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4395",
+      "time": "2020-10-22T13:31:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4395",
+      "text": "Taxonomy edits 20 - ingredient & parsing additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4397",
+      "time": "2020-10-22T19:03:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4397",
+      "text": "[WIP] Fix broken redirects in the search form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4398",
+      "time": "2020-10-23T03:24:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4398",
+      "text": "update tagify to fix #4280 - searching for tags with accented characters"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4398",
+      "time": "2020-10-23T08:27:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4398",
+      "text": "update tagify to fix #4280 - searching for tags with accented characters"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4422",
+      "time": "2020-10-26T10:58:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4422",
+      "text": "Taxonomy edits 21 - mostly ingredient additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4422",
+      "time": "2020-10-26T14:19:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4422",
+      "text": "Taxonomy edits 21 - mostly ingredient additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4449",
+      "time": "2020-10-30T23:00:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4449",
+      "text": "Taxonomy edits 22 - ingredients & labels additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4449",
+      "time": "2020-10-31T16:16:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4449",
+      "text": "Taxonomy edits 22 - ingredients & labels additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4451",
+      "time": "2020-10-31T23:47:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4451",
+      "text": "Taxonomy edits 23 - mostly italian additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4451",
+      "time": "2020-11-01T11:53:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4451",
+      "text": "Taxonomy edits 23 - mostly italian additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4469",
+      "time": "2020-11-04T04:07:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4469",
+      "text": "Fix translations breaking html & translating slack channel name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4469",
+      "time": "2020-11-04T08:28:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4469",
+      "text": "Fix translations breaking html & translating slack channel name"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4496",
+      "time": "2020-11-10T01:17:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4496",
+      "text": "Add lang= attribute to moderator ingredients edit on product view"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4496",
+      "time": "2020-11-10T11:30:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4496",
+      "text": "Add lang= attribute to moderator ingredients edit on product view"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4497",
+      "time": "2020-11-10T04:46:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4497",
+      "text": "Taxonomy edits 24 - ingredient additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4497",
+      "time": "2020-11-10T11:30:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4497",
+      "text": "Taxonomy edits 24 - ingredient additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4498",
+      "time": "2020-11-10T05:40:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4498",
+      "text": "update github workflows using checkout@v1 to v2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4498",
+      "time": "2020-11-10T11:29:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4498",
+      "text": "update github workflows using checkout@v1 to v2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4531",
+      "time": "2020-11-18T14:50:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4531",
+      "text": "Taxonomy edits 25 - a few ingredient additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4531",
+      "time": "2020-11-20T11:08:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4531",
+      "text": "Taxonomy edits 25 - a few ingredient additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5052",
+      "time": "2021-03-24T20:48:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5052",
+      "text": "Taxonomy edits 26 - ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5052",
+      "time": "2021-03-25T10:34:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5052",
+      "text": "Taxonomy edits 26 - ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5063",
+      "time": "2021-03-27T11:49:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5063",
+      "text": "Taxonomy edits 27 - ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5063",
+      "time": "2021-03-29T11:54:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5063",
+      "text": "Taxonomy edits 27 - ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5125",
+      "time": "2021-04-10T13:38:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5125",
+      "text": "rearrange Calvados categories"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5125",
+      "time": "2021-04-10T14:16:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5125",
+      "text": "rearrange Calvados categories"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5128",
+      "time": "2021-04-10T14:27:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5128",
+      "text": "taxonomy edits 28 - ingredient additions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5128",
+      "time": "2021-04-13T08:35:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5128",
+      "text": "taxonomy edits 28 - ingredient additions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#32",
+      "time": "2020-08-22T06:59:37Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/32",
+      "text": "detect product code on product view page, and stop the script dying on code.replace()"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#32",
+      "time": "2020-10-12T21:06:22Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/32",
+      "text": "detect product code on product view page, and stop the script dying on code.replace()"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#33",
+      "time": "2020-08-22T07:02:53Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/33",
+      "text": "add DuckDuckGo search link"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#33",
+      "time": "2020-10-12T21:03:31Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/33",
+      "text": "add DuckDuckGo search link"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#34",
+      "time": "2020-09-01T09:08:45Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/34",
+      "text": "correct ingredient analysis URL for languages with different country codes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#34",
+      "time": "2020-10-14T12:35:37Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/34",
+      "text": "correct ingredient analysis URL for languages with different country codes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#35",
+      "time": "2020-09-20T03:51:50Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/35",
+      "text": "list view - style save button if textarea has unsaved changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#35",
+      "time": "2020-10-12T21:26:23Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/35",
+      "text": "list view - style save button if textarea has unsaved changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#37",
+      "time": "2020-10-10T13:57:26Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/37",
+      "text": "encode ingredients so they don't truncate at ; or &."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#37",
+      "time": "2020-10-12T21:24:13Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/37",
+      "text": "encode ingredients so they don't truncate at ; or &."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#39",
+      "time": "2020-10-14T01:59:08Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/39",
+      "text": "list view ingredients edit - report save success/failure"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#39",
+      "time": "2020-10-14T12:28:41Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/39",
+      "text": "list view ingredients edit - report save success/failure"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#40",
+      "time": "2020-10-15T07:44:14Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/40",
+      "text": "Misc fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#40",
+      "time": "2020-10-15T07:48:41Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/40",
+      "text": "Misc fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#41",
+      "time": "2020-10-17T07:47:15Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/41",
+      "text": "Ingredients fixed width font option"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#41",
+      "time": "2020-10-17T07:49:36Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/41",
+      "text": "Ingredients fixed width font option"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#43",
+      "time": "2020-10-26T09:50:08Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/43",
+      "text": "properly track multiple \"Saving\" messages, and notify failures moving to OBF"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#43",
+      "time": "2020-10-26T09:53:48Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/43",
+      "text": "properly track multiple \"Saving\" messages, and notify failures moving to OBF"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#44",
+      "time": "2020-10-29T18:17:35Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/44",
+      "text": "Add graphical barcodes option to list view"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#44",
+      "time": "2020-10-29T18:24:51Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/44",
+      "text": "Add graphical barcodes option to list view"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#46",
+      "time": "2020-10-30T14:58:38Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/46",
+      "text": "make help popup icon/keyboard shortcut toggle instead of only showing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#46",
+      "time": "2020-10-30T15:04:53Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/46",
+      "text": "make help popup icon/keyboard shortcut toggle instead of only showing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#47",
+      "time": "2020-11-10T01:31:19Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/47",
+      "text": "add lang attribute on the ingredient OCR textarea"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#47",
+      "time": "2020-11-10T01:33:59Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/47",
+      "text": "add lang attribute on the ingredient OCR textarea"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#52",
+      "time": "2021-03-21T20:48:04Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/52",
+      "text": "List view fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#52",
+      "time": "2021-03-21T20:52:07Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/52",
+      "text": "List view fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#53",
+      "time": "2021-03-22T19:20:13Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/53",
+      "text": "fix list view pagination"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#53",
+      "time": "2021-03-22T19:23:07Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/53",
+      "text": "fix list view pagination"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#54",
+      "time": "2021-03-30T01:49:11Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/54",
+      "text": "Functionising \"move products\" buttons and adding pet food button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#54",
+      "time": "2021-03-30T01:51:39Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/54",
+      "text": "Functionising \"move products\" buttons and adding pet food button"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#55",
+      "time": "2021-03-30T03:53:06Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/55",
+      "text": "give save & move status divs different ids"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#55",
+      "time": "2021-03-30T03:55:40Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/55",
+      "text": "give save & move status divs different ids"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#116",
+      "time": "2020-09-15T09:03:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/116",
+      "text": "feat: show annotation type for annotations that don't take a value"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#116",
+      "time": "2021-09-05T08:07:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/116",
+      "text": "feat: show annotation type for annotations that don't take a value"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

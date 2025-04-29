@@ -1,0 +1,56 @@
+{
+  "last_updated": "2022-01-18T14:37:01Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#979",
+      "time": "2022-01-18T14:37:01Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/979",
+      "text": "feat: sign out confirmation step. Issue: #884"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#979",
+      "time": "2022-01-19T16:49:00Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/979",
+      "text": "feat: sign out confirmation step. Issue: #884"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#994",
+      "time": "2022-01-21T23:40:18Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/994",
+      "text": "fix: bug \"Smooth Simple Button\" in \"SmoothAlertDialogue\". issue #993"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#994",
+      "time": "2022-01-22T16:13:08Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/994",
+      "text": "fix: bug \"Smooth Simple Button\" in \"SmoothAlertDialogue\". issue #993"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1716",
+      "time": "2022-04-29T18:41:39Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1716",
+      "text": "feat: Add error component to the error state when there's no internet connection on the search page. Issue #1504"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1716",
+      "time": "2022-05-17T21:27:46Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1716",
+      "text": "feat: Add error component to the error state when there's no internet connection on the search page. Issue #1504"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1739",
+      "time": "2022-05-04T19:16:40Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1739",
+      "text": "feat: Snackbar \"Not a valid product barcode\" when we scan a QR-Code #840"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

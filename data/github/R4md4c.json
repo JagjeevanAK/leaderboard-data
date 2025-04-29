@@ -1,0 +1,105 @@
+{
+  "last_updated": "2022-01-23T18:31:12Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4442",
+      "time": "2022-01-23T18:31:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4442",
+      "text": "JUnit 5 migration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4442",
+      "time": "2022-01-25T23:58:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4442",
+      "text": "JUnit 5 migration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4448",
+      "time": "2022-01-27T21:45:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4448",
+      "text": "Fix product photos tab from not loading"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4448",
+      "time": "2022-01-30T14:47:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4448",
+      "text": "Fix product photos tab from not loading"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4459",
+      "time": "2022-02-01T21:29:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4459",
+      "text": "Upgrade WorkManager to version 2.7.1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4459",
+      "time": "2022-02-01T23:53:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4459",
+      "text": "Upgrade WorkManager to version 2.7.1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4460",
+      "time": "2022-02-01T22:26:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4460",
+      "text": "Fix history tab refreshing layout issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4460",
+      "time": "2022-02-02T06:30:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4460",
+      "text": "Fix history tab refreshing layout issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4469",
+      "time": "2022-02-08T19:35:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4469",
+      "text": "Fix NPE in ProductListAdapter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4469",
+      "time": "2022-02-08T20:54:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4469",
+      "text": "Fix NPE in ProductListAdapter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4480",
+      "time": "2022-02-15T21:57:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4480",
+      "text": "Use proper named arguments to load a product"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4480",
+      "time": "2022-02-15T22:00:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4480",
+      "text": "Use proper named arguments to load a product"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4496",
+      "time": "2022-02-20T16:11:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4496",
+      "text": "fix: Attempt to fix NPE: interface method 'java.lang.Object java.util.Map.get(java.lang.Object)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4496",
+      "time": "2022-02-22T09:18:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4496",
+      "text": "fix: Attempt to fix NPE: interface method 'java.lang.Object java.util.Map.get(java.lang.Object)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

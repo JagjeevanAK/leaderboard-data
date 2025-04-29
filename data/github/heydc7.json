@@ -1,0 +1,14 @@
+{
+  "last_updated": "2019-10-26T20:09:33Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#426",
+      "time": "2019-10-26T20:09:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/426",
+      "text": "TableView Efficiently Reloads Data Improvements, unwrapped optionals properly"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

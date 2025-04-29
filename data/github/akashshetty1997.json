@@ -1,33 +1,56 @@
 {
-  "last_updated": "2025-04-28T14:01:12.000Z",
+  "last_updated": "2025-04-01T16:29:30Z",
   "activity": [
     {
-      "type": "comment_created",
-      "title": "openfoodfacts/openfoodfacts-explorer#180",
-      "time": "2025-04-28T14:01:12.000Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/180#issuecomment-2835354624",
-      "text": "> [@akashshetty1997](https://github.com/akashshetty1997) if you know how to fix those issue on search-a-licious side, it is more than welcome !\n\nYes! I'd be happy to help with that.\nI understand that fixing this would require changing how <searchalicious-results> builds templates (avoiding the use of new Function() at runtime) to make it CSP-compatible."
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#414",
+      "time": "2025-04-01T16:29:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/414",
+      "text": "fix: Don't show rotating icon for missing image in product page (fixes #413)"
     },
     {
-      "type": "comment_created",
-      "title": "openfoodfacts/openfoodfacts-explorer#180",
-      "time": "2025-04-28T13:59:10.000Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/180#issuecomment-2835348605",
-      "text": "> [@akashshetty1997](https://github.com/akashshetty1997) is CSP triggered even when adding the web-components repo as a dependency and using it locally?\n\nYes, CSP still blocks it even when installed locally.\nIt's because <searchalicious-results> uses new Function() at runtime, and CSP blocks dynamic code evaluation by default."
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-explorer#414",
+      "time": "2025-04-09T21:59:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/414",
+      "text": "fix: Don't show rotating icon for missing image in product page (fixes #413)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#461",
+      "time": "2025-04-10T22:03:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/461",
+      "text": "fix: search ui display 3 cards per row"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#504",
+      "time": "2025-04-19T23:26:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/504",
+      "text": "fix: error handling for network connectivity issues"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-explorer#504",
+      "time": "2025-04-24T18:15:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/504",
+      "text": "fix: error handling for network connectivity issues"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#511",
+      "time": "2025-04-25T01:26:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/511",
+      "text": "fix: fallback locale and isLoading for i18n crash on offline "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-explorer#511",
+      "time": "2025-04-25T15:37:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/511",
+      "text": "fix: fallback locale and isLoading for i18n crash on offline "
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/470",
-      "title": "Console Error After Denying Location Permission on Product Page",
-      "stale_for": 14,
-      "labels": []
-    }
-  ],
-  "authored_issue_and_pr": [
-    {
-      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/510",
-      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/511"
-    }
-  ]
+  "open_prs": [],
+  "authored_issue_and_pr": []
 }

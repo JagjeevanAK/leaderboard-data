@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-05-22T09:21:26Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#300",
+      "time": "2024-05-22T09:21:26Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/300",
+      "text": "feat: fixtures to fill data in a local environment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#303",
+      "time": "2024-05-27T09:32:51Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/303",
+      "text": "feat: fixtures to fill data in a local environment"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

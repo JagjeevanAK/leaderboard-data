@@ -1,0 +1,742 @@
+{
+  "last_updated": "2021-03-29T20:30:46Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5071",
+      "time": "2021-03-29T20:30:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5071",
+      "text": "Fixed accessibility issue 1.1.1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5071",
+      "time": "2021-03-30T10:25:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5071",
+      "text": "Fixed accessibility issue 1.1.1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5078",
+      "time": "2021-03-30T15:59:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5078",
+      "text": "feat: Underlined links in the text paragraphs context"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5087",
+      "time": "2021-04-01T09:46:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5087",
+      "text": "Document the ProductOpener::Mail.pm module"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5087",
+      "time": "2021-04-02T16:23:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5087",
+      "text": "Document the ProductOpener::Mail.pm module"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5091",
+      "time": "2021-04-01T19:43:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5091",
+      "text": "Document the ProductOpener::GeoIP.pm module"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5091",
+      "time": "2021-04-02T16:21:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5091",
+      "text": "Document the ProductOpener::GeoIP.pm module"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5104",
+      "time": "2021-04-05T21:31:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5104",
+      "text": "Test Ingredients Analysis Templatization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5104",
+      "time": "2021-04-06T15:28:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5104",
+      "text": "Test Ingredients Analysis Templatization"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5111",
+      "time": "2021-04-07T15:39:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5111",
+      "text": "WIP"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5121",
+      "time": "2021-04-10T13:04:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5121",
+      "text": "WIP"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5133",
+      "time": "2021-04-11T12:02:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5133",
+      "text": "Updated files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5133",
+      "time": "2021-04-11T13:56:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5133",
+      "text": "Updated files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5137",
+      "time": "2021-04-12T14:04:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5137",
+      "text": "WIP"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5150",
+      "time": "2021-04-14T19:05:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5150",
+      "text": "Refactor the user creation / user profile form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5150",
+      "time": "2021-04-22T08:48:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5150",
+      "text": "Refactor the user creation / user profile form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5180",
+      "time": "2021-04-28T10:42:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5180",
+      "text": "Updated data of products in README.md file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5180",
+      "time": "2021-04-28T11:28:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5180",
+      "text": "Updated data of products in README.md file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5283",
+      "time": "2021-06-02T15:44:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5283",
+      "text": "Added template files for import_file_process.pl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5283",
+      "time": "2021-06-03T12:31:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5283",
+      "text": "Added template files for import_file_process.pl"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5288",
+      "time": "2021-06-04T13:49:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5288",
+      "text": "Added orgs directory"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5288",
+      "time": "2021-06-07T08:33:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5288",
+      "text": "Added orgs directory"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5295",
+      "time": "2021-06-07T09:28:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5295",
+      "text": "Updated path of error_list.tt.html in org_from.tt.html"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5295",
+      "time": "2021-06-07T11:07:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5295",
+      "text": "Updated path of error_list.tt.html in org_from.tt.html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5296",
+      "time": "2021-06-07T09:57:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5296",
+      "text": "Updated error_list.tt.html path"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5296",
+      "time": "2021-06-07T11:07:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5296",
+      "text": "Updated error_list.tt.html path"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5297",
+      "time": "2021-06-07T11:53:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5297",
+      "text": "Added header and footer comments in template files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5297",
+      "time": "2021-06-07T13:11:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5297",
+      "text": "Added header and footer comments in template files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5299",
+      "time": "2021-06-07T14:26:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5299",
+      "text": "Changed component and site_layout"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5299",
+      "time": "2021-06-08T09:36:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5299",
+      "text": "Changed component and site_layout"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5300",
+      "time": "2021-06-08T10:01:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5300",
+      "text": "Added missing footer in reset_password.tt.html"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5300",
+      "time": "2021-06-08T11:21:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5300",
+      "text": "Added missing footer in reset_password.tt.html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5301",
+      "time": "2021-06-08T13:23:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5301",
+      "text": "Template directory structure"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5301",
+      "time": "2021-06-11T14:50:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5301",
+      "text": "Template directory structure"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5303",
+      "time": "2021-06-09T13:23:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5303",
+      "text": "Update dev-environment-quick-start-guide.md to add producer's platform section"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5303",
+      "time": "2021-06-11T06:57:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5303",
+      "text": "Update dev-environment-quick-start-guide.md to add producer's platform section"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5305",
+      "time": "2021-06-10T16:25:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5305",
+      "text": "Added Developer's Guide"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5305",
+      "time": "2021-06-12T13:31:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5305",
+      "text": "Added Developer's Guide"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5308",
+      "time": "2021-06-11T16:07:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5308",
+      "text": "Added link to the quick-start guide"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5308",
+      "time": "2021-06-11T16:48:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5308",
+      "text": "Added link to the quick-start guide"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5315",
+      "time": "2021-06-14T16:31:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5315",
+      "text": "Templatization of export_products.pl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5315",
+      "time": "2021-06-16T07:37:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5315",
+      "text": "Templatization of export_products.pl"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5316",
+      "time": "2021-06-15T18:37:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5316",
+      "text": "Templatization of import_photo_upload.pl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5316",
+      "time": "2021-06-16T12:23:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5316",
+      "text": "Templatization of import_photo_upload.pl"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5317",
+      "time": "2021-06-15T18:52:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5317",
+      "text": "Added new subheading \"Running minion jobs\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5317",
+      "time": "2021-06-16T12:31:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5317",
+      "text": "Added new subheading \"Running minion jobs\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5318",
+      "time": "2021-06-15T19:57:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5318",
+      "text": "Templatization of import_product_categories_from_public_database.pl "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5318",
+      "time": "2021-06-16T12:23:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5318",
+      "text": "Templatization of import_product_categories_from_public_database.pl "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5321",
+      "time": "2021-06-16T15:06:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5321",
+      "text": "Templatization of import_product_categories_from_public_database"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5321",
+      "time": "2021-06-17T12:04:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5321",
+      "text": "Templatization of import_product_categories_from_public_database"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5323",
+      "time": "2021-06-16T18:20:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5323",
+      "text": "Templatization of import_file_select_format.pl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5323",
+      "time": "2021-06-22T07:41:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5323",
+      "text": "Templatization of import_file_select_format.pl"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5334",
+      "time": "2021-06-21T12:34:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5334",
+      "text": "Templatization of remove_products.pl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5334",
+      "time": "2021-06-23T07:42:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5334",
+      "text": "Templatization of remove_products.pl"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5336",
+      "time": "2021-06-21T18:17:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5336",
+      "text": "Templatization of session.pl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5336",
+      "time": "2021-06-22T07:55:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5336",
+      "text": "Templatization of session.pl"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5340",
+      "time": "2021-06-23T19:06:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5340",
+      "text": "[WIP] product.pl templatization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5340",
+      "time": "2021-07-27T13:52:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5340",
+      "text": "[WIP] product.pl templatization"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5351",
+      "time": "2021-06-29T11:23:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5351",
+      "text": "Added ingredients in ingredients.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5351",
+      "time": "2021-07-05T07:41:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5351",
+      "text": "Added ingredients in ingredients.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5365",
+      "time": "2021-07-12T08:34:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5365",
+      "text": "Product check - WIP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5365",
+      "time": "2021-07-12T09:06:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5365",
+      "text": "Product check - WIP"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5373",
+      "time": "2021-07-15T04:32:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5373",
+      "text": "Fixed a mistake in Developer guide"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5373",
+      "time": "2021-07-16T09:49:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5373",
+      "text": "Fixed a mistake in Developer guide"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5393",
+      "time": "2021-07-19T13:57:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5393",
+      "text": "Created template file for function display_blocks() in Display.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5393",
+      "time": "2021-07-20T14:16:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5393",
+      "text": "Created template file for function display_blocks() in Display.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5397",
+      "time": "2021-07-20T12:57:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5397",
+      "text": "Added template file for function 'display_product_search_or_add' in D…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5397",
+      "time": "2021-08-09T08:03:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5397",
+      "text": "Added template file for function 'display_product_search_or_add' in D…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5408",
+      "time": "2021-07-26T11:34:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5408",
+      "text": "Re-architecturing the Open Food Facts Perl modules and functions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5408",
+      "time": "2021-07-30T09:52:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5408",
+      "text": "Re-architecturing the Open Food Facts Perl modules and functions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5410",
+      "time": "2021-07-26T12:55:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5410",
+      "text": "Template file for display_login_register of Display.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5410",
+      "time": "2021-07-26T14:23:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5410",
+      "text": "Template file for display_login_register of Display.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5413",
+      "time": "2021-07-27T12:21:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5413",
+      "text": "Templatization of function display_my_block() in Display.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5413",
+      "time": "2021-07-27T12:49:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5413",
+      "text": "Templatization of function display_my_block() in Display.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5423",
+      "time": "2021-07-29T12:55:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5423",
+      "text": "Templatization of function display_field() in Display.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5423",
+      "time": "2021-08-11T19:07:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5423",
+      "text": "Templatization of function display_field() in Display.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5424",
+      "time": "2021-07-29T15:42:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5424",
+      "text": "Templatization of display_data_quality_description()"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5424",
+      "time": "2021-08-09T08:20:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5424",
+      "text": "Templatization of display_data_quality_description()"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5429",
+      "time": "2021-08-02T09:58:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5429",
+      "text": "Fixed the UI bug of product page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5429",
+      "time": "2021-08-02T10:16:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5429",
+      "text": "Fixed the UI bug of product page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5434",
+      "time": "2021-08-02T13:35:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5434",
+      "text": "Templatization of display_possible_improvement_description in Display.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5434",
+      "time": "2021-08-10T09:27:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5434",
+      "text": "Templatization of display_possible_improvement_description in Display.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5435",
+      "time": "2021-08-03T11:19:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5435",
+      "text": "Moved the function display_my_block() to Web.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5435",
+      "time": "2021-08-10T09:27:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5435",
+      "text": "Moved the function display_my_block() to Web.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5437",
+      "time": "2021-08-03T14:53:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5437",
+      "text": "Added script for running docker_backend-pro"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5437",
+      "time": "2021-08-04T12:19:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5437",
+      "text": "Added script for running docker_backend-pro"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5438",
+      "time": "2021-08-04T12:00:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5438",
+      "text": "Moved display_login_register() to Web.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5438",
+      "time": "2021-08-09T08:23:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5438",
+      "text": "Moved display_login_register() to Web.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5442",
+      "time": "2021-08-05T11:38:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5442",
+      "text": "Templatization of display_data_quality_issues_and_improvement_opportunities() in Display.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5442",
+      "time": "2021-08-10T09:35:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5442",
+      "text": "Templatization of display_data_quality_issues_and_improvement_opportunities() in Display.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5455",
+      "time": "2021-08-10T13:44:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5455",
+      "text": "Fixing the SEO of product page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5455",
+      "time": "2021-08-16T07:55:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5455",
+      "text": "Fixing the SEO of product page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5456",
+      "time": "2021-08-10T14:58:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5456",
+      "text": "Moved the function display_product_search_or_add() to Web.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5456",
+      "time": "2021-08-11T18:02:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5456",
+      "text": "Moved the function display_product_search_or_add() to Web.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5468",
+      "time": "2021-08-12T14:07:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5468",
+      "text": "Templatization for display_list_of_tags_translate() in Display.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5468",
+      "time": "2021-08-23T09:38:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5468",
+      "text": "Templatization for display_list_of_tags_translate() in Display.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5475",
+      "time": "2021-08-16T08:57:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5475",
+      "text": "Moved display_field() to Web.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5475",
+      "time": "2021-08-17T20:00:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5475",
+      "text": "Moved display_field() to Web.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5483",
+      "time": "2021-08-18T06:45:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5483",
+      "text": "Fixed display_field()"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5484",
+      "time": "2021-08-18T08:36:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5484",
+      "text": "Moved display_data_quality_issues_and_improvement_opportunities() to …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5484",
+      "time": "2021-08-23T11:24:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5484",
+      "text": "Moved display_data_quality_issues_and_improvement_opportunities() to …"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5485",
+      "time": "2021-08-18T08:38:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5485",
+      "text": "Moved display_data_quality_description() to Web.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5485",
+      "time": "2021-08-23T09:30:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5485",
+      "text": "Moved display_data_quality_description() to Web.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5530",
+      "time": "2021-08-23T05:40:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5530",
+      "text": "Templatization of display_recent_changes() in Display.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5530",
+      "time": "2021-08-23T09:29:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5530",
+      "text": "Templatization of display_recent_changes() in Display.pm"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

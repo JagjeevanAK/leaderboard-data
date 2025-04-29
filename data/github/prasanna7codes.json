@@ -1,0 +1,35 @@
+{
+  "last_updated": "2025-01-31T19:06:24Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1518",
+      "time": "2025-01-31T19:06:24Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1518",
+      "text": "fix: making changes in importer.py and annotate.py"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1521",
+      "time": "2025-02-06T19:42:39Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1521",
+      "text": "fix: made changes in update_listener.py and queues.py"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1523",
+      "time": "2025-02-10T16:54:40Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1523",
+      "text": "fix: changes in update_listener.py after review from alex"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#734",
+      "time": "2025-02-25T18:04:53Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/734",
+      "text": "fix: adding the blur_faces function"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

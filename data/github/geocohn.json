@@ -1,0 +1,21 @@
+{
+  "last_updated": "2017-01-10T19:06:30Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#426",
+      "time": "2017-01-10T19:06:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/426",
+      "text": "Fix: Resolve Issue #414 (Share icon is pixelated)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#426",
+      "time": "2017-01-10T20:54:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/426",
+      "text": "Fix: Resolve Issue #414 (Share icon is pixelated)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

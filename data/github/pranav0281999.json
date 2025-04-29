@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-01-25T18:30:14Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3005",
+      "time": "2020-01-25T18:30:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3005",
+      "text": "Fixes #2676: Disable autocomplete in field \"product name\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3005",
+      "time": "2020-03-15T20:46:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3005",
+      "text": "Fixes #2676: Disable autocomplete in field \"product name\""
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

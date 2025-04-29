@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-12-25T17:51:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9599",
+      "time": "2023-12-25T17:51:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9599",
+      "text": "taxonomy: add cherry plum tomatoes to tomato"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9599",
+      "time": "2023-12-25T22:15:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9599",
+      "text": "taxonomy: add cherry plum tomatoes to tomato"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

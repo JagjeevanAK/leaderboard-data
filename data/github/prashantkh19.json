@@ -1,0 +1,189 @@
+{
+  "last_updated": "2018-12-22T12:41:29Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2027",
+      "time": "2018-12-22T12:41:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2027",
+      "text": "Fixes #1813: Made the quickview bottomsheet to display the complete product details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2027",
+      "time": "2019-02-03T17:51:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2027",
+      "text": "Fixes #1813: Made the quickview bottomsheet to display the complete product details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2037",
+      "time": "2018-12-29T09:12:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2037",
+      "text": "Fixes Issue #2030 Added reload functionality as soon as product is ed…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2037",
+      "time": "2019-01-21T12:44:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2037",
+      "text": "Fixes Issue #2030 Added reload functionality as soon as product is ed…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2046",
+      "time": "2018-12-30T19:20:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2046",
+      "text": "Fixes #2042: Add a small \"Take Nutrition Photo\" and \"Take Ingredient photo\" to the first tab when ingredient and/or nutrition photos are missing."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2051",
+      "time": "2018-12-31T14:45:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2051",
+      "text": "Fixes Issue #2050: Added app version number in the Preferences"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2051",
+      "time": "2019-01-01T19:11:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2051",
+      "text": "Fixes Issue #2050: Added app version number in the Preferences"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2063",
+      "time": "2019-01-06T15:11:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2063",
+      "text": "Fixes Issue #634: Send an anonymized hash with each contribution non-logged in device"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2063",
+      "time": "2019-01-21T12:42:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2063",
+      "text": "Fixes Issue #634: Send an anonymized hash with each contribution non-logged in device"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2064",
+      "time": "2019-01-06T20:26:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2064",
+      "text": "Fixes Issue #2062: Added scan fab in the history activity"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2064",
+      "time": "2019-01-07T20:50:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2064",
+      "text": "Fixes Issue #2062: Added scan fab in the history activity"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2068",
+      "time": "2019-01-07T17:03:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2068",
+      "text": "Fixes Issues #2065 #2066 #2067: Added Other Information, Storage Inst…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2068",
+      "time": "2019-02-08T11:31:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2068",
+      "text": "Fixes Issues #2065 #2066 #2067: Added Other Information, Storage Inst…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2102",
+      "time": "2019-01-15T18:36:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2102",
+      "text": "[WIP] Fixes #2069: Allow to scan products offline"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2119",
+      "time": "2019-01-19T15:44:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2119",
+      "text": "Fixes issue #2118: Added a fast addition mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2119",
+      "time": "2019-01-21T12:40:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2119",
+      "text": "Fixes issue #2118: Added a fast addition mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2122",
+      "time": "2019-01-19T22:39:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2122",
+      "text": "fixes issue #2105: loaded taxonomies in the background"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2122",
+      "time": "2019-02-27T13:25:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2122",
+      "text": "fixes issue #2105: loaded taxonomies in the background"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2271",
+      "time": "2019-02-21T09:38:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2271",
+      "text": "Added list name on product summary page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2271",
+      "time": "2019-03-08T13:54:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2271",
+      "text": "Added list name on product summary page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2272",
+      "time": "2019-02-21T10:56:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2272",
+      "text": "Added '+' button in product fragment, allowing addition of product…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2272",
+      "time": "2019-02-23T10:39:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2272",
+      "text": "Added '+' button in product fragment, allowing addition of product…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2275",
+      "time": "2019-02-21T12:20:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2275",
+      "text": "Added a provision to add number of products to lists"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2275",
+      "time": "2019-06-26T12:14:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2275",
+      "text": "Added a provision to add number of products to lists"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2314",
+      "time": "2019-02-26T19:39:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2314",
+      "text": "Added menu in productListsActivity to import csv file containing list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2314",
+      "time": "2019-07-14T21:10:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2314",
+      "text": "Added menu in productListsActivity to import csv file containing list"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

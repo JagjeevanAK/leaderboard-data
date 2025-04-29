@@ -1,0 +1,21 @@
+{
+  "last_updated": "2019-05-14T18:34:55Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1779",
+      "time": "2019-05-14T18:34:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1779",
+      "text": "Update categories.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1779",
+      "time": "2019-05-17T13:06:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1779",
+      "text": "Update categories.txt"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

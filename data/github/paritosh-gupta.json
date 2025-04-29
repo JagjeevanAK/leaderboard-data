@@ -1,0 +1,28 @@
+{
+  "last_updated": "2018-06-14T06:31:24Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1706",
+      "time": "2018-06-14T06:31:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1706",
+      "text": "fix: issue #1701 Null pointer Exception in models/Nutriments.java"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1706",
+      "time": "2018-06-18T19:49:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1706",
+      "text": "fix: issue #1701 Null pointer Exception in models/Nutriments.java"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1710",
+      "time": "2018-06-14T21:16:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1710",
+      "text": "Fixes #1644: added locale parsing"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

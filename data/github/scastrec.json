@@ -1,0 +1,21 @@
+{
+  "last_updated": "2019-04-08T19:24:16Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2534",
+      "time": "2019-04-08T19:24:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2534",
+      "text": " #2512 Multiple lists with same name."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2534",
+      "time": "2019-05-07T06:33:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2534",
+      "text": " #2512 Multiple lists with same name."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

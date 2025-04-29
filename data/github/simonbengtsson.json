@@ -1,0 +1,56 @@
+{
+  "last_updated": "2022-08-15T23:11:39Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2792",
+      "time": "2022-08-15T23:11:39Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2792",
+      "text": "fix: support back swipe on iOS product page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2792",
+      "time": "2022-08-16T18:04:16Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2792",
+      "text": "fix: support back swipe on iOS product page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2797",
+      "time": "2022-08-16T19:19:47Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2797",
+      "text": "feat: use modals for navigating to editing screens"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2797",
+      "time": "2022-08-19T15:42:33Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2797",
+      "text": "feat: use modals for navigating to editing screens"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2809",
+      "time": "2022-08-19T20:13:56Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2809",
+      "text": "Improve iOS launch screen on notch devices"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2810",
+      "time": "2022-08-19T20:18:54Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2810",
+      "text": "fix: improve ios launch screen on notch devices"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2810",
+      "time": "2022-08-28T06:27:59Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2810",
+      "text": "fix: improve ios launch screen on notch devices"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

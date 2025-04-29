@@ -1,0 +1,14 @@
+{
+  "last_updated": "2019-01-20T08:48:46Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#47",
+      "time": "2019-01-20T08:48:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/47",
+      "text": "added ingredients extraction model and fixed hastags"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

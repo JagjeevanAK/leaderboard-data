@@ -1,0 +1,28 @@
+{
+  "last_updated": "2020-07-13T21:03:21Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3842",
+      "time": "2020-07-13T21:03:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3842",
+      "text": "Create fodmap-ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4215",
+      "time": "2020-09-16T17:31:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4215",
+      "text": "add tamarillo and white peach"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4215",
+      "time": "2020-09-17T06:32:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4215",
+      "text": "add tamarillo and white peach"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-02-17T20:56:55Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3021",
+      "time": "2020-02-17T20:56:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3021",
+      "text": "fix #1328 - use android theme instead of app theme"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3021",
+      "time": "2020-03-15T20:47:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3021",
+      "text": "fix #1328 - use android theme instead of app theme"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

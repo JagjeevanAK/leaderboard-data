@@ -1,0 +1,35 @@
+{
+  "last_updated": "2016-06-19T16:35:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#1",
+      "time": "2016-06-19T16:35:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/1",
+      "text": "Upload PHP struct"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#1",
+      "time": "2016-06-20T14:55:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/1",
+      "text": "Upload PHP struct"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#4",
+      "time": "2016-06-20T19:58:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/4",
+      "text": "Refactor example"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#4",
+      "time": "2016-06-21T14:21:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/4",
+      "text": "Refactor example"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,140 @@
+{
+  "last_updated": "2024-08-03T10:07:36Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10630",
+      "time": "2024-08-03T10:07:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10630",
+      "text": "taxonomy: add and fix italian taxonomy terms"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10630",
+      "time": "2024-08-22T13:01:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10630",
+      "text": "taxonomy: add and fix italian taxonomy terms"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10872",
+      "time": "2024-10-08T19:30:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10872",
+      "text": "taxonomy: italian translations and jam/marmalade separation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10872",
+      "time": "2024-10-09T08:32:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10872",
+      "text": "taxonomy: italian translations and jam/marmalade separation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10951",
+      "time": "2024-10-29T23:09:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10951",
+      "text": "taxonomy: synonyms, stop-words, extended json exports"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10951",
+      "time": "2024-10-30T16:10:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10951",
+      "text": "taxonomy: synonyms, stop-words, extended json exports"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10952",
+      "time": "2024-10-30T12:47:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10952",
+      "text": "ci: cache taxonomies in pr workflow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10952",
+      "time": "2024-11-04T14:53:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10952",
+      "text": "ci: cache taxonomies in pr workflow"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10974",
+      "time": "2024-11-04T14:45:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10974",
+      "text": "feat: update Italian packager codes adding script"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10974",
+      "time": "2024-11-06T11:58:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10974",
+      "text": "feat: update Italian packager codes adding script"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11027",
+      "time": "2024-11-18T21:01:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11027",
+      "text": "taxonomy: Italian for bacon"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11027",
+      "time": "2024-11-19T09:55:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11027",
+      "text": "taxonomy: Italian for bacon"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11265",
+      "time": "2025-01-18T19:13:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11265",
+      "text": "taxonomy: translate and add ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11265",
+      "time": "2025-01-20T09:44:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11265",
+      "text": "taxonomy: translate and add ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11408",
+      "time": "2025-02-13T23:22:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11408",
+      "text": "taxonomy: translate fruits, jams and misc"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11432",
+      "time": "2025-02-15T19:17:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11432",
+      "text": "taxonomy: translate fruits, jams and misc"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11432",
+      "time": "2025-02-17T09:05:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11432",
+      "text": "taxonomy: translate fruits, jams and misc"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11501",
+      "time": "2025-02-27T14:39:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11501",
+      "text": "taxonomy: minor italian festive foods fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11501",
+      "time": "2025-03-01T13:42:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11501",
+      "text": "taxonomy: minor italian festive foods fix"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

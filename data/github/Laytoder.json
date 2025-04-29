@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-04-13T19:34:10Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1573",
+      "time": "2022-04-13T19:34:10Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1573",
+      "text": "fix: Fixed Scan cards with different sizes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1573",
+      "time": "2022-04-15T12:04:08Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1573",
+      "text": "fix: Fixed Scan cards with different sizes"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

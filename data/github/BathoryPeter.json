@@ -1,0 +1,147 @@
+{
+  "last_updated": "2024-11-18T09:06:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1467",
+      "time": "2024-11-18T09:06:34Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1467",
+      "text": "fix: Add Hungarian translations for nutrient detection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#1467",
+      "time": "2024-11-18T15:43:19Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1467",
+      "text": "fix: Add Hungarian translations for nutrient detection"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#5896",
+      "time": "2024-11-22T12:18:42Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/5896",
+      "text": "fix: Typo in prices_add_n_prices string"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#5896",
+      "time": "2024-11-23T11:45:31Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/5896",
+      "text": "fix: Typo in prices_add_n_prices string"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2626",
+      "time": "2019-11-20T10:09:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2626",
+      "text": "E650 had an ambiguous alias (ecetsav) in Hungarian"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2626",
+      "time": "2019-11-20T15:36:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2626",
+      "text": "E650 had an ambiguous alias (ecetsav) in Hungarian"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2723",
+      "time": "2019-12-04T22:37:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2723",
+      "text": "Add/update taxonomy translation (hu)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2723",
+      "time": "2019-12-05T09:29:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2723",
+      "text": "Add/update taxonomy translation (hu)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2732",
+      "time": "2019-12-05T23:35:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2732",
+      "text": "Hungarian translation of ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2732",
+      "time": "2019-12-07T12:30:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2732",
+      "text": "Hungarian translation of ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2766",
+      "time": "2019-12-10T21:42:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2766",
+      "text": "Hungarian translation of ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2766",
+      "time": "2019-12-11T11:17:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2766",
+      "text": "Hungarian translation of ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2806",
+      "time": "2019-12-20T22:10:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2806",
+      "text": "Hungarian taxonomy translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2806",
+      "time": "2020-01-17T16:27:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2806",
+      "text": "Hungarian taxonomy translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5105",
+      "time": "2021-04-06T10:07:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5105",
+      "text": "Update Hungarian tag translation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5105",
+      "time": "2021-04-23T15:05:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5105",
+      "text": "Update Hungarian tag translation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5134",
+      "time": "2021-04-11T21:41:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5134",
+      "text": "Hungarian taxonomy translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5134",
+      "time": "2021-04-18T14:49:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5134",
+      "text": "Hungarian taxonomy translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11031",
+      "time": "2024-11-21T14:46:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11031",
+      "text": "l10n: Improve Hungarian translation of nutrient levels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11031",
+      "time": "2024-11-22T15:43:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11031",
+      "text": "l10n: Improve Hungarian translation of nutrient levels"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

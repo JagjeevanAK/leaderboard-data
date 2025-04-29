@@ -1,0 +1,63 @@
+{
+  "last_updated": "2019-02-13T07:56:53Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#158",
+      "time": "2019-02-13T07:56:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/158",
+      "text": "Settings reorganization - fixes #139"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#158",
+      "time": "2019-02-23T18:40:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/158",
+      "text": "Settings reorganization - fixes #139"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#162",
+      "time": "2019-02-18T16:06:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/162",
+      "text": "Show scan on startup button - fixes#147"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#162",
+      "time": "2019-03-01T09:43:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/162",
+      "text": "Show scan on startup button - fixes#147"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#163",
+      "time": "2019-02-21T04:08:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/163",
+      "text": "logout confirmation fix issue#148"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#164",
+      "time": "2019-02-21T11:10:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/164",
+      "text": "Logout confirmation alert fix issue#148"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#166",
+      "time": "2019-02-22T18:11:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/166",
+      "text": "Logout alert vc and added new keys in localizable file fixes issue 148"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#166",
+      "time": "2019-03-01T09:13:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/166",
+      "text": "Logout alert vc and added new keys in localizable file fixes issue 148"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

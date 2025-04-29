@@ -1,0 +1,35 @@
+{
+  "last_updated": "2018-05-03T22:49:45Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1550",
+      "time": "2018-05-03T22:49:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1550",
+      "text": "Fix problem that ui is not visible on android editor"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1550",
+      "time": "2018-05-04T10:10:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1550",
+      "text": "Fix problem that ui is not visible on android editor"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1556",
+      "time": "2018-05-04T22:47:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1556",
+      "text": "Xml recyclerView improves"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1556",
+      "time": "2018-05-05T13:17:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1556",
+      "text": "Xml recyclerView improves"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

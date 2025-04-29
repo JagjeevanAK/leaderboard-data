@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-03-01T04:00:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/folksonomy_api#233",
+      "time": "2025-03-01T04:00:25Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/233",
+      "text": " fix: updated the folksonomy install-md file"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,35 @@
+{
+  "last_updated": "2023-06-16T05:30:23Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4181",
+      "time": "2023-06-16T05:30:23Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4181",
+      "text": "refactor: reorder menuitems on history page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4181",
+      "time": "2023-06-16T14:16:33Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4181",
+      "text": "refactor: reorder menuitems on history page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4201",
+      "time": "2023-06-18T07:34:37Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4201",
+      "text": "feat: make delete product feature more accessible"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4201",
+      "time": "2023-06-20T07:47:45Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4201",
+      "text": "feat: make delete product feature more accessible"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

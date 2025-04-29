@@ -1,0 +1,35 @@
+{
+  "last_updated": "2015-06-27T05:46:50Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#22",
+      "time": "2015-06-27T05:46:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/22",
+      "text": "label fix + minor spelling fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#22",
+      "time": "2015-06-27T14:38:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/22",
+      "text": "label fix + minor spelling fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#23",
+      "time": "2015-06-29T03:23:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/23",
+      "text": "Moving palm oil information under ingredients instead of a menu item"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#23",
+      "time": "2015-06-29T08:34:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/23",
+      "text": "Moving palm oil information under ingredients instead of a menu item"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

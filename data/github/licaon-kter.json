@@ -1,0 +1,21 @@
+{
+  "last_updated": "2018-08-20T00:01:42Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1851",
+      "time": "2018-08-20T00:01:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1851",
+      "text": "Update version to match Tag"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1851",
+      "time": "2018-08-20T14:59:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1851",
+      "text": "Update version to match Tag"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

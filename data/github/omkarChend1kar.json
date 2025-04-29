@@ -1,0 +1,84 @@
+{
+  "last_updated": "2022-11-11T17:24:20Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3314",
+      "time": "2022-11-11T17:24:20Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3314",
+      "text": "fix: 3291 Question \"Continue\" button doesn't work"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3314",
+      "time": "2022-11-12T12:37:42Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3314",
+      "text": "fix: 3291 Question \"Continue\" button doesn't work"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3325",
+      "time": "2022-11-15T17:59:05Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3325",
+      "text": "feat: 3129 Allow to swipe between product images on the full screen image view"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3363",
+      "time": "2022-11-27T07:46:55Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3363",
+      "text": "feat: 3129 (New PR) Allow to swipe between product images on the full screen image"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3363",
+      "time": "2022-11-27T09:10:22Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3363",
+      "text": "feat: 3129 (New PR) Allow to swipe between product images on the full screen image"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3405",
+      "time": "2022-12-03T06:03:12Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3405",
+      "text": "fix: 3393 [Image cropper] The AppBar title is weirdly centered"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3405",
+      "time": "2022-12-03T23:06:14Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3405",
+      "text": "fix: 3393 [Image cropper] The AppBar title is weirdly centered"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3409",
+      "time": "2022-12-05T15:54:47Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3409",
+      "text": "fix: 3394 The cross to close product wrong alignment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3409",
+      "time": "2022-12-06T11:04:20Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3409",
+      "text": "fix: 3394 The cross to close product wrong alignment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3426",
+      "time": "2022-12-09T16:23:45Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3426",
+      "text": "fix: 3417 The tagline blinks in the app language, then goes back to English"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3426",
+      "time": "2022-12-12T07:41:23Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3426",
+      "text": "fix: 3417 The tagline blinks in the app language, then goes back to English"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

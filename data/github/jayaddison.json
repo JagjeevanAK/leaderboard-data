@@ -1,0 +1,217 @@
+{
+  "last_updated": "2022-09-06T17:15:54Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7311",
+      "time": "2022-09-06T17:15:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7311",
+      "text": "taxonomy: wikidata housekeeping"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7311",
+      "time": "2022-10-10T16:51:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7311",
+      "text": "taxonomy: wikidata housekeeping"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7973",
+      "time": "2023-01-11T15:55:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7973",
+      "text": "chore(cleanup): remove tempfile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7973",
+      "time": "2023-01-13T12:18:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7973",
+      "text": "chore(cleanup): remove tempfile"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7974",
+      "time": "2023-01-11T15:56:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7974",
+      "text": "docs: update copyright notice (year 2023)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7974",
+      "time": "2023-01-13T12:45:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7974",
+      "text": "docs: update copyright notice (year 2023)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7975",
+      "time": "2023-01-11T16:05:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7975",
+      "text": "taxonomy: add 'collard greens' as both an ingredient and a category"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7975",
+      "time": "2023-01-13T12:38:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7975",
+      "text": "taxonomy: add 'collard greens' as both an ingredient and a category"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10924",
+      "time": "2024-10-22T15:54:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10924",
+      "text": "fix: Revert \"fix: remove unused jquery-ui safe-active-element module (#10708)\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10924",
+      "time": "2024-10-23T09:02:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10924",
+      "text": "fix: Revert \"fix: remove unused jquery-ui safe-active-element module (#10708)\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11109",
+      "time": "2024-12-10T17:22:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11109",
+      "text": "build(deps): use jquery v2.2.4 to unblock jquery-ui v1.14.1 upgrade"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11109",
+      "time": "2025-04-25T08:09:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11109",
+      "text": "build(deps): use jquery v2.2.4 to unblock jquery-ui v1.14.1 upgrade"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11641",
+      "time": "2025-03-20T19:29:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11641",
+      "text": "feat: add galactose as a user-editable nutriment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11641",
+      "time": "2025-04-07T09:02:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11641",
+      "text": "feat: add galactose as a user-editable nutriment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11722",
+      "time": "2025-04-01T14:29:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11722",
+      "text": "fix: include user_form.tt.js only in display mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11722",
+      "time": "2025-04-03T08:14:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11722",
+      "text": "fix: include user_form.tt.js only in display mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11724",
+      "time": "2025-04-01T16:05:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11724",
+      "text": "ci: configure additional DNS hosts for Docker development environment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11724",
+      "time": "2025-04-03T08:21:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11724",
+      "text": "ci: configure additional DNS hosts for Docker development environment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11738",
+      "time": "2025-04-03T16:38:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11738",
+      "text": "fix: templates: string-quoting audit / fixups"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11738",
+      "time": "2025-04-07T08:58:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11738",
+      "text": "fix: templates: string-quoting audit / fixups"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11771",
+      "time": "2025-04-10T12:11:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11771",
+      "text": "fix: remove noisy taxonomy-retrieval message output"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11771",
+      "time": "2025-04-11T10:01:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11771",
+      "text": "fix: remove noisy taxonomy-retrieval message output"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11801",
+      "time": "2025-04-18T11:26:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11801",
+      "text": "chore: remove unused CSS localization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11801",
+      "time": "2025-04-18T12:38:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11801",
+      "text": "chore: remove unused CSS localization"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11803",
+      "time": "2025-04-18T13:29:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11803",
+      "text": "ci: GitHub Actions: prefer tags/commit IDs instead of branch names"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11803",
+      "time": "2025-04-24T08:13:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11803",
+      "text": "ci: GitHub Actions: prefer tags/commit IDs instead of branch names"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11804",
+      "time": "2025-04-18T17:21:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11804",
+      "text": "taxonomy: add UK recycle-at-supermarket packaging recycling option for soft plastics"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11804",
+      "time": "2025-04-22T09:18:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11804",
+      "text": "taxonomy: add UK recycle-at-supermarket packaging recycling option for soft plastics"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11821",
+      "time": "2025-04-25T10:54:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11821",
+      "text": "ci: dependabot: ignore 'jquery' updates to v3.0.0+"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11833",
+      "time": "2025-04-28T16:46:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11833",
+      "text": "fix: product search: de-duplicate ingredient filtering controls"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

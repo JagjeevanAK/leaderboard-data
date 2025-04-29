@@ -1,0 +1,21 @@
+{
+  "last_updated": "2019-08-25T11:18:22Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2869",
+      "time": "2019-08-25T11:18:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2869",
+      "text": "Use open_other_flavor_drawer instead of open_food_drawer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2869",
+      "time": "2019-08-25T17:24:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2869",
+      "text": "Use open_other_flavor_drawer instead of open_food_drawer"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

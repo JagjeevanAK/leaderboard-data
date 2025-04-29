@@ -1,0 +1,14 @@
+{
+  "last_updated": "2022-10-01T14:15:37Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-swift#2",
+      "time": "2022-10-01T14:15:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-swift/pull/2",
+      "text": "Create - Base project setup in swiftui."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

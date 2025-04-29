@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-05T02:54:00Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6518",
+      "time": "2025-04-05T02:54:00Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6518",
+      "text": "feat: Added a contribution widget that tracks the number of contributions"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

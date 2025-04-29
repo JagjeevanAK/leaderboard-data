@@ -1,0 +1,21 @@
+{
+  "last_updated": "2014-03-17T02:28:39Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-cordova-app-old-with-blob#19",
+      "time": "2014-03-17T02:28:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app-old-with-blob/pull/19",
+      "text": "Add i18n zh-hant version to the App"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-cordova-app-old-with-blob#19",
+      "time": "2014-03-18T14:25:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app-old-with-blob/pull/19",
+      "text": "Add i18n zh-hant version to the App"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

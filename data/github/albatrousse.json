@@ -1,0 +1,189 @@
+{
+  "last_updated": "2023-07-03T13:26:31Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8647",
+      "time": "2023-07-03T13:26:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8647",
+      "text": "docs: mkdocs.yml support tables"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8647",
+      "time": "2023-07-03T13:50:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8647",
+      "text": "docs: mkdocs.yml support tables"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8660",
+      "time": "2023-07-05T11:18:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8660",
+      "text": "docs: explanation on how to download wget on Windows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8660",
+      "time": "2023-07-05T13:54:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8660",
+      "text": "docs: explanation on how to download wget on Windows"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8666",
+      "time": "2023-07-06T10:35:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8666",
+      "text": "docs: instructions to activate the dev mode for Windows user"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8666",
+      "time": "2023-07-07T08:04:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8666",
+      "text": "docs: instructions to activate the dev mode for Windows user"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8669",
+      "time": "2023-07-07T09:14:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8669",
+      "text": "docs: update of Makefile target"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8669",
+      "time": "2023-07-07T12:47:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8669",
+      "text": "docs: update of Makefile target"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8671",
+      "time": "2023-07-07T10:27:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8671",
+      "text": "test: adding a synonym test for the suggestion feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8674",
+      "time": "2023-07-10T09:29:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8674",
+      "text": "test: adding a synonym test for the suggestion feature"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8674",
+      "time": "2023-07-10T14:03:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8674",
+      "text": "test: adding a synonym test for the suggestion feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8680",
+      "time": "2023-07-11T07:27:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8680",
+      "text": "docs: remove off:off references in the API documentation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8680",
+      "time": "2023-07-12T08:55:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8680",
+      "text": "docs: remove off:off references in the API documentation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8712",
+      "time": "2023-07-20T12:58:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8712",
+      "text": "test: [WIP] testing the user deletion feature and completing create_user.t …"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8722",
+      "time": "2023-07-24T09:27:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8722",
+      "text": "test: completing the create_user.t"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8722",
+      "time": "2023-07-25T14:19:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8722",
+      "text": "test: completing the create_user.t"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8723",
+      "time": "2023-07-24T09:34:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8723",
+      "text": "test: adding an integration test for the account deletion feature"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8723",
+      "time": "2023-08-31T14:49:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8723",
+      "text": "test: adding an integration test for the account deletion feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8766",
+      "time": "2023-07-31T12:23:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8766",
+      "text": "test: adding a test that check if preferences edits made by an user are saved"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8766",
+      "time": "2023-08-08T09:30:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8766",
+      "text": "test: adding a test that check if preferences edits made by an user are saved"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8817",
+      "time": "2023-08-08T14:09:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8817",
+      "text": "docs: update how-to-use-repl.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8817",
+      "time": "2023-08-11T08:31:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8817",
+      "text": "docs: update how-to-use-repl.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8826",
+      "time": "2023-08-09T13:05:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8826",
+      "text": "feat: enable user to edit their preferred language and the country they live in "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8826",
+      "time": "2023-10-26T15:46:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8826",
+      "text": "feat: enable user to edit their preferred language and the country they live in "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8883",
+      "time": "2023-08-18T12:59:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8883",
+      "text": "docs: update the doc of makefile target with lint_perltidy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8883",
+      "time": "2023-08-30T12:23:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8883",
+      "text": "docs: update the doc of makefile target with lint_perltidy"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

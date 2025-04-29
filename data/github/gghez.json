@@ -1,0 +1,21 @@
+{
+  "last_updated": "2019-07-22T21:20:08Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-go#18",
+      "time": "2019-07-22T21:20:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/18",
+      "text": "fix ingredients_n struct field type."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-go#18",
+      "time": "2019-12-15T22:04:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/18",
+      "text": "fix ingredients_n struct field type."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

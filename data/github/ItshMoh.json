@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-05-21T20:20:48Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8441",
+      "time": "2023-05-21T20:20:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8441",
+      "text": "taxonomy: Update improvements.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8441",
+      "time": "2023-10-19T13:16:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8441",
+      "text": "taxonomy: Update improvements.txt"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

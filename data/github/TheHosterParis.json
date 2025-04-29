@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-09-22T20:01:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#542",
+      "time": "2024-09-22T20:01:25Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/542",
+      "text": "fix: isolike date time in branch_name field (#531)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

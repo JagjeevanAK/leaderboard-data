@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-12-11T18:48:03Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#365",
+      "time": "2023-12-11T18:48:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/365",
+      "text": "refactor: nodejs sdk design - dependencies - declaration to be more ts alike and up to date"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

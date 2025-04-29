@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-10-28T03:15:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/facets-knowledge-panels#58",
+      "time": "2022-10-28T03:15:34Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/58",
+      "text": "chore: Update knowledge-panel.po"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/facets-knowledge-panels#58",
+      "time": "2022-10-28T11:54:30Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/58",
+      "text": "chore: Update knowledge-panel.po"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

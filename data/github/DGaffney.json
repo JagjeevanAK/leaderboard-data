@@ -1,0 +1,14 @@
+{
+  "last_updated": "2022-08-08T23:01:26Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/off-nutrition-table-extractor#86",
+      "time": "2022-08-08T23:01:26Z",
+      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/86",
+      "text": "update to conform to python3.9"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

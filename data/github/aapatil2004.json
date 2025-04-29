@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-12-14T04:33:07Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#555",
+      "time": "2024-12-14T04:33:07Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/555",
+      "text": "feat: add warning on reload and tab exit (#474)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

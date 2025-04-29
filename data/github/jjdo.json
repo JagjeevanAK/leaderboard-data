@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-03-27T19:06:02Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-rust#15",
+      "time": "2022-03-27T19:06:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-rust/pull/15",
+      "text": "feat: Refactoring with support for V0 and V2 API versions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-rust#15",
+      "time": "2022-07-20T18:32:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-rust/pull/15",
+      "text": "feat: Refactoring with support for V0 and V2 API versions"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

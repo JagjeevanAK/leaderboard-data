@@ -1,0 +1,21 @@
+{
+  "last_updated": "2018-03-01T23:20:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#27",
+      "time": "2018-03-01T23:20:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/27",
+      "text": "Fix typo"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#27",
+      "time": "2018-03-02T10:01:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/27",
+      "text": "Fix typo"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

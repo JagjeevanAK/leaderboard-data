@@ -1,0 +1,35 @@
+{
+  "last_updated": "2024-09-10T02:41:10Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#432",
+      "time": "2024-09-10T02:41:10Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/432",
+      "text": "docs(Django): Updated project setup instruction"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices#432",
+      "time": "2024-09-11T20:50:05Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/432",
+      "text": "docs(Django): Updated project setup instruction"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#433",
+      "time": "2024-09-10T03:24:48Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/433",
+      "text": "refactor: Allow to load dotenv and exclude it from git track"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#455",
+      "time": "2024-09-16T15:07:35Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/455",
+      "text": "refactor: rename dotenv"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

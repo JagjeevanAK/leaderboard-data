@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-03-04T14:12:07Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#240",
+      "time": "2024-03-04T14:12:07Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/240",
+      "text": "fix: use LocationFull for fixtures"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices#240",
+      "time": "2024-03-04T20:33:32Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/240",
+      "text": "fix: use LocationFull for fixtures"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

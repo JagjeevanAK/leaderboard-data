@@ -1,0 +1,42 @@
+{
+  "last_updated": "2023-07-29T12:52:07Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#5052",
+      "time": "2023-07-29T12:52:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/5052",
+      "text": "chore: setup Compose for the project"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#5052",
+      "time": "2023-08-02T15:51:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/5052",
+      "text": "chore: setup Compose for the project"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#5056",
+      "time": "2023-08-03T02:25:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/5056",
+      "text": "spotless plugin for code formatting"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#5057",
+      "time": "2023-08-03T08:50:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/5057",
+      "text": "chore: small fixes in code"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#5057",
+      "time": "2023-08-04T15:17:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/5057",
+      "text": "chore: small fixes in code"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

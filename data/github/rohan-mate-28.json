@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-03-31T07:12:07Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11700",
+      "time": "2025-03-31T07:12:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11700",
+      "text": "feat: Add WhatsApp channel link to social media links"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

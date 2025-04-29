@@ -1,0 +1,42 @@
+{
+  "last_updated": "2025-02-28T20:00:03Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/folksonomy_api#231",
+      "time": "2025-02-28T20:00:03Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/231",
+      "text": "feat: Add response models"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/folksonomy_api#238",
+      "time": "2025-03-04T23:21:41Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/238",
+      "text": "feat: Add response models (PUT/POST/DELETE endpoints untouched)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/folksonomy_api#238",
+      "time": "2025-03-12T10:51:12Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/238",
+      "text": "feat: Add response models (PUT/POST/DELETE endpoints untouched)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/folksonomy_api#239",
+      "time": "2025-03-04T23:31:51Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/239",
+      "text": "fix: Add status response model for POST/PUT/DELETE endpoints"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/folksonomy_api#261",
+      "time": "2025-03-17T05:40:30Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/261",
+      "text": "docs: Add docstrings to all model classes"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

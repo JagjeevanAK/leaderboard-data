@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-05-30T23:40:00Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-rust#38",
+      "time": "2024-05-30T23:40:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-rust/pull/38",
+      "text": "fix: syntax highlighting for README.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-rust#38",
+      "time": "2024-05-31T05:48:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-rust/pull/38",
+      "text": "fix: syntax highlighting for README.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

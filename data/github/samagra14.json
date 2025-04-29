@@ -1,0 +1,182 @@
+{
+  "last_updated": "2018-02-13T13:39:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#722",
+      "time": "2018-02-13T13:39:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/722",
+      "text": "Resolves #568 Refactoring MainActivity"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#722",
+      "time": "2018-02-14T13:25:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/722",
+      "text": "Resolves #568 Refactoring MainActivity"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#723",
+      "time": "2018-02-13T13:57:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/723",
+      "text": "Resolves #570 Adds SerialVersionUID to Product.java"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#723",
+      "time": "2018-02-13T21:19:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/723",
+      "text": "Resolves #570 Adds SerialVersionUID to Product.java"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#727",
+      "time": "2018-02-13T18:09:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/727",
+      "text": "Resolves #566 Removes deprecated methods"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#727",
+      "time": "2018-02-13T21:14:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/727",
+      "text": "Resolves #566 Removes deprecated methods"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#738",
+      "time": "2018-02-14T04:29:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/738",
+      "text": "Resolves #711 Upgrades PhotoView library"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#738",
+      "time": "2018-02-14T13:46:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/738",
+      "text": "Resolves #711 Upgrades PhotoView library"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#757",
+      "time": "2018-02-15T06:03:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/757",
+      "text": "Fixes #565 Analyse lint errors "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#757",
+      "time": "2018-02-23T17:38:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/757",
+      "text": "Fixes #565 Analyse lint errors "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#977",
+      "time": "2018-02-27T19:35:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/977",
+      "text": "Correcting runtime permissions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#977",
+      "time": "2018-02-28T00:07:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/977",
+      "text": "Correcting runtime permissions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#991",
+      "time": "2018-02-28T15:28:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/991",
+      "text": "Fixes bug #965"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#991",
+      "time": "2018-02-28T16:32:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/991",
+      "text": "Fixes bug #965"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#995",
+      "time": "2018-02-28T17:01:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/995",
+      "text": "Adds connectivity check on categories"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#995",
+      "time": "2018-03-01T11:35:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/995",
+      "text": "Adds connectivity check on categories"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1054",
+      "time": "2018-03-03T05:49:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1054",
+      "text": "Closes #1053: Corrects alerts for no connectivity"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1054",
+      "time": "2018-03-22T08:05:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1054",
+      "text": "Closes #1053: Corrects alerts for no connectivity"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1055",
+      "time": "2018-03-03T06:07:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1055",
+      "text": "minor_grammatical_corrections"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1055",
+      "time": "2018-03-03T08:37:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1055",
+      "text": "minor_grammatical_corrections"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1154",
+      "time": "2018-03-07T15:38:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1154",
+      "text": "Removes deprecated API usages and cleans up code"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1154",
+      "time": "2018-03-27T21:16:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1154",
+      "text": "Removes deprecated API usages and cleans up code"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1314",
+      "time": "2018-03-22T05:16:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1314",
+      "text": "Resolved dependency conflicts and updated dependencies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1314",
+      "time": "2018-03-22T08:14:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1314",
+      "text": "Resolved dependency conflicts and updated dependencies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1317",
+      "time": "2018-03-22T09:23:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1317",
+      "text": "Adds tests for home fragment"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,77 @@
+{
+  "last_updated": "2022-08-28T17:19:32Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7264",
+      "time": "2022-08-28T17:19:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7264",
+      "text": "taxonomy: Adding Dutch translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7264",
+      "time": "2022-08-29T13:03:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7264",
+      "text": "taxonomy: Adding Dutch translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7268",
+      "time": "2022-08-29T09:28:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7268",
+      "text": "taxonomy: Adding Dutch translations for taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7268",
+      "time": "2022-09-06T07:45:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7268",
+      "text": "taxonomy: Adding Dutch translations for taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7278",
+      "time": "2022-08-30T18:03:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7278",
+      "text": "taxonomy: Dutch taxonomies added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7278",
+      "time": "2022-10-14T16:31:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7278",
+      "text": "taxonomy: Dutch taxonomies added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7281",
+      "time": "2022-08-31T13:44:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7281",
+      "text": "taxonomy: Added some Dutch synonyms and translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7281",
+      "time": "2022-10-06T08:57:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7281",
+      "text": "taxonomy: Added some Dutch synonyms and translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10439",
+      "time": "2024-06-13T11:31:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10439",
+      "text": "taxonomy: Added correct translations for Dutch in categories.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10439",
+      "time": "2024-07-05T10:04:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10439",
+      "text": "taxonomy: Added correct translations for Dutch in categories.txt"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

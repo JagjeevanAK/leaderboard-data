@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-02-07T16:06:28Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3817",
+      "time": "2021-02-07T16:06:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3817",
+      "text": "Pull request by TapsG"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3818",
+      "time": "2021-02-07T16:35:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3818",
+      "text": "Adds an empty tab called \"Changes history\""
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

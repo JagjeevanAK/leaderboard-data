@@ -1,0 +1,35 @@
+{
+  "last_updated": "2022-12-15T18:54:19Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7853",
+      "time": "2022-12-15T18:54:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7853",
+      "text": "Solve issue #7786: Barcode is not visible in the edit mode."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7855",
+      "time": "2022-12-16T14:55:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7855",
+      "text": "fix: Barcode is not visible in the edit mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7855",
+      "time": "2022-12-19T15:18:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7855",
+      "text": "fix: Barcode is not visible in the edit mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#574",
+      "time": "2023-03-18T19:06:15Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/574",
+      "text": "fix: Possible typo in guided tour"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

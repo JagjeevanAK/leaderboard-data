@@ -1,0 +1,189 @@
+{
+  "last_updated": "2022-07-15T14:24:26Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#54",
+      "time": "2022-07-15T14:24:26Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/54",
+      "text": "Shmigoll design issues"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#60",
+      "time": "2022-07-18T13:02:14Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/60",
+      "text": "Solved shortcut issue and small design changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#66",
+      "time": "2022-07-21T14:37:19Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/66",
+      "text": "Shortcut issue solving"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#67",
+      "time": "2022-07-21T14:42:31Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/67",
+      "text": "Short cut issue solving"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#78",
+      "time": "2022-07-27T13:03:29Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/78",
+      "text": "Fixed shortCut issue and added small UI improvements"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#78",
+      "time": "2022-07-30T09:01:37Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/78",
+      "text": "Fixed shortCut issue and added small UI improvements"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#114",
+      "time": "2022-08-01T10:03:08Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/114",
+      "text": "feat: Nutrition Game #70"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#149",
+      "time": "2022-08-15T08:21:09Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/149",
+      "text": "feat: Nutrition Game - Step 1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#151",
+      "time": "2022-08-15T12:19:06Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/151",
+      "text": "Nutrition game product card display"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#151",
+      "time": "2022-08-16T11:27:43Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/151",
+      "text": "Nutrition game product card display"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#154",
+      "time": "2022-08-16T12:32:49Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/154",
+      "text": "feat: Nutrition game - table, tableRow and select Unit components"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#154",
+      "time": "2022-08-21T13:22:21Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/154",
+      "text": "feat: Nutrition game - table, tableRow and select Unit components"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#1097",
+      "time": "2024-12-10T12:40:04Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/1097",
+      "text": "set width to 150 for big screens"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#1097",
+      "time": "2024-12-11T22:20:50Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/1097",
+      "text": "set width to 150 for big screens"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#1103",
+      "time": "2024-12-13T08:57:46Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/1103",
+      "text": "Bugfix/increase the resolution of the icon of hunger games"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#1103",
+      "time": "2024-12-13T12:26:21Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/1103",
+      "text": "Bugfix/increase the resolution of the icon of hunger games"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/rate-my-recipe#37",
+      "time": "2023-06-30T16:09:12Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/37",
+      "text": "feature: split component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/rate-my-recipe#37",
+      "time": "2023-07-05T11:22:40Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/37",
+      "text": "feature: split component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/rate-my-recipe#38",
+      "time": "2023-07-06T09:27:26Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/38",
+      "text": "Feature/ingredients card restyling and code restructuring"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/rate-my-recipe#38",
+      "time": "2023-07-08T08:21:54Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/38",
+      "text": "Feature/ingredients card restyling and code restructuring"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/rate-my-recipe#42",
+      "time": "2023-07-10T17:13:00Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/42",
+      "text": "Feature/change default theme"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/rate-my-recipe#42",
+      "time": "2023-07-18T07:14:26Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/42",
+      "text": "Feature/change default theme"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/rate-my-recipe#43",
+      "time": "2023-07-11T15:09:58Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/43",
+      "text": "Feature/create iconss for categories cards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/rate-my-recipe#43",
+      "time": "2023-07-25T09:31:29Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/43",
+      "text": "Feature/create iconss for categories cards"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/rate-my-recipe#44",
+      "time": "2023-07-31T13:36:09Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/44",
+      "text": "Code refactoring "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/rate-my-recipe#44",
+      "time": "2023-07-31T15:12:42Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/44",
+      "text": "Code refactoring "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

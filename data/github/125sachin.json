@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-07-26T13:49:00Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4379",
+      "time": "2023-07-26T13:49:00Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4379",
+      "text": "fix: fixed safearea issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4379",
+      "time": "2023-07-26T15:24:43Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4379",
+      "text": "fix: fixed safearea issue"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

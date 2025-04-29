@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-05-22T13:32:38Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-rust#27",
+      "time": "2023-05-22T13:32:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-rust/pull/27",
+      "text": "ci: Added CI For Rust Doc "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-09-30T19:00:48Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4677",
+      "time": "2023-09-30T19:00:48Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4677",
+      "text": "fix: Truncated button text #4240"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4677",
+      "time": "2023-10-02T11:42:44Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4677",
+      "text": "fix: Truncated button text #4240"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

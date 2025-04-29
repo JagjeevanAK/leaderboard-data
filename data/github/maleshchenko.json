@@ -1,0 +1,63 @@
+{
+  "last_updated": "2019-11-09T01:35:27Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#455",
+      "time": "2019-11-09T01:35:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/455",
+      "text": "#146 Add 'Scan your first product' button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#455",
+      "time": "2019-11-11T09:30:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/455",
+      "text": "#146 Add 'Scan your first product' button"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#489",
+      "time": "2019-11-25T22:54:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/489",
+      "text": "#136 Add the ability to remove history items"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#489",
+      "time": "2019-11-30T16:01:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/489",
+      "text": "#136 Add the ability to remove history items"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#643",
+      "time": "2020-04-20T19:24:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/643",
+      "text": "#53 Allow to export the product history to CSV"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#643",
+      "time": "2020-05-16T15:05:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/643",
+      "text": "#53 Allow to export the product history to CSV"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#649",
+      "time": "2020-05-11T14:55:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/649",
+      "text": "#55 Allow to switch language from the settings"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#649",
+      "time": "2020-05-16T15:07:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/649",
+      "text": "#55 Allow to switch language from the settings"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,1806 @@
+{
+  "last_updated": "2021-08-05T12:37:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#352",
+      "time": "2021-08-05T12:37:34Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/352",
+      "text": "Deploy image to pre-prod Proxmox VM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#353",
+      "time": "2021-08-09T08:36:59Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/353",
+      "text": "ci: Add release workflows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#353",
+      "time": "2021-09-22T11:09:27Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/353",
+      "text": "ci: Add release workflows"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#429",
+      "time": "2021-09-10T15:24:01Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/429",
+      "text": "ci: deploy to Proxmox VM (.net)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#429",
+      "time": "2021-09-27T08:17:16Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/429",
+      "text": "ci: deploy to Proxmox VM (.net)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#432",
+      "time": "2021-09-14T15:16:53Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/432",
+      "text": "Split ANN to separate repo"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#432",
+      "time": "2021-09-15T07:08:01Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/432",
+      "text": "Split ANN to separate repo"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#433",
+      "time": "2021-09-15T07:12:13Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/433",
+      "text": "docs: Remove old ANN references"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#433",
+      "time": "2021-09-22T11:49:04Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/433",
+      "text": "docs: Remove old ANN references"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#446",
+      "time": "2021-09-27T08:23:16Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/446",
+      "text": "ci: use default branch name instead of hardcoded names"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#446",
+      "time": "2021-09-27T08:46:48Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/446",
+      "text": "ci: use default branch name instead of hardcoded names"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#449",
+      "time": "2021-09-27T08:51:51Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/449",
+      "text": "ci: use default branch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#449",
+      "time": "2021-09-27T08:52:43Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/449",
+      "text": "ci: use default branch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#452",
+      "time": "2021-09-28T13:49:12Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/452",
+      "text": "ci: various fixes and improvements"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#452",
+      "time": "2021-09-28T14:01:23Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/452",
+      "text": "ci: various fixes and improvements"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#454",
+      "time": "2021-09-29T07:49:45Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/454",
+      "text": "fix: remove unicorn worker"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#454",
+      "time": "2021-09-29T08:40:56Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/454",
+      "text": "fix: remove unicorn worker"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#456",
+      "time": "2021-09-29T08:43:52Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/456",
+      "text": "fix: IPC communication between API and Workers"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#456",
+      "time": "2021-09-29T08:59:13Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/456",
+      "text": "fix: IPC communication between API and Workers"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#457",
+      "time": "2021-09-29T13:31:54Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/457",
+      "text": "feat: add monitoring config w/ gunicorn statsd"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#457",
+      "time": "2021-09-29T14:31:35Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/457",
+      "text": "feat: add monitoring config w/ gunicorn statsd"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#459",
+      "time": "2021-09-30T10:13:10Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/459",
+      "text": "ci: rename workflows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#459",
+      "time": "2021-09-30T14:53:49Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/459",
+      "text": "ci: rename workflows"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#462",
+      "time": "2021-10-07T09:37:42Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/462",
+      "text": "feat: set number of threads based on CPU count"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#462",
+      "time": "2021-10-08T10:18:56Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/462",
+      "text": "feat: set number of threads based on CPU count"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#463",
+      "time": "2021-10-07T13:45:02Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/463",
+      "text": "ci: update Qemu deployment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#463",
+      "time": "2021-10-08T10:00:02Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/463",
+      "text": "ci: update Qemu deployment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#464",
+      "time": "2021-10-08T10:13:19Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/464",
+      "text": "ci: fix qemu deployment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#464",
+      "time": "2021-10-08T11:47:49Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/464",
+      "text": "ci: fix qemu deployment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#467",
+      "time": "2021-10-14T15:55:52Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/467",
+      "text": "fix: re-add Robotoff Postgres database, add Postgres exporter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#467",
+      "time": "2021-10-14T15:58:07Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/467",
+      "text": "fix: re-add Robotoff Postgres database, add Postgres exporter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#469",
+      "time": "2021-10-15T12:17:48Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/469",
+      "text": "feat: add Grafana deployment annotation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#469",
+      "time": "2021-10-15T15:54:01Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/469",
+      "text": "feat: add Grafana deployment annotation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#472",
+      "time": "2021-10-18T09:38:42Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/472",
+      "text": "fix: MONGO_URI should be set"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#472",
+      "time": "2021-10-18T09:50:59Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/472",
+      "text": "fix: MONGO_URI should be set"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#473",
+      "time": "2021-10-18T13:22:08Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/473",
+      "text": "feat: add dedicated elasticsearch instance"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#473",
+      "time": "2021-10-19T11:00:48Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/473",
+      "text": "feat: add dedicated elasticsearch instance"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#477",
+      "time": "2021-10-19T11:43:26Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/477",
+      "text": "fix: add Elasticsearch Docker external volume"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#477",
+      "time": "2021-10-19T11:43:33Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/477",
+      "text": "fix: add Elasticsearch Docker external volume"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#479",
+      "time": "2021-10-21T14:21:33Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/479",
+      "text": "ci: deploy Keras configs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#479",
+      "time": "2021-10-21T14:37:31Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/479",
+      "text": "ci: deploy Keras configs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#480",
+      "time": "2021-10-27T14:26:40Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/480",
+      "text": "fix: remove init tasks"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#480",
+      "time": "2021-11-25T13:13:43Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/480",
+      "text": "fix: remove init tasks"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#481",
+      "time": "2021-10-27T16:34:00Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/481",
+      "text": "fix: add nullable username to ProductInsight model\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#481",
+      "time": "2021-10-27T16:34:21Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/481",
+      "text": "fix: add nullable username to ProductInsight model\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#484",
+      "time": "2021-10-29T15:44:16Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/484",
+      "text": "feat: add repo interoperability"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#487",
+      "time": "2021-11-02T09:43:57Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/487",
+      "text": "fix: deploy tf models to both robotoff-net and robotoff-ml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#487",
+      "time": "2021-11-02T09:46:11Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/487",
+      "text": "fix: deploy tf models to both robotoff-net and robotoff-ml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#491",
+      "time": "2021-11-08T10:08:18Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/491",
+      "text": "fix: comms between Robotoff and TF serving ML"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#491",
+      "time": "2021-11-08T10:33:37Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/491",
+      "text": "fix: comms between Robotoff and TF serving ML"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#511",
+      "time": "2021-12-02T12:27:50Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/511",
+      "text": "ci: fix elasticsearch init"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#511",
+      "time": "2021-12-02T15:15:31Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/511",
+      "text": "ci: fix elasticsearch init"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#513",
+      "time": "2021-12-06T11:17:46Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/513",
+      "text": "ci: prod deployment prep"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#513",
+      "time": "2021-12-06T14:28:28Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/513",
+      "text": "ci: prod deployment prep"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#514",
+      "time": "2021-12-06T14:31:17Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/514",
+      "text": "ci: fix pypi release"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#514",
+      "time": "2021-12-06T16:22:22Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/514",
+      "text": "ci: fix pypi release"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#515",
+      "time": "2021-12-08T13:47:08Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/515",
+      "text": "ci: fix pypi workflow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#515",
+      "time": "2021-12-08T13:47:18Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/515",
+      "text": "ci: fix pypi workflow"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#518",
+      "time": "2021-12-09T09:37:42Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/518",
+      "text": "fix: permissions on datasets folder"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#519",
+      "time": "2021-12-09T14:01:34Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/519",
+      "text": "fix: bind mount for datasets folder"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#519",
+      "time": "2021-12-09T14:52:30Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/519",
+      "text": "fix: bind mount for datasets folder"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#520",
+      "time": "2021-12-09T15:14:32Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/520",
+      "text": "ci: add TF_SERVING_HOST"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#520",
+      "time": "2021-12-09T15:18:34Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/520",
+      "text": "ci: add TF_SERVING_HOST"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#521",
+      "time": "2021-12-09T15:59:47Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/521",
+      "text": "Revert \"feat: use the new category classifier model for category prediction\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#521",
+      "time": "2021-12-09T16:00:46Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/521",
+      "text": "Revert \"feat: use the new category classifier model for category prediction\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#527",
+      "time": "2021-12-13T13:51:24Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/527",
+      "text": "feat: add health tests & improve CI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#527",
+      "time": "2022-01-19T18:12:19Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/527",
+      "text": "feat: add health tests & improve CI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#548",
+      "time": "2022-01-18T13:55:47Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/548",
+      "text": "docs: fix bold word"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#548",
+      "time": "2022-01-18T13:57:17Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/548",
+      "text": "docs: fix bold word"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#553",
+      "time": "2022-01-20T15:34:47Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/553",
+      "text": "fix: repair broken healthchecks"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#674",
+      "time": "2022-03-26T13:45:02Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/674",
+      "text": "feat: add events requests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5436",
+      "time": "2021-08-03T12:55:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5436",
+      "text": "Deploy image to pre-prod Proxmox VM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5436",
+      "time": "2021-08-27T16:37:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5436",
+      "text": "Deploy image to pre-prod Proxmox VM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5446",
+      "time": "2021-08-09T09:26:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5446",
+      "text": "ci: add release workflows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5446",
+      "time": "2021-09-22T11:18:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5446",
+      "text": "ci: add release workflows"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5544",
+      "time": "2021-08-24T15:54:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5544",
+      "text": "ci: restructure docker (improve developer workflow)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5544",
+      "time": "2021-09-13T09:07:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5544",
+      "text": "ci: restructure docker (improve developer workflow)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5575",
+      "time": "2021-08-30T08:41:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5575",
+      "text": "Fix Google Cloud Vision OCR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5575",
+      "time": "2021-08-30T09:17:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5575",
+      "text": "Fix Google Cloud Vision OCR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5619",
+      "time": "2021-09-06T10:29:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5619",
+      "text": "Add a check for localhost"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5619",
+      "time": "2021-09-06T10:31:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5619",
+      "text": "Add a check for localhost"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5638",
+      "time": "2021-09-09T17:07:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5638",
+      "text": "Disable deploy on main branch (temporarily)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5638",
+      "time": "2021-09-10T06:53:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5638",
+      "text": "Disable deploy on main branch (temporarily)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5665",
+      "time": "2021-09-13T09:14:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5665",
+      "text": "Fix mongo deployment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5665",
+      "time": "2021-09-13T14:55:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5665",
+      "text": "Fix mongo deployment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5677",
+      "time": "2021-09-14T12:38:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5677",
+      "text": "Fix daily MongoDB task + add refresh_products_tags.js cron"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5677",
+      "time": "2021-09-15T08:11:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5677",
+      "text": "Fix daily MongoDB task + add refresh_products_tags.js cron"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5679",
+      "time": "2021-09-15T08:41:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5679",
+      "text": "Fix mongodb RAM usage"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5679",
+      "time": "2021-09-17T10:30:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5679",
+      "text": "Fix mongodb RAM usage"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5682",
+      "time": "2021-09-15T10:28:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5682",
+      "text": "Fix incron job"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5682",
+      "time": "2021-09-15T10:47:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5682",
+      "text": "Fix incron job"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5683",
+      "time": "2021-09-15T13:14:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5683",
+      "text": "Create new_images folder on startup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5683",
+      "time": "2021-09-15T13:31:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5683",
+      "text": "Create new_images folder on startup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5687",
+      "time": "2021-09-16T07:49:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5687",
+      "text": "ci: increase command timeout for daily tasks"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5687",
+      "time": "2021-09-17T10:10:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5687",
+      "text": "ci: increase command timeout for daily tasks"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5693",
+      "time": "2021-09-16T15:25:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5693",
+      "text": "fix: set local permissions correctly"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5693",
+      "time": "2021-09-17T07:59:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5693",
+      "text": "fix: set local permissions correctly"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5699",
+      "time": "2021-09-17T10:25:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5699",
+      "text": "ci: best practices for entrypoint, sync template, add livecheck"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5699",
+      "time": "2021-09-17T14:27:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5699",
+      "text": "ci: best practices for entrypoint, sync template, add livecheck"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5722",
+      "time": "2021-09-21T12:10:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5722",
+      "text": "fix: solve Config.pm Config2.pm prod conflict with Docker configs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5722",
+      "time": "2021-09-21T15:08:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5722",
+      "text": "fix: solve Config.pm Config2.pm prod conflict with Docker configs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5723",
+      "time": "2021-09-21T12:22:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5723",
+      "text": "fix: broken link in dev guide docs + remove duplicate table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5723",
+      "time": "2021-09-22T09:08:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5723",
+      "text": "fix: broken link in dev guide docs + remove duplicate table"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5725",
+      "time": "2021-09-21T12:43:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5725",
+      "text": "ci: Deployment to all the flavors of Open Food Facts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5727",
+      "time": "2021-09-21T13:34:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5727",
+      "text": "fix: change local domain to openfoodfacts.localhost"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5727",
+      "time": "2021-09-22T09:08:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5727",
+      "text": "fix: change local domain to openfoodfacts.localhost"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5729",
+      "time": "2021-09-22T07:57:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5729",
+      "text": "[WIP] Test labeled prs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5736",
+      "time": "2021-09-22T10:34:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5736",
+      "text": "fix: remove all .DS_Store files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5736",
+      "time": "2021-09-22T10:54:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5736",
+      "text": "fix: remove all .DS_Store files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5746",
+      "time": "2021-09-23T09:44:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5746",
+      "text": "fix: wrong build directory in SiteLang.pm symlink"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5746",
+      "time": "2021-09-23T15:33:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5746",
+      "text": "fix: wrong build directory in SiteLang.pm symlink"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5747",
+      "time": "2021-09-23T12:44:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5747",
+      "text": "feat: add nginx and apache Prometheus metrics exporters"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5747",
+      "time": "2021-09-24T07:07:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5747",
+      "text": "feat: add nginx and apache Prometheus metrics exporters"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5748",
+      "time": "2021-09-24T07:33:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5748",
+      "text": "fix: add nginx_status section to run the nginx_exporter correctly"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5748",
+      "time": "2021-09-24T11:43:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5748",
+      "text": "fix: add nginx_status section to run the nginx_exporter correctly"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5787",
+      "time": "2021-09-29T15:24:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5787",
+      "text": "ci: add ELK logging"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5788",
+      "time": "2021-09-29T15:26:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5788",
+      "text": "chore: release 2.1.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5840",
+      "time": "2021-10-06T12:43:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5840",
+      "text": "fix: update Dockerfile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5840",
+      "time": "2021-10-07T13:14:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5840",
+      "text": "fix: update Dockerfile"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5847",
+      "time": "2021-10-06T15:21:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5847",
+      "text": "fix: recreate named Docker volumes before running docker-compose up"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5947",
+      "time": "2021-10-07T09:34:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5947",
+      "text": "ci: update deployment for QEMU"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5947",
+      "time": "2021-10-08T11:52:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5947",
+      "text": "ci: update deployment for QEMU"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5971",
+      "time": "2021-10-12T13:54:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5971",
+      "text": "fix: update log.conf to match production settings"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5971",
+      "time": "2021-10-15T11:56:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5971",
+      "text": "fix: update log.conf to match production settings"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5973",
+      "time": "2021-10-13T08:36:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5973",
+      "text": "fix: remove external volumes for ones that need re-creation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5973",
+      "time": "2021-10-15T11:56:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5973",
+      "text": "fix: remove external volumes for ones that need re-creation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5975",
+      "time": "2021-10-13T10:01:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5975",
+      "text": "feat: add mongodb metrics exporter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5975",
+      "time": "2021-11-25T13:47:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5975",
+      "text": "feat: add mongodb metrics exporter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5976",
+      "time": "2021-10-14T09:05:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5976",
+      "text": "feat: add Grafana deployment annotation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5976",
+      "time": "2021-10-15T17:00:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5976",
+      "text": "feat: add Grafana deployment annotation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5982",
+      "time": "2021-10-14T15:51:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5982",
+      "text": "fix: add postgres_exporter, unexpose postgres port"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5982",
+      "time": "2021-10-15T11:55:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5982",
+      "text": "fix: add postgres_exporter, unexpose postgres port"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6036",
+      "time": "2021-10-29T11:36:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6036",
+      "text": "fix: npm run prepare issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6036",
+      "time": "2021-10-29T11:45:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6036",
+      "text": "fix: npm run prepare issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6037",
+      "time": "2021-10-29T12:22:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6037",
+      "text": "fix: product images ownership"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6037",
+      "time": "2021-10-29T15:51:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6037",
+      "text": "fix: product images ownership"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6038",
+      "time": "2021-10-29T14:01:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6038",
+      "text": "feat: add repo interoperability"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6038",
+      "time": "2021-10-29T15:55:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6038",
+      "text": "feat: add repo interoperability"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6127",
+      "time": "2021-11-29T14:34:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6127",
+      "text": "fix: remove MONGO_INIT_ROOT_USERNAME/PASSWORD as it breaks the dev workflow\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6127",
+      "time": "2021-11-29T15:43:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6127",
+      "text": "fix: remove MONGO_INIT_ROOT_USERNAME/PASSWORD as it breaks the dev workflow\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6146",
+      "time": "2021-12-02T10:24:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6146",
+      "text": "ci: fix mongo-dev tasks"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6146",
+      "time": "2021-12-06T16:21:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6146",
+      "text": "ci: fix mongo-dev tasks"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6147",
+      "time": "2021-12-02T12:49:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6147",
+      "text": "ci: run dev workflow on pull requests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6147",
+      "time": "2021-12-06T10:29:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6147",
+      "text": "ci: run dev workflow on pull requests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6186",
+      "time": "2021-12-13T09:50:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6186",
+      "text": "ci: mongo-db org deployment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6206",
+      "time": "2021-12-16T15:42:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6206",
+      "text": "fix: docker networks in prod after exporters crashing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6206",
+      "time": "2021-12-17T15:09:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6206",
+      "text": "fix: docker networks in prod after exporters crashing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-events#8",
+      "time": "2021-11-02T14:04:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-events/pull/8",
+      "text": "feat: add http basic auth to POST endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-events#8",
+      "time": "2021-11-03T14:05:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-events/pull/8",
+      "text": "feat: add http basic auth to POST endpoint"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#42",
+      "time": "2021-08-13T10:49:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/42",
+      "text": "Generate readme issues table automatically"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#42",
+      "time": "2021-08-13T12:23:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/42",
+      "text": "Generate readme issues table automatically"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#43",
+      "time": "2021-08-13T13:28:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/43",
+      "text": "Md table fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#43",
+      "time": "2021-08-13T14:03:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/43",
+      "text": "Md table fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#44",
+      "time": "2021-08-13T14:21:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/44",
+      "text": "Ignore obsolete issues + fix re-ordering of keys"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#44",
+      "time": "2021-08-13T14:21:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/44",
+      "text": "Ignore obsolete issues + fix re-ordering of keys"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#60",
+      "time": "2021-09-29T10:32:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/60",
+      "text": "Install Docker script"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#60",
+      "time": "2021-09-29T10:32:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/60",
+      "text": "Install Docker script"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#72",
+      "time": "2021-12-08T13:10:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/72",
+      "text": "Add CICD / Observability / Onboarding docs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#72",
+      "time": "2022-01-18T09:34:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/72",
+      "text": "Add CICD / Observability / Onboarding docs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#2",
+      "time": "2021-09-23T16:57:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/2",
+      "text": "feat: Add Docker configs for Elasticsearch, Grafana, InfluxDB"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#2",
+      "time": "2021-09-24T09:42:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/2",
+      "text": "feat: Add Docker configs for Elasticsearch, Grafana, InfluxDB"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#4",
+      "time": "2021-09-29T12:28:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/4",
+      "text": "feat: add NGINX and Apache Grafana dashboards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#4",
+      "time": "2021-09-29T12:28:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/4",
+      "text": "feat: add NGINX and Apache Grafana dashboards"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#13",
+      "time": "2021-10-01T10:30:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/13",
+      "text": "Add HTTP probes, monitor all monitoring services metrics/ path"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#13",
+      "time": "2021-10-01T10:32:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/13",
+      "text": "Add HTTP probes, monitor all monitoring services metrics/ path"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#14",
+      "time": "2021-10-01T12:38:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/14",
+      "text": "Update probes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#14",
+      "time": "2021-10-01T12:38:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/14",
+      "text": "Update probes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#15",
+      "time": "2021-10-01T14:25:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/15",
+      "text": "feat: update dashboards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#15",
+      "time": "2021-10-01T14:26:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/15",
+      "text": "feat: update dashboards"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#16",
+      "time": "2021-10-01T14:38:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/16",
+      "text": "Comment out cadvisor temporarily"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#16",
+      "time": "2021-10-01T14:38:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/16",
+      "text": "Comment out cadvisor temporarily"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#17",
+      "time": "2021-10-07T12:57:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/17",
+      "text": "ci: update deployment for QEMU"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#17",
+      "time": "2021-10-07T15:09:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/17",
+      "text": "ci: update deployment for QEMU"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#18",
+      "time": "2021-10-07T15:14:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/18",
+      "text": "Update container-deploy.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#18",
+      "time": "2021-10-07T15:14:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/18",
+      "text": "Update container-deploy.yml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#19",
+      "time": "2021-10-08T09:25:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/19",
+      "text": "Update container-deploy.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#19",
+      "time": "2021-10-08T09:25:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/19",
+      "text": "Update container-deploy.yml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#20",
+      "time": "2021-10-11T10:14:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/20",
+      "text": "feat: add Slack notifications"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#20",
+      "time": "2021-10-11T10:14:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/20",
+      "text": "feat: add Slack notifications"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#21",
+      "time": "2021-10-11T13:22:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/21",
+      "text": "feat: add memory usage alert"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#21",
+      "time": "2021-10-11T13:22:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/21",
+      "text": "feat: add memory usage alert"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#22",
+      "time": "2021-10-11T13:56:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/22",
+      "text": "feat: use envsubst for replacing env variables"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#22",
+      "time": "2021-10-11T13:56:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/22",
+      "text": "feat: use envsubst for replacing env variables"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#23",
+      "time": "2021-10-12T11:16:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/23",
+      "text": "feat: add google-oauth to grafana"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#23",
+      "time": "2021-10-14T10:39:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/23",
+      "text": "feat: add google-oauth to grafana"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#24",
+      "time": "2021-10-12T11:16:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/24",
+      "text": "feat: add json exporter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#25",
+      "time": "2021-10-12T11:33:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/25",
+      "text": "fix: alertmanager config"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#25",
+      "time": "2021-10-12T11:34:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/25",
+      "text": "fix: alertmanager config"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#26",
+      "time": "2021-10-12T12:07:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/26",
+      "text": "feat: add sample SLO alert"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#26",
+      "time": "2021-10-12T12:07:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/26",
+      "text": "feat: add sample SLO alert"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#27",
+      "time": "2021-10-12T13:03:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/27",
+      "text": "fix: alertmanager web url"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#27",
+      "time": "2021-10-12T13:03:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/27",
+      "text": "fix: alertmanager web url"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#28",
+      "time": "2021-10-12T13:05:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/28",
+      "text": "fix: set Prometheus web url"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#28",
+      "time": "2021-10-12T13:05:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/28",
+      "text": "fix: set Prometheus web url"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#29",
+      "time": "2021-10-14T10:06:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/29",
+      "text": "ci: minor CI updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#29",
+      "time": "2021-10-14T10:59:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/29",
+      "text": "ci: minor CI updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#30",
+      "time": "2021-10-14T10:43:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/30",
+      "text": "feat: add Google Oauth2 to Grafana"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#30",
+      "time": "2021-10-14T10:43:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/30",
+      "text": "feat: add Google Oauth2 to Grafana"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#31",
+      "time": "2021-10-14T11:01:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/31",
+      "text": "feat: add github actions prometheus exporter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#32",
+      "time": "2021-10-14T14:43:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/32",
+      "text": "feat: add Docker alerts and alerting template"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#32",
+      "time": "2021-10-14T14:43:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/32",
+      "text": "feat: add Docker alerts and alerting template"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#33",
+      "time": "2021-10-15T15:22:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/33",
+      "text": "feat: add alerting dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#33",
+      "time": "2021-10-15T15:22:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/33",
+      "text": "feat: add alerting dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#36",
+      "time": "2021-10-18T10:16:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/36",
+      "text": "feat: add Grafana annotations to Docker dashboards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#36",
+      "time": "2021-10-18T10:16:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/36",
+      "text": "feat: add Grafana annotations to Docker dashboards"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#37",
+      "time": "2021-10-21T13:15:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/37",
+      "text": "feat: add github exporter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#38",
+      "time": "2021-11-30T12:03:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/38",
+      "text": "feat: add Filebeat deployment and config"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#38",
+      "time": "2021-12-06T16:20:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/38",
+      "text": "feat: add Filebeat deployment and config"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#42",
+      "time": "2021-12-16T10:59:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/42",
+      "text": "fix: replace elasticsearch URL by internal IP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#42",
+      "time": "2021-12-16T11:00:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/42",
+      "text": "fix: replace elasticsearch URL by internal IP"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#46",
+      "time": "2022-01-20T09:09:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/46",
+      "text": "Lower Robotoff Availability SLO"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-monitoring#46",
+      "time": "2022-01-20T09:11:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/46",
+      "text": "Lower Robotoff Availability SLO"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-monitoring#48",
+      "time": "2022-02-02T14:23:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/48",
+      "text": "fix: change Robotoff health endpoint"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/api-documentation#22",
+      "time": "2021-08-26T16:56:47Z",
+      "link": "https://github.com/openfoodfacts/api-documentation/pull/22",
+      "text": "Refresh docs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/api-documentation#22",
+      "time": "2021-09-07T12:04:41Z",
+      "link": "https://github.com/openfoodfacts/api-documentation/pull/22",
+      "text": "Refresh docs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/api-documentation#24",
+      "time": "2021-08-27T09:27:22Z",
+      "link": "https://github.com/openfoodfacts/api-documentation/pull/24",
+      "text": "Postman automation updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/api-documentation#24",
+      "time": "2021-08-27T11:00:50Z",
+      "link": "https://github.com/openfoodfacts/api-documentation/pull/24",
+      "text": "Postman automation updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/api-documentation#27",
+      "time": "2021-09-10T09:35:44Z",
+      "link": "https://github.com/openfoodfacts/api-documentation/pull/27",
+      "text": "Add off-org env and switch based on pull request or master branch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/api-documentation#27",
+      "time": "2021-09-10T10:16:11Z",
+      "link": "https://github.com/openfoodfacts/api-documentation/pull/27",
+      "text": "Add off-org env and switch based on pull request or master branch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/.github#4",
+      "time": "2021-09-16T11:05:40Z",
+      "link": "https://github.com/openfoodfacts/.github/pull/4",
+      "text": "Add Docker build + deploy workflows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/.github#4",
+      "time": "2021-09-16T11:41:03Z",
+      "link": "https://github.com/openfoodfacts/.github/pull/4",
+      "text": "Add Docker build + deploy workflows"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/.github#5",
+      "time": "2021-09-24T09:29:39Z",
+      "link": "https://github.com/openfoodfacts/.github/pull/5",
+      "text": "ci: remove release-v*.*.* from deployments"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/.github#5",
+      "time": "2021-09-27T08:59:56Z",
+      "link": "https://github.com/openfoodfacts/.github/pull/5",
+      "text": "ci: remove release-v*.*.* from deployments"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/.github#6",
+      "time": "2021-10-07T14:46:13Z",
+      "link": "https://github.com/openfoodfacts/.github/pull/6",
+      "text": "ci: update container-deploy workflow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/.github#6",
+      "time": "2021-10-15T16:12:09Z",
+      "link": "https://github.com/openfoodfacts/.github/pull/6",
+      "text": "ci: update container-deploy workflow"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/.github#7",
+      "time": "2021-10-15T16:11:32Z",
+      "link": "https://github.com/openfoodfacts/.github/pull/7",
+      "text": "feat: update deploy template to notify Grafana"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/.github#7",
+      "time": "2021-10-15T16:11:39Z",
+      "link": "https://github.com/openfoodfacts/.github/pull/7",
+      "text": "feat: update deploy template to notify Grafana"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/impactestimator#1",
+      "time": "2021-09-21T09:11:35Z",
+      "link": "https://github.com/openfoodfacts/impactestimator/pull/1",
+      "text": "Update container-deploy.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/impactestimator#1",
+      "time": "2021-09-21T09:14:07Z",
+      "link": "https://github.com/openfoodfacts/impactestimator/pull/1",
+      "text": "Update container-deploy.yml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/impactestimator#2",
+      "time": "2021-09-21T12:30:51Z",
+      "link": "https://github.com/openfoodfacts/impactestimator/pull/2",
+      "text": "Update test.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/impactestimator#2",
+      "time": "2021-09-21T12:31:49Z",
+      "link": "https://github.com/openfoodfacts/impactestimator/pull/2",
+      "text": "Update test.yml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/impactestimator#3",
+      "time": "2021-09-21T14:02:44Z",
+      "link": "https://github.com/openfoodfacts/impactestimator/pull/3",
+      "text": "Update container-deploy.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/impactestimator#3",
+      "time": "2021-09-21T14:03:44Z",
+      "link": "https://github.com/openfoodfacts/impactestimator/pull/3",
+      "text": "Update container-deploy.yml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/impactestimator#4",
+      "time": "2021-10-07T13:30:55Z",
+      "link": "https://github.com/openfoodfacts/impactestimator/pull/4",
+      "text": "ci: qemu deployment update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/impactestimator#4",
+      "time": "2021-10-08T10:12:04Z",
+      "link": "https://github.com/openfoodfacts/impactestimator/pull/4",
+      "text": "ci: qemu deployment update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/impactestimator#5",
+      "time": "2021-10-12T12:58:33Z",
+      "link": "https://github.com/openfoodfacts/impactestimator/pull/5",
+      "text": "Update test.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/impactestimator#5",
+      "time": "2021-10-12T13:01:27Z",
+      "link": "https://github.com/openfoodfacts/impactestimator/pull/5",
+      "text": "Update test.yml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff-ann#2",
+      "time": "2021-09-14T15:05:34Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/2",
+      "text": "Add .github workflows and issue templates, move docker-compose"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff-ann#2",
+      "time": "2021-09-14T15:47:27Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/2",
+      "text": "Add .github workflows and issue templates, move docker-compose"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff-ann#9",
+      "time": "2021-09-22T10:50:49Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/9",
+      "text": "ci: add tests, improve Docker build"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff-ann#9",
+      "time": "2021-09-30T09:49:13Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/9",
+      "text": "ci: add tests, improve Docker build"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff-ann#10",
+      "time": "2021-09-22T10:51:54Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/10",
+      "text": "fix: support more environments"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff-ann#10",
+      "time": "2021-09-30T09:48:48Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/10",
+      "text": "fix: support more environments"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff-ann#11",
+      "time": "2021-09-24T10:32:38Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/11",
+      "text": "Update container-deploy.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff-ann#11",
+      "time": "2021-09-30T09:49:36Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/11",
+      "text": "Update container-deploy.yml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff-ann#12",
+      "time": "2021-09-30T09:51:08Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/12",
+      "text": "ci: add release automation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff-ann#12",
+      "time": "2021-09-30T14:55:32Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/12",
+      "text": "ci: add release automation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff-ann#13",
+      "time": "2021-09-30T10:04:58Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/13",
+      "text": "ci: fix tests and github actions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff-ann#13",
+      "time": "2021-09-30T14:54:20Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/13",
+      "text": "ci: fix tests and github actions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff-ann#17",
+      "time": "2021-10-07T11:45:57Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/17",
+      "text": "fix: deployment SENTRY_DSN variable"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff-ann#17",
+      "time": "2021-10-11T09:17:59Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/17",
+      "text": "fix: deployment SENTRY_DSN variable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff-ann#18",
+      "time": "2021-10-07T13:44:33Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/18",
+      "text": "ci: update qemu deployment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff-ann#18",
+      "time": "2021-10-08T11:53:50Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/18",
+      "text": "ci: update qemu deployment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff-ann#27",
+      "time": "2021-11-25T09:39:40Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/27",
+      "text": "fix: external ann_data volume should be bind-mounted"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff-ann#27",
+      "time": "2021-11-25T09:44:16Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/27",
+      "text": "fix: external ann_data volume should be bind-mounted"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff-ann#30",
+      "time": "2021-12-16T10:06:59Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/30",
+      "text": "ci: add auto download of Efficientnet files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff-ann#30",
+      "time": "2022-01-12T10:30:38Z",
+      "link": "https://github.com/openfoodfacts/robotoff-ann/pull/30",
+      "text": "ci: add auto download of Efficientnet files"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-10-05T00:14:38Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#273",
+      "time": "2024-10-05T00:14:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/273",
+      "text": "Increase csv field_size_limit to accommodate large fields"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#274",
+      "time": "2024-10-05T00:27:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/274",
+      "text": "fix: increase csv field_size_limit to accommodate large fields"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#274",
+      "time": "2024-10-08T14:27:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/274",
+      "text": "fix: increase csv field_size_limit to accommodate large fields"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

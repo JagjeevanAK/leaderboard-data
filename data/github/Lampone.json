@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-11-07T15:48:21Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6060",
+      "time": "2021-11-07T15:48:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6060",
+      "text": "Fixes #4928 Delta export command fails"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#6060",
+      "time": "2021-11-08T09:36:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6060",
+      "text": "Fixes #4928 Delta export command fails"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

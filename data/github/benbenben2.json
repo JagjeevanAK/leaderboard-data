@@ -1,0 +1,3045 @@
+{
+  "last_updated": "2022-08-19T20:32:07Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7227",
+      "time": "2022-08-19T20:32:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7227",
+      "text": "taxonomy: ingredients - added croatian translation for raw cashews"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7227",
+      "time": "2022-08-21T20:40:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7227",
+      "text": "taxonomy: ingredients - added croatian translation for raw cashews"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7299",
+      "time": "2022-09-05T20:33:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7299",
+      "text": "taxonomy: adding croatian translation for ingredient of choco delicia"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7299",
+      "time": "2022-09-06T07:41:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7299",
+      "text": "taxonomy: adding croatian translation for ingredient of choco delicia"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7322",
+      "time": "2022-09-11T12:39:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7322",
+      "text": "taxonomy: added pasteurised milk in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7322",
+      "time": "2022-09-12T07:57:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7322",
+      "text": "taxonomy: added pasteurised milk in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7323",
+      "time": "2022-09-11T13:07:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7323",
+      "text": "taxonomy: added some ingredients of monster energy drink in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7323",
+      "time": "2022-09-12T07:57:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7323",
+      "text": "taxonomy: added some ingredients of monster energy drink in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7324",
+      "time": "2022-09-11T13:43:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7324",
+      "text": "taxonomy: added some ingredients of krem kakao tojeto in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7324",
+      "time": "2022-09-13T10:10:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7324",
+      "text": "taxonomy: added some ingredients of krem kakao tojeto in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7325",
+      "time": "2022-09-11T13:54:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7325",
+      "text": "taxonomy: added some ingredients for toast tojeto in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7325",
+      "time": "2022-09-12T07:57:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7325",
+      "text": "taxonomy: added some ingredients for toast tojeto in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7327",
+      "time": "2022-09-11T18:18:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7327",
+      "text": "taxonomy: added some ingredients for crunchy almonds - spar in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7328",
+      "time": "2022-09-11T20:45:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7328",
+      "text": "taxonomy: added some ingredients for cremolli hazelnut - belprom in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7328",
+      "time": "2022-09-12T07:40:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7328",
+      "text": "taxonomy: added some ingredients for cremolli hazelnut - belprom in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7337",
+      "time": "2022-09-13T20:02:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7337",
+      "text": "taxonomy: added some ingredients for madarica from pan-pek in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7337",
+      "time": "2022-09-15T09:19:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7337",
+      "text": "taxonomy: added some ingredients for madarica from pan-pek in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7347",
+      "time": "2022-09-15T20:39:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7347",
+      "text": "taxonomy: added some ingredients for sir s paprom from gligora in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7347",
+      "time": "2022-09-16T08:06:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7347",
+      "text": "taxonomy: added some ingredients for sir s paprom from gligora in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7348",
+      "time": "2022-09-16T08:37:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7348",
+      "text": "taxonomy: added some ingredients for margarin kolace i kuhanje in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7348",
+      "time": "2022-09-16T17:09:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7348",
+      "text": "taxonomy: added some ingredients for margarin kolace i kuhanje in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7363",
+      "time": "2022-09-18T21:08:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7363",
+      "text": "taxonomy: isosport and some old added product hr"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7363",
+      "time": "2022-09-19T15:02:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7363",
+      "text": "taxonomy: isosport and some old added product hr"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7370",
+      "time": "2022-09-19T21:18:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7370",
+      "text": "taxonomy: added varietal for croatians wines"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7370",
+      "time": "2022-09-20T13:09:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7370",
+      "text": "taxonomy: added varietal for croatians wines"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7397",
+      "time": "2022-09-24T14:17:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7397",
+      "text": "taxonomy: fix some unit test errors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7397",
+      "time": "2022-09-27T09:41:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7397",
+      "text": "taxonomy: fix some unit test errors"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7402",
+      "time": "2022-09-26T20:50:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7402",
+      "text": "taxonomy: added ingredients for Pipi and some beers in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7402",
+      "time": "2022-09-27T08:50:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7402",
+      "text": "taxonomy: added ingredients for Pipi and some beers in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7417",
+      "time": "2022-09-28T19:24:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7417",
+      "text": "taxonomy: added ingredients for ice-cream in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7417",
+      "time": "2022-09-29T14:29:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7417",
+      "text": "taxonomy: added ingredients for ice-cream in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7428",
+      "time": "2022-09-30T20:29:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7428",
+      "text": "taxonomy: added some missing countries in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7428",
+      "time": "2022-10-04T13:20:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7428",
+      "text": "taxonomy: added some missing countries in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7431",
+      "time": "2022-10-02T17:02:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7431",
+      "text": "taxonomy: added ingredients for some old products in hr"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7431",
+      "time": "2022-10-04T12:33:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7431",
+      "text": "taxonomy: added ingredients for some old products in hr"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7459",
+      "time": "2022-10-09T22:04:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7459",
+      "text": "taxonomy: added some ingredients in hr"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7459",
+      "time": "2022-10-10T08:06:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7459",
+      "text": "taxonomy: added some ingredients in hr"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7460",
+      "time": "2022-10-09T22:08:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7460",
+      "text": "taxonomy: added materials name in hr"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7460",
+      "time": "2022-10-11T08:45:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7460",
+      "text": "taxonomy: added materials name in hr"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7529",
+      "time": "2022-10-12T20:54:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7529",
+      "text": "taxonomy: added some hr entries for packaging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7529",
+      "time": "2022-10-13T07:44:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7529",
+      "text": "taxonomy: added some hr entries for packaging"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7542",
+      "time": "2022-10-13T19:26:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7542",
+      "text": "taxonomy: added some non food products categories in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7542",
+      "time": "2022-10-20T07:27:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7542",
+      "text": "taxonomy: added some non food products categories in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7543",
+      "time": "2022-10-13T20:58:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7543",
+      "text": "taxonomy: add ingredients in hr"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7543",
+      "time": "2022-10-14T09:19:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7543",
+      "text": "taxonomy: add ingredients in hr"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7579",
+      "time": "2022-10-20T20:42:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7579",
+      "text": "taxonomy: add croatian entries"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7579",
+      "time": "2022-10-21T06:54:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7579",
+      "text": "taxonomy: add croatian entries"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7593",
+      "time": "2022-10-23T18:32:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7593",
+      "text": "taxonomy: add croatian"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7593",
+      "time": "2022-10-24T08:21:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7593",
+      "text": "taxonomy: add croatian"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7617",
+      "time": "2022-10-27T22:41:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7617",
+      "text": "taxonomy: hr ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7617",
+      "time": "2022-10-28T12:59:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7617",
+      "text": "taxonomy: hr ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7637",
+      "time": "2022-10-30T21:59:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7637",
+      "text": "taxonomy: hr ingredients 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7637",
+      "time": "2022-11-02T09:03:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7637",
+      "text": "taxonomy: hr ingredients 2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7658",
+      "time": "2022-11-06T22:12:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7658",
+      "text": "taxonomy: hr ingredients 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7658",
+      "time": "2022-11-08T11:06:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7658",
+      "text": "taxonomy: hr ingredients 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7680",
+      "time": "2022-11-09T22:19:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7680",
+      "text": "taxonomy: hr ingredients 4"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7680",
+      "time": "2022-11-10T13:49:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7680",
+      "text": "taxonomy: hr ingredients 4"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7698",
+      "time": "2022-11-15T11:28:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7698",
+      "text": "taxonomy: hr ingredients 5"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7698",
+      "time": "2022-11-15T16:39:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7698",
+      "text": "taxonomy: hr ingredients 5"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7700",
+      "time": "2022-11-15T13:05:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7700",
+      "text": "fix: data quality alcoholic beverages category without alcohol value"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7700",
+      "time": "2022-11-16T07:57:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7700",
+      "text": "fix: data quality alcoholic beverages category without alcohol value"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7729",
+      "time": "2022-11-20T20:23:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7729",
+      "text": "taxonomy: hr ingredients 6"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7729",
+      "time": "2022-11-21T09:37:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7729",
+      "text": "taxonomy: hr ingredients 6"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7833",
+      "time": "2022-12-11T21:33:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7833",
+      "text": "taxonomy: reviewed some beers and wines in Croatia"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7833",
+      "time": "2022-12-12T08:44:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7833",
+      "text": "taxonomy: reviewed some beers and wines in Croatia"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7898",
+      "time": "2022-12-22T17:36:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7898",
+      "text": "taxonomy: hr ingredients 8"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7898",
+      "time": "2022-12-23T16:50:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7898",
+      "text": "taxonomy: hr ingredients 8"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7912",
+      "time": "2022-12-28T19:28:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7912",
+      "text": "taxonomy: few more ingredients for HR products"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7912",
+      "time": "2023-01-02T11:50:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7912",
+      "text": "taxonomy: few more ingredients for HR products"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7924",
+      "time": "2023-01-01T10:19:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7924",
+      "text": "taxonomy: added Croatian ingredients translation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7924",
+      "time": "2023-01-02T11:30:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7924",
+      "text": "taxonomy: added Croatian ingredients translation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7925",
+      "time": "2023-01-01T14:19:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7925",
+      "text": "taxonomy: added some stopwords for ingredients in Croatian"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7925",
+      "time": "2023-01-02T11:30:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7925",
+      "text": "taxonomy: added some stopwords for ingredients in Croatian"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7931",
+      "time": "2023-01-02T20:42:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7931",
+      "text": "fix: added vitamin d3 in nutrients.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7931",
+      "time": "2023-01-03T08:38:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7931",
+      "text": "fix: added vitamin d3 in nutrients.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7957",
+      "time": "2023-01-06T16:47:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7957",
+      "text": "taxonomy: added a-market swedish label"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7957",
+      "time": "2023-01-09T18:56:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7957",
+      "text": "taxonomy: added a-market swedish label"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7961",
+      "time": "2023-01-07T17:49:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7961",
+      "text": "taxonomy: added allergens and categories"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7961",
+      "time": "2023-01-10T10:31:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7961",
+      "text": "taxonomy: added allergens and categories"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7986",
+      "time": "2023-01-14T13:16:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7986",
+      "text": "taxonomy: added Croatian entries"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7986",
+      "time": "2023-01-16T14:48:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7986",
+      "text": "taxonomy: added Croatian entries"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7987",
+      "time": "2023-01-14T20:08:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7987",
+      "text": "taxonomy: added and removed stopwords for ingredients in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7987",
+      "time": "2023-01-18T08:36:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7987",
+      "text": "taxonomy: added and removed stopwords for ingredients in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7988",
+      "time": "2023-01-15T13:43:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7988",
+      "text": "feat: add data quality issue for negatives values in nutrition table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7988",
+      "time": "2023-01-19T10:37:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7988",
+      "text": "feat: add data quality issue for negatives values in nutrition table"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8022",
+      "time": "2023-01-21T10:18:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8022",
+      "text": "docs: updated doc for how to use gitpod"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8022",
+      "time": "2023-01-24T11:06:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8022",
+      "text": "docs: updated doc for how to use gitpod"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8035",
+      "time": "2023-01-25T21:49:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8035",
+      "text": "fix: exclude nutrition id containing nutrition-score"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8035",
+      "time": "2023-01-26T09:14:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8035",
+      "text": "fix: exclude nutrition id containing nutrition-score"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8044",
+      "time": "2023-01-28T22:39:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8044",
+      "text": "test: added unit tests fot negative nutriments"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8044",
+      "time": "2023-01-30T09:01:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8044",
+      "text": "test: added unit tests fot negative nutriments"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8057",
+      "time": "2023-01-31T21:40:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8057",
+      "text": "feat: add data quality warning for serving size without digit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8057",
+      "time": "2023-02-06T08:46:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8057",
+      "text": "feat: add data quality warning for serving size without digit"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8069",
+      "time": "2023-02-03T19:03:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8069",
+      "text": "fix: language tag for sweden"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8069",
+      "time": "2023-02-06T08:17:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8069",
+      "text": "fix: language tag for sweden"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8088",
+      "time": "2023-02-09T19:46:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8088",
+      "text": "taxonomy: Croatian ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8088",
+      "time": "2023-02-13T09:39:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8088",
+      "text": "taxonomy: Croatian ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8094",
+      "time": "2023-02-11T16:40:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8094",
+      "text": "feat: add quality facet ingredient percent over hundred"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8094",
+      "time": "2023-02-15T20:07:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8094",
+      "text": "feat: add quality facet ingredient percent over hundred"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8109",
+      "time": "2023-02-15T19:12:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8109",
+      "text": "feat: data quality warning for 3 identical values in nutrition tables"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8109",
+      "time": "2023-02-24T22:08:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8109",
+      "text": "feat: data quality warning for 3 identical values in nutrition tables"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8120",
+      "time": "2023-02-18T13:20:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8120",
+      "text": "feat: added error facet for sum of -ose nutriments greater than sugars"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8120",
+      "time": "2023-02-24T21:35:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8120",
+      "text": "feat: added error facet for sum of -ose nutriments greater than sugars"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8121",
+      "time": "2023-02-19T19:51:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8121",
+      "text": "fix: more Croatian in taxonomy + fix false positive dq warnings"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8121",
+      "time": "2023-02-20T16:10:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8121",
+      "text": "fix: more Croatian in taxonomy + fix false positive dq warnings"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8127",
+      "time": "2023-02-21T22:25:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8127",
+      "text": "feat: added Croatian language taxonomy for processing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8127",
+      "time": "2023-02-24T21:35:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8127",
+      "text": "feat: added Croatian language taxonomy for processing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8140",
+      "time": "2023-02-25T18:33:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8140",
+      "text": "taxonomy: improve taxonomy for products available in Croatia"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8140",
+      "time": "2023-03-01T12:59:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8140",
+      "text": "taxonomy: improve taxonomy for products available in Croatia"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8151",
+      "time": "2023-02-28T19:44:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8151",
+      "text": "taxonomy: issue 7312/7313/7314/7316"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8151",
+      "time": "2023-03-06T14:42:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8151",
+      "text": "taxonomy: issue 7312/7313/7314/7316"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8155",
+      "time": "2023-03-01T20:27:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8155",
+      "text": "taxonomy: added povratna naknada label and its image"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8155",
+      "time": "2023-03-06T14:38:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8155",
+      "text": "taxonomy: added povratna naknada label and its image"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8171",
+      "time": "2023-03-07T23:18:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8171",
+      "text": "taxonomy: add some labels commonly found in Croatia"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8171",
+      "time": "2023-03-14T14:12:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8171",
+      "text": "taxonomy: add some labels commonly found in Croatia"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8227",
+      "time": "2023-03-18T10:27:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8227",
+      "text": "taxonomy: added a category"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8227",
+      "time": "2023-03-20T13:29:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8227",
+      "text": "taxonomy: added a category"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8239",
+      "time": "2023-03-21T21:48:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8239",
+      "text": "taxonomy: fix naming hr + taxonomy for mairoluin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8239",
+      "time": "2023-03-23T08:46:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8239",
+      "text": "taxonomy: fix naming hr + taxonomy for mairoluin"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8253",
+      "time": "2023-03-24T20:56:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8253",
+      "text": "taxonomy: added refined pamleolein"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8253",
+      "time": "2023-03-28T12:51:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8253",
+      "text": "taxonomy: added refined pamleolein"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8278",
+      "time": "2023-03-31T22:16:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8278",
+      "text": "feat: add hyphens for properties in folksonomy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8278",
+      "time": "2023-04-11T16:18:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8278",
+      "text": "feat: add hyphens for properties in folksonomy"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8284",
+      "time": "2023-04-04T20:37:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8284",
+      "text": "taxonomy: Taxonomy hr 20230401"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8284",
+      "time": "2023-04-07T07:50:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8284",
+      "text": "taxonomy: Taxonomy hr 20230401"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8303",
+      "time": "2023-04-09T12:44:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8303",
+      "text": "taxonomy: added translation and labels found in hr"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8303",
+      "time": "2023-04-11T16:16:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8303",
+      "text": "taxonomy: added translation and labels found in hr"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8309",
+      "time": "2023-04-10T17:34:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8309",
+      "text": "taxonomy: added some categories found in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8309",
+      "time": "2023-04-11T18:12:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8309",
+      "text": "taxonomy: added some categories found in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8312",
+      "time": "2023-04-11T19:30:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8312",
+      "text": "taxonomy: added changes from laralem"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8312",
+      "time": "2023-04-14T11:13:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8312",
+      "text": "taxonomy: added changes from laralem"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8315",
+      "time": "2023-04-12T16:19:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8315",
+      "text": "taxonomy: add demain-la-terre and sans-residus-de-pesticides-collectif-nouveaux-champs labels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8315",
+      "time": "2023-04-14T09:29:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8315",
+      "text": "taxonomy: add demain-la-terre and sans-residus-de-pesticides-collectif-nouveaux-champs labels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8323",
+      "time": "2023-04-14T20:56:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8323",
+      "text": "taxonomy: added some nutrients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8323",
+      "time": "2023-05-09T20:12:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8323",
+      "text": "taxonomy: added some nutrients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8348",
+      "time": "2023-04-23T20:23:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8348",
+      "text": "taxonomy: reapply changes from previous PR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8348",
+      "time": "2023-04-25T13:57:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8348",
+      "text": "taxonomy: reapply changes from previous PR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8356",
+      "time": "2023-04-24T22:44:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8356",
+      "text": "taxonomy: copied pasted contribution from laralem"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8356",
+      "time": "2023-04-25T13:56:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8356",
+      "text": "taxonomy: copied pasted contribution from laralem"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8370",
+      "time": "2023-04-26T20:43:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8370",
+      "text": "taxonomy: added logos for beter leven"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8370",
+      "time": "2023-05-03T07:58:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8370",
+      "text": "taxonomy: added logos for beter leven"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8376",
+      "time": "2023-04-27T21:54:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8376",
+      "text": "taxonomy: add migros stars labels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8376",
+      "time": "2023-05-03T07:58:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8376",
+      "text": "taxonomy: add migros stars labels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8377",
+      "time": "2023-04-28T16:46:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8377",
+      "text": "taxonomy: added logo for mexican labels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8377",
+      "time": "2023-05-03T07:57:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8377",
+      "text": "taxonomy: added logo for mexican labels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8381",
+      "time": "2023-04-30T21:09:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8381",
+      "text": "fix: japanese parenthesis"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8381",
+      "time": "2023-05-03T07:56:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8381",
+      "text": "fix: japanese parenthesis"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8412",
+      "time": "2023-05-12T16:05:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8412",
+      "text": "feat: added nitrate sulfate as suggestions in table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8412",
+      "time": "2023-05-12T17:18:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8412",
+      "text": "feat: added nitrate sulfate as suggestions in table"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8417",
+      "time": "2023-05-13T16:05:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8417",
+      "text": "fix: uncomment error raised in tag and fix errors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8417",
+      "time": "2023-05-15T09:55:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8417",
+      "text": "fix: uncomment error raised in tag and fix errors"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8438",
+      "time": "2023-05-20T21:10:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8438",
+      "text": "feat: added quality facet error for reversed kcal and kj"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8438",
+      "time": "2023-05-23T07:54:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8438",
+      "text": "feat: added quality facet error for reversed kcal and kj"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8440",
+      "time": "2023-05-21T15:23:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8440",
+      "text": "fix: update vitamin b5"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8440",
+      "time": "2023-05-23T07:59:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8440",
+      "text": "fix: update vitamin b5"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8444",
+      "time": "2023-05-22T18:34:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8444",
+      "text": "feat: bypass data quality error for citrus"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8444",
+      "time": "2023-05-25T20:05:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8444",
+      "text": "feat: bypass data quality error for citrus"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8685",
+      "time": "2023-07-11T17:28:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8685",
+      "text": "feat: updated test for serving_size for nutrition table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8685",
+      "time": "2023-07-12T08:27:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8685",
+      "text": "feat: updated test for serving_size for nutrition table"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8690",
+      "time": "2023-07-12T15:36:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8690",
+      "text": "fix: update middle dot to keep catalan words"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8690",
+      "time": "2023-07-18T07:24:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8690",
+      "text": "fix: update middle dot to keep catalan words"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8699",
+      "time": "2023-07-17T16:44:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8699",
+      "text": "taxonomy: added Croatian ingredients in taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8699",
+      "time": "2023-07-18T07:21:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8699",
+      "text": "taxonomy: added Croatian ingredients in taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8704",
+      "time": "2023-07-18T16:46:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8704",
+      "text": "taxonomy: added Croatian ingredients in taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8704",
+      "time": "2023-07-18T18:55:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8704",
+      "text": "taxonomy: added Croatian ingredients in taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8719",
+      "time": "2023-07-23T11:23:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8719",
+      "text": "taxonomy: added Croatian ingredients in taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8719",
+      "time": "2023-07-25T07:38:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8719",
+      "text": "taxonomy: added Croatian ingredients in taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8739",
+      "time": "2023-07-25T20:00:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8739",
+      "text": "taxonomy: hr unknown ingred 4"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8739",
+      "time": "2023-07-31T11:33:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8739",
+      "text": "taxonomy: hr unknown ingred 4"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8752",
+      "time": "2023-07-29T08:20:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8752",
+      "text": "taxonomy: added Japanese ingredients in taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8752",
+      "time": "2023-07-31T11:17:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8752",
+      "text": "taxonomy: added Japanese ingredients in taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8753",
+      "time": "2023-07-29T09:45:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8753",
+      "text": "taxonomy: added ingredients in taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8753",
+      "time": "2023-07-31T11:14:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8753",
+      "text": "taxonomy: added ingredients in taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8828",
+      "time": "2023-08-09T17:51:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8828",
+      "text": "taxonomy: added ingredients in taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8828",
+      "time": "2023-08-11T13:57:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8828",
+      "text": "taxonomy: added ingredients in taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8905",
+      "time": "2023-08-24T20:42:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8905",
+      "text": "fix: conflict additives variants and and"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8905",
+      "time": "2023-08-28T08:40:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8905",
+      "text": "fix: conflict additives variants and and"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8910",
+      "time": "2023-08-25T15:00:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8910",
+      "text": "taxonomy: add ingredients and processing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8910",
+      "time": "2023-08-28T21:54:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8910",
+      "text": "taxonomy: add ingredients and processing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8921",
+      "time": "2023-08-28T20:32:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8921",
+      "text": "feat: add HR packager codes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8921",
+      "time": "2023-09-05T07:28:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8921",
+      "text": "feat: add HR packager codes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8942",
+      "time": "2023-09-03T09:09:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8942",
+      "text": "fix: improve ingredients extraction"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8942",
+      "time": "2023-09-08T13:30:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8942",
+      "text": "fix: improve ingredients extraction"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8943",
+      "time": "2023-09-03T13:09:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8943",
+      "text": "fix: delete fields after removing ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8943",
+      "time": "2023-09-07T08:00:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8943",
+      "text": "fix: delete fields after removing ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9011",
+      "time": "2023-09-17T11:55:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9011",
+      "text": "fix: fix export excel with leading zero"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9011",
+      "time": "2023-09-19T10:31:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9011",
+      "text": "fix: fix export excel with leading zero"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9027",
+      "time": "2023-09-19T18:03:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9027",
+      "text": "fix: updated ingredients_categories_and_types"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9027",
+      "time": "2023-09-21T08:52:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9027",
+      "text": "fix: updated ingredients_categories_and_types"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9060",
+      "time": "2023-09-23T11:35:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9060",
+      "text": "fix: updated parse_specific_ingredients subroutine"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9063",
+      "time": "2023-09-24T08:49:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9063",
+      "text": "fix: error and warning for vegan label with non-vegan ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9063",
+      "time": "2023-09-29T07:51:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9063",
+      "text": "fix: error and warning for vegan label with non-vegan ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9122",
+      "time": "2023-10-06T22:02:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9122",
+      "text": "fix: processing method in one of the two ingredients around 'and'"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9122",
+      "time": "2023-10-25T16:14:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9122",
+      "text": "fix: processing method in one of the two ingredients around 'and'"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9125",
+      "time": "2023-10-08T13:03:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9125",
+      "text": "feat: parse origin of ingredients for Japanese"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9125",
+      "time": "2023-11-30T12:28:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9125",
+      "text": "feat: parse origin of ingredients for Japanese"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9128",
+      "time": "2023-10-09T21:45:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9128",
+      "text": "feat: add_hr_develop_ingredients_categories_and_types"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9128",
+      "time": "2023-10-16T07:45:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9128",
+      "text": "feat: add_hr_develop_ingredients_categories_and_types"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9152",
+      "time": "2023-10-14T19:15:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9152",
+      "text": "chore: week 39 upd tests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9152",
+      "time": "2023-10-15T07:33:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9152",
+      "text": "chore: week 39 upd tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9154",
+      "time": "2023-10-15T14:30:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9154",
+      "text": "fix: avoid duplicated for data quality tags"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9154",
+      "time": "2023-10-25T13:28:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9154",
+      "text": "fix: avoid duplicated for data quality tags"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9201",
+      "time": "2023-10-26T05:25:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9201",
+      "text": "taxonomy: add HR taxonomy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9201",
+      "time": "2023-10-27T08:05:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9201",
+      "text": "taxonomy: add HR taxonomy"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9224",
+      "time": "2023-10-28T21:49:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9224",
+      "text": "feat: support percentage range"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9224",
+      "time": "2023-12-05T16:08:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9224",
+      "text": "feat: support percentage range"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9227",
+      "time": "2023-10-29T19:32:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9227",
+      "text": "taxonomy: Added unknown Croatian ingredients to the taxonomy (part 8)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9227",
+      "time": "2023-11-20T09:18:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9227",
+      "text": "taxonomy: Added unknown Croatian ingredients to the taxonomy (part 8)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9236",
+      "time": "2023-11-02T19:20:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9236",
+      "text": "taxonomy: Added unknown Croatian ingredients to the taxonomy (part 9)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9236",
+      "time": "2023-11-21T08:54:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9236",
+      "text": "taxonomy: Added unknown Croatian ingredients to the taxonomy (part 9)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9244",
+      "time": "2023-11-05T20:15:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9244",
+      "text": "taxonomy: Added unknown Croatian ingredients to the taxonomy (part 10)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9244",
+      "time": "2023-11-30T13:30:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9244",
+      "text": "taxonomy: Added unknown Croatian ingredients to the taxonomy (part 10)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9245",
+      "time": "2023-11-05T20:42:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9245",
+      "text": "taxonomy: added Hass avocado in taxonomy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9245",
+      "time": "2023-11-16T15:35:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9245",
+      "text": "taxonomy: added Hass avocado in taxonomy"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9265",
+      "time": "2023-11-07T16:15:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9265",
+      "text": "taxonomy: added anses tag in additives, added one allergen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9265",
+      "time": "2023-11-09T10:07:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9265",
+      "text": "taxonomy: added anses tag in additives, added one allergen"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9316",
+      "time": "2023-11-14T16:00:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9316",
+      "text": "feat: add dq error for product quantity above 30kg"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9316",
+      "time": "2023-11-15T08:39:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9316",
+      "text": "feat: add dq error for product quantity above 30kg"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9317",
+      "time": "2023-11-14T16:11:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9317",
+      "text": "fix: fix_avoid_eiweiss_false_positive_for_allergens"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9317",
+      "time": "2023-11-15T08:39:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9317",
+      "text": "fix: fix_avoid_eiweiss_false_positive_for_allergens"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9318",
+      "time": "2023-11-14T16:57:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9318",
+      "text": "feat: feat_upd_vlabel_logo"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9318",
+      "time": "2023-11-15T08:36:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9318",
+      "text": "feat: feat_upd_vlabel_logo"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9320",
+      "time": "2023-11-14T22:51:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9320",
+      "text": "feat: dq_all_val_in_nutrition_are_identical"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9320",
+      "time": "2023-12-05T16:04:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9320",
+      "text": "feat: dq_all_val_in_nutrition_are_identical"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9336",
+      "time": "2023-11-17T17:10:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9336",
+      "text": "fix: dq prevent split and when percent"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9339",
+      "time": "2023-11-19T09:27:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9339",
+      "text": "feat: dq_kcal_does_not_match_exclude_more"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9339",
+      "time": "2023-11-28T09:31:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9339",
+      "text": "feat: dq_kcal_does_not_match_exclude_more"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9340",
+      "time": "2023-11-19T15:19:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9340",
+      "text": "feat: dq_petfood_beauty_brands"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9340",
+      "time": "2023-11-20T13:45:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9340",
+      "text": "feat: dq_petfood_beauty_brands"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9357",
+      "time": "2023-11-21T16:41:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9357",
+      "text": "feat: ingredients_list_cutting"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9357",
+      "time": "2023-11-28T09:09:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9357",
+      "text": "feat: ingredients_list_cutting"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9358",
+      "time": "2023-11-21T16:50:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9358",
+      "text": "feat: dq_extract_polyols_starch_from_sugar_in_edit_page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9410",
+      "time": "2023-11-26T20:32:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9410",
+      "text": "feat: dq_label_nutrient_levels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9410",
+      "time": "2023-12-15T08:22:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9410",
+      "text": "feat: dq_label_nutrient_levels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9461",
+      "time": "2023-12-01T20:53:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9461",
+      "text": "fix: dq_nutriscore_alert_and_category_rework"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9461",
+      "time": "2023-12-04T09:36:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9461",
+      "text": "fix: dq_nutriscore_alert_and_category_rework"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9462",
+      "time": "2023-12-01T21:30:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9462",
+      "text": "fix: dq_serving_size_cant_be_parsed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9462",
+      "time": "2023-12-04T09:37:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9462",
+      "text": "fix: dq_serving_size_cant_be_parsed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9463",
+      "time": "2023-12-01T22:19:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9463",
+      "text": "fix: Dq saturated fat only if fat defined"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9463",
+      "time": "2023-12-05T14:41:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9463",
+      "text": "fix: Dq saturated fat only if fat defined"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9464",
+      "time": "2023-12-01T23:11:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9464",
+      "text": "fix: dq_nutrition_rm_salt_under_01g"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9464",
+      "time": "2023-12-05T14:41:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9464",
+      "text": "fix: dq_nutrition_rm_salt_under_01g"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9466",
+      "time": "2023-12-03T10:06:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9466",
+      "text": "taxonomy: tax_world_unknown_ingred_3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9466",
+      "time": "2023-12-12T09:31:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9466",
+      "text": "taxonomy: tax_world_unknown_ingred_3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9467",
+      "time": "2023-12-03T21:57:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9467",
+      "text": "feat: feat_japanese_nutrition_table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9467",
+      "time": "2023-12-05T14:40:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9467",
+      "text": "feat: feat_japanese_nutrition_table"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9484",
+      "time": "2023-12-05T21:05:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9484",
+      "text": "taxonomy: dq_serving_size_parsing_improvements"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9484",
+      "time": "2023-12-12T09:40:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9484",
+      "text": "taxonomy: dq_serving_size_parsing_improvements"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9498",
+      "time": "2023-12-08T16:53:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9498",
+      "text": "fix: dq_sugar_plus_starch_greater_than_carbohydrates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9498",
+      "time": "2023-12-12T09:38:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9498",
+      "text": "fix: dq_sugar_plus_starch_greater_than_carbohydrates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9502",
+      "time": "2023-12-08T22:57:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9502",
+      "text": "taxonomy: jp_allergens_1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9512",
+      "time": "2023-12-11T16:45:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9512",
+      "text": "feat: jp_allergens_2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9512",
+      "time": "2024-01-16T16:05:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9512",
+      "text": "feat: jp_allergens_2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9519",
+      "time": "2023-12-12T16:27:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9519",
+      "text": "feat: eggs_to_g_in_eu"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9528",
+      "time": "2023-12-13T20:06:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9528",
+      "text": "feat: dq_ignore_nutrition_if_single_value"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9532",
+      "time": "2023-12-14T21:14:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9532",
+      "text": "taxonomy: ciqual-ingredients-boost-ben"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9532",
+      "time": "2023-12-15T08:12:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9532",
+      "text": "taxonomy: ciqual-ingredients-boost-ben"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9581",
+      "time": "2023-12-21T16:59:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9581",
+      "text": "feat: dq_correct_wrong_lang__for_tags"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9581",
+      "time": "2024-04-02T08:10:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9581",
+      "text": "feat: dq_correct_wrong_lang__for_tags"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9586",
+      "time": "2023-12-22T17:00:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9586",
+      "text": "feat: dq_detect_url_in_ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9586",
+      "time": "2024-01-30T09:35:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9586",
+      "text": "feat: dq_detect_url_in_ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9588",
+      "time": "2023-12-23T10:35:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9588",
+      "text": "feat: allow_longer_user_name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9588",
+      "time": "2024-01-02T10:00:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9588",
+      "text": "feat: allow_longer_user_name"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9589",
+      "time": "2023-12-23T11:01:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9589",
+      "text": "taxonomy: soy_sauce_vegan"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9589",
+      "time": "2024-01-30T09:31:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9589",
+      "text": "taxonomy: soy_sauce_vegan"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9598",
+      "time": "2023-12-25T12:56:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9598",
+      "text": "fix: dq_all_val_in_nutrition_are_identical_2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9598",
+      "time": "2024-01-24T10:02:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9598",
+      "text": "fix: dq_all_val_in_nutrition_are_identical_2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9601",
+      "time": "2023-12-26T14:32:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9601",
+      "text": "taxonomy: upd categories to reflect EU regulations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9601",
+      "time": "2024-01-24T10:05:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9601",
+      "text": "taxonomy: upd categories to reflect EU regulations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9606",
+      "time": "2023-12-30T23:36:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9606",
+      "text": "feat: dq_category_specific_ingredient_percent_2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9606",
+      "time": "2024-01-14T10:33:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9606",
+      "text": "feat: dq_category_specific_ingredient_percent_2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9608",
+      "time": "2023-12-31T10:44:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9608",
+      "text": "feat: quantity_units_new_fields"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9608",
+      "time": "2024-01-11T22:03:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9608",
+      "text": "feat: quantity_units_new_fields"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9624",
+      "time": "2024-01-06T11:46:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9624",
+      "text": "fix: bug_ingredients_wrongly_specific_ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9624",
+      "time": "2024-01-09T10:58:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9624",
+      "text": "fix: bug_ingredients_wrongly_specific_ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9650",
+      "time": "2024-01-14T10:20:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9650",
+      "text": "docs: add description of new field in the taxonomy docs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9650",
+      "time": "2024-01-16T13:59:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9650",
+      "text": "docs: add description of new field in the taxonomy docs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9656",
+      "time": "2024-01-16T06:47:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9656",
+      "text": "taxonomy: hr_upd_label_provratna_naknada"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9656",
+      "time": "2024-01-24T09:58:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9656",
+      "text": "taxonomy: hr_upd_label_provratna_naknada"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9668",
+      "time": "2024-01-17T19:14:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9668",
+      "text": "taxonomy: tax_world_forum_request"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9668",
+      "time": "2024-01-24T09:58:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9668",
+      "text": "taxonomy: tax_world_forum_request"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9707",
+      "time": "2024-01-26T22:09:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9707",
+      "text": "feat: dq_category_specific_ingredient_percent_3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9707",
+      "time": "2024-02-06T09:15:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9707",
+      "text": "feat: dq_category_specific_ingredient_percent_3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9722",
+      "time": "2024-01-30T21:45:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9722",
+      "text": "fix: fix_dq_facet_all_values_identical"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9722",
+      "time": "2024-02-01T13:51:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9722",
+      "text": "fix: fix_dq_facet_all_values_identical"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9792",
+      "time": "2024-02-12T20:27:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9792",
+      "text": "fix: fix_uninitialized_value"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9792",
+      "time": "2024-02-13T14:24:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9792",
+      "text": "fix: fix_uninitialized_value"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9825",
+      "time": "2024-02-24T16:42:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9825",
+      "text": "fix: missing_translations_in_dq_button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9825",
+      "time": "2024-02-29T20:48:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9825",
+      "text": "fix: missing_translations_in_dq_button"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9860",
+      "time": "2024-03-02T10:48:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9860",
+      "text": "taxonomy: improve stop words in HR"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9860",
+      "time": "2024-03-05T12:58:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9860",
+      "text": "taxonomy: improve stop words in HR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9878",
+      "time": "2024-03-06T19:55:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9878",
+      "text": "taxonomy: fix missing entry in taxonomy for dq"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9878",
+      "time": "2024-03-07T15:09:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9878",
+      "text": "taxonomy: fix missing entry in taxonomy for dq"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9997",
+      "time": "2024-03-23T21:20:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9997",
+      "text": "taxonomy: add croatian ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9997",
+      "time": "2024-03-24T16:33:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9997",
+      "text": "taxonomy: add croatian ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10108",
+      "time": "2024-04-08T19:43:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10108",
+      "text": "taxonomy: taxonomy_add_croatian_ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10108",
+      "time": "2024-05-09T05:53:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10108",
+      "text": "taxonomy: taxonomy_add_croatian_ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10124",
+      "time": "2024-04-12T18:29:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10124",
+      "text": "feat: add slovenian packager codes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10124",
+      "time": "2024-04-30T14:23:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10124",
+      "text": "feat: add slovenian packager codes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10259",
+      "time": "2024-05-09T13:22:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10259",
+      "text": "taxonomy: translate categories in Croatian"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10259",
+      "time": "2024-05-17T10:25:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10259",
+      "text": "taxonomy: translate categories in Croatian"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10261",
+      "time": "2024-05-09T17:10:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10261",
+      "text": "taxonomy: translate ingredients in Croatian"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10261",
+      "time": "2024-05-15T08:16:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10261",
+      "text": "taxonomy: translate ingredients in Croatian"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10263",
+      "time": "2024-05-10T10:05:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10263",
+      "text": "fix: data quality downgrade some errors to warnings"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10263",
+      "time": "2024-05-15T08:15:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10263",
+      "text": "fix: data quality downgrade some errors to warnings"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10264",
+      "time": "2024-05-10T12:59:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10264",
+      "text": "feat: packaging codes add Austria"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10264",
+      "time": "2024-05-15T08:13:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10264",
+      "text": "feat: packaging codes add Austria"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10315",
+      "time": "2024-05-18T18:23:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10315",
+      "text": "taxonomy: translate ingredients in Croatian"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10316",
+      "time": "2024-05-18T19:45:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10316",
+      "text": "taxonomy: translate ingredients in Croatian"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10316",
+      "time": "2024-06-04T14:57:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10316",
+      "text": "taxonomy: translate ingredients in Croatian"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10317",
+      "time": "2024-05-18T21:13:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10317",
+      "text": "taxonomy: translate categories in croatian"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10317",
+      "time": "2024-06-04T14:56:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10317",
+      "text": "taxonomy: translate categories in croatian"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10318",
+      "time": "2024-05-19T08:28:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10318",
+      "text": "feat: packaging codes add Cyprus"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10318",
+      "time": "2024-05-20T11:26:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10318",
+      "text": "feat: packaging codes add Cyprus"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10344",
+      "time": "2024-05-23T20:24:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10344",
+      "text": "fix: warnings modperl_error_log"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10344",
+      "time": "2024-06-04T14:53:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10344",
+      "text": "fix: warnings modperl_error_log"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10351",
+      "time": "2024-05-26T06:45:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10351",
+      "text": "feat: Packaging add Czech"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10351",
+      "time": "2024-06-03T08:00:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10351",
+      "text": "feat: Packaging add Czech"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10352",
+      "time": "2024-05-26T12:41:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10352",
+      "text": "fix: warnings modperl error log"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10352",
+      "time": "2024-05-31T07:09:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10352",
+      "text": "fix: warnings modperl error log"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10378",
+      "time": "2024-06-01T06:31:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10378",
+      "text": "feat: dq new facet for opposite tags"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10378",
+      "time": "2024-08-06T11:25:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10378",
+      "text": "feat: dq new facet for opposite tags"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10388",
+      "time": "2024-06-03T17:32:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10388",
+      "text": "feat: packaging add Denmark"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10388",
+      "time": "2024-06-23T16:10:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10388",
+      "text": "feat: packaging add Denmark"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10390",
+      "time": "2024-06-04T19:02:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10390",
+      "text": "taxonomy: translate ingredients in croatian 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10390",
+      "time": "2024-06-05T07:34:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10390",
+      "text": "taxonomy: translate ingredients in croatian 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10391",
+      "time": "2024-06-04T21:21:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10391",
+      "text": "taxonomy: translate categories in croatian 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10391",
+      "time": "2024-07-10T15:37:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10391",
+      "text": "taxonomy: translate categories in croatian 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10485",
+      "time": "2024-06-23T17:16:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10485",
+      "text": "feat: packaging adds Hungary"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10485",
+      "time": "2024-07-01T08:43:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10485",
+      "text": "feat: packaging adds Hungary"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10496",
+      "time": "2024-06-26T05:14:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10496",
+      "text": "feat: add logo for the label 1% for the planet"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10496",
+      "time": "2024-06-27T06:51:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10496",
+      "text": "feat: add logo for the label 1% for the planet"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10497",
+      "time": "2024-06-26T06:03:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10497",
+      "text": "fix: hydrogenated fat vegan maybe"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10497",
+      "time": "2024-06-27T06:50:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10497",
+      "text": "fix: hydrogenated fat vegan maybe"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10533",
+      "time": "2024-07-10T15:42:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10533",
+      "text": "feat: packaging add Ireland"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10533",
+      "time": "2024-07-16T16:10:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10533",
+      "text": "feat: packaging add Ireland"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10570",
+      "time": "2024-07-19T15:28:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10570",
+      "text": "feat: packaging adds Luxembourg"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10570",
+      "time": "2024-07-25T20:05:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10570",
+      "text": "feat: packaging adds Luxembourg"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10651",
+      "time": "2024-08-06T19:58:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10651",
+      "text": "fix: dq new facet for opposite tags fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10651",
+      "time": "2024-08-07T09:33:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10651",
+      "text": "fix: dq new facet for opposite tags fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10711",
+      "time": "2024-08-18T19:07:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10711",
+      "text": "feat: update script to correct wrong languages for tags"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11076",
+      "time": "2024-12-01T13:38:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11076",
+      "text": "fix: data quality, false positive, nutrition sum with lower symbol"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11076",
+      "time": "2024-12-09T09:15:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11076",
+      "text": "fix: data quality, false positive, nutrition sum with lower symbol"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11098",
+      "time": "2024-12-06T23:21:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11098",
+      "text": "fix: data quality, false positive, nutrition sum with lower symbol for milk below the table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11098",
+      "time": "2024-12-10T22:10:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11098",
+      "text": "fix: data quality, false positive, nutrition sum with lower symbol for milk below the table"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11136",
+      "time": "2024-12-16T22:07:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11136",
+      "text": "feat: add subnutriment in nutrition table if missing and subsub is provided"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11137",
+      "time": "2024-12-16T22:31:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11137",
+      "text": "fix: dq correct wrong lang for tags rollback"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11138",
+      "time": "2024-12-16T23:10:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11138",
+      "text": "fix: remove_warnings"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11145",
+      "time": "2024-12-18T22:43:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11145",
+      "text": "fix: data quality - increase threshold for comparison between fiber and its subnutriments"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11145",
+      "time": "2025-01-02T18:09:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11145",
+      "text": "fix: data quality - increase threshold for comparison between fiber and its subnutriments"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11147",
+      "time": "2024-12-19T21:46:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11147",
+      "text": "feat: data-quality/apply-remove_insignificant_digits-for-nutriments"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11147",
+      "time": "2025-01-02T18:11:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11147",
+      "text": "feat: data-quality/apply-remove_insignificant_digits-for-nutriments"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11152",
+      "time": "2024-12-21T08:04:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11152",
+      "text": "feat: data-quality - minimum number of ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11152",
+      "time": "2025-01-02T18:17:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11152",
+      "text": "feat: data-quality - minimum number of ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11156",
+      "time": "2024-12-21T11:07:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11156",
+      "text": "fix: nutriscore grade from category change for extra virgin olive oils"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11156",
+      "time": "2024-12-21T12:55:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11156",
+      "text": "fix: nutriscore grade from category change for extra virgin olive oils"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11161",
+      "time": "2024-12-21T15:20:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11161",
+      "text": "fix: allow serving size to be hyphenated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11161",
+      "time": "2024-12-22T11:44:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11161",
+      "text": "fix: allow serving size to be hyphenated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11172",
+      "time": "2024-12-27T15:55:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11172",
+      "text": "fix: remove warning in Display.pm related to Environmental Scoring"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11172",
+      "time": "2025-01-07T12:06:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11172",
+      "text": "fix: remove warning in Display.pm related to Environmental Scoring"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11173",
+      "time": "2024-12-27T16:33:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11173",
+      "text": "feat: update product_type"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11173",
+      "time": "2025-02-14T17:08:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11173",
+      "text": "feat: update product_type"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11175",
+      "time": "2024-12-29T15:36:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11175",
+      "text": "docs: upd docs, fix version, rm docker composer version"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11175",
+      "time": "2024-12-30T16:46:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11175",
+      "text": "docs: upd docs, fix version, rm docker composer version"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11188",
+      "time": "2025-01-03T23:37:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11188",
+      "text": "feat: petfood-nutrition-facts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11188",
+      "time": "2025-02-11T13:21:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11188",
+      "text": "feat: petfood-nutrition-facts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11189",
+      "time": "2025-01-05T12:19:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11189",
+      "text": "fix: warnings in import_convert_carrefour_france"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11189",
+      "time": "2025-01-06T14:48:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11189",
+      "text": "fix: warnings in import_convert_carrefour_france"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11190",
+      "time": "2025-01-05T20:44:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11190",
+      "text": "fix: warnings in producers tests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11190",
+      "time": "2025-01-08T18:22:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11190",
+      "text": "fix: warnings in producers tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11191",
+      "time": "2025-01-06T08:55:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11191",
+      "text": "fix: environmental_score"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11191",
+      "time": "2025-01-06T14:37:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11191",
+      "text": "fix: environmental_score"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11193",
+      "time": "2025-01-06T11:00:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11193",
+      "text": "fix: rm nova drilldown field for beauty"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11193",
+      "time": "2025-01-06T11:34:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11193",
+      "text": "fix: rm nova drilldown field for beauty"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11267",
+      "time": "2025-01-18T21:02:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11267",
+      "text": "feat: taxonomy enhancer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11267",
+      "time": "2025-02-17T09:02:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11267",
+      "text": "feat: taxonomy enhancer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11406",
+      "time": "2025-02-13T21:24:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11406",
+      "text": "feat: dq correct wrong languages for tags"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11407",
+      "time": "2025-02-13T21:34:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11407",
+      "text": "feat: dq correct wrong language for tags v2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11407",
+      "time": "2025-03-03T20:23:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11407",
+      "text": "feat: dq correct wrong language for tags v2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11426",
+      "time": "2025-02-14T17:19:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11426",
+      "text": "fix: update actions for some data quality facets"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11426",
+      "time": "2025-02-17T08:53:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11426",
+      "text": "fix: update actions for some data quality facets"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11427",
+      "time": "2025-02-14T17:28:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11427",
+      "text": "taxonomy: add Certified Plant Based label to taxonomy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11427",
+      "time": "2025-02-17T09:05:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11427",
+      "text": "taxonomy: add Certified Plant Based label to taxonomy"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11431",
+      "time": "2025-02-14T21:12:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11431",
+      "text": "taxonomy: add stopword in Croatian"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11431",
+      "time": "2025-02-17T08:52:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11431",
+      "text": "taxonomy: add stopword in Croatian"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11455",
+      "time": "2025-02-18T16:34:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11455",
+      "text": "taxonomy: add stopword in Croatian"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11455",
+      "time": "2025-02-18T19:12:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11455",
+      "text": "taxonomy: add stopword in Croatian"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11459",
+      "time": "2025-02-18T18:17:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11459",
+      "text": "taxonomy: resubmit taxonomy for de from old pr"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11459",
+      "time": "2025-02-20T19:37:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11459",
+      "text": "taxonomy: resubmit taxonomy for de from old pr"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11487",
+      "time": "2025-02-25T16:05:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11487",
+      "text": "taxonomy: taxonomies-enhancer-croatia"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11487",
+      "time": "2025-03-06T09:40:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11487",
+      "text": "taxonomy: taxonomies-enhancer-croatia"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11536",
+      "time": "2025-03-04T16:44:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11536",
+      "text": "fix: data quality label threshold source of vitamins and minerals"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11536",
+      "time": "2025-03-05T12:53:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11536",
+      "text": "fix: data quality label threshold source of vitamins and minerals"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11546",
+      "time": "2025-03-05T21:52:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11546",
+      "text": "fix: remove duplicates in taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11546",
+      "time": "2025-03-31T04:28:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11546",
+      "text": "fix: remove duplicates in taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11566",
+      "time": "2025-03-07T19:26:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11566",
+      "text": "fix: remove duplicates in taxonomies 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11566",
+      "time": "2025-03-10T13:47:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11566",
+      "text": "fix: remove duplicates in taxonomies 2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11573",
+      "time": "2025-03-08T19:06:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11573",
+      "text": "taxonomy: taxonomies enhancer Croatian products 2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11573",
+      "time": "2025-03-23T15:22:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11573",
+      "text": "taxonomy: taxonomies enhancer Croatian products 2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11600",
+      "time": "2025-03-11T21:22:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11600",
+      "text": "taxonomy: add stopwords and synonym for analytics nutrients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11600",
+      "time": "2025-03-12T08:43:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11600",
+      "text": "taxonomy: add stopwords and synonym for analytics nutrients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11652",
+      "time": "2025-03-23T12:34:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11652",
+      "text": "feat: tags_and_languages_script_improvements"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11652",
+      "time": "2025-03-24T21:10:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11652",
+      "text": "feat: tags_and_languages_script_improvements"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11654",
+      "time": "2025-03-23T18:01:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11654",
+      "text": "taxonomy: openpetfoodfacts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11654",
+      "time": "2025-03-24T08:41:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11654",
+      "text": "taxonomy: openpetfoodfacts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11673",
+      "time": "2025-03-25T15:57:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11673",
+      "text": "feat: differentiate total carbs from carbs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11673",
+      "time": "2025-04-15T11:09:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11673",
+      "text": "feat: differentiate total carbs from carbs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11696",
+      "time": "2025-03-29T16:12:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11696",
+      "text": "taxonomy: mv duplicates to xx"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11696",
+      "time": "2025-04-24T08:18:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11696",
+      "text": "taxonomy: mv duplicates to xx"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11778",
+      "time": "2025-04-13T09:03:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11778",
+      "text": "taxonomy: remove duplicates in taxonomies and put back error on build_taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11778",
+      "time": "2025-04-17T11:18:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11778",
+      "text": "taxonomy: remove duplicates in taxonomies and put back error on build_taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11797",
+      "time": "2025-04-17T20:17:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11797",
+      "text": "refactor: clean-products-pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11797",
+      "time": "2025-04-18T12:36:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11797",
+      "text": "refactor: clean-products-pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11811",
+      "time": "2025-04-21T09:28:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11811",
+      "text": "taxonomy: move processing from ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11819",
+      "time": "2025-04-24T19:17:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11819",
+      "text": "feat: ignore duplicates errors for ingredients for beauty, pet food, products"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11819",
+      "time": "2025-04-25T08:54:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11819",
+      "text": "feat: ignore duplicates errors for ingredients for beauty, pet food, products"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/folksonomy_api#134",
+      "time": "2023-03-31T22:20:44Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/134",
+      "text": "feat: added hyphens for property"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/folksonomy_api#134",
+      "time": "2023-04-11T21:38:31Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/134",
+      "text": "feat: added hyphens for property"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#192",
+      "time": "2023-12-03T13:07:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/192",
+      "text": "fix: fix_upd_product"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#192",
+      "time": "2023-12-04T17:44:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/192",
+      "text": "fix: fix_upd_product"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#325",
+      "time": "2022-10-25T18:53:36Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/325",
+      "text": "feat: localize keyboard shortcut"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#325",
+      "time": "2022-11-19T21:29:34Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/325",
+      "text": "feat: localize keyboard shortcut"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#587",
+      "time": "2023-04-01T15:47:36Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/587",
+      "text": "feat: added Croatian and Swedish"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#587",
+      "time": "2023-04-08T09:33:53Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/587",
+      "text": "feat: added Croatian and Swedish"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#590",
+      "time": "2023-04-29T08:36:16Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/590",
+      "text": "feat: added NL lang"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#590",
+      "time": "2023-04-30T07:25:47Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/590",
+      "text": "feat: added NL lang"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-rust#28",
+      "time": "2023-08-05T13:58:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-rust/pull/28",
+      "text": "feat: update readme file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-rust#28",
+      "time": "2023-08-08T13:05:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-rust/pull/28",
+      "text": "feat: update readme file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#77",
+      "time": "2023-01-15T11:45:11Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/77",
+      "text": "feat: added localhost urls"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#77",
+      "time": "2023-01-16T17:24:32Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/77",
+      "text": "feat: added localhost urls"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#80",
+      "time": "2023-10-08T08:29:45Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/80",
+      "text": "feat: edit_shortcut_from_save-product_page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#80",
+      "time": "2023-10-11T07:46:44Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/80",
+      "text": "feat: edit_shortcut_from_save-product_page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/power-user-script#101",
+      "time": "2025-01-01T16:28:39Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/101",
+      "text": "feat: add all flavors for local"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/power-user-script#101",
+      "time": "2025-01-02T17:08:42Z",
+      "link": "https://github.com/openfoodfacts/power-user-script/pull/101",
+      "text": "feat: add all flavors for local"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

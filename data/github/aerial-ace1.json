@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-10-11T12:12:12Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#111",
+      "time": "2022-10-11T12:12:12Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/111",
+      "text": "fix: Normalising Children and New Nodes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#111",
+      "time": "2022-10-19T17:20:04Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/111",
+      "text": "fix: Normalising Children and New Nodes"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

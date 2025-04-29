@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-03-31T20:45:49Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10063",
+      "time": "2024-03-31T20:45:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10063",
+      "text": "style: created custom tagify scss file and updated gulp file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10129",
+      "time": "2024-04-14T19:40:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10129",
+      "text": "build: Add check_quality service for real-time data validation"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

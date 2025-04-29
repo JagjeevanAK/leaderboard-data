@@ -1,0 +1,35 @@
+{
+  "last_updated": "2019-10-18T14:27:13Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#398",
+      "time": "2019-10-18T14:27:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/398",
+      "text": "Issue 386 native credit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#398",
+      "time": "2019-10-19T10:59:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/398",
+      "text": "Issue 386 native credit"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#412",
+      "time": "2019-10-21T14:29:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/412",
+      "text": "Standardize hiding/showing of labels for offline product and db response in ScanProductSummaryView"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#412",
+      "time": "2019-11-11T09:26:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/412",
+      "text": "Standardize hiding/showing of labels for offline product and db response in ScanProductSummaryView"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

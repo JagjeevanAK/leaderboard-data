@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-10-17T17:54:11Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#117",
+      "time": "2022-10-17T17:54:11Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/117",
+      "text": "feat: added autocomplete for language codes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#117",
+      "time": "2022-11-15T15:38:06Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/117",
+      "text": "feat: added autocomplete for language codes"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

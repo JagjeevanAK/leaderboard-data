@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-01-13T12:33:36Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3727",
+      "time": "2021-01-13T12:33:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3727",
+      "text": "Fixed layout issue on some attributes with long text"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3727",
+      "time": "2021-02-14T12:13:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3727",
+      "text": "Fixed layout issue on some attributes with long text"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

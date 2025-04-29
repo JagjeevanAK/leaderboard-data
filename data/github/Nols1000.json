@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-10-12T15:13:22Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#618",
+      "time": "2021-10-12T15:13:22Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/618",
+      "text": "Set background color of SlidingUpPanel by Theme and remove custom color from icons."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#618",
+      "time": "2021-10-13T19:05:23Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/618",
+      "text": "Set background color of SlidingUpPanel by Theme and remove custom color from icons."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

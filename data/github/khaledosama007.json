@@ -1,0 +1,21 @@
+{
+  "last_updated": "2019-03-12T18:49:23Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2415",
+      "time": "2019-03-12T18:49:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2415",
+      "text": "Fixes #2341:Hiding 4 fields in Edit mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2415",
+      "time": "2019-03-13T20:10:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2415",
+      "text": "Fixes #2341:Hiding 4 fields in Edit mode"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

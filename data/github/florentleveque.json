@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-04-17T13:34:55Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-events#244",
+      "time": "2023-04-17T13:34:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-events/pull/244",
+      "text": "fix: The barcode field should be a string, not an integer - #137"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-events#246",
+      "time": "2023-04-18T12:03:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-events/pull/246",
+      "text": "fix Text execution. CF the issue #243"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-events#246",
+      "time": "2023-04-21T12:26:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-events/pull/246",
+      "text": "fix Text execution. CF the issue #243"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

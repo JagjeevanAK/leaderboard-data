@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-03-22T00:07:35Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6467",
+      "time": "2025-03-22T00:07:35Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6467",
+      "text": "fix: Added dynamic padding to reach Sign Up button and Create Account button with the keyboard open"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6467",
+      "time": "2025-03-24T18:49:54Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6467",
+      "text": "fix: Added dynamic padding to reach Sign Up button and Create Account button with the keyboard open"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

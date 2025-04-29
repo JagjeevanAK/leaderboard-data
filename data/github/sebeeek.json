@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-09-21T12:04:28Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5721",
+      "time": "2021-09-21T12:04:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5721",
+      "text": "bug fix for bug 5715"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5721",
+      "time": "2021-09-28T12:57:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5721",
+      "text": "bug fix for bug 5715"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

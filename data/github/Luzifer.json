@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-10-27T20:17:11Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4433",
+      "time": "2020-10-27T20:17:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4433",
+      "text": "Taxonomies: Add German / Swedish for \"coconut cream\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4433",
+      "time": "2020-10-30T10:42:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4433",
+      "text": "Taxonomies: Add German / Swedish for \"coconut cream\""
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

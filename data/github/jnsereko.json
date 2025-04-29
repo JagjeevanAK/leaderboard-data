@@ -1,0 +1,133 @@
+{
+  "last_updated": "2023-03-14T16:07:19Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8203",
+      "time": "2023-03-14T16:07:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8203",
+      "text": "fix: Unlocalized string on the pro platform #8194"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8203",
+      "time": "2023-03-16T13:09:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8203",
+      "text": "fix: Unlocalized string on the pro platform #8194"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8206",
+      "time": "2023-03-14T19:58:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8206",
+      "text": "feat: Add Perl introductory resources to warm newbies about Perl #8204"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8206",
+      "time": "2023-03-20T14:15:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8206",
+      "text": "feat: Add Perl introductory resources to warm newbies about Perl #8204"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8224",
+      "time": "2023-03-17T10:13:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8224",
+      "text": "fix: open in Gitpod and mongo shell docs links should point to right resources"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8224",
+      "time": "2023-03-17T10:49:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8224",
+      "text": "fix: open in Gitpod and mongo shell docs links should point to right resources"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8232",
+      "time": "2023-03-20T10:54:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8232",
+      "text": "fix: Hide all nutritional related info if no nutritional info on the box is selected"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8232",
+      "time": "2023-03-20T12:53:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8232",
+      "text": "fix: Hide all nutritional related info if no nutritional info on the box is selected"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8236",
+      "time": "2023-03-20T21:34:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8236",
+      "text": "fix: Do not show the lilo prompt in countries where it's unsupported"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8236",
+      "time": "2023-03-23T08:48:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8236",
+      "text": "fix: Do not show the lilo prompt in countries where it's unsupported"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8258",
+      "time": "2023-03-27T07:53:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8258",
+      "text": "feat: Prevention - On the fly quality checks in the product edit form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8258",
+      "time": "2023-05-03T07:52:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8258",
+      "text": "feat: Prevention - On the fly quality checks in the product edit form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8271",
+      "time": "2023-03-30T15:13:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8271",
+      "text": "fix: Nutrition facts completed state is not computed properly"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8271",
+      "time": "2023-04-14T17:21:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8271",
+      "text": "fix: Nutrition facts completed state is not computed properly"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8273",
+      "time": "2023-03-30T15:50:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8273",
+      "text": "fix: docker YAML key mapping duplication "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8273",
+      "time": "2023-03-30T16:15:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8273",
+      "text": "fix: docker YAML key mapping duplication "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8307",
+      "time": "2023-04-10T09:47:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8307",
+      "text": "fix: loosing the second facet at the end of the url on redirection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8307",
+      "time": "2023-04-13T17:44:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8307",
+      "text": "fix: loosing the second facet at the end of the url on redirection"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

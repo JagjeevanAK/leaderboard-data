@@ -1,0 +1,21 @@
+{
+  "last_updated": "2017-06-04T22:39:54Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#7",
+      "time": "2017-06-04T22:39:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/7",
+      "text": "Use NutriscoreView in product summary"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#7",
+      "time": "2017-06-05T17:07:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/7",
+      "text": "Use NutriscoreView in product summary"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

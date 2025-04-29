@@ -1,0 +1,98 @@
+{
+  "last_updated": "2025-04-20T18:20:32Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-dart#1064",
+      "time": "2025-04-20T18:20:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1064",
+      "text": "feat: Added kind parameter to getPricesParameters and getProofsParameters"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-dart#1064",
+      "time": "2025-04-25T07:50:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1064",
+      "text": "feat: Added kind parameter to getPricesParameters and getProofsParameters"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-dart#1065",
+      "time": "2025-04-20T19:42:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1065",
+      "text": "feat: add additional parameters to PriceUser model"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-dart#1065",
+      "time": "2025-04-22T09:24:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1065",
+      "text": "feat: add additional parameters to PriceUser model"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6430",
+      "time": "2025-03-08T11:12:52Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6430",
+      "text": "Fix: Center loading indicator in Price screen issue #6423"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6432",
+      "time": "2025-03-08T20:03:47Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6432",
+      "text": "fix: UI Styling Issue in Compatibility Percentage Display #6431"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6432",
+      "time": "2025-03-09T12:55:28Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6432",
+      "text": "fix: UI Styling Issue in Compatibility Percentage Display #6431"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6439",
+      "time": "2025-03-10T08:31:48Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6439",
+      "text": "fix: Display readable scanner type in debug info instead of object instance"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6439",
+      "time": "2025-03-10T08:53:06Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6439",
+      "text": "fix: Display readable scanner type in debug info instead of object instance"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6443",
+      "time": "2025-03-12T05:02:50Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6443",
+      "text": "fix: Fixed issue 'DraggableScrollableSheet assertion error' #6441"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6443",
+      "time": "2025-03-12T12:14:26Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6443",
+      "text": "fix: Fixed issue 'DraggableScrollableSheet assertion error' #6441"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6466",
+      "time": "2025-03-21T13:24:48Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6466",
+      "text": "fix:  New UI for the food preferences"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6559",
+      "time": "2025-04-20T18:25:44Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6559",
+      "text": "feat: Added Dashboard to price section"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

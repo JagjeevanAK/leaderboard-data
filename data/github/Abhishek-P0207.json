@@ -1,0 +1,42 @@
+{
+  "last_updated": "2025-03-25T16:05:04Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6477",
+      "time": "2025-03-25T16:05:04Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6477",
+      "text": "fix: Fixed negative amount issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6477",
+      "time": "2025-03-26T14:50:12Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6477",
+      "text": "fix: Fixed negative amount issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6480",
+      "time": "2025-03-26T17:23:18Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6480",
+      "text": "fix: Fixed settings defragmentation issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6504",
+      "time": "2025-03-31T17:47:11Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6504",
+      "text": "feat: Credential/Password sharing for android and website"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6525",
+      "time": "2025-04-06T13:04:30Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6525",
+      "text": "fix: Removed the option to add an item through barcode from Add a Price page"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

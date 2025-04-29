@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-02-25T14:44:53Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#5086",
+      "time": "2024-02-25T14:44:53Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/5086",
+      "text": "feat: Added neutral action to Smooth Alert dialog and updated app review dialog in login page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#5086",
+      "time": "2024-02-25T18:27:37Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/5086",
+      "text": "feat: Added neutral action to Smooth Alert dialog and updated app review dialog in login page"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2017-09-10T23:01:01Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#888",
+      "time": "2017-09-10T23:01:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/888",
+      "text": "Fix #854"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#888",
+      "time": "2017-09-12T07:42:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/888",
+      "text": "Fix #854"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

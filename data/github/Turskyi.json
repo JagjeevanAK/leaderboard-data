@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-01-27T01:05:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-dart#870",
+      "time": "2024-01-27T01:05:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/870",
+      "text": "Add the Ethical Scanner Android app to the list of apps using openfoodfacts-dart."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

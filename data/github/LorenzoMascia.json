@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-04-16T09:07:24Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6555",
+      "time": "2025-04-16T09:07:24Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6555",
+      "text": "fix: Move Hunger Games to a real view instead of overlay (#4681)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6562",
+      "time": "2025-04-24T14:53:48Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6562",
+      "text": "feat: Nutrition facts: check values before sending them #4446"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

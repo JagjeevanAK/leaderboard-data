@@ -1,0 +1,35 @@
+{
+  "last_updated": "2022-05-01T13:41:39Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1729",
+      "time": "2022-05-01T13:41:39Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1729",
+      "text": "feat: #849 Add language selection to dev mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1729",
+      "time": "2022-05-09T15:14:43Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1729",
+      "text": "feat: #849 Add language selection to dev mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1915",
+      "time": "2022-05-21T05:07:01Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1915",
+      "text": "fix: #1899 Language selection breaks app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1915",
+      "time": "2022-05-21T10:05:03Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1915",
+      "text": "fix: #1899 Language selection breaks app"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

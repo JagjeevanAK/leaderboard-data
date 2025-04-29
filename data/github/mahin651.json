@@ -1,0 +1,14 @@
+{
+  "last_updated": "2021-10-01T09:38:32Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#78",
+      "time": "2021-10-01T09:38:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/78",
+      "text": "Update object_detection.py"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

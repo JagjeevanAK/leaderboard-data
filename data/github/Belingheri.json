@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-12-04T13:32:31Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#166",
+      "time": "2021-12-04T13:32:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/166",
+      "text": "feat: Typescript declaration files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#166",
+      "time": "2022-04-12T10:47:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/166",
+      "text": "feat: Typescript declaration files"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

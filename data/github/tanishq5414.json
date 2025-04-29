@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-07-02T17:08:11Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4266",
+      "time": "2023-07-02T17:08:11Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4266",
+      "text": "fix: 4206 - search page misalignment in search-history_view.dart (#4210)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4266",
+      "time": "2023-07-07T10:50:21Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4266",
+      "text": "fix: 4206 - search page misalignment in search-history_view.dart (#4210)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

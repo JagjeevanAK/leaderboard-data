@@ -1,0 +1,28 @@
+{
+  "last_updated": "2018-12-03T06:18:29Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2011",
+      "time": "2018-12-03T06:18:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2011",
+      "text": "Change the Allergen Fragment to show a message when empty"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2014",
+      "time": "2018-12-04T09:08:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2014",
+      "text": "Change the Allergen Fragment to show a message when empty"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2014",
+      "time": "2018-12-07T18:04:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2014",
+      "text": "Change the Allergen Fragment to show a message when empty"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

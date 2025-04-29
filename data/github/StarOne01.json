@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-04-03T11:56:55Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6516",
+      "time": "2025-04-03T11:56:55Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6516",
+      "text": "fix: adjust padding logic in product image gallery layout"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6516",
+      "time": "2025-04-04T08:03:09Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6516",
+      "text": "fix: adjust padding logic in product image gallery layout"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

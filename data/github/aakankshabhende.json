@@ -1,0 +1,14 @@
+{
+  "last_updated": "2022-09-30T06:33:03Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7425",
+      "time": "2022-09-30T06:33:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7425",
+      "text": "taxonomy: vegetable protein added to the ingredients list"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

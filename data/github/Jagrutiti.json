@@ -1,0 +1,378 @@
+{
+  "last_updated": "2022-04-08T06:48:27Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#690",
+      "time": "2022-04-08T06:48:27Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/690",
+      "text": "doc: Robotoff doc update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#690",
+      "time": "2022-06-14T17:13:31Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/690",
+      "text": "doc: Robotoff doc update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#693",
+      "time": "2022-04-09T12:52:31Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/693",
+      "text": "feat: Adding MongoDB container to Robotoff in dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#693",
+      "time": "2022-09-27T09:16:30Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/693",
+      "text": "feat: Adding MongoDB container to Robotoff in dev"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#762",
+      "time": "2022-05-10T16:40:02Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/762",
+      "text": "doc: Updating documentation with details of installation for Windows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#762",
+      "time": "2022-05-18T13:46:03Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/762",
+      "text": "doc: Updating documentation with details of installation for Windows"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#772",
+      "time": "2022-05-19T15:19:14Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/772",
+      "text": "fix: Do not apply nutriscore prediction if it does not match the current nutriscore of the product"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#783",
+      "time": "2022-06-01T15:59:10Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/783",
+      "text": "Add an edit and remove button when nutriscore prediction is posted on Slack channel"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#783",
+      "time": "2022-06-11T08:45:23Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/783",
+      "text": "Add an edit and remove button when nutriscore prediction is posted on Slack channel"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#790",
+      "time": "2022-06-04T13:30:13Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/790",
+      "text": "doc: Added a documentation on testing and debugging."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#790",
+      "time": "2022-06-10T10:55:11Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/790",
+      "text": "doc: Added a documentation on testing and debugging."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#796",
+      "time": "2022-06-08T17:25:21Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/796",
+      "text": "feat: Robotoff quality monitoring: Saving AnnotationResult"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#796",
+      "time": "2022-09-27T09:15:39Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/796",
+      "text": "feat: Robotoff quality monitoring: Saving AnnotationResult"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#805",
+      "time": "2022-06-14T15:23:16Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/805",
+      "text": "feat: Test case to test if we need 3 votes (sent with user id) to get the question answered definitely "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#805",
+      "time": "2022-07-21T07:58:00Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/805",
+      "text": "feat: Test case to test if we need 3 votes (sent with user id) to get the question answered definitely "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#811",
+      "time": "2022-06-21T16:42:40Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/811",
+      "text": "doc: Fixing test and debug document styling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#811",
+      "time": "2022-07-07T15:27:18Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/811",
+      "text": "doc: Fixing test and debug document styling"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#815",
+      "time": "2022-06-26T15:28:21Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/815",
+      "text": "feat: display insight/prediction for a product"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#815",
+      "time": "2022-07-23T15:58:23Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/815",
+      "text": "feat: display insight/prediction for a product"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#823",
+      "time": "2022-06-28T15:40:07Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/823",
+      "text": "feat: Adding a regex for gluten packaging code"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#823",
+      "time": "2022-07-13T07:43:17Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/823",
+      "text": "feat: Adding a regex for gluten packaging code"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#832",
+      "time": "2022-07-21T17:13:54Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/832",
+      "text": "feat: filter images and display in a list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#832",
+      "time": "2022-07-31T18:18:34Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/832",
+      "text": "feat: filter images and display in a list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#834",
+      "time": "2022-07-29T11:32:46Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/834",
+      "text": "feat: get image prediction list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#834",
+      "time": "2022-08-30T14:13:38Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/834",
+      "text": "feat: get image prediction list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#858",
+      "time": "2022-08-08T17:15:49Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/858",
+      "text": "feat: Do not apply nutriscore prediction if it does not match the current nutriscore of the product"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#859",
+      "time": "2022-08-15T04:23:48Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/859",
+      "text": "feat: Filter insights opportunities based on type of tags"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#859",
+      "time": "2022-09-12T13:29:12Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/859",
+      "text": "feat: Filter insights opportunities based on type of tags"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#882",
+      "time": "2022-08-31T09:49:10Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/882",
+      "text": "feat: Get Logo Annotation list "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#882",
+      "time": "2022-09-02T12:56:02Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/882",
+      "text": "feat: Get Logo Annotation list "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#887",
+      "time": "2022-09-03T05:30:09Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/887",
+      "text": "fix: Added server_domain all \"Collection\" class"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#887",
+      "time": "2022-09-05T15:50:51Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/887",
+      "text": "fix: Added server_domain all \"Collection\" class"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#888",
+      "time": "2022-09-03T08:22:03Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/888",
+      "text": "feat: Sort collection API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#888",
+      "time": "2022-09-06T08:30:55Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/888",
+      "text": "feat: Sort collection API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#893",
+      "time": "2022-09-11T15:39:55Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/893",
+      "text": "refactor: adding a test for MSC code"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#893",
+      "time": "2022-11-08T10:11:45Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/893",
+      "text": "refactor: adding a test for MSC code"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#898",
+      "time": "2022-09-13T16:41:23Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/898",
+      "text": "doc: Added documentation for 5 Collection APIs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#898",
+      "time": "2022-09-16T20:11:31Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/898",
+      "text": "doc: Added documentation for 5 Collection APIs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#899",
+      "time": "2022-09-14T15:52:23Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/899",
+      "text": "feat: add server_domain parameter to the UnansweredQuestionsCollection API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#899",
+      "time": "2022-09-14T16:39:34Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/899",
+      "text": "feat: add server_domain parameter to the UnansweredQuestionsCollection API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#905",
+      "time": "2022-09-20T14:46:14Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/905",
+      "text": "feat: Filter product by country to get answered questions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#905",
+      "time": "2022-09-27T08:36:59Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/905",
+      "text": "feat: Filter product by country to get answered questions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#921",
+      "time": "2022-09-29T15:40:56Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/921",
+      "text": "feat: Request image directly from MongoDB instead of Product Opener"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#921",
+      "time": "2022-10-14T12:24:10Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/921",
+      "text": "feat: Request image directly from MongoDB instead of Product Opener"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#220",
+      "time": "2022-10-26T16:20:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/220",
+      "text": "feat: Detect packaging with Circular net model"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#220",
+      "time": "2025-03-04T13:02:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/220",
+      "text": "feat: Detect packaging with Circular net model"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#157",
+      "time": "2022-12-25T13:02:52Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/157",
+      "text": "feat: updated existing APIs to enable to generate OpenAPI documentation "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#178",
+      "time": "2023-01-15T14:09:11Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/178",
+      "text": "fix: Makefile unable to detect parser directory in Windows 11"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#178",
+      "time": "2023-01-30T09:37:32Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/178",
+      "text": "fix: Makefile unable to detect parser directory in Windows 11"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/taxonomy-editor#237",
+      "time": "2023-04-14T09:53:57Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/237",
+      "text": "feat: Delete taxonomy project"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/taxonomy-editor#237",
+      "time": "2023-05-09T12:49:32Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/237",
+      "text": "feat: Delete taxonomy project"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames#403",
+      "time": "2022-03-19T11:03:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/403",
+      "text": "feat: (API) Integrate Robotoff API to pre-populate the nutrition game"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames#403",
+      "time": "2022-03-31T13:02:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/403",
+      "text": "feat: (API) Integrate Robotoff API to pre-populate the nutrition game"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2018-12-25T11:19:39Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1590",
+      "time": "2018-12-25T11:19:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1590",
+      "text": "Poland packaging"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1590",
+      "time": "2019-06-24T09:23:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1590",
+      "text": "Poland packaging"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

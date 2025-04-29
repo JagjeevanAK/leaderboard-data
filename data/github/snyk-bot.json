@@ -1,0 +1,35 @@
+{
+  "last_updated": "2020-05-04T10:39:21Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3365",
+      "time": "2020-05-04T10:39:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3365",
+      "text": "[Snyk] Fix for 1 vulnerabilities"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3365",
+      "time": "2020-05-06T09:34:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3365",
+      "text": "[Snyk] Fix for 1 vulnerabilities"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5085",
+      "time": "2021-04-01T07:46:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5085",
+      "text": "[Snyk] Security upgrade snyk from 1.514.0 to 1.518.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5085",
+      "time": "2021-04-01T14:21:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5085",
+      "text": "[Snyk] Security upgrade snyk from 1.514.0 to 1.518.0"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

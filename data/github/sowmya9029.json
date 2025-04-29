@@ -1,0 +1,49 @@
+{
+  "last_updated": "2018-02-18T01:48:17Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#794",
+      "time": "2018-02-18T01:48:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/794",
+      "text": "fix issue #484 (Remove image when no data in nutrient levels)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#794",
+      "time": "2018-02-22T18:50:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/794",
+      "text": "fix issue #484 (Remove image when no data in nutrient levels)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#870",
+      "time": "2018-02-22T19:20:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/870",
+      "text": "fix issue #260 - Display additives as a structured list #260"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#870",
+      "time": "2018-02-23T15:52:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/870",
+      "text": "fix issue #260 - Display additives as a structured list #260"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1227",
+      "time": "2018-03-13T02:56:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1227",
+      "text": "Closes #868: Share images with Open Food Facts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1227",
+      "time": "2018-03-31T17:50:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1227",
+      "text": "Closes #868: Share images with Open Food Facts"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,35 @@
+{
+  "last_updated": "2024-12-31T15:14:29Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#310",
+      "time": "2024-12-31T15:14:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/310",
+      "text": "fix(metadata): set license to \"MIT\" (as in LICENSE file)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#310",
+      "time": "2025-01-02T17:13:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/310",
+      "text": "fix(metadata): set license to \"MIT\" (as in LICENSE file)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#311",
+      "time": "2024-12-31T15:18:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/311",
+      "text": "fix(metadata): add project repository URL"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#311",
+      "time": "2025-01-02T17:11:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/311",
+      "text": "fix(metadata): add project repository URL"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

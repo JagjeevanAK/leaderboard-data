@@ -1,0 +1,210 @@
+{
+  "last_updated": "2018-02-15T20:54:35Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#768",
+      "time": "2018-02-15T20:54:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/768",
+      "text": "Fixes #519 Share icon is grey while edit icon is black"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#780",
+      "time": "2018-02-17T07:23:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/780",
+      "text": "Fixes #773 Camera Scan button making it difficult to view the nutrition facts for some products"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#790",
+      "time": "2018-02-17T19:02:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/790",
+      "text": "Issue #764 There is an empty list item in the start of the categories tab."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#795",
+      "time": "2018-02-18T06:55:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/795",
+      "text": "Fixes #764 There is an empty list item in the categories tab"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#796",
+      "time": "2018-02-18T07:19:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/796",
+      "text": "Fixes #773 Camera Scan button making it difficult to view the nutrition facts for some products"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#796",
+      "time": "2018-02-18T12:40:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/796",
+      "text": "Fixes #773 Camera Scan button making it difficult to view the nutrition facts for some products"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#798",
+      "time": "2018-02-18T11:15:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/798",
+      "text": "Fixes #519 Share icon is grey and of different size"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1002",
+      "time": "2018-03-01T07:52:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1002",
+      "text": "Fixes #754 Add Side scroll to categories"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1002",
+      "time": "2018-03-01T21:34:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1002",
+      "text": "Fixes #754 Add Side scroll to categories"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1094",
+      "time": "2018-03-04T06:50:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1094",
+      "text": "Fixes #1093 Last seen of Product Issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1094",
+      "time": "2018-03-10T23:29:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1094",
+      "text": "Fixes #1093 Last seen of Product Issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1096",
+      "time": "2018-03-04T07:48:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1096",
+      "text": "Fixes #1095 Changed back arrow color to black"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1096",
+      "time": "2018-03-04T16:58:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1096",
+      "text": "Fixes #1095 Changed back arrow color to black"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1116",
+      "time": "2018-03-04T14:50:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1116",
+      "text": "fixes #1108 Make packaging clickable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1117",
+      "time": "2018-03-04T15:25:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1117",
+      "text": "Fixes #1114 Make stores clickable"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1117",
+      "time": "2018-03-12T11:24:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1117",
+      "text": "Fixes #1114 Make stores clickable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1120",
+      "time": "2018-03-05T03:45:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1120",
+      "text": "Fixes #764 There is an empty item at the start of categories list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1120",
+      "time": "2018-03-05T12:15:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1120",
+      "text": "Fixes #764 There is an empty item at the start of categories list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1145",
+      "time": "2018-03-07T06:09:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1145",
+      "text": "Closes #1144 The labels of some languages in hindi are not correct"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1145",
+      "time": "2018-03-07T10:40:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1145",
+      "text": "Closes #1144 The labels of some languages in hindi are not correct"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1159",
+      "time": "2018-03-08T03:17:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1159",
+      "text": "Fixes #775  Sorted Allergens List"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1160",
+      "time": "2018-03-08T03:30:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1160",
+      "text": "Fixes #1146 Loading Toast keeps loading in Allergen Alert"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1160",
+      "time": "2018-03-12T09:01:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1160",
+      "text": "Fixes #1146 Loading Toast keeps loading in Allergen Alert"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1168",
+      "time": "2018-03-08T14:36:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1168",
+      "text": "Fixes #775 Sorted Allergens List "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1168",
+      "time": "2018-03-09T14:05:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1168",
+      "text": "Fixes #775 Sorted Allergens List "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1171",
+      "time": "2018-03-08T16:50:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1171",
+      "text": "fixes #1108 Make packaging clickable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1178",
+      "time": "2018-03-09T06:22:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1178",
+      "text": "Fixed #1134: Added option to change the language. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1324",
+      "time": "2018-03-23T18:17:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1324",
+      "text": "Fixes #422 Add an option to show barcode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1325",
+      "time": "2018-03-23T19:49:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1325",
+      "text": "Closes #1178: Added toast for no translations available in allergen list"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

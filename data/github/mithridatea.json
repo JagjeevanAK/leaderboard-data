@@ -1,0 +1,140 @@
+{
+  "last_updated": "2022-01-16T17:34:56Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#546",
+      "time": "2022-01-16T17:34:56Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/546",
+      "text": "Split unit and integration tests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#546",
+      "time": "2022-01-17T10:27:36Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/546",
+      "text": "Split unit and integration tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#547",
+      "time": "2022-01-17T14:34:25Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/547",
+      "text": "Split predictions from insights"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#547",
+      "time": "2022-01-17T15:47:12Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/547",
+      "text": "Split predictions from insights"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#556",
+      "time": "2022-01-24T10:04:13Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/556",
+      "text": "Split insight/prediction (part 2)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#556",
+      "time": "2022-01-28T14:50:59Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/556",
+      "text": "Split insight/prediction (part 2)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#571",
+      "time": "2022-01-30T10:59:12Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/571",
+      "text": "Mypy black updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#571",
+      "time": "2022-01-31T13:05:04Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/571",
+      "text": "Mypy black updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#592",
+      "time": "2022-02-02T09:03:22Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/592",
+      "text": "Make `prediction.automatic_processing` field nullable"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#592",
+      "time": "2022-02-02T10:17:43Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/592",
+      "text": "Make `prediction.automatic_processing` field nullable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#613",
+      "time": "2022-02-08T15:40:18Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/613",
+      "text": "Split prediction from insights - part 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#615",
+      "time": "2022-02-09T10:40:00Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/615",
+      "text": "Split prediction insight 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#615",
+      "time": "2022-02-16T09:57:18Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/615",
+      "text": "Split prediction insight 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#616",
+      "time": "2022-02-09T15:48:16Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/616",
+      "text": "Move OCR category predictor to legacy folder"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#616",
+      "time": "2022-02-16T09:58:13Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/616",
+      "text": "Move OCR category predictor to legacy folder"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#626",
+      "time": "2022-02-16T15:31:18Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/626",
+      "text": "Fix object detection pipeline"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#626",
+      "time": "2022-02-16T16:04:07Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/626",
+      "text": "Fix object detection pipeline"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#630",
+      "time": "2022-02-21T13:45:14Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/630",
+      "text": "feat: make the code clearer/more robust to errors & improve unit test coverage"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#630",
+      "time": "2022-03-01T11:07:22Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/630",
+      "text": "feat: make the code clearer/more robust to errors & improve unit test coverage"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

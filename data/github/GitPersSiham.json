@@ -1,0 +1,77 @@
+{
+  "last_updated": "2024-07-15T12:31:46Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/search-a-licious#220",
+      "time": "2024-07-15T12:31:46Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/220",
+      "text": "feat: add default images for products without image in off.html #208"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/search-a-licious#220",
+      "time": "2024-07-16T21:37:42Z",
+      "link": "https://github.com/openfoodfacts/search-a-licious/pull/220",
+      "text": "feat: add default images for products without image in off.html #208"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/rate-my-recipe#14",
+      "time": "2023-05-17T11:41:56Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/14",
+      "text": "addind scores for both recipes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/rate-my-recipe#14",
+      "time": "2023-05-25T14:56:40Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/14",
+      "text": "addind scores for both recipes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/rate-my-recipe#15",
+      "time": "2023-05-22T09:47:32Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/15",
+      "text": "adding button share recipe"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/rate-my-recipe#15",
+      "time": "2023-05-23T13:31:19Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/15",
+      "text": "adding button share recipe"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/rate-my-recipe#16",
+      "time": "2023-05-23T10:27:56Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/16",
+      "text": "Display the quantity name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/rate-my-recipe#16",
+      "time": "2023-05-31T17:26:51Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/16",
+      "text": "Display the quantity name"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/rate-my-recipe#18",
+      "time": "2023-05-30T13:23:55Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/18",
+      "text": "improve design"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/rate-my-recipe#18",
+      "time": "2023-05-31T18:21:43Z",
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/18",
+      "text": "improve design"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

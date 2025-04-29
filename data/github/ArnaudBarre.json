@@ -1,0 +1,21 @@
+{
+  "last_updated": "2019-03-22T08:57:12Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-hungergames-react#6",
+      "time": "2019-03-22T08:57:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames-react/pull/6",
+      "text": "Add ingredients page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-hungergames-react#6",
+      "time": "2019-03-22T08:57:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames-react/pull/6",
+      "text": "Add ingredients page"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

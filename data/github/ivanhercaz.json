@@ -1,0 +1,35 @@
+{
+  "last_updated": "2018-10-24T07:05:55Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openbeautyfacts#70",
+      "time": "2018-10-24T07:05:55Z",
+      "link": "https://github.com/openfoodfacts/openbeautyfacts/pull/70",
+      "text": "Minor fixes in README.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openbeautyfacts#70",
+      "time": "2018-10-25T10:52:00Z",
+      "link": "https://github.com/openfoodfacts/openbeautyfacts/pull/70",
+      "text": "Minor fixes in README.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-apirestpython#13",
+      "time": "2018-11-02T01:38:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/13",
+      "text": "Minor fixes in README.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-apirestpython#13",
+      "time": "2018-11-04T13:17:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/13",
+      "text": "Minor fixes in README.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

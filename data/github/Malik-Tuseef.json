@@ -1,0 +1,49 @@
+{
+  "last_updated": "2022-07-04T12:03:01Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2493",
+      "time": "2022-07-04T12:03:01Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2493",
+      "text": "fix: Make the product page action row top aligned solved ✅"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2493",
+      "time": "2022-07-04T13:43:13Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2493",
+      "text": "fix: Make the product page action row top aligned solved ✅"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2500",
+      "time": "2022-07-05T08:52:31Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2500",
+      "text": "fix: People have issues with cropping"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2500",
+      "time": "2022-07-07T08:43:07Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2500",
+      "text": "fix: People have issues with cropping"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#2511",
+      "time": "2022-07-06T08:21:00Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2511",
+      "text": "fix: Sign up form: different font styles"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#2511",
+      "time": "2022-07-07T08:44:15Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/2511",
+      "text": "fix: Sign up form: different font styles"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

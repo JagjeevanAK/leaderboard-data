@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-04-18T23:52:10Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1098",
+      "time": "2023-04-18T23:52:10Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1098",
+      "text": "feat: Create UPC_Image detector"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#1098",
+      "time": "2023-05-02T06:41:58Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1098",
+      "text": "feat: Create UPC_Image detector"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

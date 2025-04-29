@@ -1,0 +1,259 @@
+{
+  "last_updated": "2019-01-05T12:16:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2061",
+      "time": "2019-01-05T12:16:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2061",
+      "text": "Fixes #1357: Add an ingredient analysis tab for Open Beauty Facts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2061",
+      "time": "2019-01-14T00:20:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2061",
+      "text": "Fixes #1357: Add an ingredient analysis tab for Open Beauty Facts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2095",
+      "time": "2019-01-13T14:21:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2095",
+      "text": "Fixes #1849 : Turn the summary tab into an actual summary"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2097",
+      "time": "2019-01-13T18:09:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2097",
+      "text": "Fixes #1849: Turn the summary tab into an actual summary"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2097",
+      "time": "2019-01-24T10:51:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2097",
+      "text": "Fixes #1849: Turn the summary tab into an actual summary"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2127",
+      "time": "2019-01-23T04:55:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2127",
+      "text": "Fixes #247: Add link to show more info about traffic lights (high, lo…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2127",
+      "time": "2019-02-16T11:53:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2127",
+      "text": "Fixes #247: Add link to show more info about traffic lights (high, lo…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2163",
+      "time": "2019-01-26T20:26:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2163",
+      "text": "Fixes #1005: Common name is always displayed in French, although we h…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2163",
+      "time": "2019-02-19T10:39:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2163",
+      "text": "Fixes #1005: Common name is always displayed in French, although we h…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2198",
+      "time": "2019-02-04T10:49:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2198",
+      "text": "Fixes #2158: Let users add products to lists"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2198",
+      "time": "2019-02-19T10:50:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2198",
+      "text": "Fixes #2158: Let users add products to lists"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2200",
+      "time": "2019-02-04T16:20:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2200",
+      "text": "Fixes #2186: Hide the \"Take a photo of the nutrition table\" in the OB…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2200",
+      "time": "2019-02-14T20:04:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2200",
+      "text": "Fixes #2186: Hide the \"Take a photo of the nutrition table\" in the OB…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2211",
+      "time": "2019-02-07T17:46:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2211",
+      "text": "Fixes #2202: Calculate nutrition facts doesn't take liquid units into…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2211",
+      "time": "2019-02-21T05:39:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2211",
+      "text": "Fixes #2202: Calculate nutrition facts doesn't take liquid units into…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2212",
+      "time": "2019-02-08T19:43:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2212",
+      "text": "Fixes #2206: Display colored CO2 icon depending on the Carbon impact …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2212",
+      "time": "2019-02-09T17:28:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2212",
+      "text": "Fixes #2206: Display colored CO2 icon depending on the Carbon impact …"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2217",
+      "time": "2019-02-10T17:22:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2217",
+      "text": "Fixes #2215: java.lang.IndexOutOfBoundsException: Index: 0, Size: 0 a…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2217",
+      "time": "2019-02-10T21:15:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2217",
+      "text": "Fixes #2215: java.lang.IndexOutOfBoundsException: Index: 0, Size: 0 a…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2227",
+      "time": "2019-02-16T21:07:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2227",
+      "text": "Fixes #2225: Display a special message when the product doesn't have …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2227",
+      "time": "2019-02-23T10:41:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2227",
+      "text": "Fixes #2225: Display a special message when the product doesn't have …"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2253",
+      "time": "2019-02-19T20:10:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2253",
+      "text": "Fixes #2249: Create a new list wording change from Yes/No to Create/C…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2253",
+      "time": "2019-02-20T08:18:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2253",
+      "text": "Fixes #2249: Create a new list wording change from Yes/No to Create/C…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2256",
+      "time": "2019-02-19T21:45:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2256",
+      "text": "Fixes #2254 : Display other fields of the product in the appropriate …"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2256",
+      "time": "2019-03-14T05:02:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2256",
+      "text": "Fixes #2254 : Display other fields of the product in the appropriate …"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2259",
+      "time": "2019-02-20T09:12:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2259",
+      "text": "Fixes #2244 : The project tagline should always fit on one line"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2259",
+      "time": "2019-02-22T12:54:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2259",
+      "text": "Fixes #2244 : The project tagline should always fit on one line"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2261",
+      "time": "2019-02-20T10:22:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2261",
+      "text": "Fixes #2260 : App tagline is displayed in English when the language i…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2269",
+      "time": "2019-02-20T20:46:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2269",
+      "text": "Fixes #2263 : Hide the barcode in the history view"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2269",
+      "time": "2019-02-22T12:55:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2269",
+      "text": "Fixes #2263 : Hide the barcode in the history view"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2282",
+      "time": "2019-02-21T20:32:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2282",
+      "text": "Fixes #2281 : Save/Discard text is displayed in a wrong way"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2282",
+      "time": "2019-02-22T10:51:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2282",
+      "text": "Fixes #2281 : Save/Discard text is displayed in a wrong way"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2283",
+      "time": "2019-02-21T20:52:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2283",
+      "text": "Fixes #2237 : Remove the Home text in the home"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2283",
+      "time": "2019-02-22T10:50:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2283",
+      "text": "Fixes #2237 : Remove the Home text in the home"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2352",
+      "time": "2019-03-03T22:28:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2352",
+      "text": "Fixes #2321 : I'm eating this should be in view mode, not edit mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2360",
+      "time": "2019-03-04T14:53:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2360",
+      "text": "Fixes #2321 : I'm eating this should be in view mode, not edit mode"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,63 @@
+{
+  "last_updated": "2022-06-22T15:07:05Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4777",
+      "time": "2022-06-22T15:07:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4777",
+      "text": "build: adopt Gradle Version Catalog"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4777",
+      "time": "2022-07-24T12:15:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4777",
+      "text": "build: adopt Gradle Version Catalog"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4794",
+      "time": "2022-07-07T14:20:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4794",
+      "text": "fix: Fix crashes by ensuring layout ID is set before inflating Camera View stub + raise AGP for Kotlin 1.7.0 compatibility"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4794",
+      "time": "2022-07-19T16:21:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4794",
+      "text": "fix: Fix crashes by ensuring layout ID is set before inflating Camera View stub + raise AGP for Kotlin 1.7.0 compatibility"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-kotlin#3",
+      "time": "2022-11-19T00:22:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-kotlin/pull/3",
+      "text": "Initial OpenFoodFacts Kotlin/Multiplatform SDK project"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-kotlin#3",
+      "time": "2022-12-01T09:58:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-kotlin/pull/3",
+      "text": "Initial OpenFoodFacts Kotlin/Multiplatform SDK project"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-kotlin#6",
+      "time": "2022-12-02T11:32:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-kotlin/pull/6",
+      "text": "feat: Documentation, Organisation, Cleanup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-kotlin#6",
+      "time": "2024-07-01T11:11:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-kotlin/pull/6",
+      "text": "feat: Documentation, Organisation, Cleanup"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

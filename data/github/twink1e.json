@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-10-01T14:41:30Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#752",
+      "time": "2020-10-01T14:41:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/752",
+      "text": "change clear btn on history tab to bin icon"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#752",
+      "time": "2020-10-01T16:38:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/752",
+      "text": "change clear btn on history tab to bin icon"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

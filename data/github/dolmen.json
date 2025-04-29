@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-12-03T10:14:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11086",
+      "time": "2024-12-03T10:14:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11086",
+      "text": "fix: display of usage in scripts/import_csv_file.pl"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11086",
+      "time": "2024-12-09T14:55:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11086",
+      "text": "fix: display of usage in scripts/import_csv_file.pl"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

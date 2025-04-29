@@ -1,0 +1,119 @@
+{
+  "last_updated": "2019-08-29T06:57:03Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2248",
+      "time": "2019-08-29T06:57:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2248",
+      "text": "add plurals of additives (de)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2248",
+      "time": "2019-08-29T08:58:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2248",
+      "text": "add plurals of additives (de)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#13",
+      "time": "2019-09-18T21:12:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/13",
+      "text": "Cache & HTTP Client DI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#13",
+      "time": "2019-10-04T16:22:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/13",
+      "text": "Cache & HTTP Client DI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#15",
+      "time": "2020-01-27T17:03:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/15",
+      "text": "update readme and example"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#15",
+      "time": "2020-01-27T17:09:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/15",
+      "text": "update readme and example"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#16",
+      "time": "2020-02-07T11:20:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/16",
+      "text": "Specific Document Types and Raw Data "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#16",
+      "time": "2020-02-25T11:05:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/16",
+      "text": "Specific Document Types and Raw Data "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#17",
+      "time": "2020-02-25T14:51:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/17",
+      "text": "re-add Api-Info into Document"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#17",
+      "time": "2020-02-25T15:49:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/17",
+      "text": "re-add Api-Info into Document"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#22",
+      "time": "2020-03-06T11:03:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/22",
+      "text": "Document Testing and Testing on different PHP Versions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#22",
+      "time": "2020-03-06T17:00:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/22",
+      "text": "Document Testing and Testing on different PHP Versions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#29",
+      "time": "2020-11-10T14:35:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/29",
+      "text": "openfoodfacts-php-25 Improve performance of Document:class"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#29",
+      "time": "2020-11-10T20:35:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/29",
+      "text": "openfoodfacts-php-25 Improve performance of Document:class"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-php#47",
+      "time": "2023-02-16T17:25:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/47",
+      "text": "feat: 0.3.x dev - Update dependencies and PHP to 8.1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-php#47",
+      "time": "2024-05-01T08:06:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/47",
+      "text": "feat: 0.3.x dev - Update dependencies and PHP to 8.1"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,98 @@
+{
+  "last_updated": "2019-08-20T20:51:36Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2210",
+      "time": "2019-08-20T20:51:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2210",
+      "text": "Issue/1466"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2210",
+      "time": "2019-08-21T10:53:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2210",
+      "text": "Issue/1466"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2284",
+      "time": "2019-09-06T00:03:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2284",
+      "text": "Issue/1960"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2284",
+      "time": "2019-09-06T08:08:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2284",
+      "text": "Issue/1960"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2303",
+      "time": "2019-09-10T13:54:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2303",
+      "text": "fix for issue 2273"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2303",
+      "time": "2019-09-11T08:14:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2303",
+      "text": "fix for issue 2273"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2320",
+      "time": "2019-09-12T20:56:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2320",
+      "text": "fix for issue #2010: continue page size in recent change pagination"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2320",
+      "time": "2019-09-13T17:26:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2320",
+      "text": "fix for issue #2010: continue page size in recent change pagination"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2330",
+      "time": "2019-09-14T21:58:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2330",
+      "text": "Issue/2285"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2330",
+      "time": "2019-09-16T09:32:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2330",
+      "text": "Issue/2285"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2760",
+      "time": "2019-12-10T01:34:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2760",
+      "text": "Issue/2657"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2764",
+      "time": "2019-12-10T18:43:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2764",
+      "text": "Issue/2657 #2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2764",
+      "time": "2019-12-10T19:27:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2764",
+      "text": "Issue/2657 #2"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

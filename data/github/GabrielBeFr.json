@@ -1,0 +1,378 @@
+{
+  "last_updated": "2022-09-09T08:46:01Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#891",
+      "time": "2022-09-09T08:46:01Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/891",
+      "text": "feat: Extraction of category by REGEX on AOP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#891",
+      "time": "2022-09-23T07:26:32Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/891",
+      "text": "feat: Extraction of category by REGEX on AOP"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#897",
+      "time": "2022-09-13T14:56:39Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/897",
+      "text": "feat: Extract USDA packager codes with REGEX and flashtext"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#897",
+      "time": "2022-09-20T12:16:36Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/897",
+      "text": "feat: Extract USDA packager codes with REGEX and flashtext"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#911",
+      "time": "2022-09-23T07:36:48Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/911",
+      "text": "doc: Missing make checks"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#911",
+      "time": "2022-09-23T10:36:56Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/911",
+      "text": "doc: Missing make checks"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#925",
+      "time": "2022-09-30T14:40:42Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/925",
+      "text": "fix: Stopping tests when one already failed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#944",
+      "time": "2022-10-07T12:52:49Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/944",
+      "text": "fix: adding documentation about the insights/annotate.py file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#944",
+      "time": "2022-10-10T13:30:01Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/944",
+      "text": "fix: adding documentation about the insights/annotate.py file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#945",
+      "time": "2022-10-07T13:55:56Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/945",
+      "text": "fix: adding a benchmark done with cosine-distance to the research doc"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#945",
+      "time": "2022-10-10T13:14:40Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/945",
+      "text": "fix: adding a benchmark done with cosine-distance to the research doc"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#955",
+      "time": "2022-10-12T15:05:44Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/955",
+      "text": "doc: adding results of the classifier benchmark to the doc"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#955",
+      "time": "2022-10-14T12:05:17Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/955",
+      "text": "doc: adding results of the classifier benchmark to the doc"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#962",
+      "time": "2022-10-17T08:43:03Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/962",
+      "text": "doc: Fixing classifier benchmarks results"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#962",
+      "time": "2022-10-17T08:58:59Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/962",
+      "text": "doc: Fixing classifier benchmarks results"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1020",
+      "time": "2022-12-21T11:01:40Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1020",
+      "text": "Upgrade ann"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1024",
+      "time": "2022-12-23T14:06:51Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1024",
+      "text": "docs: Documenting ANN changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#1024",
+      "time": "2022-12-29T09:23:44Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1024",
+      "text": "docs: Documenting ANN changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1041",
+      "time": "2023-01-03T15:23:53Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1041",
+      "text": "docs: ann documentation in robotoff technical reference"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#1041",
+      "time": "2023-01-24T14:11:19Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1041",
+      "text": "docs: ann documentation in robotoff technical reference"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1057",
+      "time": "2023-02-02T16:51:32Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1057",
+      "text": "fix: manually cropping and resizing of logos before CLIP processor"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#1057",
+      "time": "2023-02-06T13:11:27Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1057",
+      "text": "fix: manually cropping and resizing of logos before CLIP processor"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7290",
+      "time": "2022-09-02T10:49:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7290",
+      "text": "docs: Modification of the Dev environment quick start guide to ease install…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7290",
+      "time": "2022-09-05T08:22:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7290",
+      "text": "docs: Modification of the Dev environment quick start guide to ease install…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#202",
+      "time": "2022-10-07T14:12:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/202",
+      "text": "fix: adding cosine distance and results to the benchmark"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#202",
+      "time": "2022-10-10T14:54:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/202",
+      "text": "fix: adding cosine distance and results to the benchmark"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#210",
+      "time": "2022-10-12T15:01:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/210",
+      "text": "feat: adding code to compute benchmark using models as label classifiers"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#210",
+      "time": "2022-10-14T12:05:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/210",
+      "text": "feat: adding code to compute benchmark using models as label classifiers"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#212",
+      "time": "2022-10-14T15:07:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/212",
+      "text": "docs: adding doc to generate a dump of cropped logos from images"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#212",
+      "time": "2022-10-17T07:21:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/212",
+      "text": "docs: adding doc to generate a dump of cropped logos from images"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#215",
+      "time": "2022-10-17T08:48:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/215",
+      "text": "fix: adapting benchmark code to changes in the dataset"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#215",
+      "time": "2022-10-17T08:59:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/215",
+      "text": "fix: adapting benchmark code to changes in the dataset"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#218",
+      "time": "2022-10-21T14:55:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/218",
+      "text": "fix: generating embeddings with CLIP rather than EfficientNet"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#218",
+      "time": "2022-10-24T13:19:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/218",
+      "text": "fix: generating embeddings with CLIP rather than EfficientNet"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#219",
+      "time": "2022-10-24T15:07:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/219",
+      "text": "fix: Doc image dump generation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#219",
+      "time": "2023-01-04T13:14:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/219",
+      "text": "fix: Doc image dump generation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#237",
+      "time": "2022-12-02T15:17:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/237",
+      "text": "feat: Adding ANN benchmarks"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#237",
+      "time": "2022-12-02T15:50:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/237",
+      "text": "feat: Adding ANN benchmarks"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#238",
+      "time": "2022-12-02T15:58:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/238",
+      "text": "feat: adding clip and faiss in generation scripts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#238",
+      "time": "2022-12-02T16:03:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/238",
+      "text": "feat: adding clip and faiss in generation scripts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#252",
+      "time": "2023-01-03T15:33:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/252",
+      "text": "fix: Changing dimensions of CLIP output"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#254",
+      "time": "2023-01-04T11:44:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/254",
+      "text": "Ann benchmarks"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#255",
+      "time": "2023-01-04T11:50:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/255",
+      "text": "feat: adding ANN benchmarks"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#255",
+      "time": "2023-01-13T14:32:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/255",
+      "text": "feat: adding ANN benchmarks"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#256",
+      "time": "2023-01-04T13:30:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/256",
+      "text": "fix: Delete benchmark and change CLIP"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#268",
+      "time": "2023-01-26T10:13:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/268",
+      "text": "fix: adapting script for CLIP to generate 512 embeddings"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#268",
+      "time": "2023-01-30T12:37:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/268",
+      "text": "fix: adapting script for CLIP to generate 512 embeddings"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#269",
+      "time": "2023-01-26T10:20:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/269",
+      "text": "fix: deleting 'benchmark' folder, as 'benchmarks' exist"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#269",
+      "time": "2023-01-30T10:00:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/269",
+      "text": "fix: deleting 'benchmark' folder, as 'benchmarks' exist"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ai#279",
+      "time": "2023-02-28T15:10:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/279",
+      "text": "feat: adding logo-classifier scripts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ai#279",
+      "time": "2023-11-03T14:01:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/279",
+      "text": "feat: adding logo-classifier scripts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#409",
+      "time": "2022-12-23T10:23:57Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/409",
+      "text": "fix: Adapt Hunger Games to the ANN modification in Robotoff"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#409",
+      "time": "2022-12-26T14:25:04Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/409",
+      "text": "fix: Adapt Hunger Games to the ANN modification in Robotoff"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

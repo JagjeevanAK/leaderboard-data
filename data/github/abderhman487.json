@@ -1,0 +1,119 @@
+{
+  "last_updated": "2025-04-12T17:46:20Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1545",
+      "time": "2025-04-12T17:46:20Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1545",
+      "text": "fix: Add bounding box to nutrition extraction"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11678",
+      "time": "2025-03-27T00:11:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11678",
+      "text": "refactor: Convert additives tests to JSON format for better maintainability"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11678",
+      "time": "2025-03-28T11:23:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11678",
+      "text": "refactor: Convert additives tests to JSON format for better maintainability"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11695",
+      "time": "2025-03-28T21:27:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11695",
+      "text": "refactor: Update allergens tests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11695",
+      "time": "2025-03-31T12:59:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11695",
+      "text": "refactor: Update allergens tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11699",
+      "time": "2025-03-31T01:44:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11699",
+      "text": "fix: Fix GitHub Actions workflow to properly fetch pull request branch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/facets-knowledge-panels#158",
+      "time": "2025-03-12T03:15:12Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/158",
+      "text": "ci: Upgrade the CI pipeline to use docker compose and Python 3.11"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/facets-knowledge-panels#159",
+      "time": "2025-03-12T05:19:52Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/159",
+      "text": "ci: Upgrade Docker and Python versions in CI pipeline"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/facets-knowledge-panels#163",
+      "time": "2025-03-13T15:22:13Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/163",
+      "text": "docs: Update Project-setup-locally.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/facets-knowledge-panels#164",
+      "time": "2025-03-13T15:24:32Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/164",
+      "text": "docs: Update Testing.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/facets-knowledge-panels#165",
+      "time": "2025-03-13T15:35:47Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/165",
+      "text": "ci: Update container-deploy.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/facets-knowledge-panels#165",
+      "time": "2025-03-14T10:53:12Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/165",
+      "text": "ci: Update container-deploy.yml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/facets-knowledge-panels#166",
+      "time": "2025-03-13T15:59:17Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/166",
+      "text": "docs: Update docker-compose to docker compose in documentation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/facets-knowledge-panels#166",
+      "time": "2025-03-14T10:50:36Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/166",
+      "text": "docs: Update docker-compose to docker compose in documentation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/facets-knowledge-panels#167",
+      "time": "2025-03-13T16:05:37Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/167",
+      "text": "fix: Fix CI workflow to skip add-to-project actions on forks"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/facets-knowledge-panels#167",
+      "time": "2025-03-14T10:50:58Z",
+      "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/167",
+      "text": "fix: Fix CI workflow to skip add-to-project actions on forks"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

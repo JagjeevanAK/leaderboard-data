@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-12-15T05:44:57Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-go#60",
+      "time": "2023-12-15T05:44:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/60",
+      "text": "feat: use context in Client.Product method"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-go#61",
+      "time": "2023-12-15T07:17:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/61",
+      "text": "feat: use context.Context in Client.Product request"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

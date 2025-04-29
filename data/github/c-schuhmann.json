@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-05-29T14:21:28Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8473",
+      "time": "2023-05-29T14:21:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8473",
+      "text": "taxonomy: Added German variant of inositol"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8473",
+      "time": "2023-06-08T08:39:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8473",
+      "text": "taxonomy: Added German variant of inositol"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

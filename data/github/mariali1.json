@@ -1,0 +1,49 @@
+{
+  "last_updated": "2020-04-14T15:32:44Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3266",
+      "time": "2020-04-14T15:32:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3266",
+      "text": "Update ingredients.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3266",
+      "time": "2020-04-15T15:48:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3266",
+      "text": "Update ingredients.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3296",
+      "time": "2020-04-20T08:23:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3296",
+      "text": "Update ingredients.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3296",
+      "time": "2020-04-21T22:11:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3296",
+      "text": "Update ingredients.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3308",
+      "time": "2020-04-23T09:31:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3308",
+      "text": "Es ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3308",
+      "time": "2020-04-24T17:24:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3308",
+      "text": "Es ingredients"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

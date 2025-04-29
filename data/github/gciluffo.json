@@ -1,0 +1,63 @@
+{
+  "last_updated": "2024-10-29T08:44:32Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#5768",
+      "time": "2024-10-29T08:44:32Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/5768",
+      "text": "feat: (5291) Add section for doing CRUD on product tags (Folksonomy) "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#5768",
+      "time": "2024-11-15T08:38:16Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/5768",
+      "text": "feat: (5291) Add section for doing CRUD on product tags (Folksonomy) "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#553",
+      "time": "2024-11-04T11:38:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/553",
+      "text": "feat: Add endpoint for /insights robotoff"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#553",
+      "time": "2024-11-05T15:18:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/553",
+      "text": "feat: Add endpoint for /insights robotoff"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#571",
+      "time": "2024-11-20T17:24:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/571",
+      "text": "feat: Make authToken optional for folksonomy client"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#571",
+      "time": "2024-12-29T22:31:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/571",
+      "text": "feat: Make authToken optional for folksonomy client"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#572",
+      "time": "2024-11-20T17:26:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/572",
+      "text": "Folksonomy open api regen"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#573",
+      "time": "2024-11-20T17:30:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/573",
+      "text": "Folksonomy open api regenerate"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

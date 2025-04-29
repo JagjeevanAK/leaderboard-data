@@ -1,0 +1,203 @@
+{
+  "last_updated": "2024-10-06T15:56:54Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#525",
+      "time": "2024-10-06T15:56:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/525",
+      "text": "chore: remove all-contributors-cli, now deprecated for the Github bot"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#525",
+      "time": "2024-10-13T11:46:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/525",
+      "text": "chore: remove all-contributors-cli, now deprecated for the Github bot"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#534",
+      "time": "2024-10-12T17:40:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/534",
+      "text": "feat: add support for Nutri-Patrol API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#534",
+      "time": "2024-10-26T15:33:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/534",
+      "text": "feat: add support for Nutri-Patrol API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#536",
+      "time": "2024-10-14T16:03:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/536",
+      "text": "chore: add prettier and eslint configuration, format files and update CI to check lint and format"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#537",
+      "time": "2024-10-16T19:56:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/537",
+      "text": "chore: add prettier and eslint configuration, format files and update CI to check lint and format"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#540",
+      "time": "2024-10-26T20:28:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/540",
+      "text": "test: configure unit tests with jest runner and add unit tests for Nutripatrol wrapper"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#540",
+      "time": "2024-10-31T14:00:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/540",
+      "text": "test: configure unit tests with jest runner and add unit tests for Nutripatrol wrapper"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#542",
+      "time": "2024-10-27T16:28:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/542",
+      "text": "test: add unit tests for Folksonomy wrapper"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#542",
+      "time": "2024-10-31T19:05:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/542",
+      "text": "test: add unit tests for Folksonomy wrapper"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#547",
+      "time": "2024-10-31T17:20:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/547",
+      "text": "chore: configure ESLint to new configuration including tests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#547",
+      "time": "2024-10-31T19:04:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/547",
+      "text": "chore: configure ESLint to new configuration including tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#548",
+      "time": "2024-10-31T19:48:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/548",
+      "text": "test: fix mock after openapi-fetch upgrade"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#548",
+      "time": "2024-11-01T14:25:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/548",
+      "text": "test: fix mock after openapi-fetch upgrade"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#549",
+      "time": "2024-10-31T19:50:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/549",
+      "text": "chore: add prettier configuration and format files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#549",
+      "time": "2024-11-01T15:43:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/549",
+      "text": "chore: add prettier configuration and format files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#551",
+      "time": "2024-11-01T20:56:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/551",
+      "text": "ci: add prettier and eslint checks in actions and fix nodejs actions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#551",
+      "time": "2024-11-02T23:27:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/551",
+      "text": "ci: add prettier and eslint checks in actions and fix nodejs actions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#558",
+      "time": "2024-11-05T19:48:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/558",
+      "text": "chore: update contributors configuration and add CONTRIBUTORS.md file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#558",
+      "time": "2024-11-06T07:39:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/558",
+      "text": "chore: update contributors configuration and add CONTRIBUTORS.md file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#559",
+      "time": "2024-11-05T19:51:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/559",
+      "text": "feat: add USER_AGENT constant and include it in API request headers"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#559",
+      "time": "2024-11-06T10:37:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/559",
+      "text": "feat: add USER_AGENT constant and include it in API request headers"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#560",
+      "time": "2024-11-05T21:06:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/560",
+      "text": "chore: update release-please action and configuration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#560",
+      "time": "2024-11-06T20:48:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/560",
+      "text": "chore: update release-please action and configuration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-nodejs#562",
+      "time": "2024-11-06T09:30:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/562",
+      "text": "chore: clean unused commands and packages in package.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#562",
+      "time": "2024-11-07T19:10:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/562",
+      "text": "chore: clean unused commands and packages in package.json"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-go#65",
+      "time": "2024-11-06T20:58:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/65",
+      "text": "ci: Update deprecated action in release-please.yml and use 'go' as release type"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-go#65",
+      "time": "2024-11-07T08:49:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/65",
+      "text": "ci: Update deprecated action in release-please.yml and use 'go' as release type"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

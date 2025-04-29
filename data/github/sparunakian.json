@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-11-03T13:48:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10966",
+      "time": "2024-11-03T13:48:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10966",
+      "text": "taxonomy: Add french term for E160b(ii)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10966",
+      "time": "2024-11-06T13:28:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10966",
+      "text": "taxonomy: Add french term for E160b(ii)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

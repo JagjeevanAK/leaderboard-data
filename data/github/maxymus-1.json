@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-12-11T13:25:07Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7830",
+      "time": "2022-12-11T13:25:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7830",
+      "text": "l10n: add/update Italian translations for many ingredients processing methods"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7830",
+      "time": "2022-12-12T13:42:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7830",
+      "text": "l10n: add/update Italian translations for many ingredients processing methods"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

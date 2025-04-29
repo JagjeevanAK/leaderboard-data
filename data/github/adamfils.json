@@ -1,0 +1,35 @@
+{
+  "last_updated": "2018-03-19T17:49:30Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1286",
+      "time": "2018-03-19T17:49:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1286",
+      "text": "Fix App Crash in MainActivity.java"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1291",
+      "time": "2018-03-20T02:47:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1291",
+      "text": "Fixed #1285: App Crash in MainActivity.java "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1318",
+      "time": "2018-03-22T14:25:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1318",
+      "text": "Fix #1285 App Crash in MainActivity.java"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1318",
+      "time": "2018-03-23T07:47:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1318",
+      "text": "Fix #1285 App Crash in MainActivity.java"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,224 @@
+{
+  "last_updated": "2020-11-26T18:53:38Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4554",
+      "time": "2020-11-26T18:53:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4554",
+      "text": "Mostly German ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4554",
+      "time": "2020-11-27T18:39:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4554",
+      "text": "Mostly German ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4563",
+      "time": "2020-11-27T19:34:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4563",
+      "text": "mostly added German words that end the ingredient list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4563",
+      "time": "2020-12-01T07:53:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4563",
+      "text": "mostly added German words that end the ingredient list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4598",
+      "time": "2020-12-07T20:45:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4598",
+      "text": "Add german translations for packaging taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4598",
+      "time": "2020-12-10T08:59:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4598",
+      "text": "Add german translations for packaging taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4612",
+      "time": "2020-12-10T13:45:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4612",
+      "text": "Add xx:AT-BIO-301 thingies (translations)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4612",
+      "time": "2020-12-14T11:52:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4612",
+      "text": "Add xx:AT-BIO-301 thingies (translations)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4632",
+      "time": "2020-12-14T17:12:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4632",
+      "text": "Mostly German Ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4632",
+      "time": "2020-12-23T14:38:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4632",
+      "text": "Mostly German Ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4736",
+      "time": "2021-01-11T18:11:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4736",
+      "text": "Added German translations and some new ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4736",
+      "time": "2021-01-29T15:49:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4736",
+      "text": "Added German translations and some new ingredients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4741",
+      "time": "2021-01-12T18:31:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4741",
+      "text": "Add wikidata to countries"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4741",
+      "time": "2021-01-29T16:09:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4741",
+      "text": "Add wikidata to countries"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4744",
+      "time": "2021-01-13T13:09:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4744",
+      "text": "Add handling for de:\"Bienenwachs, Weiß und Gelb\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4744",
+      "time": "2021-01-14T10:46:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4744",
+      "text": "Add handling for de:\"Bienenwachs, Weiß und Gelb\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4748",
+      "time": "2021-01-13T17:32:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4748",
+      "text": "added Oatmeal cookies to Drop cookies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4749",
+      "time": "2021-01-13T18:01:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4749",
+      "text": "removed incorrect Russian translation in categories.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4749",
+      "time": "2021-01-14T08:28:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4749",
+      "text": "removed incorrect Russian translation in categories.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4756",
+      "time": "2021-01-14T15:48:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4756",
+      "text": "add \"Confirmed by manufacturer\" labels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4784",
+      "time": "2021-01-22T15:00:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4784",
+      "text": "Added Danish taxonomy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4784",
+      "time": "2021-01-28T07:41:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4784",
+      "text": "Added Danish taxonomy"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4798",
+      "time": "2021-01-28T16:51:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4798",
+      "text": "[WIP] Add new Label and label logos"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4807",
+      "time": "2021-01-30T12:16:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4807",
+      "text": "Reapply added labels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4807",
+      "time": "2021-02-02T07:56:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4807",
+      "text": "Reapply added labels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#4823",
+      "time": "2021-02-03T19:09:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4823",
+      "text": "Adding more labels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#4823",
+      "time": "2021-03-07T11:58:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4823",
+      "text": "Adding more labels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5118",
+      "time": "2021-04-09T18:28:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5118",
+      "text": "Danish and German translations in packaging and origins"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5118",
+      "time": "2021-04-10T14:02:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5118",
+      "text": "Danish and German translations in packaging and origins"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5329",
+      "time": "2021-06-20T17:16:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5329",
+      "text": "Fix EVU Vegan duplicate"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5329",
+      "time": "2021-06-22T07:22:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5329",
+      "text": "Fix EVU Vegan duplicate"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

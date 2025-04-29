@@ -1,0 +1,252 @@
+{
+  "last_updated": "2022-03-20T16:19:35Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1278",
+      "time": "2022-03-20T16:19:35Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1278",
+      "text": "fix: Contribute cupertino bottom modal sheet UI fix."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1278",
+      "time": "2022-03-20T17:10:44Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1278",
+      "text": "fix: Contribute cupertino bottom modal sheet UI fix."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1281",
+      "time": "2022-03-21T06:30:44Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1281",
+      "text": "fix: fixes for the UI rendering in the \"Contributors\" Smooth Alert box sheet"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1281",
+      "time": "2022-03-21T19:24:37Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1281",
+      "text": "fix: fixes for the UI rendering in the \"Contributors\" Smooth Alert box sheet"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1282",
+      "time": "2022-03-21T07:04:02Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1282",
+      "text": "fix: UI fixed for the Contributors box and made scrollable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1305",
+      "time": "2022-03-22T17:35:23Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1305",
+      "text": "Fix:Selectable text on product screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1305",
+      "time": "2022-03-23T19:54:17Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1305",
+      "text": "Fix:Selectable text on product screen"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1364",
+      "time": "2022-03-28T12:37:37Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1364",
+      "text": "fix: Improved the card Tapabilty onboarding with selection on details of it"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1364",
+      "time": "2022-03-28T14:51:27Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1364",
+      "text": "fix: Improved the card Tapabilty onboarding with selection on details of it"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1366",
+      "time": "2022-03-28T14:10:58Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1366",
+      "text": "fix: Changed the display hint name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1366",
+      "time": "2022-03-28T14:53:35Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1366",
+      "text": "fix: Changed the display hint name"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1374",
+      "time": "2022-03-28T19:28:19Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1374",
+      "text": "fix: Chrome debug UI break fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1404",
+      "time": "2022-03-29T17:50:37Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1404",
+      "text": "fix: same label for all 3 icons"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1404",
+      "time": "2022-03-29T21:10:37Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1404",
+      "text": "fix: same label for all 3 icons"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1417",
+      "time": "2022-03-30T13:02:10Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1417",
+      "text": "fix: Separated Welcome to with Open food Facts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1430",
+      "time": "2022-03-31T17:09:00Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1430",
+      "text": "fix: DarkMode Icon track fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1430",
+      "time": "2022-03-31T19:19:44Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1430",
+      "text": "fix: DarkMode Icon track fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1441",
+      "time": "2022-04-01T14:55:31Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1441",
+      "text": "fix: Welcome message split fixed in smaller device width phones"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1441",
+      "time": "2022-04-01T15:42:01Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1441",
+      "text": "fix: Welcome message split fixed in smaller device width phones"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1445",
+      "time": "2022-04-01T19:00:54Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1445",
+      "text": "fix: Button resized with max line= 1 for change in language bug"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1445",
+      "time": "2022-04-02T10:00:37Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1445",
+      "text": "fix: Button resized with max line= 1 for change in language bug"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1459",
+      "time": "2022-04-02T11:51:02Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1459",
+      "text": "fix: Misaligned Inkwell Fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1459",
+      "time": "2022-04-03T13:57:58Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1459",
+      "text": "fix: Misaligned Inkwell Fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1464",
+      "time": "2022-04-02T15:41:56Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1464",
+      "text": "fix: Enabled Circular border around country Selector"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1464",
+      "time": "2022-04-05T11:08:02Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1464",
+      "text": "fix: Enabled Circular border around country Selector"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1469",
+      "time": "2022-04-03T09:32:15Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1469",
+      "text": "fix: trailing Spaces issue Fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1469",
+      "time": "2022-04-03T17:32:35Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1469",
+      "text": "fix: trailing Spaces issue Fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1485",
+      "time": "2022-04-03T18:25:15Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1485",
+      "text": "fix: Contributor Box made scrollable with flexible to small device sizes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1485",
+      "time": "2022-04-06T14:32:13Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1485",
+      "text": "fix: Contributor Box made scrollable with flexible to small device sizes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1489",
+      "time": "2022-04-04T06:48:38Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1489",
+      "text": "fix: Sliver App Bar 2 word title fixed to one line"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1489",
+      "time": "2022-04-05T11:07:02Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1489",
+      "text": "fix: Sliver App Bar 2 word title fixed to one line"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1493",
+      "time": "2022-04-04T12:27:47Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1493",
+      "text": "fix: Switched unselected item color according to theme"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1493",
+      "time": "2022-04-05T11:04:30Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1493",
+      "text": "fix: Switched unselected item color according to theme"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1511",
+      "time": "2022-04-07T09:27:17Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1511",
+      "text": "fix: Too Big font size for small "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1511",
+      "time": "2022-04-07T18:01:51Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1511",
+      "text": "fix: Too Big font size for small "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

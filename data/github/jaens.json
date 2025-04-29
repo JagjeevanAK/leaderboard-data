@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-08-13T15:17:15Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#5472",
+      "time": "2021-08-13T15:17:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5472",
+      "text": "Fix and improve Estonian ingredients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#5472",
+      "time": "2021-08-16T07:52:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5472",
+      "text": "Fix and improve Estonian ingredients"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

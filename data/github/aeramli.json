@@ -1,0 +1,21 @@
+{
+  "last_updated": "2018-01-01T15:17:21Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#669",
+      "time": "2018-01-01T15:17:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/669",
+      "text": "Feature/650 category browser - PART 1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#669",
+      "time": "2018-01-12T19:37:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/669",
+      "text": "Feature/650 category browser - PART 1"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

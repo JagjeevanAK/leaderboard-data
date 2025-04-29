@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-10-26T01:41:58Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-csharp#1",
+      "time": "2023-10-26T01:41:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-csharp/pull/1",
+      "text": "The initial code commit with one working integration test."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-csharp#1",
+      "time": "2023-10-31T14:26:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-csharp/pull/1",
+      "text": "The initial code commit with one working integration test."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

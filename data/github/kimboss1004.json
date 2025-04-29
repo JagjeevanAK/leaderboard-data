@@ -1,0 +1,14 @@
+{
+  "last_updated": "2022-01-19T01:23:26Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#957",
+      "time": "2022-01-19T01:23:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/957",
+      "text": "reduced code segment to be shorter"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

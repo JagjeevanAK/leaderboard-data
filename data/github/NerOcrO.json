@@ -1,0 +1,126 @@
+{
+  "last_updated": "2018-09-26T11:58:04Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1393",
+      "time": "2018-09-26T11:58:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1393",
+      "text": "Typo in the French version of About #961"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1396",
+      "time": "2018-09-29T07:28:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1396",
+      "text": "add .editorconfig"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1400",
+      "time": "2018-10-02T12:58:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1400",
+      "text": "add .editorconfig"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1400",
+      "time": "2018-10-13T17:18:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1400",
+      "text": "add .editorconfig"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1426",
+      "time": "2018-10-16T12:27:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1426",
+      "text": "update according to good pratices"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1426",
+      "time": "2018-10-16T13:04:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1426",
+      "text": "update according to good pratices"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1434",
+      "time": "2018-10-23T07:58:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1434",
+      "text": "Update .editorconfig"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1434",
+      "time": "2018-10-23T08:59:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1434",
+      "text": "Update .editorconfig"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1439",
+      "time": "2018-10-24T13:33:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1439",
+      "text": "overflow tag list #246"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1439",
+      "time": "2018-10-24T13:49:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1439",
+      "text": "overflow tag list #246"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1441",
+      "time": "2018-10-24T14:18:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1441",
+      "text": "remove useless slash in HTML5"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1441",
+      "time": "2018-10-25T10:48:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1441",
+      "text": "remove useless slash in HTML5"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1446",
+      "time": "2018-10-27T09:14:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1446",
+      "text": "Update html"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1446",
+      "time": "2018-11-02T14:12:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1446",
+      "text": "Update html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1506",
+      "time": "2018-11-13T14:51:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1506",
+      "text": "replace ~~ by grep"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1506",
+      "time": "2018-11-18T17:55:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1506",
+      "text": "replace ~~ by grep"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1524",
+      "time": "2018-11-18T15:37:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1524",
+      "text": "delete old version of Docker (aio)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

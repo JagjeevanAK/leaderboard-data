@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-01-07T14:34:49Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6152",
+      "time": "2025-01-07T14:34:49Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6152",
+      "text": "chore: flutter version and handle nullability"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,14 @@
+{
+  "last_updated": "2018-12-30T07:37:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/off-nutrition-table-extractor#21",
+      "time": "2018-12-30T07:37:59Z",
+      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/21",
+      "text": "Solved OpenCV error (cvtColor error) related to word_image"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

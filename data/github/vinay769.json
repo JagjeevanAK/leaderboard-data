@@ -1,0 +1,42 @@
+{
+  "last_updated": "2025-03-06T20:16:30Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6421",
+      "time": "2025-03-06T20:16:30Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6421",
+      "text": "feat: Add receipt and price icons to prices screen"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6509",
+      "time": "2025-04-01T20:03:28Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6509",
+      "text": "fix : UI padding for better layout"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6554",
+      "time": "2025-04-16T06:44:02Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6554",
+      "text": "feat: add gdpr link to price screen"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6558",
+      "time": "2025-04-19T19:11:42Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6558",
+      "text": "feat: add shortcut to GDPR requests Wikipage in Prices screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6558",
+      "time": "2025-04-20T09:20:05Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6558",
+      "text": "feat: add shortcut to GDPR requests Wikipage in Prices screen"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

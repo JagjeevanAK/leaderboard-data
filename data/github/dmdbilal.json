@@ -1,0 +1,49 @@
+{
+  "last_updated": "2023-01-23T07:21:46Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4908",
+      "time": "2023-01-23T07:21:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4908",
+      "text": "style: Add new open food facts icon"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4908",
+      "time": "2023-01-25T19:36:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4908",
+      "text": "style: Add new open food facts icon"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4909",
+      "time": "2023-01-23T16:12:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4909",
+      "text": "style: Add new open food facts icon"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4910",
+      "time": "2023-01-26T03:03:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4910",
+      "text": "style: Add new open pet food facts, open beauty facts, open product icon"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4910",
+      "time": "2023-02-01T00:28:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4910",
+      "text": "style: Add new open pet food facts, open beauty facts, open product icon"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4915",
+      "time": "2023-02-14T02:56:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4915",
+      "text": "style: Added new logo in README.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

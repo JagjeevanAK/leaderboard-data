@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-09-16T14:27:13Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#3026",
+      "time": "2022-09-16T14:27:13Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3026",
+      "text": "fix: Image extraction screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#3026",
+      "time": "2022-09-17T10:58:47Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/3026",
+      "text": "fix: Image extraction screen"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

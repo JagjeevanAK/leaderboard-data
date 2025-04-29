@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-06T10:31:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6524",
+      "time": "2025-04-06T10:31:59Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6524",
+      "text": "feat(game): enhance SugarGuessingGame with random sugar values and item variety"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

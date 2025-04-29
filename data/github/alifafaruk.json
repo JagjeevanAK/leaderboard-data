@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-04-24T17:00:40Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3316",
+      "time": "2020-04-24T17:00:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3316",
+      "text": "New dark scheme "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3317",
+      "time": "2020-04-24T21:02:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3317",
+      "text": "feat: New Dark Scheme Part 2"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

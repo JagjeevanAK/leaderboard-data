@@ -1,0 +1,84 @@
+{
+  "last_updated": "2020-03-11T18:30:28Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3017",
+      "time": "2020-03-11T18:30:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3017",
+      "text": "Fixes #1109: Change default language from Hindi to English on in.openfoodfacts.org (Open Food Facts India)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3017",
+      "time": "2020-03-12T09:36:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3017",
+      "text": "Fixes #1109: Change default language from Hindi to English on in.openfoodfacts.org (Open Food Facts India)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3042",
+      "time": "2020-03-15T18:23:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3042",
+      "text": "Added: Hong Kong nutrient list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3042",
+      "time": "2020-03-17T09:05:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3042",
+      "text": "Added: Hong Kong nutrient list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3056",
+      "time": "2020-03-17T15:15:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3056",
+      "text": "Added: new tests for Text.pm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3056",
+      "time": "2020-03-20T10:52:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3056",
+      "text": "Added: new tests for Text.pm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3109",
+      "time": "2020-03-25T16:58:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3109",
+      "text": "Removed: unused Text::Unaccent from the codebase"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3109",
+      "time": "2020-03-25T20:08:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3109",
+      "text": "Removed: unused Text::Unaccent from the codebase"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3137",
+      "time": "2020-03-27T22:03:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3137",
+      "text": "Added: Create account button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3137",
+      "time": "2020-04-01T08:41:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3137",
+      "text": "Added: Create account button"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3150",
+      "time": "2020-03-29T04:04:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3150",
+      "text": "Added: Brand facet to edit page"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,35 @@
+{
+  "last_updated": "2021-10-14T11:25:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#621",
+      "time": "2021-10-14T11:25:34Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/621",
+      "text": "Feature/contributors list #562"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#621",
+      "time": "2021-10-16T07:48:34Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/621",
+      "text": "Feature/contributors list #562"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#624",
+      "time": "2021-10-15T09:58:10Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/624",
+      "text": "fix: SmoothSimpleButton reactive to schema #591"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#624",
+      "time": "2021-10-18T11:27:01Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/624",
+      "text": "fix: SmoothSimpleButton reactive to schema #591"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

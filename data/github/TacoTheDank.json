@@ -1,0 +1,14 @@
+{
+  "last_updated": "2019-01-14T05:32:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2099",
+      "time": "2019-01-14T05:32:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2099",
+      "text": "Clean up and simplify files + gradles"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

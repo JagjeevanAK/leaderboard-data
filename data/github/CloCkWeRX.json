@@ -1,0 +1,161 @@
+{
+  "last_updated": "2019-07-04T14:06:20Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#71",
+      "time": "2019-07-04T14:06:20Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/71",
+      "text": "Add automatic processing to results for a small number of label regexp"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#89",
+      "time": "2019-11-17T08:03:04Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/89",
+      "text": "Add common Australian items to stores & brands"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#90",
+      "time": "2019-11-17T08:41:42Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/90",
+      "text": "Fix store name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#90",
+      "time": "2019-11-20T07:51:51Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/90",
+      "text": "Fix store name"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#132",
+      "time": "2020-03-31T03:40:33Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/132",
+      "text": "Add 'real' and 'pure' to blacklist for brands"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#132",
+      "time": "2020-03-31T07:02:40Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/132",
+      "text": "Add 'real' and 'pure' to blacklist for brands"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1042",
+      "time": "2018-01-28T16:41:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1042",
+      "text": "Remove open food hunt links on landing pages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1042",
+      "time": "2018-02-10T14:41:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1042",
+      "text": "Remove open food hunt links on landing pages"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1043",
+      "time": "2018-01-28T16:55:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1043",
+      "text": "Remove dead links to /reuses content, which is 404"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1043",
+      "time": "2018-02-10T14:40:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1043",
+      "text": "Remove dead links to /reuses content, which is 404"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1044",
+      "time": "2018-01-28T17:17:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1044",
+      "text": "Add nutrients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1044",
+      "time": "2018-01-31T21:23:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1044",
+      "text": "Add nutrients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2050",
+      "time": "2019-07-04T08:20:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2050",
+      "text": "Add a number of country defaults"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2050",
+      "time": "2019-07-05T15:32:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2050",
+      "text": "Add a number of country defaults"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2055",
+      "time": "2019-07-05T08:13:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2055",
+      "text": "Add an alias for \"Whole Almonds\" -> almonds"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2055",
+      "time": "2019-07-09T09:50:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2055",
+      "text": "Add an alias for \"Whole Almonds\" -> almonds"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#2067",
+      "time": "2019-07-08T05:31:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2067",
+      "text": "Add a categorisation for \"Maraschino cherries\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#2067",
+      "time": "2019-07-09T09:47:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2067",
+      "text": "Add a categorisation for \"Maraschino cherries\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#6316",
+      "time": "2022-01-19T10:45:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6316",
+      "text": "Correct typo: Developping vs developing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9607",
+      "time": "2023-12-31T07:28:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9607",
+      "text": "feat: Generate stores taxonomy from name-suggestion-index"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/off-nutrition-table-extractor#23",
+      "time": "2019-07-09T01:21:58Z",
+      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/23",
+      "text": "Avoid assertation failure"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/off-nutrition-table-extractor#23",
+      "time": "2021-09-06T07:40:54Z",
+      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/23",
+      "text": "Avoid assertation failure"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-02-20T08:39:48Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#596",
+      "time": "2020-02-20T08:39:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/596",
+      "text": "Fixes #553"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#596",
+      "time": "2020-02-22T12:25:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/596",
+      "text": "Fixes #553"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

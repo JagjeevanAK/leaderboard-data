@@ -1,0 +1,133 @@
+{
+  "last_updated": "2024-03-05T23:08:02Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9866",
+      "time": "2024-03-05T23:08:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9866",
+      "text": "fix: remove underline from zoom controls."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9866",
+      "time": "2024-03-06T10:08:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9866",
+      "text": "fix: remove underline from zoom controls."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9890",
+      "time": "2024-03-09T07:19:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9890",
+      "text": "feat: refinement of knowledge panel rendering template."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9927",
+      "time": "2024-03-15T08:04:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9927",
+      "text": "feat: display uuid in addition to User id in product edit history"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9935",
+      "time": "2024-03-18T07:04:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9935",
+      "text": "fix: updated z-index of map"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9935",
+      "time": "2024-03-18T14:40:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9935",
+      "text": "fix: updated z-index of map"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9967",
+      "time": "2024-03-21T09:04:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9967",
+      "text": "refactor: templatize display_product_api from \"Display.pm\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9967",
+      "time": "2024-05-17T15:51:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9967",
+      "text": "refactor: templatize display_product_api from \"Display.pm\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9974",
+      "time": "2024-03-21T21:16:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9974",
+      "text": "fix: update correct map coordinates for Virazeil, France"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9974",
+      "time": "2024-03-22T14:26:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9974",
+      "text": "fix: update correct map coordinates for Virazeil, France"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9978",
+      "time": "2024-03-22T14:28:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9978",
+      "text": "feat: display uuid in addition to User id in product edit history"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9978",
+      "time": "2024-03-25T16:55:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9978",
+      "text": "feat: display uuid in addition to User id in product edit history"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10037",
+      "time": "2024-03-26T23:45:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10037",
+      "text": "feat: Differentiate features available only for moderators"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10037",
+      "time": "2024-04-02T16:25:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10037",
+      "text": "feat: Differentiate features available only for moderators"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10069",
+      "time": "2024-04-01T17:45:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10069",
+      "text": "fix: export obsolete products only once and include \"obsolete\" field in CSV export"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10077",
+      "time": "2024-04-02T15:05:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10077",
+      "text": "fix: export obsolete products only once and include \"obsolete\" field in CSV export"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10145",
+      "time": "2024-04-18T10:04:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10145",
+      "text": "refactor: move javascript from export_products.pl to .tt.js file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10170",
+      "time": "2024-04-24T13:15:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10170",
+      "text": "feat: Passing comment along with image upload API request."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

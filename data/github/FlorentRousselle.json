@@ -1,0 +1,49 @@
+{
+  "last_updated": "2022-03-21T10:33:02Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4568",
+      "time": "2022-03-21T10:33:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4568",
+      "text": "fix: overlapping icon in LoginActivity"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4568",
+      "time": "2022-03-24T12:34:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4568",
+      "text": "fix: overlapping icon in LoginActivity"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4569",
+      "time": "2022-03-21T10:58:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4569",
+      "text": "fix: scrolling added in login page when keyboard is open"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4569",
+      "time": "2022-03-21T12:14:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4569",
+      "text": "fix: scrolling added in login page when keyboard is open"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4572",
+      "time": "2022-03-21T12:08:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4572",
+      "text": "fix: Adaptive icon for shortcut"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#4572",
+      "time": "2022-03-21T21:25:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4572",
+      "text": "fix: Adaptive icon for shortcut"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

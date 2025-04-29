@@ -1,0 +1,35 @@
+{
+  "last_updated": "2024-02-02T18:09:50Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#183",
+      "time": "2024-02-02T18:09:50Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/183",
+      "text": "feat: new user.is_moderator field"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices#183",
+      "time": "2024-02-06T08:58:45Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/183",
+      "text": "feat: new user.is_moderator field"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#197",
+      "time": "2024-02-07T17:56:22Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/197",
+      "text": "feat: new DELETE proofs endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices#197",
+      "time": "2024-02-08T16:51:57Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/197",
+      "text": "feat: new DELETE proofs endpoint"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

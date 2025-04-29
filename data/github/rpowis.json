@@ -1,0 +1,35 @@
+{
+  "last_updated": "2025-02-27T14:40:28Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11502",
+      "time": "2025-02-27T14:40:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11502",
+      "text": "fix: Makefile improvements for better DX"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11502",
+      "time": "2025-03-06T13:54:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11502",
+      "text": "fix: Makefile improvements for better DX"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-shared-services#6",
+      "time": "2025-03-06T09:14:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/pull/6",
+      "text": "Only prune docker resources created by this project"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-shared-services#6",
+      "time": "2025-03-06T09:32:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/pull/6",
+      "text": "Only prune docker resources created by this project"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,14 @@
+{
+  "last_updated": "2022-09-08T09:27:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#890",
+      "time": "2022-09-08T09:27:34Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/890",
+      "text": "feat: Added origin extraction"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

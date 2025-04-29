@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-03-22T21:58:29Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#318",
+      "time": "2025-03-22T21:58:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/318",
+      "text": "feat: Integrate search-a-licious endpoint into SDK (#314)"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,42 @@
+{
+  "last_updated": "2023-08-05T01:40:03Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4449",
+      "time": "2023-08-05T01:40:03Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4449",
+      "text": "fix: Add the brand name in the AppBar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4578",
+      "time": "2023-08-21T06:37:56Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4578",
+      "text": "fix: Add the brand name in the AppBar and sub screens"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4578",
+      "time": "2023-08-25T17:45:10Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4578",
+      "text": "fix: Add the brand name in the AppBar and sub screens"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#4609",
+      "time": "2023-08-29T14:47:02Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4609",
+      "text": "fix: Made dropdown outline visible"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#4609",
+      "time": "2023-08-31T17:18:25Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/4609",
+      "text": "fix: Made dropdown outline visible"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

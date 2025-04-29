@@ -1,0 +1,49 @@
+{
+  "last_updated": "2020-03-24T21:17:46Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3102",
+      "time": "2020-03-24T21:17:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3102",
+      "text": "Fix for Dropdowns in Edit mode without background color"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3102",
+      "time": "2020-03-25T07:49:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3102",
+      "text": "Fix for Dropdowns in Edit mode without background color"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3326",
+      "time": "2020-04-26T01:22:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3326",
+      "text": "Fix adding tags in MS Edge"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3326",
+      "time": "2020-04-28T10:16:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3326",
+      "text": "Fix adding tags in MS Edge"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3417",
+      "time": "2020-05-12T14:33:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3417",
+      "text": "Update css for robotoff-asker"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3417",
+      "time": "2020-05-13T09:57:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3417",
+      "text": "Update css for robotoff-asker"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

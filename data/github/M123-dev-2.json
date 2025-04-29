@@ -1,0 +1,35 @@
+{
+  "last_updated": "2021-10-23T16:48:46Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#632",
+      "time": "2021-10-23T16:48:46Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/632",
+      "text": "chore: release 1.0.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#649",
+      "time": "2021-11-03T17:45:04Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/649",
+      "text": "chore: release 0.0.3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#664",
+      "time": "2021-11-16T15:55:06Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/664",
+      "text": "chore: release 0.1.0"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#664",
+      "time": "2022-01-15T13:48:30Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/664",
+      "text": "chore: release 0.1.0"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

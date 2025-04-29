@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-05-17T08:15:11Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/fastlane-descriptions-smoothie#33",
+      "time": "2022-05-17T08:15:11Z",
+      "link": "https://github.com/openfoodfacts/fastlane-descriptions-smoothie/pull/33",
+      "text": "ci: fix Android metadata validation workflow"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/fastlane-descriptions-smoothie#33",
+      "time": "2022-05-17T10:10:46Z",
+      "link": "https://github.com/openfoodfacts/fastlane-descriptions-smoothie/pull/33",
+      "text": "ci: fix Android metadata validation workflow"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,28 @@
+{
+  "last_updated": "2018-11-28T19:07:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1544",
+      "time": "2018-11-28T19:07:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1544",
+      "text": "Adding Packager code for slovakia"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#1556",
+      "time": "2018-12-05T19:02:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1556",
+      "text": "Adding Packager code for slovakia"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#1556",
+      "time": "2020-01-14T17:16:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1556",
+      "text": "Adding Packager code for slovakia"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

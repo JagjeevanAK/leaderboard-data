@@ -1,0 +1,28 @@
+{
+  "last_updated": "2018-02-04T13:06:47Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-go#9",
+      "time": "2018-02-04T13:06:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/9",
+      "text": "Some minor fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-go#9",
+      "time": "2018-02-13T09:12:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/9",
+      "text": "Some minor fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-go#16",
+      "time": "2018-02-13T19:37:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/16",
+      "text": "feat: Add a SearchProducts function"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

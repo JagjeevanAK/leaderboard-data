@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-03-19T05:19:04Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9953",
+      "time": "2024-03-19T05:19:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9953",
+      "text": "docs: Update e-meet time in readme, closes #9948"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9953",
+      "time": "2024-03-26T10:52:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9953",
+      "text": "docs: Update e-meet time in readme, closes #9948"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

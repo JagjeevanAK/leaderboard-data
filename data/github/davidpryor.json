@@ -1,0 +1,49 @@
+{
+  "last_updated": "2024-01-24T17:56:29Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-dart#869",
+      "time": "2024-01-24T17:56:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/869",
+      "text": "fix: 862 - added 1 nutrient"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-dart#869",
+      "time": "2024-01-24T18:16:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/869",
+      "text": "fix: 862 - added 1 nutrient"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-dart#873",
+      "time": "2024-01-30T17:58:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/873",
+      "text": "fix: failing nutriment persize serving test"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-dart#873",
+      "time": "2024-01-31T18:22:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/873",
+      "text": "fix: failing nutriment persize serving test"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10295",
+      "time": "2024-05-13T18:42:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10295",
+      "text": "feat: display \"app_version\" in  product edit history"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10295",
+      "time": "2024-05-15T08:08:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10295",
+      "text": "feat: display \"app_version\" in  product edit history"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

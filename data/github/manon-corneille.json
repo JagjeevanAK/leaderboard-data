@@ -1,0 +1,140 @@
+{
+  "last_updated": "2022-07-19T14:55:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7088",
+      "time": "2022-07-19T14:55:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7088",
+      "text": "chore: Update user_new_pro_account_org_request_validated.tt.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7088",
+      "time": "2022-07-20T08:16:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7088",
+      "text": "chore: Update user_new_pro_account_org_request_validated.tt.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7090",
+      "time": "2022-07-19T15:10:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7090",
+      "text": "chore: Update user_new_pro_account_admin_notification.tt.html"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7090",
+      "time": "2022-07-21T09:45:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7090",
+      "text": "chore: Update user_new_pro_account_admin_notification.tt.html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#7092",
+      "time": "2022-07-19T15:38:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7092",
+      "text": "chore: Update user_new_pro_account.tt.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#7092",
+      "time": "2022-07-20T08:14:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7092",
+      "text": "chore: Update user_new_pro_account.tt.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8221",
+      "time": "2023-03-17T08:02:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8221",
+      "text": "feat: Adding the new logo of a-market"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8221",
+      "time": "2023-03-17T09:51:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8221",
+      "text": "feat: Adding the new logo of a-market"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8222",
+      "time": "2023-03-17T08:36:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8222",
+      "text": "fix: delete old logo of a-market"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8222",
+      "time": "2023-03-17T12:56:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8222",
+      "text": "fix: delete old logo of a-market"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#8584",
+      "time": "2023-06-19T13:29:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8584",
+      "text": "feat: Add logo for label PME+"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#8584",
+      "time": "2023-06-27T14:14:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8584",
+      "text": "feat: Add logo for label PME+"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11462",
+      "time": "2025-02-19T15:26:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11462",
+      "text": "docs: Update license-be-on-the-legal-side.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11462",
+      "time": "2025-02-20T14:24:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11462",
+      "text": "docs: Update license-be-on-the-legal-side.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11463",
+      "time": "2025-02-19T15:38:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11463",
+      "text": "docs: Update reporting-issues-with-nutripatrol.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11463",
+      "time": "2025-02-20T14:23:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11463",
+      "text": "docs: Update reporting-issues-with-nutripatrol.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11497",
+      "time": "2025-02-27T09:32:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11497",
+      "text": "fix: Update-link-user-guide-pro"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11497",
+      "time": "2025-03-05T13:19:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11497",
+      "text": "fix: Update-link-user-guide-pro"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11499",
+      "time": "2025-02-27T11:52:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11499",
+      "text": "feat: update producers_resources_list.tt.html"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

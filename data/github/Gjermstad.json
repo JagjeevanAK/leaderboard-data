@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-04-04T09:17:05Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1329",
+      "time": "2024-04-04T09:17:05Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1329",
+      "text": "chore: Update store_regex.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#1329",
+      "time": "2024-06-24T08:21:12Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1329",
+      "text": "chore: Update store_regex.txt"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

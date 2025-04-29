@@ -1,0 +1,35 @@
+{
+  "last_updated": "2023-07-11T15:03:45Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#675",
+      "time": "2023-07-11T15:03:45Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/675",
+      "text": "Since all routes are imported directly in app.jsx, This file is of no…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#675",
+      "time": "2023-07-11T18:29:34Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/675",
+      "text": "Since all routes are imported directly in app.jsx, This file is of no…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#764",
+      "time": "2023-10-01T13:34:44Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/764",
+      "text": "Fix : Blank screen problem"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#764",
+      "time": "2023-10-02T08:59:50Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/764",
+      "text": "Fix : Blank screen problem"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

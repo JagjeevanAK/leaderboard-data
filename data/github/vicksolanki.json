@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-06-30T11:15:29Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-ios#693",
+      "time": "2020-06-30T11:15:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/693",
+      "text": "Resolves issue 685. Truncated text in settings."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-ios#693",
+      "time": "2020-07-01T18:13:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/693",
+      "text": "Resolves issue 685. Truncated text in settings."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

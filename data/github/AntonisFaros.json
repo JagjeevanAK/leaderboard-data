@@ -1,0 +1,21 @@
+{
+  "last_updated": "2019-05-12T22:25:54Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2630",
+      "time": "2019-05-12T22:25:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2630",
+      "text": "#Add Bottom Navigation Bar on Allergen Alert Screen"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2630",
+      "time": "2019-05-13T14:46:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2630",
+      "text": "#Add Bottom Navigation Bar on Allergen Alert Screen"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

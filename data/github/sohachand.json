@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-04-07T18:56:10Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/folksonomy_api#272",
+      "time": "2025-04-07T18:56:10Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/272",
+      "text": "fixed missing endpoints and cache errors ."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

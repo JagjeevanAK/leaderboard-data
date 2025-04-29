@@ -1,0 +1,182 @@
+{
+  "last_updated": "2018-09-04T03:39:53Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/off-nutrition-table-extractor#19",
+      "time": "2018-09-04T03:39:53Z",
+      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/19",
+      "text": "Fix #18: Changes made to load model at start"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/off-nutrition-table-extractor#19",
+      "time": "2018-11-13T16:07:51Z",
+      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/19",
+      "text": "Fix #18: Changes made to load model at start"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#29",
+      "time": "2018-03-25T08:41:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/29",
+      "text": "Added Login functionality"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#30",
+      "time": "2018-03-25T10:34:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/30",
+      "text": "Added Login Functionality"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#31",
+      "time": "2018-03-26T18:38:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/31",
+      "text": "Functionality to get all products added or edited by the user"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#32",
+      "time": "2018-03-28T17:49:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/32",
+      "text": "Added data download function"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#32",
+      "time": "2018-03-29T19:51:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/32",
+      "text": "Added data download function"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#35",
+      "time": "2018-03-29T20:04:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/35",
+      "text": "Added option to add new product"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#35",
+      "time": "2018-03-29T20:26:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/35",
+      "text": "Added option to add new product"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#36",
+      "time": "2018-03-30T19:29:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/36",
+      "text": "Added Advanced Search Option"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#36",
+      "time": "2018-03-31T11:10:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/36",
+      "text": "Added Advanced Search Option"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#37",
+      "time": "2018-03-31T18:36:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/37",
+      "text": "Updated Readme & Fixed JSONDecodeError"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#37",
+      "time": "2018-03-31T20:09:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/37",
+      "text": "Updated Readme & Fixed JSONDecodeError"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#38",
+      "time": "2018-04-02T10:38:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/38",
+      "text": "Allow to specify locale"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#38",
+      "time": "2018-04-02T11:00:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/38",
+      "text": "Allow to specify locale"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#39",
+      "time": "2018-04-04T16:06:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/39",
+      "text": "Allow to upload photos"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#39",
+      "time": "2018-04-04T20:54:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/39",
+      "text": "Allow to upload photos"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#40",
+      "time": "2018-04-06T17:00:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/40",
+      "text": "Added build_url()"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#40",
+      "time": "2018-04-07T15:44:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/40",
+      "text": "Added build_url()"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#43",
+      "time": "2018-04-08T16:43:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/43",
+      "text": "OpenBeautyFacts, Unit tests & Minor bug fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#43",
+      "time": "2018-04-09T15:46:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/43",
+      "text": "OpenBeautyFacts, Unit tests & Minor bug fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#45",
+      "time": "2018-04-13T16:28:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/45",
+      "text": "Adds openpetfoodfacts & Updates Readme"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#45",
+      "time": "2018-04-13T20:58:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/45",
+      "text": "Adds openpetfoodfacts & Updates Readme"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#53",
+      "time": "2018-07-03T08:44:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/53",
+      "text": "Fix #51: Solves ValueError on get_ingredients()"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#53",
+      "time": "2018-07-04T17:30:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/53",
+      "text": "Fix #51: Solves ValueError on get_ingredients()"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-03-29T20:33:33Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11697",
+      "time": "2025-03-29T20:33:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11697",
+      "text": "fix: Link preview issue solved and also description added to Needy pages"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

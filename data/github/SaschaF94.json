@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-02-06T09:00:50Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#124",
+      "time": "2023-02-06T09:00:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/124",
+      "text": "Docs update to be more beginner friendly"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

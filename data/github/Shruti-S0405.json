@@ -1,0 +1,14 @@
+{
+  "last_updated": "2024-03-13T18:55:58Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9912",
+      "time": "2024-03-13T18:55:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9912",
+      "text": "fix: added example row to the existing spreadsheet"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,21 @@
+{
+  "last_updated": "2021-02-05T10:41:30Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-go#35",
+      "time": "2021-02-05T10:41:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/35",
+      "text": "Enforce User-Agent value as per recomented by Open Food Facts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-go#35",
+      "time": "2021-02-05T13:39:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/35",
+      "text": "Enforce User-Agent value as per recomented by Open Food Facts"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

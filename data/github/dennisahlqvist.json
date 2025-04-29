@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-05-05T14:04:01Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#3374",
+      "time": "2020-05-05T14:04:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3374",
+      "text": "Corrected Swedish translation for Propellent gas"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#3374",
+      "time": "2020-05-06T08:53:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3374",
+      "text": "Corrected Swedish translation for Propellent gas"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

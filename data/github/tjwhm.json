@@ -1,0 +1,21 @@
+{
+  "last_updated": "2018-03-11T14:48:33Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1200",
+      "time": "2018-03-11T14:48:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1200",
+      "text": "fixed a UI bug in LoginActivity"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1200",
+      "time": "2018-03-11T16:05:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1200",
+      "text": "fixed a UI bug in LoginActivity"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

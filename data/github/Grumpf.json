@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-05-18T09:01:48Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-dart#24",
+      "time": "2020-05-18T09:01:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/24",
+      "text": "removed dart:ui and flutter_foundation dependencies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-dart#24",
+      "time": "2020-05-19T06:57:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/24",
+      "text": "removed dart:ui and flutter_foundation dependencies"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,189 @@
+{
+  "last_updated": "2018-09-07T06:04:07Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1867",
+      "time": "2018-09-07T06:04:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1867",
+      "text": "Fixes #1864 Encoding error on the Product URL field search function"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1867",
+      "time": "2018-09-10T17:53:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1867",
+      "text": "Fixes #1864 Encoding error on the Product URL field search function"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1871",
+      "time": "2018-09-10T04:29:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1871",
+      "text": "Fixes #1846 The allergen field behaves weirdly"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1871",
+      "time": "2018-09-12T10:49:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1871",
+      "text": "Fixes #1846 The allergen field behaves weirdly"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1873",
+      "time": "2018-09-12T12:26:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1873",
+      "text": "Fixes for Share to Open Food Facts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1873",
+      "time": "2018-09-14T22:55:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1873",
+      "text": "Fixes for Share to Open Food Facts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1876",
+      "time": "2018-09-13T01:43:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1876",
+      "text": "Fixes #1874: Additives don't display in certain conditions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1876",
+      "time": "2018-09-13T07:31:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1876",
+      "text": "Fixes #1874: Additives don't display in certain conditions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1878",
+      "time": "2018-09-14T11:42:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1878",
+      "text": "Possible Fix for #1722: MaterialDialog$DialogException: at openfoodfacts.github.scrachx.openfood.network.OpenFoodAPIClient$1.a (OpenFoodAPIClient.java:59)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1878",
+      "time": "2018-09-15T11:10:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1878",
+      "text": "Possible Fix for #1722: MaterialDialog$DialogException: at openfoodfacts.github.scrachx.openfood.network.OpenFoodAPIClient$1.a (OpenFoodAPIClient.java:59)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1899",
+      "time": "2018-09-17T06:17:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1899",
+      "text": "Closes 1844: We are also not displaying the nutrient modifiers in the product view (< > ~)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1899",
+      "time": "2018-09-19T06:58:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1899",
+      "text": "Closes 1844: We are also not displaying the nutrient modifiers in the product view (< > ~)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1905",
+      "time": "2018-09-20T06:00:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1905",
+      "text": "Fixed last allergen is duplicated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1905",
+      "time": "2018-09-20T15:56:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1905",
+      "text": "Fixed last allergen is duplicated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1913",
+      "time": "2018-09-22T08:58:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1913",
+      "text": "Fixes #1519, closes #1373: \"Share to Open Food Facts\" always says it will upload the picture when the network is available"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1913",
+      "time": "2018-09-23T08:08:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1913",
+      "text": "Fixes #1519, closes #1373: \"Share to Open Food Facts\" always says it will upload the picture when the network is available"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1941",
+      "time": "2018-09-27T04:18:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1941",
+      "text": "Closes #1845: We are not displaying untaxonomized values on fields that are displayed using taxonomies "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1941",
+      "time": "2018-10-01T21:14:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1941",
+      "text": "Closes #1845: We are not displaying untaxonomized values on fields that are displayed using taxonomies "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1972",
+      "time": "2018-10-16T04:58:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1972",
+      "text": "Use taxonomized values for allergens"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1972",
+      "time": "2018-10-21T14:08:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1972",
+      "text": "Use taxonomized values for allergens"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1993",
+      "time": "2018-11-09T06:05:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1993",
+      "text": "Fix for empty response"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1993",
+      "time": "2018-11-15T10:25:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1993",
+      "text": "Fix for empty response"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1995",
+      "time": "2018-11-10T09:18:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1995",
+      "text": "Removed unused string resources"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#1995",
+      "time": "2018-11-13T17:08:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1995",
+      "text": "Removed unused string resources"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2002",
+      "time": "2018-11-10T20:10:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2002",
+      "text": " Fixed issue where nutrient units were not being converted to thecorrect units."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-androidapp#2002",
+      "time": "2018-11-18T09:42:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2002",
+      "text": " Fixed issue where nutrient units were not being converted to thecorrect units."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

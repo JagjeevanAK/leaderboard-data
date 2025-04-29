@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-12-17T21:12:27Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#9552",
+      "time": "2023-12-17T21:12:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9552",
+      "text": "taxonomy: add processing synonyms for Spanish"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#9552",
+      "time": "2023-12-18T16:55:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9552",
+      "text": "taxonomy: add processing synonyms for Spanish"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

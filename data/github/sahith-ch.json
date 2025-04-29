@@ -1,0 +1,28 @@
+{
+  "last_updated": "2025-03-04T13:44:56Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#205",
+      "time": "2025-03-04T13:44:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/205",
+      "text": " Integrate Open Prices data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#214",
+      "time": "2025-03-05T13:57:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/214",
+      "text": "chore: update open price data bindings"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-explorer#214",
+      "time": "2025-03-08T20:32:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/214",
+      "text": "chore: update open price data bindings"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

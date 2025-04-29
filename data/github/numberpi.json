@@ -1,0 +1,21 @@
+{
+  "last_updated": "2017-01-26T20:47:43Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-python#24",
+      "time": "2017-01-26T20:47:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/24",
+      "text": "Fix example code to get a given product"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-python#24",
+      "time": "2017-01-26T21:27:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/24",
+      "text": "Fix example code to get a given product"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

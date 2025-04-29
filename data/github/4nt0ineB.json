@@ -1,0 +1,616 @@
+{
+  "last_updated": "2024-08-09T10:34:15Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-web#603",
+      "time": "2024-08-09T10:34:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/603",
+      "text": "fix: fr symlinks and PT index.html"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-web#603",
+      "time": "2024-09-25T13:24:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/603",
+      "text": "fix: fr symlinks and PT index.html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10222",
+      "time": "2024-05-03T10:55:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10222",
+      "text": "feat: create opportunity upon org validation in CRM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10305",
+      "time": "2024-05-17T09:33:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10305",
+      "text": "fix: product page accessibility - img alt attribute"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10305",
+      "time": "2024-05-17T13:27:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10305",
+      "text": "fix: product page accessibility - img alt attribute"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10339",
+      "time": "2024-05-22T14:11:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10339",
+      "text": "fix: homepage accessibility - role attribute"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10340",
+      "time": "2024-05-22T14:44:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10340",
+      "text": "feat: First step to the CRM integration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10340",
+      "time": "2024-06-12T09:32:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10340",
+      "text": "feat: First step to the CRM integration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10394",
+      "time": "2024-06-05T09:12:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10394",
+      "text": "fix: utf8 orgid support in url query string"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10394",
+      "time": "2024-06-05T09:57:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10394",
+      "text": "fix: utf8 orgid support in url query string"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10432",
+      "time": "2024-06-11T17:32:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10432",
+      "text": "feat: add /org/[orgid] facet in pro platform URL"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10432",
+      "time": "2024-07-02T10:22:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10432",
+      "text": "feat: add /org/[orgid] facet in pro platform URL"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10440",
+      "time": "2024-06-13T12:10:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10440",
+      "text": "feat: new sync data in CRM "
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10440",
+      "time": "2024-06-21T10:11:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10440",
+      "text": "feat: new sync data in CRM "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10441",
+      "time": "2024-06-13T14:56:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10441",
+      "text": "feat: add a button to open the CRM page of the company / contact"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10441",
+      "time": "2024-06-17T07:53:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10441",
+      "text": "feat: add a button to open the CRM page of the company / contact"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10442",
+      "time": "2024-06-13T15:33:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10442",
+      "text": "feat: send email when org is rejected"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10458",
+      "time": "2024-06-18T14:20:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10458",
+      "text": "feat: sync the opportunity right salesperson"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10458",
+      "time": "2024-06-20T12:27:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10458",
+      "text": "feat: sync the opportunity right salesperson"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10474",
+      "time": "2024-06-20T16:33:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10474",
+      "text": "refactor: global variables removal"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10474",
+      "time": "2024-07-02T15:08:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10474",
+      "text": "refactor: global variables removal"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10490",
+      "time": "2024-06-24T13:55:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10490",
+      "text": "feat: new automated emails on pro platform"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10494",
+      "time": "2024-06-25T12:34:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10494",
+      "text": "fix: various fixes to data sync with CRM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10494",
+      "time": "2024-06-25T14:17:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10494",
+      "text": "fix: various fixes to data sync with CRM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10498",
+      "time": "2024-06-26T10:10:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10498",
+      "text": "fix: make facets URLS /nova-group/unknown work"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10498",
+      "time": "2024-07-02T07:46:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10498",
+      "text": "fix: make facets URLS /nova-group/unknown work"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10500",
+      "time": "2024-06-26T16:55:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10500",
+      "text": "feat: add user in pending group when requests to join an org"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10500",
+      "time": "2024-07-05T08:43:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10500",
+      "text": "feat: add user in pending group when requests to join an org"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10501",
+      "time": "2024-06-28T08:43:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10501",
+      "text": "fix: various fixes to data sync with crm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10501",
+      "time": "2024-07-02T10:23:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10501",
+      "text": "fix: various fixes to data sync with crm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10502",
+      "time": "2024-06-28T11:55:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10502",
+      "text": "feat: prevent user from deletion if main contact or last admin of an org"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10507",
+      "time": "2024-07-02T14:25:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10507",
+      "text": "feat: a script to check if existing org can be sync with the crm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10507",
+      "time": "2024-07-04T13:54:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10507",
+      "text": "feat: a script to check if existing org can be sync with the crm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10513",
+      "time": "2024-07-04T09:35:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10513",
+      "text": "feat: add an optional condition for routes to be used or not"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10513",
+      "time": "2024-07-04T13:49:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10513",
+      "text": "feat: add an optional condition for routes to be used or not"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10523",
+      "time": "2024-07-08T14:54:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10523",
+      "text": "feat: generate historical events from product revisions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10523",
+      "time": "2024-08-12T18:06:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10523",
+      "text": "feat: generate historical events from product revisions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10530",
+      "time": "2024-07-09T14:22:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10530",
+      "text": "feat: add new product event types for redis queue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10530",
+      "time": "2024-07-23T07:13:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10530",
+      "text": "feat: add new product event types for redis queue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10531",
+      "time": "2024-07-10T14:38:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10531",
+      "text": "feat: allow orgs to not have a main contact if imported from an aggregator"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10531",
+      "time": "2024-07-11T10:09:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10531",
+      "text": "feat: allow orgs to not have a main contact if imported from an aggregator"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10532",
+      "time": "2024-07-10T14:46:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10532",
+      "text": "fix: improve generated data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10532",
+      "time": "2024-07-11T10:10:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10532",
+      "text": "fix: improve generated data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10536",
+      "time": "2024-07-11T13:58:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10536",
+      "text": "build: frontend container cannot be built since npm version 20.15.1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10536",
+      "time": "2024-07-11T15:52:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10536",
+      "text": "build: frontend container cannot be built since npm version 20.15.1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10538",
+      "time": "2024-07-11T16:40:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10538",
+      "text": "fix: broken off logo home link, in pro platform when not logged in"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10541",
+      "time": "2024-07-12T12:09:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10541",
+      "text": "fix: broken user space on pro platform"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10541",
+      "time": "2024-07-15T08:07:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10541",
+      "text": "fix: broken user space on pro platform"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10559",
+      "time": "2024-07-17T14:57:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10559",
+      "text": "fix: pro_moderator_owner not stored for the admin/moderator user through org/[orgid] facet"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10560",
+      "time": "2024-07-17T15:06:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10560",
+      "text": "fix: pro_moderator_owner not stored for the admin/moderator user through org/[orgid] facet"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10560",
+      "time": "2024-07-17T16:31:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10560",
+      "text": "fix: pro_moderator_owner not stored for the admin/moderator user through org/[orgid] facet"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10561",
+      "time": "2024-07-17T16:35:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10561",
+      "text": "feat: launch the exports for all organizations that have the checkbox…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10561",
+      "time": "2024-07-23T09:29:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10561",
+      "text": "feat: launch the exports for all organizations that have the checkbox…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10569",
+      "time": "2024-07-19T11:31:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10569",
+      "text": "feat: added a drag and drop zone in pro platform"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10569",
+      "time": "2024-07-23T07:07:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10569",
+      "text": "feat: added a drag and drop zone in pro platform"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10588",
+      "time": "2024-07-24T09:25:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10588",
+      "text": "fix: org name input field not displaying when checkbox is checked in pro pl…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10588",
+      "time": "2024-07-24T14:08:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10588",
+      "text": "fix: org name input field not displaying when checkbox is checked in pro pl…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10596",
+      "time": "2024-07-25T14:42:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10596",
+      "text": "feat: use wordpress for static pages  "
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10638",
+      "time": "2024-08-05T08:03:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10638",
+      "text": "refactor: removed a redundant variable in Routing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10638",
+      "time": "2024-08-05T11:46:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10638",
+      "text": "refactor: removed a redundant variable in Routing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10648",
+      "time": "2024-08-06T11:29:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10648",
+      "text": "feat: added a geoip api endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10648",
+      "time": "2024-08-07T12:20:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10648",
+      "text": "feat: added a geoip api endpoint"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10661",
+      "time": "2024-08-08T14:52:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10661",
+      "text": "test: added geoip route in routing.t"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10661",
+      "time": "2024-08-08T16:14:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10661",
+      "text": "test: added geoip route in routing.t"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10683",
+      "time": "2024-08-12T11:58:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10683",
+      "text": "feat: migration script to batch import existing orgs in CRM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10683",
+      "time": "2024-08-22T14:11:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10683",
+      "text": "feat: migration script to batch import existing orgs in CRM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10684",
+      "time": "2024-08-12T13:20:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10684",
+      "text": "feat: sync number of product public/pro in CRM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10684",
+      "time": "2024-08-13T10:00:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10684",
+      "text": "feat: sync number of product public/pro in CRM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10692",
+      "time": "2024-08-13T10:36:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10692",
+      "text": "fix: Automatically unselect images when source image is deleted"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10692",
+      "time": "2024-08-13T14:05:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10692",
+      "text": "fix: Automatically unselect images when source image is deleted"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10700",
+      "time": "2024-08-14T12:51:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10700",
+      "text": "feat: geoip/ api use the remote address if ip not provided as param"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10700",
+      "time": "2024-08-19T12:12:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10700",
+      "text": "feat: geoip/ api use the remote address if ip not provided as param"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10701",
+      "time": "2024-08-14T16:49:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10701",
+      "text": "feat: knowledge API to specify which panels should be returned"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10701",
+      "time": "2024-08-21T09:24:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10701",
+      "text": "feat: knowledge API to specify which panels should be returned"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10727",
+      "time": "2024-08-23T15:52:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10727",
+      "text": "fix: existing orgs migration script to crm"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10727",
+      "time": "2024-08-27T07:50:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10727",
+      "text": "fix: existing orgs migration script to crm"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10735",
+      "time": "2024-08-27T08:35:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10735",
+      "text": "fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#10747",
+      "time": "2024-08-28T14:46:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10747",
+      "text": "fix: fix crm sync"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#10747",
+      "time": "2024-09-06T16:26:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10747",
+      "text": "fix: fix crm sync"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#377",
+      "time": "2024-08-07T14:49:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/377",
+      "text": "docs: fresh wordpress install for OFF contents"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#377",
+      "time": "2024-08-08T14:08:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/377",
+      "text": "docs: fresh wordpress install for OFF contents"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/odoo-openfoodfacts#9",
+      "time": "2024-05-31T15:52:30Z",
+      "link": "https://github.com/openfoodfacts/odoo-openfoodfacts/pull/9",
+      "text": "Producers"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/odoo-openfoodfacts#9",
+      "time": "2024-07-19T15:55:43Z",
+      "link": "https://github.com/openfoodfacts/odoo-openfoodfacts/pull/9",
+      "text": "Producers"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/odoo-openfoodfacts#10",
+      "time": "2024-07-19T16:12:35Z",
+      "link": "https://github.com/openfoodfacts/odoo-openfoodfacts/pull/10",
+      "text": "feat: very last data synced for producers in CRM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/odoo-openfoodfacts#10",
+      "time": "2024-07-22T08:25:28Z",
+      "link": "https://github.com/openfoodfacts/odoo-openfoodfacts/pull/10",
+      "text": "feat: very last data synced for producers in CRM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/odoo-openfoodfacts#13",
+      "time": "2024-08-23T15:58:53Z",
+      "link": "https://github.com/openfoodfacts/odoo-openfoodfacts/pull/13",
+      "text": "Producers"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/odoo-openfoodfacts#13",
+      "time": "2024-09-02T12:01:21Z",
+      "link": "https://github.com/openfoodfacts/odoo-openfoodfacts/pull/13",
+      "text": "Producers"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,14 @@
+{
+  "last_updated": "2020-06-25T13:51:19Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-androidapp#3300",
+      "time": "2020-06-25T13:51:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3300",
+      "text": "When adding a photo from the picture manager, the app redirects to an empty Scan window #3180"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

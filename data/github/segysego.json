@@ -1,0 +1,21 @@
+{
+  "last_updated": "2020-04-30T07:52:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#158",
+      "time": "2020-04-30T07:52:25Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/158",
+      "text": "Add FSC code regex"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#158",
+      "time": "2020-05-03T14:02:34Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/158",
+      "text": "Add FSC code regex"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

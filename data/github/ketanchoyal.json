@@ -1,0 +1,14 @@
+{
+  "last_updated": "2023-05-25T15:55:05Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-dart#736",
+      "time": "2023-05-25T15:55:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/736",
+      "text": "feat: Added enum for product result status instead of string"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

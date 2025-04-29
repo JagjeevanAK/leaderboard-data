@@ -1,0 +1,42 @@
+{
+  "last_updated": "2022-03-29T10:04:19Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1380",
+      "time": "2022-03-29T10:04:19Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1380",
+      "text": "fix: Sign up page UI fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1381",
+      "time": "2022-03-29T10:21:53Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1381",
+      "text": "fix: UI fix for the sign in page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1381",
+      "time": "2022-03-29T12:34:38Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1381",
+      "text": "fix: UI fix for the sign in page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#1385",
+      "time": "2022-03-29T12:37:18Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1385",
+      "text": "fix: Updated text in English file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#1385",
+      "time": "2022-03-29T13:13:39Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/1385",
+      "text": "fix: Updated text in English file"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,35 @@
+{
+  "last_updated": "2025-03-19T08:24:24Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#316",
+      "time": "2025-03-19T08:24:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/316",
+      "text": "UI Enhancement for folksonomy page (Issue #315)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#318",
+      "time": "2025-03-19T10:14:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/318",
+      "text": "fix: children component not rendering as we use browser navigation(back). (bug #317)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-explorer#318",
+      "time": "2025-04-08T17:27:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/318",
+      "text": "fix: children component not rendering as we use browser navigation(back). (bug #317)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-explorer#321",
+      "time": "2025-03-19T17:55:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/321",
+      "text": "Improved search results with full product details"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}
