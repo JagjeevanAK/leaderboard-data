@@ -1,18 +1,37 @@
 [
-    {
-        "source": "github",
-        "title": "v24.31.0",
-        "text": "## What's Changed\r\n* ",
-        "author": "AlexG",
-        "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions",
-        "isAnswered": null,
-        "time": "2024-07-29T18:00:42Z",
-        "updateTime": "2024-07-29T18:00:43Z",
-        "category": {
-            "name": "Announcements",
-            "emoji": "📣"
-        },
-        "participants": [],
-        "repository": "openfoodfacts-server"
-    }
+  {
+    "source": "github",
+    "title": "v24.31.0",
+    "text": "## What's Changed\r\n* ",
+    "author": "AlexG",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions",
+    "isAnswered": null,
+    "time": "2024-07-29T18:00:42Z",
+    "updateTime": "2024-07-29T18:00:43Z",
+    "category": {
+      "name": "Announcements",
+      "emoji": "📣"
+    },
+    "participants": [],
+    "repository": "openfoodfacts-server"
+  },
+  {
+    "source": "github",
+    "title": "Data source: web scraping 🚫",
+    "text": "One source of data could be web scraping.\r\n\r\n### Allowed ? NO\r\n\r\n:warning: **Currently we don't allow this as a source** :warning: \r\n- because of legal reasons\r\n- we focus on prices in physical shops\r\n\r\n### Additional info\r\n\r\nIn the [about page](https://prices.openfoodfacts.org/about) & in the [OFF support](https://support.openfoodfacts.org/help/en-gb/29-open-prices/98-do-you-consider-scraping-prices-from-retailers-websites)\r\n> For legal and technical reasons, we don't consider scraping prices from retailers' websites as a valid way to contribute to Open Prices. We want to make sure that the prices we collect are accurate and up-to-date, and receiving scraped prices from contributors doesn't allow us to do that.\r\n> Price scraping is a considered option in a future version of Open Prices, but it would be done by Open Prices itself so that we can have a proof of the price based on the HTML page.\r\n\r\n### Related issues\r\n\r\n- https://github.com/openfoodfacts/open-prices/issues/512",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/311",
+    "isAnswered": null,
+    "time": "2024-06-05T12:01:12Z",
+    "updateTime": "2025-05-02T08:29:09Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "raphodn",
+      "CloCkWeRX"
+    ],
+    "repository": "open-prices"
+  }
 ]

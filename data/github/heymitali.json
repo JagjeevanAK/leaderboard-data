@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-03-23T18:03:38Z",
+  "last_updated": "2025-05-03T10:28:38.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#623",
+      "time": "2025-05-03T10:28:38.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/623",
+      "text": "feat: Added error handling for Folksonomy Write APIs",
+      "turnaround_time": 1134396
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-explorer#347",
@@ -345,6 +353,50 @@
       "text": "feat: Added authToken option in Prices API"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/folksonomy_api/issues/276",
+      "title": "Search query for /keys API is not working",
+      "stale_for": 6,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/802",
+      "title": "Type of set_cookie in auth API is incorrectly getting generated",
+      "stale_for": 13,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/801",
+      "title": "Login cookie from Open Prices API not persisting across page reloads",
+      "stale_for": 13,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/issues/618",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/622"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/370",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/372"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/issues/58",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/54"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/issues/53",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/54"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/issues/603",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/604"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/issues/601",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/602"
+    }
+  ]
 }

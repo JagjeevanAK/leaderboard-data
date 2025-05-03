@@ -1,6 +1,13 @@
 {
-  "last_updated": "2023-01-23T15:32:57Z",
+  "last_updated": "2025-05-03T12:00:00.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-03T10:52:18.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#9251",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9251#pullrequestreview-2813209631",
+      "text": "feat: Implement OIDC sign-in"
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/robotoff#1048",
@@ -1262,6 +1269,215 @@
       "text": "Add Ingredients stats"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/issues/7",
+      "title": "Add a shared PostgreSQL database",
+      "stale_for": 14,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/114",
+      "title": "Load Scan events",
+      "stale_for": 36,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/157",
+      "title": "Remove producer from general user creation flow and support separate flow for producers",
+      "stale_for": 35,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11082",
+      "title": "Set up Minion and Redis Listener services for all product flavours",
+      "stale_for": 144,
+      "labels": [
+        "🎯 P1",
+        "🧴 Open Beauty Facts",
+        "🐾 Open Pet Food Facts",
+        "📸 Open Products Facts",
+        "Minion",
+        "OxF",
+        "REDIS"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/132",
+      "title": "Authenticator setup doesn't work",
+      "stale_for": 157,
+      "labels": [
+        "2FA"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/129",
+      "title": "Issue creating a new user: invalid_grant",
+      "stale_for": 115,
+      "labels": [
+        "User creation"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/120",
+      "title": "User import issues that need to be reviewed",
+      "stale_for": 133,
+      "labels": [
+        "User import"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/119",
+      "title": "Keycloak process was killed when using realm-batch user import",
+      "stale_for": 158,
+      "labels": [
+        "Deployment",
+        "User import"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/118",
+      "title": "Need to add oidc_options to different flavour config files",
+      "stale_for": 160,
+      "labels": [
+        "Deployment"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/102",
+      "title": "More documentation on how it works and troubleshooting",
+      "stale_for": 185,
+      "labels": [
+        "📚 Documentation"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/100",
+      "title": "Store products for other product types (OBF, OPF and OPPF)",
+      "stale_for": 28,
+      "labels": [
+        "📸 Open Products Facts",
+        "🧴Open Beauty Facts",
+        "🐾  Open Pet Food Facts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/99",
+      "title": "Ensure that pro-platform events are not added to the main product history",
+      "stale_for": 185,
+      "labels": [
+        "🏭 Producer's Platform"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/98",
+      "title": "Stopped processing events and did not restart",
+      "stale_for": 185,
+      "labels": [
+        "REDIS"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/89",
+      "title": "Deploy for Open Pet Food Facts and test",
+      "stale_for": 191,
+      "labels": [
+        "🐾 Open Pet Food Facts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/issues/4",
+      "title": "Redis crashes when processing lots of big messages",
+      "stale_for": 272,
+      "labels": [
+        "🐛 bug"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/35",
+      "title": "Work out how to refresh staging from production",
+      "stale_for": 199,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/34",
+      "title": "Hardening for production",
+      "stale_for": 199,
+      "labels": [
+        "Deployment",
+        "Security"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/31",
+      "title": "Complete theming on all screens",
+      "stale_for": 196,
+      "labels": [
+        "🎨 Mockup required"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9052",
+      "title": "Add support for Agribalyse version 3.1.1",
+      "stale_for": 203,
+      "labels": [
+        "🌱 Green-Score",
+        "Agribalyse"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8620",
+      "title": "Consider moving to a relational data model, like Postgres",
+      "stale_for": 24,
+      "labels": [
+        "refactor"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11751",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11753"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/120",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/121"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/112",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/113"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/103",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/104"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/103",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/108"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10789",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10791"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/87",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/88"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10749",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10750"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/55",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/56"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/.github/issues/27",
+      "pr_link": "https://github.com/openfoodfacts/.github/pull/28"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10265",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10266"
+    }
+  ]
 }

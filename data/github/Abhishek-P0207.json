@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-25T16:05:04Z",
+  "last_updated": "2025-05-03T06:43:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6525",
+      "time": "2025-05-03T06:43:29.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6525#issuecomment-2848468732",
+      "text": "Thanks @monsieurtanuki, Learnt a lot of things.😃 "
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/smooth-app#6477",
@@ -38,5 +45,10 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/6476",
+      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/6477"
+    }
+  ]
 }

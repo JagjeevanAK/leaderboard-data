@@ -1,6 +1,14 @@
 {
-  "last_updated": "2021-09-23T19:26:13Z",
+  "last_updated": "2025-05-03T07:28:56.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/hunger-games#1168",
+      "time": "2025-05-03T07:28:56.000Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/1168",
+      "text": "Bump: Update dev libraries",
+      "turnaround_time": 55359
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/robotoff#444",
@@ -3334,6 +3342,218 @@
       "text": "feat: archive the repo"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11461",
+      "title": "Link to Producer platform not visible on small screen",
+      "stale_for": 51,
+      "labels": [
+        "🏭 Producers Platform"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/1102",
+      "title": "Nutrition: Adapt values to units",
+      "stale_for": 138,
+      "labels": [
+        "Nutrition game"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/1096",
+      "title": "Create Taxo-walk the game to navigate the taxonomy",
+      "stale_for": 144,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/1091",
+      "title": "[nutrition] Allow to add nutriments",
+      "stale_for": 148,
+      "labels": [
+        "Nutrition game"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/1090",
+      "title": "Make country and language two general states",
+      "stale_for": 144,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/robotoff/issues/1339",
+      "title": "Logo search does not support the `taxonomy_value` field",
+      "stale_for": 197,
+      "labels": [
+        "logos & labels"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/search-a-licious/issues/100",
+      "title": "Brand not found with fr language",
+      "stale_for": 191,
+      "labels": [
+        "❓Question",
+        "brands"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/search-a-licious/issues/99",
+      "title": "Document the list of taxonomy names",
+      "stale_for": 196,
+      "labels": [
+        "📚 Documentation",
+        "taxonomy autocomplete"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9156",
+      "title": "Search request returns an empty array when done on world",
+      "stale_for": 197,
+      "labels": [
+        "timeouts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/rate-my-recipe/issues/51",
+      "title": "Coherent default values and steps",
+      "stale_for": 577,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/477",
+      "title": "Autosuggestion: Encourage users to discover and improve the taxonomy",
+      "stale_for": 59,
+      "labels": [
+        "🎯 P1",
+        "autosuggest",
+        "🖼️ Logo game",
+        ":star: top issue"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/240",
+      "title": "[quality] Avoid annotating scan errors",
+      "stale_for": 59,
+      "labels": [
+        "🧽 Data quality games"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/210",
+      "title": "Distinguish product edited and annotations",
+      "stale_for": 196,
+      "labels": [
+        "home page"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/195",
+      "title": "Add integration with openfoodfacts-events to display your user stats",
+      "stale_for": 961,
+      "labels": [
+        "on hold"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/194",
+      "title": "Validate answers in the buffer when quitting the page",
+      "stale_for": 196,
+      "labels": [
+        "question game"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/74",
+      "title": "Use Robotoff to prefill some nutrition fields",
+      "stale_for": 185,
+      "labels": [
+        "🎯 P0",
+        "on hold",
+        "Nutrition game"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/72",
+      "title": "Create a controllable Nutrition table",
+      "stale_for": 196,
+      "labels": [
+        "Nutrition game"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/70",
+      "title": "Nutrition Game (Tracker)",
+      "stale_for": 21,
+      "labels": [
+        "🎯 P1",
+        "Nutrition game"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames-react/issues/58",
+      "title": "When the product change, the window scroll to the top as if it was a new page",
+      "stale_for": 1966,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames-react/issues/57",
+      "title": "On a desktop the picture is on the left for nutrition game",
+      "stale_for": 1966,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/hunger-games/issues/1059",
+      "pr_link": "https://github.com/openfoodfacts/hunger-games/pull/1070"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/hunger-games/issues/936",
+      "pr_link": "https://github.com/openfoodfacts/hunger-games/pull/938"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices-frontend/issues/225",
+      "pr_link": "https://github.com/openfoodfacts/open-prices/pull/173"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/hunger-games/issues/714",
+      "pr_link": "https://github.com/openfoodfacts/hunger-games/pull/769"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/rate-my-recipe/issues/23",
+      "pr_link": "https://github.com/openfoodfacts/rate-my-recipe/pull/25"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/hunger-games/issues/499",
+      "pr_link": "https://github.com/openfoodfacts/hunger-games/pull/541"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/hunger-games/issues/461",
+      "pr_link": "https://github.com/openfoodfacts/hunger-games/pull/467"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/hunger-games/issues/461",
+      "pr_link": "https://github.com/openfoodfacts/hunger-games/pull/470"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/hunger-games/issues/460",
+      "pr_link": "https://github.com/openfoodfacts/hunger-games/pull/467"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/hunger-games/issues/460",
+      "pr_link": "https://github.com/openfoodfacts/hunger-games/pull/470"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/hunger-games/issues/405",
+      "pr_link": "https://github.com/openfoodfacts/hunger-games/pull/407"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/robotoff/issues/1012",
+      "pr_link": "https://github.com/openfoodfacts/hunger-games/pull/398"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/hunger-games/issues/161",
+      "pr_link": "https://github.com/openfoodfacts/hunger-games/pull/164"
+    }
+  ]
 }

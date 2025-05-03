@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-04-17T20:05:52Z",
+  "last_updated": "2025-05-03T12:04:13.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6576",
+      "time": "2025-05-03T12:04:13.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6576",
+      "text": "fix: dark mode issue in feedback page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/smooth-app#6575",
+      "time": "2025-05-03T06:41:45.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6575",
+      "text": "Search Results Not Updating After Changing Country Without App Restarte"
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-dart#1059",
@@ -72,6 +86,15 @@
       "text": "feat: Add infinite scrolling to the various Open Prices ListViews."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6575",
+      "title": "Search Results Not Updating After Changing Country Without App Restart",
+      "stale_for": 0,
+      "labels": [
+        "🔎 Search"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

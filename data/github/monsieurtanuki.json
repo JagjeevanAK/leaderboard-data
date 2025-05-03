@@ -1,6 +1,27 @@
 {
-  "last_updated": "2020-12-27T12:33:20Z",
+  "last_updated": "2025-05-03T13:18:47.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-03T13:18:47.000Z",
+      "title": "openfoodfacts/smooth-app#6576",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6576#pullrequestreview-2813232118",
+      "text": "fix: dark mode issue in feedback page"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-03T12:02:02.000Z",
+      "title": "openfoodfacts/smooth-app#6561",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#pullrequestreview-2813210835",
+      "text": "feat: Add infinite scrolling to the various Open Prices ListViews."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11744",
+      "time": "2025-05-03T10:52:11.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11744#issuecomment-2848567914",
+      "text": "Still happening (as https://github.com/openfoodfacts/openfoodfacts-server/issues/11805 / [sentry error](https://openfoodfacts.sentry.io/issues/6472516917/?project=5376745&referrer=github_integration)) as 3rd most common error on Smoothie's weekly Sentry report."
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-dart#61",
@@ -13729,6 +13750,320 @@
       "text": "Update flutter.yaml"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6566",
+      "title": "Enforce unawaited_futures rule",
+      "stale_for": 0,
+      "labels": [
+        ":star: top issue"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1062",
+      "title": "Implement Prices Challenges",
+      "stale_for": 2,
+      "labels": [
+        "🏄‍♀️ good first issue",
+        "💸 Prices"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6544",
+      "title": "\"Soygate\", or should we warn the user when prices change",
+      "stale_for": 20,
+      "labels": [
+        ":star: top issue",
+        "Prices",
+        "🔔 Notifications"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6543",
+      "title": "Confusion about IMPORTANT and VERY_IMPORTANT levels",
+      "stale_for": 21,
+      "labels": [
+        "⚙️🥗 Food preferences"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11745",
+      "title": "/cgi/search.pl: no image for ingredients, nutrition and packaging",
+      "stale_for": 25,
+      "labels": [
+        "🖼️ Images"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1055",
+      "title": "Add flexibility to Product according to api version",
+      "stale_for": 31,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1053",
+      "title": "Edit \"allergenic substances\"",
+      "stale_for": 34,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6490",
+      "title": "Exotic and inconsistent language selection",
+      "stale_for": 22,
+      "labels": [
+        "🎨 UI / UX"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6487",
+      "title": "Last list items not visible on Android",
+      "stale_for": 35,
+      "labels": [
+        "good first issue",
+        "🎨 UI / UX",
+        "Prices"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6428",
+      "title": "Starting August 20, 2025, no more Amazon Appstore on your Android device",
+      "stale_for": 51,
+      "labels": [
+        "distribution",
+        "Amazon AppStore"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1306",
+      "title": "Use store specific advertisement",
+      "stale_for": 101,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6069",
+      "title": "Share an image as a proof with Smoothie",
+      "stale_for": 124,
+      "labels": [
+        "Prices",
+        "Share to Open Food Facts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/626",
+      "title": "Successful upload of proof image with invalid bearer token",
+      "stale_for": 55,
+      "labels": [
+        "Proofs",
+        "🔐 Auth"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6043",
+      "title": "Price tags input from picture",
+      "stale_for": 87,
+      "labels": [
+        "Prices"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1011",
+      "title": "New Prices features: create location, get products",
+      "stale_for": 148,
+      "labels": [
+        "💸 Prices"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5982",
+      "title": "Support \"online\" stores for Prices",
+      "stale_for": 152,
+      "labels": [
+        "Prices"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11069",
+      "title": "Duplicate food records with/without product type",
+      "stale_for": 144,
+      "labels": [
+        "🏭 Producers Platform"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5861",
+      "title": "Folksonomy + refresh, offline, background tasks",
+      "stale_for": 119,
+      "labels": [
+        "folksonomy engine",
+        "P2",
+        "🔁 Background tasks"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5417",
+      "title": "Add prices: displaying a \"text recap\" like an actual receipt, possibly with the total amount",
+      "stale_for": 197,
+      "labels": [
+        "good first issue",
+        "Prices"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10403",
+      "title": "TEST env (.net): Cannot write to '/mnt/podata/logs/ratelimiter_log4perl.log'",
+      "stale_for": 197,
+      "labels": [
+        "preprod",
+        "logs"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5276",
+      "title": "Consider introducing GPS for nearby shop search",
+      "stale_for": 66,
+      "labels": [
+        "permissions",
+        "Prices",
+        "geolocation"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/906",
+      "title": "Know when to suggest \"% DV\" and \"IU\" as unit",
+      "stale_for": 203,
+      "labels": [
+        "✏️ Editing - Nutrition input"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/905",
+      "title": "Add \"% DV\" and \"IU\" as unit",
+      "stale_for": 203,
+      "labels": [
+        "✏️ Editing - Nutrition input"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5127",
+      "title": "no Best Before date on mobile",
+      "stale_for": 113,
+      "labels": [
+        "✏️ Editing",
+        "🎨 Mockup required"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/889",
+      "title": "Exclude items from autosuggestions",
+      "stale_for": 99,
+      "labels": [
+        "🏄‍♀️ good first issue",
+        "autocomplete"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5046",
+      "title": "Autocomplete: new Elastic Search or old tag type?",
+      "stale_for": 182,
+      "labels": [
+        "discussion",
+        "🔎 Search",
+        "autosuggest"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/862",
+      "title": "Missing nutrients (e.g. Polyols)",
+      "stale_for": 203,
+      "labels": [
+        "nutrients"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/4941",
+      "title": "We need to sort out the refresh scenario.",
+      "stale_for": 197,
+      "labels": [
+        "🎯 P1",
+        "data refresh"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/4889",
+      "title": "Display square simplified nutriscore/green-score widgets on product page",
+      "stale_for": 7,
+      "labels": [
+        "🥫 Product page",
+        "🚥 Nutri-Score",
+        "✨ 2024 the big redesign"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/4888",
+      "title": "Add step for selecting KP before reordering them",
+      "stale_for": 188,
+      "labels": [
+        "📖 Knowledge panels",
+        "📖 Knowledge panels - Local overrides"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1066",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1071"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1045",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1046"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1041",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1047"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/6369",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1043"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/6369",
+      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/6424"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/6063",
+      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/6064"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/6061",
+      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/6062"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/6041",
+      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/6042"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1007",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1008"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1003",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1016"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/5944",
+      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/5951"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/999",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1000"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/986",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/987"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/5693",
+      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/5694"
+    }
+  ]
 }

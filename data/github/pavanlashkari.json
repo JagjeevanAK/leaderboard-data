@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-22T15:55:40Z",
+  "last_updated": "2025-05-03T06:25:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6541",
+      "time": "2025-05-03T06:25:54.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6541#issuecomment-2848463090",
+      "text": "Hi @monsieurtanuki,\r\nSorry for the unnecessary changes and for taking your valuable time. I’ve fixed them and will be more mindful next time. Thanks for your patience!"
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-dart#1068",
