@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6410",
+      "title": "OpenFoodFacts/smooth-app#6410",
       "time": "2025-03-03T10:13:21Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6410",
       "text": "feat: added Matomo event for user clicking on account deletion (issue #6351)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6418",
+      "title": "OpenFoodFacts/smooth-app#6418",
       "time": "2025-03-06T08:21:53Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6418",
       "text": "feat: Added Matomo event for producers signups from the app"

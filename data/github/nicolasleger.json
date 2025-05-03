@@ -1,1542 +1,1542 @@
 {
-  "last_updated": "2017-02-05T10:45:05Z",
+  "last_updated": "2018-03-13T22:03:30Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#710",
-      "time": "2017-02-05T10:45:05Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/710",
-      "text": "Add and use package.json"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#710",
-      "time": "2017-02-13T19:02:52Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/710",
-      "text": "Add and use package.json"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#713",
-      "time": "2017-02-05T11:56:54Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/713",
-      "text": "Use HTTPS links"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#713",
-      "time": "2017-02-07T19:23:21Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/713",
-      "text": "Use HTTPS links"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#923",
-      "time": "2017-11-02T17:43:07Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/923",
-      "text": "Migrate bower to yarn"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#923",
-      "time": "2017-11-16T01:08:06Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/923",
-      "text": "Migrate bower to yarn"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-cordova-app-old-with-blob#23",
-      "time": "2015-03-23T13:56:35Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app-old-with-blob/pull/23",
-      "text": "Fix Markdown"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-cordova-app-old-with-blob#24",
-      "time": "2015-05-21T14:57:39Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app-old-with-blob/pull/24",
-      "text": "Fix log info"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-python#28",
-      "time": "2018-03-13T21:58:16Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/28",
-      "text": "[CI] Test against Python and pypy versions"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-python#28",
-      "time": "2018-03-13T23:53:53Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/28",
-      "text": "[CI] Test against Python and pypy versions"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#20",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#20",
       "time": "2018-03-13T22:03:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/20",
       "text": "[CI] Add Travis"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#20",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#20",
       "time": "2018-03-14T00:07:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/20",
       "text": "[CI] Add Travis"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-php#7",
+      "title": "OpenFoodFacts/openfoodfacts-server#710",
+      "time": "2017-02-05T10:45:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/710",
+      "text": "Add and use package.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#710",
+      "time": "2017-02-13T19:02:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/710",
+      "text": "Add and use package.json"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#713",
+      "time": "2017-02-05T11:56:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/713",
+      "text": "Use HTTPS links"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#713",
+      "time": "2017-02-07T19:23:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/713",
+      "text": "Use HTTPS links"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#923",
+      "time": "2017-11-02T17:43:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/923",
+      "text": "Migrate bower to yarn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#923",
+      "time": "2017-11-16T01:08:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/923",
+      "text": "Migrate bower to yarn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-python#28",
+      "time": "2018-03-13T21:58:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/28",
+      "text": "[CI] Test against Python and pypy versions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-python#28",
+      "time": "2018-03-13T23:53:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/28",
+      "text": "[CI] Test against Python and pypy versions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-cordova-app-old-with-blob#23",
+      "time": "2015-03-23T13:56:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app-old-with-blob/pull/23",
+      "text": "Fix Markdown"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-cordova-app-old-with-blob#24",
+      "time": "2015-05-21T14:57:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app-old-with-blob/pull/24",
+      "text": "Fix log info"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-php#7",
       "time": "2017-10-29T12:25:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/7",
       "text": "Clean ReadMe"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-php#7",
+      "title": "OpenFoodFacts/openfoodfacts-php#7",
       "time": "2017-10-29T12:53:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/7",
       "text": "Clean ReadMe"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-php#8",
+      "title": "OpenFoodFacts/openfoodfacts-php#8",
       "time": "2017-10-29T12:30:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/8",
       "text": "Use HTTPS"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-php#8",
+      "title": "OpenFoodFacts/openfoodfacts-php#8",
       "time": "2017-10-29T12:53:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/8",
       "text": "Use HTTPS"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#4",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#4",
       "time": "2016-04-09T14:31:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/4",
       "text": "Manage Heroku"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#4",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#4",
       "time": "2016-04-09T14:35:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/4",
       "text": "Manage Heroku"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#5",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#5",
       "time": "2016-04-18T21:51:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/5",
       "text": "Update index.html"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#5",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#5",
       "time": "2016-04-18T21:51:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/5",
       "text": "Update index.html"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#7",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#7",
       "time": "2017-11-07T11:08:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/7",
       "text": "Use HTTPS"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#7",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#7",
       "time": "2017-11-07T11:16:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/7",
       "text": "Use HTTPS"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#8",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#8",
       "time": "2017-11-07T15:15:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/8",
       "text": "Update To Python 3.6.2"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#8",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#8",
       "time": "2017-11-07T15:15:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/8",
       "text": "Update To Python 3.6.2"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#14",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#14",
       "time": "2018-11-04T13:23:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/14",
       "text": "Upgrade to patched Python 3.6.6"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#14",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#14",
       "time": "2018-11-04T13:26:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/14",
       "text": "Upgrade to patched Python 3.6.6"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#15",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#15",
       "time": "2018-11-04T13:33:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/15",
       "text": "Fix typo in requirements"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#15",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#15",
       "time": "2018-11-04T13:33:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/15",
       "text": "Fix typo in requirements"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-translations#3",
+      "title": "OpenFoodFacts/openfoodfacts-translations#3",
       "time": "2015-03-23T14:09:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-translations/pull/3",
       "text": "Clean"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-translations#3",
+      "title": "OpenFoodFacts/openfoodfacts-translations#3",
       "time": "2015-04-18T09:48:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-translations/pull/3",
       "text": "Clean"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#2",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#2",
       "time": "2015-03-01T12:01:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/2",
       "text": "Add locales fetching"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#2",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#2",
       "time": "2015-03-01T12:45:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/2",
       "text": "Add locales fetching"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#3",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#3",
       "time": "2015-03-02T22:35:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/3",
       "text": "Add product search"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#3",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#3",
       "time": "2015-03-03T00:02:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/3",
       "text": "Add product search"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#4",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#4",
       "time": "2015-04-23T19:41:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/4",
       "text": "Update repository"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#4",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#4",
       "time": "2015-04-24T06:57:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/4",
       "text": "Update repository"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#5",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#5",
       "time": "2015-04-24T06:58:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/5",
       "text": "Update to patched Ruby version for development"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#5",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#5",
       "time": "2015-04-24T07:02:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/5",
       "text": "Update to patched Ruby version for development"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#6",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#6",
       "time": "2015-04-24T07:02:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/6",
       "text": "Fix typo in doc"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#6",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#6",
       "time": "2015-04-24T07:02:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/6",
       "text": "Fix typo in doc"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#8",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#8",
       "time": "2015-05-21T13:23:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/8",
       "text": "Fix search when no image"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#8",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#8",
       "time": "2015-05-21T13:29:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/8",
       "text": "Fix search when no image"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#9",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#9",
       "time": "2015-05-21T13:58:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/9",
       "text": "Use dedicated class for locales"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#9",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#9",
       "time": "2015-05-21T14:11:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/9",
       "text": "Use dedicated class for locales"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#10",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#10",
       "time": "2015-05-21T16:01:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/10",
       "text": "Add simple user with login"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#10",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#10",
       "time": "2015-05-21T16:02:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/10",
       "text": "Add simple user with login"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#11",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#11",
       "time": "2015-05-23T11:45:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/11",
       "text": "Enhance product edition"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#11",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#11",
       "time": "2015-05-23T12:00:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/11",
       "text": "Enhance product edition"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#12",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#12",
       "time": "2015-05-23T12:38:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/12",
       "text": "Bump to version 0.2.0"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#12",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#12",
       "time": "2015-05-23T12:43:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/12",
       "text": "Bump to version 0.2.0"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#13",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#13",
       "time": "2015-05-23T19:27:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/13",
       "text": "Add product states"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#13",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#13",
       "time": "2015-05-23T19:43:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/13",
       "text": "Add product states"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#14",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#14",
       "time": "2015-05-31T20:52:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/14",
       "text": "Add localized Product States"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#14",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#14",
       "time": "2015-05-31T21:07:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/14",
       "text": "Add localized Product States"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#15",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#15",
       "time": "2015-06-01T09:19:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/15",
       "text": "Add brands"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#15",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#15",
       "time": "2015-06-01T09:31:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/15",
       "text": "Add brands"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#16",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#16",
       "time": "2015-06-02T10:03:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/16",
       "text": "Factorize code for list"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#16",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#16",
       "time": "2015-06-02T10:35:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/16",
       "text": "Factorize code for list"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#17",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#17",
       "time": "2015-06-02T13:10:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/17",
       "text": "Add entities tags"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#17",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#17",
       "time": "2015-06-02T13:22:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/17",
       "text": "Add entities tags"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#18",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#18",
       "time": "2015-06-02T20:30:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/18",
       "text": "Add contents"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#18",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#18",
       "time": "2015-06-02T21:02:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/18",
       "text": "Add contents"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#22",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#22",
       "time": "2016-04-09T12:12:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/22",
       "text": "Add Changelog"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#22",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#22",
       "time": "2016-04-09T12:12:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/22",
       "text": "Add Changelog"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#23",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#23",
       "time": "2016-04-09T12:17:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/23",
       "text": "Fix test build"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#23",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#23",
       "time": "2016-04-09T12:36:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/23",
       "text": "Fix test build"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#24",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#24",
       "time": "2016-04-09T12:50:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/24",
       "text": "Fix Coverage Status badge"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#24",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#24",
       "time": "2016-04-09T12:50:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/24",
       "text": "Fix Coverage Status badge"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#25",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#25",
       "time": "2016-04-09T12:55:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/25",
       "text": "Fix Coverage Status badge with branch specified"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#25",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#25",
       "time": "2016-04-09T12:55:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/25",
       "text": "Fix Coverage Status badge with branch specified"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#26",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#26",
       "time": "2016-04-09T15:57:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/26",
       "text": "Parameterize domain"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#26",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#26",
       "time": "2016-04-09T16:26:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/26",
       "text": "Parameterize domain"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#30",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#30",
       "time": "2016-12-30T10:27:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/30",
       "text": "Switch to HTTPS #29"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#30",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#30",
       "time": "2016-12-30T10:40:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/30",
       "text": "Switch to HTTPS #29"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#31",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#31",
       "time": "2016-12-30T10:41:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/31",
       "text": "Update .travis.yml"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#31",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#31",
       "time": "2016-12-30T10:41:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/31",
       "text": "Update .travis.yml"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#33",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#33",
       "time": "2017-01-10T23:55:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/33",
       "text": "Fix additives riskiness"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#33",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#33",
       "time": "2017-01-11T00:00:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/33",
       "text": "Fix additives riskiness"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#34",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#34",
       "time": "2017-01-11T00:13:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/34",
       "text": "Fix Travis config"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#34",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#34",
       "time": "2017-01-11T12:32:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/34",
       "text": "Fix Travis config"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#35",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#35",
       "time": "2017-01-11T12:34:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/35",
       "text": "Update URI Escaping method"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#35",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#35",
       "time": "2017-01-11T14:12:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/35",
       "text": "Update URI Escaping method"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#36",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#36",
       "time": "2017-09-24T22:33:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/36",
       "text": "Add Missions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#36",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#36",
       "time": "2017-09-24T22:42:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/36",
       "text": "Add Missions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#37",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#37",
       "time": "2017-09-24T22:45:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/37",
       "text": "Add Languages"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#37",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#37",
       "time": "2017-09-25T12:53:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/37",
       "text": "Add Languages"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#38",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#38",
       "time": "2017-09-24T22:54:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/38",
       "text": "Add Nutrition Grades"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#38",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#38",
       "time": "2017-09-25T23:09:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/38",
       "text": "Add Nutrition Grades"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#39",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#39",
       "time": "2017-09-25T22:12:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/39",
       "text": "Add Entry and Last Edit Date"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#39",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#39",
       "time": "2017-09-25T22:29:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/39",
       "text": "Add Entry and Last Edit Date"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#40",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#40",
       "time": "2017-09-25T22:42:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/40",
       "text": "Add Number of Ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#40",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#40",
       "time": "2017-09-25T23:02:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/40",
       "text": "Add Number of Ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#41",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#41",
       "time": "2017-10-29T10:07:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/41",
       "text": "Remove deprecated comment"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#41",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#41",
       "time": "2017-10-29T10:07:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/41",
       "text": "Remove deprecated comment"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#42",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#42",
       "time": "2017-10-29T10:08:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/42",
       "text": "Use HTTPS links in ReadMe"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#42",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#42",
       "time": "2017-10-29T10:08:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/42",
       "text": "Use HTTPS links in ReadMe"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#43",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#43",
       "time": "2017-10-29T12:08:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/43",
       "text": "Update Ruby dev version to 2.4.2"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#43",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#43",
       "time": "2017-10-29T12:08:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/43",
       "text": "Update Ruby dev version to 2.4.2"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#44",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#44",
       "time": "2017-10-29T12:36:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/44",
       "text": "Fix indentation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#44",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#44",
       "time": "2017-10-29T12:36:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/44",
       "text": "Fix indentation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#45",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#45",
       "time": "2017-10-30T12:41:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/45",
       "text": "Fix/tests"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#45",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#45",
       "time": "2017-10-30T13:02:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/45",
       "text": "Fix/tests"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#46",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#46",
       "time": "2017-10-30T13:07:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/46",
       "text": "typo"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#46",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#46",
       "time": "2017-10-30T13:07:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/46",
       "text": "typo"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#47",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#47",
       "time": "2017-10-30T13:27:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/47",
       "text": "Update to version 0.5.0"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#47",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#47",
       "time": "2017-10-30T13:27:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/47",
       "text": "Update to version 0.5.0"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#48",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#48",
       "time": "2017-10-30T16:07:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/48",
       "text": "Fix/locales"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#48",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#48",
       "time": "2017-10-30T16:38:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/48",
       "text": "Fix/locales"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#49",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#49",
       "time": "2017-10-30T22:30:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/49",
       "text": "Update to version 0.5.1"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#49",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#49",
       "time": "2017-10-30T22:30:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/49",
       "text": "Update to version 0.5.1"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#50",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#50",
       "time": "2018-01-29T09:06:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/50",
       "text": "Test on new Ruby versions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#50",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#50",
       "time": "2018-01-29T09:35:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/50",
       "text": "Test on new Ruby versions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#51",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#51",
       "time": "2018-01-29T09:37:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/51",
       "text": "Update nokogiri dep"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#51",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#51",
       "time": "2018-01-29T09:38:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/51",
       "text": "Update nokogiri dep"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#52",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#52",
       "time": "2018-01-29T10:17:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/52",
       "text": "Update dev Ruby version"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#52",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#52",
       "time": "2018-01-29T10:17:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/52",
       "text": "Update dev Ruby version"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#53",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#53",
       "time": "2018-01-29T17:52:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/53",
       "text": "Drop support of Ruby 2.0 (like nokogiri)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#53",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#53",
       "time": "2018-01-29T22:32:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/53",
       "text": "Drop support of Ruby 2.0 (like nokogiri)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#54",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#54",
       "time": "2018-02-06T17:51:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/54",
       "text": "Fix CI config"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#54",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#54",
       "time": "2018-02-06T20:30:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/54",
       "text": "Fix CI config"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#55",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#55",
       "time": "2018-02-06T20:37:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/55",
       "text": "Add AppVeyor build status badge"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#55",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#55",
       "time": "2018-02-06T20:37:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/55",
       "text": "Add AppVeyor build status badge"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#56",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#56",
       "time": "2018-02-06T20:43:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/56",
       "text": "Ensure AppVeyor build status badge on master branch"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#56",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#56",
       "time": "2018-02-06T20:43:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/56",
       "text": "Ensure AppVeyor build status badge on master branch"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#65",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#65",
       "time": "2020-12-30T09:08:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/65",
       "text": "Move CI to Github action"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#65",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#65",
       "time": "2020-12-30T09:08:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/65",
       "text": "Move CI to Github action"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#66",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#66",
       "time": "2020-12-30T09:21:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/66",
       "text": "Fix tests"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#66",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#66",
       "time": "2020-12-30T12:22:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/66",
       "text": "Fix tests"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#72",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#72",
       "time": "2022-01-16T14:50:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/72",
       "text": "Fix categories list of images"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#72",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#72",
       "time": "2022-01-16T14:56:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/72",
       "text": "Fix categories list of images"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#73",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#73",
       "time": "2022-01-16T15:01:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/73",
       "text": "Fix Deepsource config"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#73",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#73",
       "time": "2022-01-16T15:02:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/73",
       "text": "Fix Deepsource config"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#74",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#74",
       "time": "2022-01-16T15:06:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/74",
       "text": "Fix Rubocop SARIF"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#74",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#74",
       "time": "2022-01-16T15:08:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/74",
       "text": "Fix Rubocop SARIF"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#97",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#97",
       "time": "2024-05-30T06:44:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/97",
       "text": "chore(CI): test against new Ruby versions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#97",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#97",
       "time": "2024-05-30T06:47:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/97",
       "text": "chore(CI): test against new Ruby versions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-cordova-app#32",
+      "title": "OpenFoodFacts/openfoodfacts-cordova-app#32",
       "time": "2016-12-31T11:05:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/pull/32",
       "text": "Use OpenFoodFacts HTTPS"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-cordova-app#32",
+      "title": "OpenFoodFacts/openfoodfacts-cordova-app#32",
       "time": "2017-01-01T13:04:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/pull/32",
       "text": "Use OpenFoodFacts HTTPS"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#1",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#1",
       "time": "2016-04-10T13:31:19Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/1",
       "text": "Add Ingredient and PeriodAfterOpening"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#1",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#1",
       "time": "2016-04-10T13:39:11Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/1",
       "text": "Add Ingredient and PeriodAfterOpening"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#4",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#4",
       "time": "2017-01-11T15:47:41Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/4",
       "text": "Fix Travis config"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#4",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#4",
       "time": "2017-01-11T17:32:03Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/4",
       "text": "Fix Travis config"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#5",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#5",
       "time": "2017-01-24T22:54:50Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/5",
       "text": "Use HTTPS"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#5",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#5",
       "time": "2017-01-24T23:04:07Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/5",
       "text": "Use HTTPS"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#6",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#6",
       "time": "2017-10-29T09:53:27Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/6",
       "text": "Remove deprecated comment"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#6",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#6",
       "time": "2017-10-29T09:53:38Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/6",
       "text": "Remove deprecated comment"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#7",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#7",
       "time": "2017-10-29T10:05:27Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/7",
       "text": "Use HTTPS links in ReadMe"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#7",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#7",
       "time": "2017-10-29T10:05:34Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/7",
       "text": "Use HTTPS links in ReadMe"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#8",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#8",
       "time": "2017-10-29T12:07:53Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/8",
       "text": "Update Ruby dev version to 2.4.2"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#8",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#8",
       "time": "2017-10-29T12:07:58Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/8",
       "text": "Update Ruby dev version to 2.4.2"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#9",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#9",
       "time": "2017-10-30T13:06:39Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/9",
       "text": "Add Entry and Last Edit Date"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#9",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#9",
       "time": "2017-10-30T13:10:43Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/9",
       "text": "Add Entry and Last Edit Date"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#10",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#10",
       "time": "2017-10-30T13:10:19Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/10",
       "text": "Update Ruby versions in test builds"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#10",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#10",
       "time": "2017-10-30T13:10:25Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/10",
       "text": "Update Ruby versions in test builds"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#11",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#11",
       "time": "2017-10-30T13:17:07Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/11",
       "text": "Add Missions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#11",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#11",
       "time": "2017-10-30T13:23:20Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/11",
       "text": "Add Missions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#12",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#12",
       "time": "2017-10-30T13:41:11Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/12",
       "text": "Add Number of Ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#12",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#12",
       "time": "2017-10-30T13:41:18Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/12",
       "text": "Add Number of Ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#13",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#13",
       "time": "2017-10-30T13:46:57Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/13",
       "text": "Add PeriodsAfterOpening"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#14",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#14",
       "time": "2017-10-30T13:49:00Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/14",
       "text": "Update ReadMe"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#14",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#14",
       "time": "2017-10-30T13:49:06Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/14",
       "text": "Update ReadMe"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#15",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#15",
       "time": "2017-10-30T13:53:14Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/15",
       "text": "Update to version 0.5.0 with Changelog"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#15",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#15",
       "time": "2017-10-30T13:53:20Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/15",
       "text": "Update to version 0.5.0 with Changelog"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#16",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#16",
       "time": "2017-10-30T22:37:46Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/16",
       "text": "Fix/locales"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#16",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#16",
       "time": "2017-10-30T22:37:52Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/16",
       "text": "Fix/locales"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#17",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#17",
       "time": "2017-10-30T22:39:05Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/17",
       "text": "Update to version 0.5.1"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#17",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#17",
       "time": "2017-10-30T22:39:12Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/17",
       "text": "Update to version 0.5.1"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#18",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#18",
       "time": "2017-10-31T13:23:55Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/18",
       "text": "Fix Gems homepage link"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#18",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#18",
       "time": "2017-10-31T13:24:04Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/18",
       "text": "Fix Gems homepage link"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#19",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#19",
       "time": "2018-01-29T09:07:31Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/19",
       "text": "Test on new Ruby versions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#19",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#19",
       "time": "2018-01-29T09:35:38Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/19",
       "text": "Test on new Ruby versions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#20",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#20",
       "time": "2018-01-29T09:37:54Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/20",
       "text": "Update nokogiri dep"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#20",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#20",
       "time": "2018-01-29T09:38:08Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/20",
       "text": "Update nokogiri dep"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#21",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#21",
       "time": "2018-01-29T10:17:55Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/21",
       "text": "Update dev Ruby version"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#21",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#21",
       "time": "2018-01-29T10:18:03Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/21",
       "text": "Update dev Ruby version"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#22",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#22",
       "time": "2018-01-29T22:35:51Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/22",
       "text": "Fix/drop ruby 2 0"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#22",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#22",
       "time": "2018-01-29T22:35:57Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/22",
       "text": "Fix/drop ruby 2 0"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#23",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#23",
       "time": "2018-02-07T16:09:59Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/23",
       "text": "CI config"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#23",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#23",
       "time": "2018-02-07T16:39:06Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/23",
       "text": "CI config"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#34",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#34",
       "time": "2020-12-30T08:14:56Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/34",
       "text": "Test on newer Ruby versions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#35",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#35",
       "time": "2020-12-30T08:18:57Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/35",
       "text": "Test on newer Ruby versions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#36",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#36",
       "time": "2020-12-30T08:39:18Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/36",
       "text": "Fix/ci"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#36",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#36",
       "time": "2020-12-30T08:41:20Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/36",
       "text": "Fix/ci"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#37",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#37",
       "time": "2020-12-30T09:03:19Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/37",
       "text": "Fix CI config"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#37",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#37",
       "time": "2020-12-30T09:03:28Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/37",
       "text": "Fix CI config"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#38",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#38",
       "time": "2020-12-30T09:21:19Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/38",
       "text": "Fix tests"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#38",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#38",
       "time": "2020-12-30T09:57:09Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/38",
       "text": "Fix tests"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#43",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#43",
       "time": "2022-01-16T14:50:27Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/43",
       "text": "Fix categories list of images"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#43",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#43",
       "time": "2022-01-16T15:01:29Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/43",
       "text": "Fix categories list of images"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#44",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#44",
       "time": "2022-01-16T15:02:30Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/44",
       "text": "Fix Deepsource config"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#44",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#44",
       "time": "2022-01-16T15:03:19Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/44",
       "text": "Fix Deepsource config"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openbeautyfacts-ruby#50",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#50",
       "time": "2022-03-02T12:31:30Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/50",
       "text": "chore(deps): bump actions/checkout from 2 to 3"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openbeautyfacts-ruby#50",
+      "title": "OpenFoodFacts/openbeautyfacts-ruby#50",
       "time": "2022-03-02T12:33:32Z",
       "link": "https://github.com/openfoodfacts/openbeautyfacts-ruby/pull/50",
       "text": "chore(deps): bump actions/checkout from 2 to 3"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/ruby-games#1",
+      "title": "OpenFoodFacts/ruby-games#1",
       "time": "2017-11-08T10:42:21Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/1",
       "text": "Update README.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/ruby-games#1",
+      "title": "OpenFoodFacts/ruby-games#1",
       "time": "2017-11-08T10:42:28Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/1",
       "text": "Update README.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/ruby-games#2",
+      "title": "OpenFoodFacts/ruby-games#2",
       "time": "2017-11-08T11:00:23Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/2",
       "text": "Fix locale from env config"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/ruby-games#2",
+      "title": "OpenFoodFacts/ruby-games#2",
       "time": "2017-11-08T11:00:30Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/2",
       "text": "Fix locale from env config"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/ruby-games#3",
+      "title": "OpenFoodFacts/ruby-games#3",
       "time": "2018-02-12T10:49:25Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/3",
       "text": "Use new Ruby 2.5 for dev"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/ruby-games#3",
+      "title": "OpenFoodFacts/ruby-games#3",
       "time": "2018-02-12T10:49:47Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/3",
       "text": "Use new Ruby 2.5 for dev"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/ruby-games#4",
+      "title": "OpenFoodFacts/ruby-games#4",
       "time": "2018-02-12T10:51:52Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/4",
       "text": "Allow Ruby >= 2.2.0"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/ruby-games#4",
+      "title": "OpenFoodFacts/ruby-games#4",
       "time": "2018-02-12T10:51:59Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/4",
       "text": "Allow Ruby >= 2.2.0"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/ruby-games#5",
+      "title": "OpenFoodFacts/ruby-games#5",
       "time": "2018-02-12T10:53:05Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/5",
       "text": "Update README.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/ruby-games#5",
+      "title": "OpenFoodFacts/ruby-games#5",
       "time": "2018-02-12T10:53:12Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/5",
       "text": "Update README.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/ruby-games#6",
+      "title": "OpenFoodFacts/ruby-games#6",
       "time": "2018-02-12T11:03:31Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/6",
       "text": "[CI] Add Travis"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/ruby-games#7",
+      "title": "OpenFoodFacts/ruby-games#7",
       "time": "2018-02-12T11:10:16Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/7",
       "text": "Update gems and allow patch update"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/ruby-games#7",
+      "title": "OpenFoodFacts/ruby-games#7",
       "time": "2018-02-12T11:10:21Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/7",
       "text": "Update gems and allow patch update"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/ruby-games#8",
+      "title": "OpenFoodFacts/ruby-games#8",
       "time": "2018-02-12T11:11:22Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/8",
       "text": "Really update gems"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/ruby-games#8",
+      "title": "OpenFoodFacts/ruby-games#8",
       "time": "2018-02-12T11:11:28Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/8",
       "text": "Really update gems"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/ruby-games#9",
+      "title": "OpenFoodFacts/ruby-games#9",
       "time": "2018-02-12T11:13:50Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/9",
       "text": "Add Travis build status badge"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/ruby-games#9",
+      "title": "OpenFoodFacts/ruby-games#9",
       "time": "2018-02-12T11:14:00Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/9",
       "text": "Add Travis build status badge"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/ruby-games#10",
+      "title": "OpenFoodFacts/ruby-games#10",
       "time": "2018-02-20T19:45:03Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/10",
       "text": "Apply sinatra security patch CVE-2018-7212"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/ruby-games#10",
+      "title": "OpenFoodFacts/ruby-games#10",
       "time": "2018-02-20T19:45:11Z",
       "link": "https://github.com/openfoodfacts/ruby-games/pull/10",
       "text": "Apply sinatra security patch CVE-2018-7212"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hungergames-old#12",
+      "title": "OpenFoodFacts/hungergames-old#12",
       "time": "2017-11-07T10:59:25Z",
       "link": "https://github.com/openfoodfacts/hungergames-old/pull/12",
       "text": "Fid ReadMe links"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hungergames-old#12",
+      "title": "OpenFoodFacts/hungergames-old#12",
       "time": "2017-11-07T11:01:06Z",
       "link": "https://github.com/openfoodfacts/hungergames-old/pull/12",
       "text": "Fid ReadMe links"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/eu-food-data#6",
+      "title": "OpenFoodFacts/eu-food-data#6",
       "time": "2015-03-23T14:32:42Z",
       "link": "https://github.com/openfoodfacts/eu-food-data/pull/6",
       "text": "Clean"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/eu-food-data#6",
+      "title": "OpenFoodFacts/eu-food-data#6",
       "time": "2015-04-18T09:47:01Z",
       "link": "https://github.com/openfoodfacts/eu-food-data/pull/6",
       "text": "Clean"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/egg-codes#1",
+      "title": "OpenFoodFacts/egg-codes#1",
       "time": "2015-03-23T14:26:45Z",
       "link": "https://github.com/openfoodfacts/egg-codes/pull/1",
       "text": "Clean"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/egg-codes#1",
+      "title": "OpenFoodFacts/egg-codes#1",
       "time": "2015-04-18T09:47:29Z",
       "link": "https://github.com/openfoodfacts/egg-codes/pull/1",
       "text": "Clean"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/bio-codes#1",
+      "title": "OpenFoodFacts/bio-codes#1",
       "time": "2015-03-23T14:19:21Z",
       "link": "https://github.com/openfoodfacts/bio-codes/pull/1",
       "text": "Clean"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/bio-codes#1",
+      "title": "OpenFoodFacts/bio-codes#1",
       "time": "2015-04-18T09:47:58Z",
       "link": "https://github.com/openfoodfacts/bio-codes/pull/1",
       "text": "Clean"

@@ -3,56 +3,56 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1420",
+      "title": "OpenFoodFacts/openfoodfacts-server#1420",
       "time": "2018-10-14T21:42:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1420",
       "text": "Fixes #856: Remove s from aperçus"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1420",
+      "title": "OpenFoodFacts/openfoodfacts-server#1420",
       "time": "2018-10-15T14:37:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1420",
       "text": "Fixes #856: Remove s from aperçus"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1424",
+      "title": "OpenFoodFacts/openfoodfacts-server#1424",
       "time": "2018-10-15T19:08:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1424",
       "text": "Fixes #931: fix footer links on the page in German"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1424",
+      "title": "OpenFoodFacts/openfoodfacts-server#1424",
       "time": "2018-10-24T13:52:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1424",
       "text": "Fixes #931: fix footer links on the page in German"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1425",
+      "title": "OpenFoodFacts/openfoodfacts-server#1425",
       "time": "2018-10-15T21:07:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1425",
       "text": "Fixes #1310: fix contribute and discover links on the page in German"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1425",
+      "title": "OpenFoodFacts/openfoodfacts-server#1425",
       "time": "2018-10-24T13:52:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1425",
       "text": "Fixes #1310: fix contribute and discover links on the page in German"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1532",
+      "title": "OpenFoodFacts/openfoodfacts-server#1532",
       "time": "2018-11-21T22:15:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1532",
       "text": "Fix menu and footer broken links in all languages (checked all .po files in /po/common/)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1532",
+      "title": "OpenFoodFacts/openfoodfacts-server#1532",
       "time": "2018-12-04T12:47:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1532",
       "text": "Fix menu and footer broken links in all languages (checked all .po files in /po/common/)"

@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#723",
+      "title": "OpenFoodFacts/openfoodfacts-dart#723",
       "time": "2023-04-04T19:14:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/723",
       "text": "fix: Refactor Robotoff methods"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#723",
+      "title": "OpenFoodFacts/openfoodfacts-dart#723",
       "time": "2023-04-05T07:56:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/723",
       "text": "fix: Refactor Robotoff methods"

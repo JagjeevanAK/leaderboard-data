@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-category-classification#75",
+      "title": "OpenFoodFacts/off-category-classification#75",
       "time": "2022-06-01T19:50:20Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/75",
       "text": "feat: OCR features "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-category-classification#75",
+      "title": "OpenFoodFacts/off-category-classification#75",
       "time": "2022-11-21T13:30:50Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/75",
       "text": "feat: OCR features "

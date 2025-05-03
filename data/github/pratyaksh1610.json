@@ -3,189 +3,189 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7230",
+      "title": "OpenFoodFacts/openfoodfacts-server#7230",
       "time": "2022-08-21T18:02:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7230",
       "text": "chore: Updated logo on donation form"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7230",
+      "title": "OpenFoodFacts/openfoodfacts-server#7230",
       "time": "2022-09-19T12:03:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7230",
       "text": "chore: Updated logo on donation form"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7360",
+      "title": "OpenFoodFacts/openfoodfacts-server#7360",
       "time": "2022-09-17T07:18:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7360",
       "text": "chore: Added the logo for the Label Bee Friendly"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7360",
+      "title": "OpenFoodFacts/openfoodfacts-server#7360",
       "time": "2022-09-27T12:29:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7360",
       "text": "chore: Added the logo for the Label Bee Friendly"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7599",
+      "title": "OpenFoodFacts/openfoodfacts-server#7599",
       "time": "2022-10-24T10:07:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7599",
       "text": "fix: Removed duplicate question mark"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7599",
+      "title": "OpenFoodFacts/openfoodfacts-server#7599",
       "time": "2022-10-27T08:00:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7599",
       "text": "fix: Removed duplicate question mark"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7623",
+      "title": "OpenFoodFacts/openfoodfacts-server#7623",
       "time": "2022-10-28T12:02:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7623",
       "text": "chore: fix capitalisation issue"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7623",
+      "title": "OpenFoodFacts/openfoodfacts-server#7623",
       "time": "2022-10-28T12:58:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7623",
       "text": "chore: fix capitalisation issue"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7625",
+      "title": "OpenFoodFacts/openfoodfacts-server#7625",
       "time": "2022-10-28T13:22:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7625",
       "text": "chore: fix capitalisation issue "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7625",
+      "title": "OpenFoodFacts/openfoodfacts-server#7625",
       "time": "2022-11-04T08:30:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7625",
       "text": "chore: fix capitalisation issue "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8630",
+      "title": "OpenFoodFacts/openfoodfacts-server#8630",
       "time": "2023-06-29T07:47:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8630",
       "text": "fix: Link to the product page opens in a new tab"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8630",
+      "title": "OpenFoodFacts/openfoodfacts-server#8630",
       "time": "2023-07-04T09:50:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8630",
       "text": "fix: Link to the product page opens in a new tab"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4820",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4820",
       "time": "2022-08-08T12:47:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4820",
       "text": "refactor: Removed hardcoded links from LoginActivity.kt file"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4820",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4820",
       "time": "2022-08-08T14:07:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4820",
       "text": "refactor: Removed hardcoded links from LoginActivity.kt file"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4822",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4822",
       "time": "2022-08-12T11:20:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4822",
       "text": "style: Added labels to icons in image editing"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4822",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4822",
       "time": "2022-08-13T17:25:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4822",
       "text": "style: Added labels to icons in image editing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4825",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4825",
       "time": "2022-08-18T11:23:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4825",
       "text": "chore: Improved \"Add to Open Food Facts modal\""
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4825",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4825",
       "time": "2022-08-20T16:55:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4825",
       "text": "chore: Improved \"Add to Open Food Facts modal\""
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4852",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4852",
       "time": "2022-09-28T12:08:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4852",
       "text": "fix: Made \"image upload\" message more descriptive on Product Addition"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4852",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4852",
       "time": "2022-10-05T21:53:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4852",
       "text": "fix: Made \"image upload\" message more descriptive on Product Addition"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4862",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4862",
       "time": "2022-10-06T12:52:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4862",
       "text": "style: fix center alignment"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4862",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4862",
       "time": "2022-10-06T13:43:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4862",
       "text": "style: fix center alignment"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4879",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4879",
       "time": "2022-11-12T16:31:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4879",
       "text": "chore: localise the strings (Code Cleanup)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4879",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4879",
       "time": "2022-12-10T17:14:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4879",
       "text": "chore: localise the strings (Code Cleanup)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4918",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4918",
       "time": "2023-02-18T20:31:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4918",
       "text": "fix: Product search recycler view data"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4918",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4918",
       "time": "2023-02-19T21:35:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4918",
       "text": "fix: Product search recycler view data"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4922",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4922",
       "time": "2023-02-22T07:50:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4922",
       "text": "fix: Working of the hunger games promo header"

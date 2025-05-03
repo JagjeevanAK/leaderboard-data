@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6508",
+      "title": "OpenFoodFacts/smooth-app#6508",
       "time": "2025-04-01T14:26:01Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6508",
       "text": "fix: Better convey privacy in the Food Settings screen (separate the on-device msg, and add a lock or something to it)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6527",
+      "title": "OpenFoodFacts/smooth-app#6527",
       "time": "2025-04-06T19:48:39Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6527",
       "text": "fix: Better convey privacy in the Food Settings screen"

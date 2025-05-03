@@ -10,1260 +10,1274 @@
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#1048",
-      "time": "2023-01-23T15:32:57Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1048",
-      "text": "feat: Estimate Ingredient percentages from nutritional data"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7605",
-      "time": "2022-10-24T13:52:42Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7605",
-      "text": "fix: Issues running some make tasks on windows Fixes #7604"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7605",
-      "time": "2022-10-28T12:55:47Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7605",
-      "text": "fix: Issues running some make tasks on windows Fixes #7604"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7639",
-      "time": "2022-10-31T18:48:46Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7639",
-      "text": "feat: Allow a percent_max to be specified in ingredients Fixes #5369"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7639",
-      "time": "2022-11-09T09:41:34Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7639",
-      "text": "feat: Allow a percent_max to be specified in ingredients Fixes #5369"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7664",
-      "time": "2022-11-08T10:28:20Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7664",
-      "text": "refactor: Rename ARGRIBALYSE files to be version agnostic and add a summary #7601"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7664",
-      "time": "2022-11-08T11:07:31Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7664",
-      "text": "refactor: Rename ARGRIBALYSE files to be version agnostic and add a summary #7601"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7693",
-      "time": "2022-11-14T11:37:44Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7693",
-      "text": "feat: Update AGRIBALYSE to version 3.1 Fixes #7601"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7693",
-      "time": "2022-12-01T12:26:41Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7693",
-      "text": "feat: Update AGRIBALYSE to version 3.1 Fixes #7601"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7913",
-      "time": "2022-12-29T09:40:10Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7913",
-      "text": "feat: Show EcoScore attribute panel for world. Fixes #7378"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7913",
-      "time": "2023-01-14T10:40:32Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7913",
-      "text": "feat: Show EcoScore attribute panel for world. Fixes #7378"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8025",
-      "time": "2023-01-23T15:30:28Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8025",
-      "text": "feat: Estimate Ingredient percentages from nutritional data"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8025",
-      "time": "2023-05-15T09:54:36Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8025",
-      "text": "feat: Estimate Ingredient percentages from nutritional data"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8027",
-      "time": "2023-01-23T18:01:52Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8027",
-      "text": "feat: rebuild taxonomies as they change fixes #6895"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8027",
-      "time": "2023-02-27T15:07:55Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8027",
-      "text": "feat: rebuild taxonomies as they change fixes #6895"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8403",
-      "time": "2023-05-08T18:41:05Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8403",
-      "text": "feat: Don't calculate 100g nutriment if serving_quantity <=5 and value = '0', fixes #5848"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8403",
-      "time": "2023-05-22T14:40:20Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8403",
-      "text": "feat: Don't calculate 100g nutriment if serving_quantity <=5 and value = '0', fixes #5848"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8472",
-      "time": "2023-05-29T13:53:59Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8472",
-      "text": "feat: Update delete_user to append unique hash"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8472",
-      "time": "2023-05-29T16:14:58Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8472",
-      "text": "feat: Update delete_user to append unique hash"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8476",
-      "time": "2023-05-29T16:22:13Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8476",
-      "text": "fix: Iterate over both product collections on user delete"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8476",
-      "time": "2023-05-31T18:14:44Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8476",
-      "text": "fix: Iterate over both product collections on user delete"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8516",
-      "time": "2023-06-05T11:01:51Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8516",
-      "text": "feat: Run user deletion as a background task"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8516",
-      "time": "2023-06-05T15:36:28Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8516",
-      "text": "feat: Run user deletion as a background task"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8548",
-      "time": "2023-06-12T16:14:06Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8548",
-      "text": "feat: Allow users to delete their own accounts"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8548",
-      "time": "2023-06-15T08:59:36Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8548",
-      "text": "feat: Allow users to delete their own accounts"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8557",
-      "time": "2023-06-13T13:28:00Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8557",
-      "text": "fix: Build Taxonomies does not cache the full json files"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8557",
-      "time": "2023-06-14T16:25:33Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8557",
-      "text": "fix: Build Taxonomies does not cache the full json files"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8947",
-      "time": "2023-09-04T14:57:54Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8947",
-      "text": "feat: Use openfoodfacts-query service for facet queries instead of product_tags collection"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8947",
-      "time": "2023-10-09T15:39:52Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8947",
-      "text": "feat: Use openfoodfacts-query service for facet queries instead of product_tags collection"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9228",
-      "time": "2023-10-30T18:23:38Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9228",
-      "text": "feat: Use query service for obsolete queries"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9228",
-      "time": "2023-10-31T12:29:32Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9228",
-      "text": "feat: Use query service for obsolete queries"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9683",
-      "time": "2024-01-22T11:50:36Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9683",
-      "text": "feat: Add short name, value and evaluation to knowledge panels"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9683",
-      "time": "2024-09-30T13:42:06Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9683",
-      "text": "feat: Add short name, value and evaluation to knowledge panels"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9958",
-      "time": "2024-03-19T13:44:29Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9958",
-      "text": "refactor: Centralise all retrieval and storage of user information"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9958",
-      "time": "2024-03-21T17:13:40Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9958",
-      "text": "refactor: Centralise all retrieval and storage of user information"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10266",
-      "time": "2024-05-10T17:32:11Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10266",
-      "text": "feat: Pull MongoDB and Redis from shared-services repo"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10266",
-      "time": "2024-06-21T13:15:16Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10266",
-      "text": "feat: Pull MongoDB and Redis from shared-services repo"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10480",
-      "time": "2024-06-21T14:15:37Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10480",
-      "text": "fix: Use a separate make target for production up to not create dependencies"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10480",
-      "time": "2024-06-21T17:23:18Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10480",
-      "text": "fix: Use a separate make target for production up to not create dependencies"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10750",
-      "time": "2024-08-30T10:46:42Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10750",
-      "text": "fix: import_prod_data not working"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10750",
-      "time": "2024-08-30T11:51:15Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10750",
-      "text": "fix: import_prod_data not working"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10791",
-      "time": "2024-09-13T11:05:45Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10791",
-      "text": "fix: Determine obsolete and deleted from the product revision"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10791",
-      "time": "2024-09-13T13:06:37Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10791",
-      "text": "fix: Determine obsolete and deleted from the product revision"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11378",
-      "time": "2025-02-12T16:29:06Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11378",
-      "text": "feat: Script to upload scans to off-query"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11378",
-      "time": "2025-02-14T18:14:20Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11378",
-      "text": "feat: Script to upload scans to off-query"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11460",
-      "time": "2025-02-19T10:17:42Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11460",
-      "text": "fix: Fix resume from checkpoint code in export scans"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11460",
-      "time": "2025-02-21T09:23:19Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11460",
-      "text": "fix: Fix resume from checkpoint code in export scans"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11482",
-      "time": "2025-02-21T17:52:20Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11482",
-      "text": "feat: Send more queries to off-query"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11482",
-      "time": "2025-02-27T12:14:47Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11482",
-      "text": "feat: Send more queries to off-query"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11528",
-      "time": "2025-03-03T15:28:13Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11528",
-      "text": "fix: Override no_cache parameter if database is explicitly set to off-query"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11528",
-      "time": "2025-03-03T17:22:47Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11528",
-      "text": "fix: Override no_cache parameter if database is explicitly set to off-query"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11533",
-      "time": "2025-03-04T12:56:27Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11533",
-      "text": "fix: Use off_query parameter to not clash with existing database parameter"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11533",
-      "time": "2025-03-04T13:32:25Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11533",
-      "text": "fix: Use off_query parameter to not clash with existing database parameter"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11753",
-      "time": "2025-04-08T11:12:20Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11753",
-      "text": "fix: integration tests fail when ecobalyse service is unavailable"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11753",
-      "time": "2025-04-08T15:59:59Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11753",
-      "text": "fix: integration tests fail when ecobalyse service is unavailable"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ai#284",
-      "time": "2023-03-13T13:25:49Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/284",
-      "text": "feat: off issue #7918 estimate ingredient percentages from nutritional data"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-auth#62",
+      "title": "OpenFoodFacts/openfoodfacts-auth#62",
       "time": "2024-08-23T11:37:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/62",
       "text": "feat: Extra items for translation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-auth#62",
+      "title": "OpenFoodFacts/openfoodfacts-auth#62",
       "time": "2024-08-23T16:27:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/62",
       "text": "feat: Extra items for translation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-auth#76",
+      "title": "OpenFoodFacts/openfoodfacts-auth#76",
       "time": "2024-09-02T16:48:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/76",
       "text": "chore: Remove GitHub token from docker action"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-auth#76",
+      "title": "OpenFoodFacts/openfoodfacts-auth#76",
       "time": "2024-09-02T17:25:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/76",
       "text": "chore: Remove GitHub token from docker action"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-auth#177",
+      "title": "OpenFoodFacts/openfoodfacts-auth#177",
       "time": "2025-04-20T15:43:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/177",
       "text": "fix: Update screenshots"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-auth#177",
+      "title": "OpenFoodFacts/openfoodfacts-auth#177",
       "time": "2025-04-20T17:52:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/177",
       "text": "fix: Update screenshots"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-auth#178",
+      "title": "OpenFoodFacts/openfoodfacts-auth#178",
       "time": "2025-04-21T15:20:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/178",
       "text": "chore: Upgrade Keycloak to version 26.2.0"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-auth#178",
+      "title": "OpenFoodFacts/openfoodfacts-auth#178",
       "time": "2025-04-21T16:46:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/178",
       "text": "chore: Upgrade Keycloak to version 26.2.0"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/.github#25",
+      "title": "OpenFoodFacts/openfoodfacts-auth#179",
+      "time": "2025-05-01T15:18:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/179",
+      "text": "fix: Update build script to create missing language files and delete languages we don't support"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-auth#179",
+      "time": "2025-05-01T16:10:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/179",
+      "text": "fix: Update build script to create missing language files and delete languages we don't support"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#7605",
+      "time": "2022-10-24T13:52:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7605",
+      "text": "fix: Issues running some make tasks on windows Fixes #7604"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#7605",
+      "time": "2022-10-28T12:55:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7605",
+      "text": "fix: Issues running some make tasks on windows Fixes #7604"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#7639",
+      "time": "2022-10-31T18:48:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7639",
+      "text": "feat: Allow a percent_max to be specified in ingredients Fixes #5369"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#7639",
+      "time": "2022-11-09T09:41:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7639",
+      "text": "feat: Allow a percent_max to be specified in ingredients Fixes #5369"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#7664",
+      "time": "2022-11-08T10:28:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7664",
+      "text": "refactor: Rename ARGRIBALYSE files to be version agnostic and add a summary #7601"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#7664",
+      "time": "2022-11-08T11:07:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7664",
+      "text": "refactor: Rename ARGRIBALYSE files to be version agnostic and add a summary #7601"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#7693",
+      "time": "2022-11-14T11:37:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7693",
+      "text": "feat: Update AGRIBALYSE to version 3.1 Fixes #7601"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#7693",
+      "time": "2022-12-01T12:26:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7693",
+      "text": "feat: Update AGRIBALYSE to version 3.1 Fixes #7601"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#7913",
+      "time": "2022-12-29T09:40:10Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7913",
+      "text": "feat: Show EcoScore attribute panel for world. Fixes #7378"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#7913",
+      "time": "2023-01-14T10:40:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7913",
+      "text": "feat: Show EcoScore attribute panel for world. Fixes #7378"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#8025",
+      "time": "2023-01-23T15:30:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8025",
+      "text": "feat: Estimate Ingredient percentages from nutritional data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#8025",
+      "time": "2023-05-15T09:54:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8025",
+      "text": "feat: Estimate Ingredient percentages from nutritional data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#8027",
+      "time": "2023-01-23T18:01:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8027",
+      "text": "feat: rebuild taxonomies as they change fixes #6895"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#8027",
+      "time": "2023-02-27T15:07:55Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8027",
+      "text": "feat: rebuild taxonomies as they change fixes #6895"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#8403",
+      "time": "2023-05-08T18:41:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8403",
+      "text": "feat: Don't calculate 100g nutriment if serving_quantity <=5 and value = '0', fixes #5848"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#8403",
+      "time": "2023-05-22T14:40:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8403",
+      "text": "feat: Don't calculate 100g nutriment if serving_quantity <=5 and value = '0', fixes #5848"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#8472",
+      "time": "2023-05-29T13:53:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8472",
+      "text": "feat: Update delete_user to append unique hash"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#8472",
+      "time": "2023-05-29T16:14:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8472",
+      "text": "feat: Update delete_user to append unique hash"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#8476",
+      "time": "2023-05-29T16:22:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8476",
+      "text": "fix: Iterate over both product collections on user delete"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#8476",
+      "time": "2023-05-31T18:14:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8476",
+      "text": "fix: Iterate over both product collections on user delete"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#8516",
+      "time": "2023-06-05T11:01:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8516",
+      "text": "feat: Run user deletion as a background task"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#8516",
+      "time": "2023-06-05T15:36:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8516",
+      "text": "feat: Run user deletion as a background task"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#8548",
+      "time": "2023-06-12T16:14:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8548",
+      "text": "feat: Allow users to delete their own accounts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#8548",
+      "time": "2023-06-15T08:59:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8548",
+      "text": "feat: Allow users to delete their own accounts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#8557",
+      "time": "2023-06-13T13:28:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8557",
+      "text": "fix: Build Taxonomies does not cache the full json files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#8557",
+      "time": "2023-06-14T16:25:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8557",
+      "text": "fix: Build Taxonomies does not cache the full json files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#8947",
+      "time": "2023-09-04T14:57:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8947",
+      "text": "feat: Use openfoodfacts-query service for facet queries instead of product_tags collection"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#8947",
+      "time": "2023-10-09T15:39:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8947",
+      "text": "feat: Use openfoodfacts-query service for facet queries instead of product_tags collection"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#9228",
+      "time": "2023-10-30T18:23:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9228",
+      "text": "feat: Use query service for obsolete queries"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#9228",
+      "time": "2023-10-31T12:29:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9228",
+      "text": "feat: Use query service for obsolete queries"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#9683",
+      "time": "2024-01-22T11:50:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9683",
+      "text": "feat: Add short name, value and evaluation to knowledge panels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#9683",
+      "time": "2024-09-30T13:42:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9683",
+      "text": "feat: Add short name, value and evaluation to knowledge panels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#9958",
+      "time": "2024-03-19T13:44:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9958",
+      "text": "refactor: Centralise all retrieval and storage of user information"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#9958",
+      "time": "2024-03-21T17:13:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9958",
+      "text": "refactor: Centralise all retrieval and storage of user information"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#10266",
+      "time": "2024-05-10T17:32:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10266",
+      "text": "feat: Pull MongoDB and Redis from shared-services repo"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#10266",
+      "time": "2024-06-21T13:15:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10266",
+      "text": "feat: Pull MongoDB and Redis from shared-services repo"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#10480",
+      "time": "2024-06-21T14:15:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10480",
+      "text": "fix: Use a separate make target for production up to not create dependencies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#10480",
+      "time": "2024-06-21T17:23:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10480",
+      "text": "fix: Use a separate make target for production up to not create dependencies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#10750",
+      "time": "2024-08-30T10:46:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10750",
+      "text": "fix: import_prod_data not working"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#10750",
+      "time": "2024-08-30T11:51:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10750",
+      "text": "fix: import_prod_data not working"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#10791",
+      "time": "2024-09-13T11:05:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10791",
+      "text": "fix: Determine obsolete and deleted from the product revision"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#10791",
+      "time": "2024-09-13T13:06:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10791",
+      "text": "fix: Determine obsolete and deleted from the product revision"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#11378",
+      "time": "2025-02-12T16:29:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11378",
+      "text": "feat: Script to upload scans to off-query"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#11378",
+      "time": "2025-02-14T18:14:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11378",
+      "text": "feat: Script to upload scans to off-query"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#11460",
+      "time": "2025-02-19T10:17:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11460",
+      "text": "fix: Fix resume from checkpoint code in export scans"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#11460",
+      "time": "2025-02-21T09:23:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11460",
+      "text": "fix: Fix resume from checkpoint code in export scans"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#11482",
+      "time": "2025-02-21T17:52:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11482",
+      "text": "feat: Send more queries to off-query"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#11482",
+      "time": "2025-02-27T12:14:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11482",
+      "text": "feat: Send more queries to off-query"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#11528",
+      "time": "2025-03-03T15:28:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11528",
+      "text": "fix: Override no_cache parameter if database is explicitly set to off-query"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#11528",
+      "time": "2025-03-03T17:22:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11528",
+      "text": "fix: Override no_cache parameter if database is explicitly set to off-query"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#11533",
+      "time": "2025-03-04T12:56:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11533",
+      "text": "fix: Use off_query parameter to not clash with existing database parameter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#11533",
+      "time": "2025-03-04T13:32:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11533",
+      "text": "fix: Use off_query parameter to not clash with existing database parameter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#11753",
+      "time": "2025-04-08T11:12:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11753",
+      "text": "fix: integration tests fail when ecobalyse service is unavailable"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#11753",
+      "time": "2025-04-08T15:59:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11753",
+      "text": "fix: integration tests fail when ecobalyse service is unavailable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/robotoff#1048",
+      "time": "2023-01-23T15:32:57Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1048",
+      "text": "feat: Estimate Ingredient percentages from nutritional data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-ai#284",
+      "time": "2023-03-13T13:25:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/284",
+      "text": "feat: off issue #7918 estimate ingredient percentages from nutritional data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/.github#25",
       "time": "2024-03-25T15:22:46Z",
       "link": "https://github.com/openfoodfacts/.github/pull/25",
       "text": "docs: Managing microservices dependencies first draft"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/.github#25",
+      "title": "OpenFoodFacts/.github#25",
       "time": "2024-06-19T10:31:57Z",
       "link": "https://github.com/openfoodfacts/.github/pull/25",
       "text": "docs: Managing microservices dependencies first draft"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/.github#28",
+      "title": "OpenFoodFacts/.github#28",
       "time": "2024-06-21T14:40:47Z",
       "link": "https://github.com/openfoodfacts/.github/pull/28",
       "text": "fix: Allow local env to override except DEPS_DIR"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/.github#28",
+      "title": "OpenFoodFacts/.github#28",
       "time": "2024-06-21T15:34:43Z",
       "link": "https://github.com/openfoodfacts/.github/pull/28",
       "text": "fix: Allow local env to override except DEPS_DIR"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/.github#29",
+      "title": "OpenFoodFacts/.github#29",
       "time": "2024-06-21T16:41:10Z",
       "link": "https://github.com/openfoodfacts/.github/pull/29",
       "text": "fix: shared network name"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/.github#29",
+      "title": "OpenFoodFacts/.github#29",
       "time": "2024-06-24T10:41:07Z",
       "link": "https://github.com/openfoodfacts/.github/pull/29",
       "text": "fix: shared network name"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/.github#30",
+      "title": "OpenFoodFacts/.github#30",
       "time": "2024-06-28T17:40:41Z",
       "link": "https://github.com/openfoodfacts/.github/pull/30",
       "text": "docs: First draft general guidance"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/.github#30",
+      "title": "OpenFoodFacts/.github#30",
       "time": "2024-08-03T11:54:03Z",
       "link": "https://github.com/openfoodfacts/.github/pull/30",
       "text": "docs: First draft general guidance"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/.github#34",
+      "title": "OpenFoodFacts/.github#34",
       "time": "2024-08-30T15:35:43Z",
       "link": "https://github.com/openfoodfacts/.github/pull/34",
       "text": "docs: Proposal for blue-green deployment"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/.github#37",
+      "title": "OpenFoodFacts/.github#37",
       "time": "2024-09-30T09:21:26Z",
       "link": "https://github.com/openfoodfacts/.github/pull/37",
       "text": "docs: Internal security"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/.github#37",
+      "title": "OpenFoodFacts/.github#37",
       "time": "2024-10-18T09:25:02Z",
       "link": "https://github.com/openfoodfacts/.github/pull/37",
       "text": "docs: Internal security"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/.github#41",
+      "title": "OpenFoodFacts/.github#41",
       "time": "2024-11-22T13:49:36Z",
       "link": "https://github.com/openfoodfacts/.github/pull/41",
       "text": "docs: Additional documentation on Docker layers"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/.github#41",
+      "title": "OpenFoodFacts/.github#41",
       "time": "2024-11-26T08:20:05Z",
       "link": "https://github.com/openfoodfacts/.github/pull/41",
       "text": "docs: Additional documentation on Docker layers"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#3",
+      "title": "OpenFoodFacts/openfoodfacts-query#3",
       "time": "2023-09-15T10:12:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/3",
       "text": "Support multiple match filters"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#3",
+      "title": "OpenFoodFacts/openfoodfacts-query#3",
       "time": "2023-09-15T11:09:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/3",
       "text": "Support multiple match filters"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#4",
+      "title": "OpenFoodFacts/openfoodfacts-query#4",
       "time": "2023-09-15T12:47:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/4",
       "text": "Health check"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#4",
+      "title": "OpenFoodFacts/openfoodfacts-query#4",
       "time": "2023-09-15T14:11:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/4",
       "text": "Health check"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#5",
+      "title": "OpenFoodFacts/openfoodfacts-query#5",
       "time": "2023-09-18T16:14:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/5",
       "text": "Makefile and set ports for testing"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#5",
+      "title": "OpenFoodFacts/openfoodfacts-query#5",
       "time": "2023-09-18T16:20:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/5",
       "text": "Makefile and set ports for testing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#6",
+      "title": "OpenFoodFacts/openfoodfacts-query#6",
       "time": "2023-10-02T12:39:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/6",
       "text": "Remove docker network for production deployment"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#6",
+      "title": "OpenFoodFacts/openfoodfacts-query#6",
       "time": "2023-10-02T12:46:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/6",
       "text": "Remove docker network for production deployment"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#7",
+      "title": "OpenFoodFacts/openfoodfacts-query#7",
       "time": "2023-10-09T14:03:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/7",
       "text": "Add select service for testing"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#7",
+      "title": "OpenFoodFacts/openfoodfacts-query#7",
       "time": "2023-10-09T14:49:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/7",
       "text": "Add select service for testing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#9",
+      "title": "OpenFoodFacts/openfoodfacts-query#9",
       "time": "2023-10-10T17:43:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/9",
       "text": "feat: Obsolete product handling"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#9",
+      "title": "OpenFoodFacts/openfoodfacts-query#9",
       "time": "2023-10-12T13:03:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/9",
       "text": "feat: Obsolete product handling"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#11",
+      "title": "OpenFoodFacts/openfoodfacts-query#11",
       "time": "2023-10-12T13:17:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/11",
       "text": "Fix matching on a product column"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#11",
+      "title": "OpenFoodFacts/openfoodfacts-query#11",
       "time": "2023-10-12T13:19:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/11",
       "text": "Fix matching on a product column"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#14",
+      "title": "OpenFoodFacts/openfoodfacts-query#14",
       "time": "2023-10-30T12:47:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/14",
       "text": "Support additional tags and query operators"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#14",
+      "title": "OpenFoodFacts/openfoodfacts-query#14",
       "time": "2023-10-31T11:00:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/14",
       "text": "Support additional tags and query operators"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#16",
+      "title": "OpenFoodFacts/openfoodfacts-query#16",
       "time": "2023-11-01T14:04:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/16",
       "text": "bug: Cope with nuls in tags"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#16",
+      "title": "OpenFoodFacts/openfoodfacts-query#16",
       "time": "2023-11-01T14:17:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/16",
       "text": "bug: Cope with nuls in tags"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#18",
+      "title": "OpenFoodFacts/openfoodfacts-query#18",
       "time": "2023-11-02T14:45:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/18",
       "text": "bug: Wrap delete and insert of tags in a transaction"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#18",
+      "title": "OpenFoodFacts/openfoodfacts-query#18",
       "time": "2023-11-02T16:43:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/18",
       "text": "bug: Wrap delete and insert of tags in a transaction"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#21",
+      "title": "OpenFoodFacts/openfoodfacts-query#21",
       "time": "2023-11-08T09:47:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/21",
       "text": "Support $in but not other value objects. Fix NOT on count"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#21",
+      "title": "OpenFoodFacts/openfoodfacts-query#21",
       "time": "2023-11-13T14:24:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/21",
       "text": "Support $in but not other value objects. Fix NOT on count"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#23",
+      "title": "OpenFoodFacts/openfoodfacts-query#23",
       "time": "2023-11-13T14:37:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/23",
       "text": "Use a different tag to test loaded tags is updated"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#23",
+      "title": "OpenFoodFacts/openfoodfacts-query#23",
       "time": "2023-11-13T15:03:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/23",
       "text": "Use a different tag to test loaded tags is updated"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#25",
+      "title": "OpenFoodFacts/openfoodfacts-query#25",
       "time": "2023-11-20T16:29:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/25",
       "text": "Cope with $in / $nin unknown queries"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#25",
+      "title": "OpenFoodFacts/openfoodfacts-query#25",
       "time": "2023-11-22T08:54:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/25",
       "text": "Cope with $in / $nin unknown queries"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#27",
+      "title": "OpenFoodFacts/openfoodfacts-query#27",
       "time": "2023-12-01T17:40:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/27",
       "text": "Support for Ingredients and Redis"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#27",
+      "title": "OpenFoodFacts/openfoodfacts-query#27",
       "time": "2023-12-19T12:11:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/27",
       "text": "Support for Ingredients and Redis"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#28",
+      "title": "OpenFoodFacts/openfoodfacts-query#28",
       "time": "2023-12-19T12:42:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/28",
       "text": "Allow time for the Redis testcontainer to start"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#28",
+      "title": "OpenFoodFacts/openfoodfacts-query#28",
       "time": "2023-12-19T12:57:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/28",
       "text": "Allow time for the Redis testcontainer to start"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#29",
+      "title": "OpenFoodFacts/openfoodfacts-query#29",
       "time": "2023-12-24T10:53:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/29",
       "text": "Skip if already importing and deal with invalid dates"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#29",
+      "title": "OpenFoodFacts/openfoodfacts-query#29",
       "time": "2024-01-08T15:09:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/29",
       "text": "Skip if already importing and deal with invalid dates"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#35",
+      "title": "OpenFoodFacts/openfoodfacts-query#35",
       "time": "2024-02-28T08:56:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/35",
       "text": "Add redis configuration for staging and production"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#35",
+      "title": "OpenFoodFacts/openfoodfacts-query#35",
       "time": "2024-03-11T17:43:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/35",
       "text": "Add redis configuration for staging and production"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#37",
+      "title": "OpenFoodFacts/openfoodfacts-query#37",
       "time": "2024-03-11T17:50:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/37",
       "text": "Fix environment for deploy"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#37",
+      "title": "OpenFoodFacts/openfoodfacts-query#37",
       "time": "2024-03-11T17:52:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/37",
       "text": "Fix environment for deploy"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#38",
+      "title": "OpenFoodFacts/openfoodfacts-query#38",
       "time": "2024-03-11T18:00:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/38",
       "text": "Pass redis url to container"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#38",
+      "title": "OpenFoodFacts/openfoodfacts-query#38",
       "time": "2024-03-11T18:05:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/38",
       "text": "Pass redis url to container"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#44",
+      "title": "OpenFoodFacts/openfoodfacts-query#44",
       "time": "2024-06-01T11:52:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/44",
       "text": "Avoid intermediate commits when importing from Redis"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#44",
+      "title": "OpenFoodFacts/openfoodfacts-query#44",
       "time": "2024-06-03T20:47:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/44",
       "text": "Avoid intermediate commits when importing from Redis"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#45",
+      "title": "OpenFoodFacts/openfoodfacts-query#45",
       "time": "2024-06-03T20:53:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/45",
       "text": "Transposed staging and production"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#45",
+      "title": "OpenFoodFacts/openfoodfacts-query#45",
       "time": "2024-06-03T21:05:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/45",
       "text": "Transposed staging and production"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#50",
+      "title": "OpenFoodFacts/openfoodfacts-query#50",
       "time": "2024-06-14T12:06:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/50",
       "text": "feat: Allow shared_buffers and work_mem to be set"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#50",
+      "title": "OpenFoodFacts/openfoodfacts-query#50",
       "time": "2024-06-16T11:28:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/50",
       "text": "feat: Allow shared_buffers and work_mem to be set"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#51",
+      "title": "OpenFoodFacts/openfoodfacts-query#51",
       "time": "2024-06-15T12:26:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/51",
       "text": "feat: Change ids to integer to use less space"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#51",
+      "title": "OpenFoodFacts/openfoodfacts-query#51",
       "time": "2024-07-15T08:35:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/51",
       "text": "feat: Change ids to integer to use less space"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#53",
+      "title": "OpenFoodFacts/openfoodfacts-query#53",
       "time": "2024-06-21T16:51:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/53",
       "text": "chore: Use shared-services"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#53",
+      "title": "OpenFoodFacts/openfoodfacts-query#53",
       "time": "2024-07-05T16:28:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/53",
       "text": "chore: Use shared-services"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#54",
+      "title": "OpenFoodFacts/openfoodfacts-query#54",
       "time": "2024-07-15T11:39:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/54",
       "text": "fix: Analyze temp table once populated"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#54",
+      "title": "OpenFoodFacts/openfoodfacts-query#54",
       "time": "2024-07-15T11:44:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/54",
       "text": "fix: Analyze temp table once populated"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#56",
+      "title": "OpenFoodFacts/openfoodfacts-query#56",
       "time": "2024-07-19T08:05:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/56",
       "text": "fix: Prevent errors when there are duplicate product codes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#56",
+      "title": "OpenFoodFacts/openfoodfacts-query#56",
       "time": "2024-07-19T08:53:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/56",
       "text": "fix: Prevent errors when there are duplicate product codes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#57",
+      "title": "OpenFoodFacts/openfoodfacts-query#57",
       "time": "2024-07-19T15:03:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/57",
       "text": "feat: Log events in a table"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#57",
+      "title": "OpenFoodFacts/openfoodfacts-query#57",
       "time": "2024-08-12T17:33:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/57",
       "text": "feat: Log events in a table"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#67",
+      "title": "OpenFoodFacts/openfoodfacts-query#67",
       "time": "2024-09-06T07:13:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/67",
       "text": "chore: Update dependabot.yml and CODEOWNERS"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#67",
+      "title": "OpenFoodFacts/openfoodfacts-query#67",
       "time": "2024-09-06T07:15:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/67",
       "text": "chore: Update dependabot.yml and CODEOWNERS"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#73",
+      "title": "OpenFoodFacts/openfoodfacts-query#73",
       "time": "2024-09-06T07:22:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/73",
       "text": "fix: Fix PR naming"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#73",
+      "title": "OpenFoodFacts/openfoodfacts-query#73",
       "time": "2024-09-06T07:23:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/73",
       "text": "fix: Fix PR naming"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#79",
+      "title": "OpenFoodFacts/openfoodfacts-query#79",
       "time": "2024-09-06T07:49:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/79",
       "text": "fix: Update action versions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#79",
+      "title": "OpenFoodFacts/openfoodfacts-query#79",
       "time": "2024-09-06T07:52:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/79",
       "text": "fix: Update action versions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#80",
+      "title": "OpenFoodFacts/openfoodfacts-query#80",
       "time": "2024-09-06T07:59:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/80",
       "text": "fix: Fix release please"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#80",
+      "title": "OpenFoodFacts/openfoodfacts-query#80",
       "time": "2024-09-06T08:02:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/80",
       "text": "fix: Fix release please"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#88",
+      "title": "OpenFoodFacts/openfoodfacts-query#88",
       "time": "2024-09-13T13:03:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/88",
       "text": "fix: Does not recognise deletions when loading data from events"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#88",
+      "title": "OpenFoodFacts/openfoodfacts-query#88",
       "time": "2024-09-13T13:13:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/88",
       "text": "fix: Does not recognise deletions when loading data from events"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#89",
+      "title": "OpenFoodFacts/openfoodfacts-query#89",
       "time": "2024-09-13T15:14:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/89",
       "text": "fix: Don't limit select to obsolete / not obsolete"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#89",
+      "title": "OpenFoodFacts/openfoodfacts-query#89",
       "time": "2024-09-18T10:19:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/89",
       "text": "fix: Don't limit select to obsolete / not obsolete"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#91",
+      "title": "OpenFoodFacts/openfoodfacts-query#91",
       "time": "2024-09-19T16:03:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/91",
       "text": "fix: Get 403 errors when pushing from dependabot"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#91",
+      "title": "OpenFoodFacts/openfoodfacts-query#91",
       "time": "2024-09-19T16:10:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/91",
       "text": "fix: Get 403 errors when pushing from dependabot"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#92",
+      "title": "OpenFoodFacts/openfoodfacts-query#92",
       "time": "2024-09-19T16:21:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/92",
       "text": "fix: Try setting permissions instead"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#92",
+      "title": "OpenFoodFacts/openfoodfacts-query#92",
       "time": "2024-09-19T16:24:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/92",
       "text": "fix: Try setting permissions instead"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#104",
+      "title": "OpenFoodFacts/openfoodfacts-query#104",
       "time": "2024-10-29T12:57:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/104",
       "text": "fix: Always update product for redis events"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#104",
+      "title": "OpenFoodFacts/openfoodfacts-query#104",
       "time": "2024-10-31T15:08:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/104",
       "text": "fix: Always update product for redis events"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#106",
+      "title": "OpenFoodFacts/openfoodfacts-query#106",
       "time": "2024-10-31T15:20:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/106",
       "text": "fix: Revert PR104"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#106",
+      "title": "OpenFoodFacts/openfoodfacts-query#106",
       "time": "2024-10-31T15:22:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/106",
       "text": "fix: Revert PR104"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#108",
+      "title": "OpenFoodFacts/openfoodfacts-query#108",
       "time": "2024-10-31T15:42:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/108",
       "text": "fix: Re-implement changes from PR #104"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#108",
+      "title": "OpenFoodFacts/openfoodfacts-query#108",
       "time": "2024-10-31T15:48:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/108",
       "text": "fix: Re-implement changes from PR #104"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#113",
+      "title": "OpenFoodFacts/openfoodfacts-query#113",
       "time": "2024-12-12T14:44:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/113",
       "text": "feat: Add support for new stream name"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#113",
+      "title": "OpenFoodFacts/openfoodfacts-query#113",
       "time": "2024-12-12T15:32:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/113",
       "text": "feat: Add support for new stream name"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#115",
+      "title": "OpenFoodFacts/openfoodfacts-query#115",
       "time": "2025-02-12T16:30:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/115",
       "text": "feat: Basic scan upload support"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#115",
+      "title": "OpenFoodFacts/openfoodfacts-query#115",
       "time": "2025-02-26T15:16:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/115",
       "text": "feat: Basic scan upload support"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#116",
+      "title": "OpenFoodFacts/openfoodfacts-query#116",
       "time": "2025-02-17T14:42:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/116",
       "text": "feat: Update to use PostgreSQL version 16"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#116",
+      "title": "OpenFoodFacts/openfoodfacts-query#116",
       "time": "2025-02-17T15:27:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/116",
       "text": "feat: Update to use PostgreSQL version 16"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#117",
+      "title": "OpenFoodFacts/openfoodfacts-query#117",
       "time": "2025-02-17T15:32:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/117",
       "text": "fix: Fix PostgreSQL deploy script"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#117",
+      "title": "OpenFoodFacts/openfoodfacts-query#117",
       "time": "2025-02-17T15:34:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/117",
       "text": "fix: Fix PostgreSQL deploy script"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#118",
+      "title": "OpenFoodFacts/openfoodfacts-query#118",
       "time": "2025-02-26T16:04:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/118",
       "text": "fix: Ensure countries.json is included in assets"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#118",
+      "title": "OpenFoodFacts/openfoodfacts-query#118",
       "time": "2025-02-26T16:07:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/118",
       "text": "fix: Ensure countries.json is included in assets"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#119",
+      "title": "OpenFoodFacts/openfoodfacts-query#119",
       "time": "2025-02-26T16:52:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/119",
       "text": "fix: Don't reject world queries"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#119",
+      "title": "OpenFoodFacts/openfoodfacts-query#119",
       "time": "2025-02-26T17:17:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/119",
       "text": "fix: Don't reject world queries"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#121",
+      "title": "OpenFoodFacts/openfoodfacts-query#121",
       "time": "2025-03-03T13:45:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/121",
       "text": "fix: A full reload is triggered every night once scans have been loaded"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-query#121",
+      "title": "OpenFoodFacts/openfoodfacts-query#121",
       "time": "2025-03-03T13:50:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/121",
       "text": "fix: A full reload is triggered every night once scans have been loaded"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-query#126",
+      "title": "OpenFoodFacts/openfoodfacts-query#126",
       "time": "2025-03-28T11:24:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/126",
       "text": "refactor: Migrate to Python"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-shared-services#1",
+      "title": "OpenFoodFacts/openfoodfacts-shared-services#1",
       "time": "2024-06-07T08:53:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/pull/1",
       "text": "Deploy scripts"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-shared-services#1",
+      "title": "OpenFoodFacts/openfoodfacts-shared-services#1",
       "time": "2024-06-21T10:44:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/pull/1",
       "text": "Deploy scripts"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-shared-services#2",
+      "title": "OpenFoodFacts/openfoodfacts-shared-services#2",
       "time": "2024-06-25T15:58:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/pull/2",
       "text": "fix: Don't expose ports in raw docker-compose as this is used in PO tests"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-shared-services#2",
+      "title": "OpenFoodFacts/openfoodfacts-shared-services#2",
       "time": "2024-06-25T16:22:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/pull/2",
       "text": "fix: Don't expose ports in raw docker-compose as this is used in PO tests"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/recipe-estimator#1",
+      "title": "OpenFoodFacts/recipe-estimator#1",
       "time": "2023-03-20T11:18:18Z",
       "link": "https://github.com/openfoodfacts/recipe-estimator/pull/1",
       "text": "Initial"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/recipe-estimator#1",
+      "title": "OpenFoodFacts/recipe-estimator#1",
       "time": "2023-03-20T11:18:45Z",
       "link": "https://github.com/openfoodfacts/recipe-estimator/pull/1",
       "text": "Initial"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/recipe-estimator-metrics#2",
+      "title": "OpenFoodFacts/recipe-estimator-metrics#2",
       "time": "2023-11-20T12:24:25Z",
       "link": "https://github.com/openfoodfacts/recipe-estimator-metrics/pull/2",
       "text": "Receipe estimator updates to cope with missing nutriments and CIQUAL matches with summary CSV file"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/recipe-estimator-metrics#2",
+      "title": "OpenFoodFacts/recipe-estimator-metrics#2",
       "time": "2023-11-21T08:56:55Z",
       "link": "https://github.com/openfoodfacts/recipe-estimator-metrics/pull/2",
       "text": "Receipe estimator updates to cope with missing nutriments and CIQUAL matches with summary CSV file"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/recipe-estimator-metrics#3",
+      "title": "OpenFoodFacts/recipe-estimator-metrics#3",
       "time": "2023-11-27T11:36:37Z",
       "link": "https://github.com/openfoodfacts/recipe-estimator-metrics/pull/3",
       "text": "Rounding"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/recipe-estimator-metrics#3",
+      "title": "OpenFoodFacts/recipe-estimator-metrics#3",
       "time": "2023-12-11T09:41:47Z",
       "link": "https://github.com/openfoodfacts/recipe-estimator-metrics/pull/3",
       "text": "Rounding"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/recipe-estimator-metrics#5",
+      "title": "OpenFoodFacts/recipe-estimator-metrics#5",
       "time": "2023-12-11T10:13:44Z",
       "link": "https://github.com/openfoodfacts/recipe-estimator-metrics/pull/5",
       "text": "Add Ingredients stats"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/recipe-estimator-metrics#5",
+      "title": "OpenFoodFacts/recipe-estimator-metrics#5",
       "time": "2023-12-13T07:00:21Z",
       "link": "https://github.com/openfoodfacts/recipe-estimator-metrics/pull/5",
       "text": "Add Ingredients stats"

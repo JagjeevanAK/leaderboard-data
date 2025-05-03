@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4907",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4907",
       "time": "2023-01-22T09:25:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4907",
       "text": "style: Preferences UI"

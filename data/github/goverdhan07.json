@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7430",
+      "title": "OpenFoodFacts/openfoodfacts-server#7430",
       "time": "2022-10-02T13:27:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7430",
       "text": "fix: fixed right single quotation in search issue"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7430",
+      "title": "OpenFoodFacts/openfoodfacts-server#7430",
       "time": "2022-10-04T14:33:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7430",
       "text": "fix: fixed right single quotation in search issue"

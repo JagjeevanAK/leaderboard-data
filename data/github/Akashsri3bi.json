@@ -1,187 +1,187 @@
 {
-  "last_updated": "2022-11-06T09:29:26Z",
+  "last_updated": "2022-10-13T14:02:57Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#604",
-      "time": "2022-11-06T09:29:26Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/604",
-      "text": "fix: Added response for incorrect email"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#604",
-      "time": "2022-11-06T11:13:11Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/604",
-      "text": "fix: Added response for incorrect email"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3137",
+      "title": "OpenFoodFacts/smooth-app#3137",
       "time": "2022-10-13T14:02:57Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3137",
       "text": "fix: issue #3133 backbutton visible now"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3160",
+      "title": "OpenFoodFacts/smooth-app#3160",
       "time": "2022-10-15T13:38:08Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3160",
       "text": "fix: Issue #3133 back button not visible & Issue #2988 secondary button hard to diff "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3170",
+      "title": "OpenFoodFacts/smooth-app#3170",
       "time": "2022-10-17T18:13:45Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3170",
       "text": "fix: backbutton now visible issue #3133"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3170",
+      "title": "OpenFoodFacts/smooth-app#3170",
       "time": "2022-10-22T19:08:09Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3170",
       "text": "fix: backbutton now visible issue #3133"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3171",
+      "title": "OpenFoodFacts/smooth-app#3171",
       "time": "2022-10-17T18:30:27Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3171",
       "text": "fix: secondary button now differentiable issue #2988"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3171",
+      "title": "OpenFoodFacts/smooth-app#3171",
       "time": "2022-11-02T16:09:17Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3171",
       "text": "fix: secondary button now differentiable issue #2988"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3172",
+      "title": "OpenFoodFacts/smooth-app#3172",
       "time": "2022-10-17T18:50:29Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3172",
       "text": "fix: Appbar now differentiable issue #2635"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3172",
+      "title": "OpenFoodFacts/smooth-app#3172",
       "time": "2022-10-22T20:41:26Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3172",
       "text": "fix: Appbar now differentiable issue #2635"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3221",
+      "title": "OpenFoodFacts/smooth-app#3221",
       "time": "2022-10-26T14:27:42Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3221",
       "text": "fix: bottom overflow rendering issue #3177"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3221",
+      "title": "OpenFoodFacts/smooth-app#3221",
       "time": "2022-10-27T05:40:00Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3221",
       "text": "fix: bottom overflow rendering issue #3177"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3240",
+      "title": "OpenFoodFacts/smooth-app#3240",
       "time": "2022-10-31T11:14:56Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3240",
       "text": "fix: Quick Fix for Sign-Up issue #3226"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3258",
+      "title": "OpenFoodFacts/smooth-app#3258",
       "time": "2022-11-03T07:41:47Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3258",
       "text": "fix: account removal reason issue #2585"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3258",
+      "title": "OpenFoodFacts/smooth-app#3258",
       "time": "2022-11-14T14:57:51Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3258",
       "text": "fix: account removal reason issue #2585"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3288",
+      "title": "OpenFoodFacts/smooth-app#3288",
       "time": "2022-11-08T13:31:20Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3288",
       "text": "fix: SignUp Issue"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3288",
+      "title": "OpenFoodFacts/smooth-app#3288",
       "time": "2022-11-08T14:56:47Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3288",
       "text": "fix: SignUp Issue"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3607",
+      "title": "OpenFoodFacts/smooth-app#3607",
       "time": "2023-01-21T13:23:35Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3607",
       "text": "fix: issue website link overflow"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3607",
+      "title": "OpenFoodFacts/smooth-app#3607",
       "time": "2023-01-21T14:23:45Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3607",
       "text": "fix: issue website link overflow"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3689",
+      "title": "OpenFoodFacts/smooth-app#3689",
       "time": "2023-02-09T10:25:26Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3689",
       "text": "fix: image edit and not logged-in user"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3689",
+      "title": "OpenFoodFacts/smooth-app#3689",
       "time": "2023-02-09T18:51:46Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3689",
       "text": "fix: image edit and not logged-in user"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3695",
+      "title": "OpenFoodFacts/smooth-app#3695",
       "time": "2023-02-11T15:18:33Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3695",
       "text": "feat: search should be scan"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3695",
+      "title": "OpenFoodFacts/smooth-app#3695",
       "time": "2023-02-16T16:41:29Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3695",
       "text": "feat: search should be scan"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3709",
+      "title": "OpenFoodFacts/smooth-app#3709",
       "time": "2023-02-15T17:54:05Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3709",
       "text": "fix: revamp the signup prompt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3709",
+      "title": "OpenFoodFacts/smooth-app#3709",
       "time": "2023-02-18T22:12:52Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3709",
       "text": "fix: revamp the signup prompt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3732",
+      "title": "OpenFoodFacts/smooth-app#3732",
       "time": "2023-02-22T14:32:26Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3732",
       "text": "fix: splash screen dark mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-dart#604",
+      "time": "2022-11-06T09:29:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/604",
+      "text": "fix: Added response for incorrect email"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-dart#604",
+      "time": "2022-11-06T11:13:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/604",
+      "text": "fix: Added response for incorrect email"
     }
   ],
   "open_prs": [],

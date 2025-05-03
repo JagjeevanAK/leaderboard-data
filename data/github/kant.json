@@ -1,170 +1,170 @@
 {
-  "last_updated": "2021-06-09T21:32:33Z",
+  "last_updated": "2019-06-24T22:09:24Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#164",
-      "time": "2021-06-09T21:32:33Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/164",
-      "text": "Minor fix (line 398)"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#164",
-      "time": "2021-06-22T15:48:49Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/164",
-      "text": "Minor fix (line 398)"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#312",
-      "time": "2019-06-25T13:56:07Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/312",
-      "text": "Fixed subtitle formatting on string 58"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#312",
-      "time": "2019-07-13T13:47:41Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/312",
-      "text": "Fixed subtitle formatting on string 58"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1997",
+      "title": "OpenFoodFacts/openfoodfacts-server#1997",
       "time": "2019-06-24T22:09:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1997",
       "text": "Update data according \"Open Food Facts - the Android application\" repo"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1997",
+      "title": "OpenFoodFacts/openfoodfacts-server#1997",
       "time": "2019-06-25T07:07:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1997",
       "text": "Update data according \"Open Food Facts - the Android application\" repo"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7369",
+      "title": "OpenFoodFacts/openfoodfacts-server#7369",
       "time": "2022-09-19T20:57:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7369",
       "text": "docs: Typos fixed (lines 03, 06)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7369",
+      "title": "OpenFoodFacts/openfoodfacts-server#7369",
       "time": "2022-09-20T13:09:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7369",
       "text": "docs: Typos fixed (lines 03, 06)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10849",
+      "title": "OpenFoodFacts/openfoodfacts-server#10849",
       "time": "2024-10-01T16:16:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10849",
       "text": "fix: docs (paragraph 24)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10849",
+      "title": "OpenFoodFacts/openfoodfacts-server#10849",
       "time": "2024-10-02T15:16:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10849",
       "text": "fix: docs (paragraph 24)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10850",
+      "title": "OpenFoodFacts/openfoodfacts-server#10850",
       "time": "2024-10-01T16:52:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10850",
       "text": "fix: docs Adding closing ) to generate proper internal link"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10850",
+      "title": "OpenFoodFacts/openfoodfacts-server#10850",
       "time": "2024-10-02T07:56:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10850",
       "text": "fix: docs Adding closing ) to generate proper internal link"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10851",
+      "title": "OpenFoodFacts/openfoodfacts-server#10851",
       "time": "2024-10-01T17:25:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10851",
       "text": "fix: docs Syntax issues"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10851",
+      "title": "OpenFoodFacts/openfoodfacts-server#10851",
       "time": "2024-10-04T17:39:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10851",
       "text": "fix: docs Syntax issues"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10852",
+      "title": "OpenFoodFacts/openfoodfacts-server#10852",
       "time": "2024-10-01T17:31:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10852",
       "text": "fix: docs fix a broken Internal URL to Open Prices"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10852",
+      "title": "OpenFoodFacts/openfoodfacts-server#10852",
       "time": "2024-10-02T15:16:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10852",
       "text": "fix: docs fix a broken Internal URL to Open Prices"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10853",
+      "title": "OpenFoodFacts/openfoodfacts-server#10853",
       "time": "2024-10-01T20:19:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10853",
       "text": "fix: docs Fixed proper denomination of product in query"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10853",
+      "title": "OpenFoodFacts/openfoodfacts-server#10853",
       "time": "2024-10-02T07:55:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10853",
       "text": "fix: docs Fixed proper denomination of product in query"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2773",
+      "title": "OpenFoodFacts/openfoodfacts-dart#164",
+      "time": "2021-06-09T21:32:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/164",
+      "text": "Minor fix (line 398)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-dart#164",
+      "time": "2021-06-22T15:48:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/164",
+      "text": "Minor fix (line 398)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2773",
       "time": "2019-06-24T03:23:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2773",
       "text": "Fixed typo on string 99"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2773",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2773",
       "time": "2019-06-25T09:48:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2773",
       "text": "Fixed typo on string 99"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3205",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3205",
       "time": "2020-06-02T23:13:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3205",
       "text": "Minor fix proposal on line 58"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3205",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3205",
       "time": "2020-06-03T07:56:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3205",
       "text": "Minor fix proposal on line 58"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ubuntu#22",
+      "title": "OpenFoodFacts/openfoodfacts-ios#312",
+      "time": "2019-06-25T13:56:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/312",
+      "text": "Fixed subtitle formatting on string 58"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-ios#312",
+      "time": "2019-07-13T13:47:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/312",
+      "text": "Fixed subtitle formatting on string 58"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-ubuntu#22",
       "time": "2019-06-26T21:43:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ubuntu/pull/22",
       "text": "Fixed subtitle and title formatting plus on code too"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ubuntu#22",
+      "title": "OpenFoodFacts/openfoodfacts-ubuntu#22",
       "time": "2019-06-27T11:25:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ubuntu/pull/22",
       "text": "Fixed subtitle and title formatting plus on code too"

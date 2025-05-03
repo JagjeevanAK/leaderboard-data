@@ -3,98 +3,98 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-category-classification#22",
+      "title": "OpenFoodFacts/off-category-classification#22",
       "time": "2022-04-06T18:39:55Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/22",
       "text": "ajout notebook training+testing du modele"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-category-classification#24",
+      "title": "OpenFoodFacts/off-category-classification#24",
       "time": "2022-04-07T08:25:44Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/24",
       "text": "Experiments"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-category-classification#24",
+      "title": "OpenFoodFacts/off-category-classification#24",
       "time": "2022-04-13T19:47:29Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/24",
       "text": "Experiments"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-category-classification#31",
+      "title": "OpenFoodFacts/off-category-classification#31",
       "time": "2022-04-14T12:31:57Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/31",
       "text": "Experiments"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-category-classification#31",
+      "title": "OpenFoodFacts/off-category-classification#31",
       "time": "2022-04-14T19:49:37Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/31",
       "text": "Experiments"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-category-classification#41",
+      "title": "OpenFoodFacts/off-category-classification#41",
       "time": "2022-04-21T09:51:33Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/41",
       "text": "feat: train.ipynb: plot model"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-category-classification#41",
+      "title": "OpenFoodFacts/off-category-classification#41",
       "time": "2022-04-29T10:18:59Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/41",
       "text": "feat: train.ipynb: plot model"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-category-classification#43",
+      "title": "OpenFoodFacts/off-category-classification#43",
       "time": "2022-04-23T11:40:25Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/43",
       "text": "feat: Train.ipynb:rewire with new datasets"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-category-classification#49",
+      "title": "OpenFoodFacts/off-category-classification#49",
       "time": "2022-05-04T07:13:30Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/49",
       "text": "feat: add codecarbon to project"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-category-classification#50",
+      "title": "OpenFoodFacts/off-category-classification#50",
       "time": "2022-05-04T17:49:02Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/50",
       "text": "feat: add codecarbon to the project"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-category-classification#50",
+      "title": "OpenFoodFacts/off-category-classification#50",
       "time": "2022-05-17T10:21:53Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/50",
       "text": "feat: add codecarbon to the project"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-category-classification#63",
+      "title": "OpenFoodFacts/off-category-classification#63",
       "time": "2022-05-22T07:03:50Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/63",
       "text": "feat: remove manual toc, use jupyter toc2 nbextension instead"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-category-classification#69",
+      "title": "OpenFoodFacts/off-category-classification#69",
       "time": "2022-05-25T08:01:05Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/69",
       "text": "fix: update codecarbon correct project id"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-category-classification#74",
+      "title": "OpenFoodFacts/off-category-classification#74",
       "time": "2022-06-01T14:56:28Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/74",
       "text": "feat: load category_taxonomy.json as a graph and use it to train model"

@@ -3,84 +3,84 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3551",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3551",
       "time": "2020-10-20T19:06:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3551",
       "text": "Fix Null Pointer Exception on No product found from deep link"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3551",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3551",
       "time": "2020-10-23T15:36:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3551",
       "text": "Fix Null Pointer Exception on No product found from deep link"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3552",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3552",
       "time": "2020-10-21T03:14:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3552",
       "text": "Add right text when toggles are enabled in preferences"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3552",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3552",
       "time": "2020-10-23T15:37:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3552",
       "text": "Add right text when toggles are enabled in preferences"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3554",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3554",
       "time": "2020-10-23T02:29:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3554",
       "text": "Fix NPE while changing language preference"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3556",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3556",
       "time": "2020-10-24T01:43:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3556",
       "text": "Lang pref crash"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3556",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3556",
       "time": "2020-10-24T10:28:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3556",
       "text": "Lang pref crash"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3560",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3560",
       "time": "2020-10-26T07:38:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3560",
       "text": "Fix crashes caused by IllegalStateException on the 3 screens"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3562",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3562",
       "time": "2020-10-26T18:26:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3562",
       "text": "Fix crash caused by ISE on the 3 screens"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3562",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3562",
       "time": "2020-10-27T14:43:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3562",
       "text": "Fix crash caused by ISE on the 3 screens"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3566",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3566",
       "time": "2020-11-01T07:01:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3566",
       "text": "Fix ISE crash on SPF"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3566",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3566",
       "time": "2020-11-03T15:14:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3566",
       "text": "Fix ISE crash on SPF"

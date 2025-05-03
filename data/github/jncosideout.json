@@ -3,63 +3,63 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#710",
+      "title": "OpenFoodFacts/openfoodfacts-ios#710",
       "time": "2020-08-11T19:57:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/710",
       "text": "Update isOffline(errorCode:) to catch additional NSURLError"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#710",
+      "title": "OpenFoodFacts/openfoodfacts-ios#710",
       "time": "2020-08-19T15:02:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/710",
       "text": "Update isOffline(errorCode:) to catch additional NSURLError"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#720",
+      "title": "OpenFoodFacts/openfoodfacts-ios#720",
       "time": "2020-08-23T23:58:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/720",
       "text": "Taxonomy model for Label is not correct"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#720",
+      "title": "OpenFoodFacts/openfoodfacts-ios#720",
       "time": "2020-10-06T20:20:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/720",
       "text": "Taxonomy model for Label is not correct"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#747",
+      "title": "OpenFoodFacts/openfoodfacts-ios#747",
       "time": "2020-09-27T20:26:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/747",
       "text": "Open weblinks to OFF urls in the language chosen in app settings, dynamically"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#747",
+      "title": "OpenFoodFacts/openfoodfacts-ios#747",
       "time": "2020-09-29T17:26:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/747",
       "text": "Open weblinks to OFF urls in the language chosen in app settings, dynamically"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#748",
+      "title": "OpenFoodFacts/openfoodfacts-ios#748",
       "time": "2020-09-30T03:19:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/748",
       "text": "Product Attributes API model"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#748",
+      "title": "OpenFoodFacts/openfoodfacts-ios#748",
       "time": "2020-10-29T09:16:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/748",
       "text": "Product Attributes API model"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#780",
+      "title": "OpenFoodFacts/openfoodfacts-ios#780",
       "time": "2020-10-17T20:26:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/780",
       "text": "feat: Finish the new product page revamp based on the Attributes API - Implementation of product attributes - Pr/#707"

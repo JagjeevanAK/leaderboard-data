@@ -3,434 +3,434 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3644",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3644",
       "time": "2020-12-29T16:18:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3644",
       "text": "adds prompt for missing info related to Eco-Score (solves issue 3624)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3644",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3644",
       "time": "2021-01-16T10:07:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3644",
       "text": "adds prompt for missing info related to Eco-Score (solves issue 3624)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3650",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3650",
       "time": "2020-12-30T20:45:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3650",
       "text": "Added dependency to run application on develop branch"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3650",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3650",
       "time": "2021-01-01T00:42:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3650",
       "text": "Added dependency to run application on develop branch"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3661",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3661",
       "time": "2021-01-03T11:20:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3661",
       "text": "Fixes: Unable to open Server Attributes in product screen and product from category"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3661",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3661",
       "time": "2021-01-03T12:39:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3661",
       "text": "Fixes: Unable to open Server Attributes in product screen and product from category"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3664",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3664",
       "time": "2021-01-03T12:30:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3664",
       "text": "added helper msg for login in flavour except OFF"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3664",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3664",
       "time": "2021-01-03T20:34:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3664",
       "text": "added helper msg for login in flavour except OFF"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3669",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3669",
       "time": "2021-01-03T14:20:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3669",
       "text": "Rename Server attribute and Fixed layout "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3669",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3669",
       "time": "2021-01-03T18:10:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3669",
       "text": "Rename Server attribute and Fixed layout "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3678",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3678",
       "time": "2021-01-04T19:41:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3678",
       "text": "fix: edit product"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3678",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3678",
       "time": "2021-01-05T06:25:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3678",
       "text": "fix: edit product"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3679",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3679",
       "time": "2021-01-05T00:00:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3679",
       "text": "Fix: Scan"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3679",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3679",
       "time": "2021-01-05T06:24:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3679",
       "text": "Fix: Scan"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3694",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3694",
       "time": "2021-01-07T03:17:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3694",
       "text": "Fix: image manager"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3694",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3694",
       "time": "2021-01-07T13:15:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3694",
       "text": "Fix: image manager"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3699",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3699",
       "time": "2021-01-08T00:17:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3699",
       "text": "fix minors - Edit layout fix + Bracket issue in EMB codes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3699",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3699",
       "time": "2021-01-09T08:28:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3699",
       "text": "fix minors - Edit layout fix + Bracket issue in EMB codes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3702",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3702",
       "time": "2021-01-08T16:51:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3702",
       "text": "fix- impossible to modify the nutritional values"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3702",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3702",
       "time": "2021-01-09T08:27:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3702",
       "text": "fix- impossible to modify the nutritional values"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3717",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3717",
       "time": "2021-01-10T19:28:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3717",
       "text": "fix: NOVA grey logo not shown"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3717",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3717",
       "time": "2021-01-10T20:28:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3717",
       "text": "fix: NOVA grey logo not shown"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3738",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3738",
       "time": "2021-01-15T11:04:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3738",
       "text": "eco Score icon made clickable"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3738",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3738",
       "time": "2021-01-15T23:28:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3738",
       "text": "eco Score icon made clickable"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3739",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3739",
       "time": "2021-01-15T11:17:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3739",
       "text": "fix: product header partially visible"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3739",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3739",
       "time": "2021-01-15T13:01:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3739",
       "text": "fix: product header partially visible"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3750",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3750",
       "time": "2021-01-16T22:26:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3750",
       "text": "states tag translation in contribution tab"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3750",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3750",
       "time": "2021-01-17T17:59:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3750",
       "text": "states tag translation in contribution tab"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3758",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3758",
       "time": "2021-01-19T18:34:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3758",
       "text": "Feat packing values on environment tab"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3758",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3758",
       "time": "2021-01-20T10:05:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3758",
       "text": "Feat packing values on environment tab"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3759",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3759",
       "time": "2021-01-19T19:23:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3759",
       "text": "Show lists the product belongs to on the product page "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3759",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3759",
       "time": "2021-01-22T11:08:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3759",
       "text": "Show lists the product belongs to on the product page "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3763",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3763",
       "time": "2021-01-21T18:07:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3763",
       "text": "Removed mailto from ecoscore tipbox"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3763",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3763",
       "time": "2021-01-21T18:29:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3763",
       "text": "Removed mailto from ecoscore tipbox"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3771",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3771",
       "time": "2021-01-22T20:24:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3771",
       "text": "origin prompt moved to environment tab"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3771",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3771",
       "time": "2021-01-23T11:48:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3771",
       "text": "origin prompt moved to environment tab"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3783",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3783",
       "time": "2021-01-27T10:20:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3783",
       "text": "feat: color states tags"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3783",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3783",
       "time": "2021-01-29T16:54:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3783",
       "text": "feat: color states tags"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3785",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3785",
       "time": "2021-01-28T19:35:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3785",
       "text": "feat: stores autosuggest added"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3785",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3785",
       "time": "2021-01-31T15:47:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3785",
       "text": "feat: stores autosuggest added"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3790",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3790",
       "time": "2021-01-29T21:19:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3790",
       "text": "fix: build test fails"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3790",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3790",
       "time": "2021-02-10T16:33:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3790",
       "text": "fix: build test fails"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3794",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3794",
       "time": "2021-01-30T23:31:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3794",
       "text": "List export fixed"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3794",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3794",
       "time": "2021-01-31T15:42:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3794",
       "text": "List export fixed"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3796",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3796",
       "time": "2021-02-01T20:57:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3796",
       "text": "Fixed the visibility of the export, trash, sort buttons in History"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3796",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3796",
       "time": "2021-02-10T16:45:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3796",
       "text": "Fixed the visibility of the export, trash, sort buttons in History"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3799",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3799",
       "time": "2021-02-03T21:20:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3799",
       "text": "Fixes list removal that was not working "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3799",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3799",
       "time": "2021-02-10T16:43:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3799",
       "text": "Fixes list removal that was not working "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3836",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3836",
       "time": "2021-02-16T17:59:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3836",
       "text": "feat: Choice between classic and MLkit scanner with a system of dimensions to disable binary blobs for F-Droid"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3836",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3836",
       "time": "2021-03-09T21:12:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3836",
       "text": "feat: Choice between classic and MLkit scanner with a system of dimensions to disable binary blobs for F-Droid"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3861",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3861",
       "time": "2021-02-28T09:54:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3861",
       "text": "NPE fixed"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3861",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3861",
       "time": "2021-03-02T19:32:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3861",
       "text": "NPE fixed"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3863",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3863",
       "time": "2021-02-28T11:15:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3863",
       "text": "imageurl made nullable (NPE fixed)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3863",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3863",
       "time": "2021-03-03T22:20:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3863",
       "text": "imageurl made nullable (NPE fixed)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3869",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3869",
       "time": "2021-03-05T21:39:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3869",
       "text": "FIX: Image selection from the image manager does not work anymore #3839 (View parameter made nullable)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3869",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3869",
       "time": "2021-03-06T15:00:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3869",
       "text": "FIX: Image selection from the image manager does not work anymore #3839 (View parameter made nullable)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3870",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3870",
       "time": "2021-03-05T22:43:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3870",
       "text": "FEAT: confirmation added when setting a photo from the photos tab"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3870",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3870",
       "time": "2021-03-08T18:42:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3870",
       "text": "FEAT: confirmation added when setting a photo from the photos tab"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3871",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3871",
       "time": "2021-03-05T23:19:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3871",
       "text": "additve visibility issue solved"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3871",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3871",
       "time": "2021-03-06T14:56:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3871",
       "text": "additve visibility issue solved"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3883",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3883",
       "time": "2021-03-10T13:16:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3883",
       "text": "Feat: brand autosuggest added"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3883",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3883",
       "time": "2021-03-10T13:52:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3883",
       "text": "Feat: brand autosuggest added"

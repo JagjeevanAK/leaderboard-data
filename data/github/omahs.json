@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8913",
+      "title": "OpenFoodFacts/openfoodfacts-server#8913",
       "time": "2023-08-28T09:29:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8913",
       "text": "fix: typos"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8913",
+      "title": "OpenFoodFacts/openfoodfacts-server#8913",
       "time": "2023-08-29T08:31:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8913",
       "text": "fix: typos"

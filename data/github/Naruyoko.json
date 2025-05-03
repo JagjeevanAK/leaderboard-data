@@ -3,161 +3,161 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8405",
+      "title": "OpenFoodFacts/openfoodfacts-server#8405",
       "time": "2023-05-09T17:39:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8405",
       "text": "taxonomy: Various Japanese translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8617",
+      "title": "OpenFoodFacts/openfoodfacts-server#8617",
       "time": "2023-06-27T21:37:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8617",
       "text": "taxonomy: Japanese translations for ingredients processing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8795",
+      "title": "OpenFoodFacts/openfoodfacts-server#8795",
       "time": "2023-08-02T20:46:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8795",
       "text": "taxonomy: Add Japanese form variants for vitamins and additives"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8795",
+      "title": "OpenFoodFacts/openfoodfacts-server#8795",
       "time": "2023-08-05T20:38:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8795",
       "text": "taxonomy: Add Japanese form variants for vitamins and additives"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8843",
+      "title": "OpenFoodFacts/openfoodfacts-server#8843",
       "time": "2023-08-14T00:37:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8843",
       "text": "taxonomy: Extend en taxonomy of subcategories of `en:Biscuit with a filled chocolate bar covering`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8843",
+      "title": "OpenFoodFacts/openfoodfacts-server#8843",
       "time": "2023-08-18T08:44:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8843",
       "text": "taxonomy: Extend en taxonomy of subcategories of `en:Biscuit with a filled chocolate bar covering`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9091",
+      "title": "OpenFoodFacts/openfoodfacts-server#9091",
       "time": "2023-09-30T04:03:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9091",
       "text": "taxonomy: Remove spaces found in some Japanese translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9091",
+      "title": "OpenFoodFacts/openfoodfacts-server#9091",
       "time": "2023-09-30T11:23:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9091",
       "text": "taxonomy: Remove spaces found in some Japanese translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9145",
+      "title": "OpenFoodFacts/openfoodfacts-server#9145",
       "time": "2023-10-12T11:01:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9145",
       "text": "taxonomy: Add all prefectures of Japan"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9145",
+      "title": "OpenFoodFacts/openfoodfacts-server#9145",
       "time": "2023-10-12T16:20:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9145",
       "text": "taxonomy: Add all prefectures of Japan"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9395",
+      "title": "OpenFoodFacts/openfoodfacts-server#9395",
       "time": "2023-11-24T05:27:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9395",
       "text": "feat: Synonyms in taxonomized suggestions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9395",
+      "title": "OpenFoodFacts/openfoodfacts-server#9395",
       "time": "2024-02-19T13:06:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9395",
       "text": "feat: Synonyms in taxonomized suggestions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9505",
+      "title": "OpenFoodFacts/openfoodfacts-server#9505",
       "time": "2023-12-11T07:08:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9505",
       "text": "taxonomy: Add even more synonyms to `jp_allergens_1`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9594",
+      "title": "OpenFoodFacts/openfoodfacts-server#9594",
       "time": "2023-12-24T23:37:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9594",
       "text": "taxonomy: jp_allergens_1 (Combined)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9594",
+      "title": "OpenFoodFacts/openfoodfacts-server#9594",
       "time": "2023-12-25T10:15:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9594",
       "text": "taxonomy: jp_allergens_1 (Combined)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10149",
+      "title": "OpenFoodFacts/openfoodfacts-server#10149",
       "time": "2024-04-18T21:06:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10149",
       "text": "fix: Update suggestions in more situations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10149",
+      "title": "OpenFoodFacts/openfoodfacts-server#10149",
       "time": "2024-04-24T07:19:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10149",
       "text": "fix: Update suggestions in more situations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10446",
+      "title": "OpenFoodFacts/openfoodfacts-server#10446",
       "time": "2024-06-14T17:12:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10446",
       "text": "taxonomy: Complete `en:flavoured-oils` subcategories"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10446",
+      "title": "OpenFoodFacts/openfoodfacts-server#10446",
       "time": "2024-06-17T07:53:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10446",
       "text": "taxonomy: Complete `en:flavoured-oils` subcategories"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10722",
+      "title": "OpenFoodFacts/openfoodfacts-server#10722",
       "time": "2024-08-21T18:05:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10722",
       "text": "fix: Synonyms in taxonomized suggestions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10722",
+      "title": "OpenFoodFacts/openfoodfacts-server#10722",
       "time": "2024-08-22T13:32:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10722",
       "text": "fix: Synonyms in taxonomized suggestions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10847",
+      "title": "OpenFoodFacts/openfoodfacts-server#10847",
       "time": "2024-10-01T00:54:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10847",
       "text": "taxonomy: Fix misplaced ja translation of en:dried-tomatoes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10847",
+      "title": "OpenFoodFacts/openfoodfacts-server#10847",
       "time": "2024-10-01T09:28:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10847",
       "text": "taxonomy: Fix misplaced ja translation of en:dried-tomatoes"

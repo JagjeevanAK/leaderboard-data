@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#218",
+      "title": "OpenFoodFacts/taxonomy-editor#218",
       "time": "2023-02-06T19:21:21Z",
       "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/218",
       "text": "fix: #184 sorted the language selection menu alphabetically"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#218",
+      "title": "OpenFoodFacts/taxonomy-editor#218",
       "time": "2023-02-07T15:08:53Z",
       "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/218",
       "text": "fix: #184 sorted the language selection menu alphabetically"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#221",
+      "title": "OpenFoodFacts/taxonomy-editor#221",
       "time": "2023-02-07T21:17:29Z",
       "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/221",
       "text": "fix: #203 added scrollbar in the table for small screen sizes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#221",
+      "title": "OpenFoodFacts/taxonomy-editor#221",
       "time": "2023-02-09T14:50:33Z",
       "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/221",
       "text": "fix: #203 added scrollbar in the table for small screen sizes"

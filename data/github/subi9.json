@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10484",
+      "title": "OpenFoodFacts/openfoodfacts-server#10484",
       "time": "2024-06-23T10:55:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10484",
       "text": "fix: Remove \"report problem\" in the navigation bar if knowledge panel is not present"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10484",
+      "title": "OpenFoodFacts/openfoodfacts-server#10484",
       "time": "2024-07-05T11:08:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10484",
       "text": "fix: Remove \"report problem\" in the navigation bar if knowledge panel is not present"

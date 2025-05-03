@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2308",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2308",
       "time": "2019-02-25T13:44:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2308",
       "text": "Fixes #2305: Text was appearing on the left rather than at the center."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2308",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2308",
       "time": "2019-02-26T18:41:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2308",
       "text": "Fixes #2305: Text was appearing on the left rather than at the center."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2310",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2310",
       "time": "2019-02-25T20:25:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2310",
       "text": "Fixes #2309: Add Error Message for empty Password in Sign-in Screen"

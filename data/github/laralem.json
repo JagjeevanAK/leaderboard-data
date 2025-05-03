@@ -3,252 +3,252 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5015",
+      "title": "OpenFoodFacts/openfoodfacts-server#5015",
       "time": "2021-03-18T22:30:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5015",
       "text": "New Portuguese translations in packaging_materials.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5015",
+      "title": "OpenFoodFacts/openfoodfacts-server#5015",
       "time": "2021-03-22T16:59:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5015",
       "text": "New Portuguese translations in packaging_materials.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5031",
+      "title": "OpenFoodFacts/openfoodfacts-server#5031",
       "time": "2021-03-22T11:38:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5031",
       "text": "Portuguese translation in containers.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5031",
+      "title": "OpenFoodFacts/openfoodfacts-server#5031",
       "time": "2021-03-24T08:51:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5031",
       "text": "Portuguese translation in containers.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5033",
+      "title": "OpenFoodFacts/openfoodfacts-server#5033",
       "time": "2021-03-22T12:21:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5033",
       "text": "New Portugal recycling containers images"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5033",
+      "title": "OpenFoodFacts/openfoodfacts-server#5033",
       "time": "2021-03-22T17:05:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5033",
       "text": "New Portugal recycling containers images"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5039",
+      "title": "OpenFoodFacts/openfoodfacts-server#5039",
       "time": "2021-03-22T20:01:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5039",
       "text": "Portuguese translation in packaging_shapes.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5039",
+      "title": "OpenFoodFacts/openfoodfacts-server#5039",
       "time": "2021-03-23T13:52:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5039",
       "text": "Portuguese translation in packaging_shapes.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5053",
+      "title": "OpenFoodFacts/openfoodfacts-server#5053",
       "time": "2021-03-25T00:36:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5053",
       "text": "chore: Portuguese translations for the labels taxonomy"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5060",
+      "title": "OpenFoodFacts/openfoodfacts-server#5060",
       "time": "2021-03-26T14:19:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5060",
       "text": "Translations for packaging_recycling.result.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5060",
+      "title": "OpenFoodFacts/openfoodfacts-server#5060",
       "time": "2021-03-26T15:44:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5060",
       "text": "Translations for packaging_recycling.result.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5061",
+      "title": "OpenFoodFacts/openfoodfacts-server#5061",
       "time": "2021-03-26T14:31:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5061",
       "text": "Translations for recycling_instructions.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5061",
+      "title": "OpenFoodFacts/openfoodfacts-server#5061",
       "time": "2021-03-29T13:31:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5061",
       "text": "Translations for recycling_instructions.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5062",
+      "title": "OpenFoodFacts/openfoodfacts-server#5062",
       "time": "2021-03-26T15:21:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5062",
       "text": "Translations for recycling_bins.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5062",
+      "title": "OpenFoodFacts/openfoodfacts-server#5062",
       "time": "2021-03-29T13:31:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5062",
       "text": "Translations for recycling_bins.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5143",
+      "title": "OpenFoodFacts/openfoodfacts-server#5143",
       "time": "2021-04-14T01:09:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5143",
       "text": "Translations for ingredients_analysis.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5143",
+      "title": "OpenFoodFacts/openfoodfacts-server#5143",
       "time": "2021-04-16T08:52:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5143",
       "text": "Translations for ingredients_analysis.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5144",
+      "title": "OpenFoodFacts/openfoodfacts-server#5144",
       "time": "2021-04-14T01:24:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5144",
       "text": "Translations for nova-groups.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5144",
+      "title": "OpenFoodFacts/openfoodfacts-server#5144",
       "time": "2021-04-16T08:51:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5144",
       "text": "Translations for nova-groups.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5145",
+      "title": "OpenFoodFacts/openfoodfacts-server#5145",
       "time": "2021-04-14T01:45:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5145",
       "text": "Translations for states.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5145",
+      "title": "OpenFoodFacts/openfoodfacts-server#5145",
       "time": "2021-04-16T08:50:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5145",
       "text": "Translations for states.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5146",
+      "title": "OpenFoodFacts/openfoodfacts-server#5146",
       "time": "2021-04-14T02:36:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5146",
       "text": "Translations for allergens.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5146",
+      "title": "OpenFoodFacts/openfoodfacts-server#5146",
       "time": "2021-04-16T08:49:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5146",
       "text": "Translations for allergens.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5149",
+      "title": "OpenFoodFacts/openfoodfacts-server#5149",
       "time": "2021-04-14T15:06:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5149",
       "text": "Translations for ingredients_processing.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5149",
+      "title": "OpenFoodFacts/openfoodfacts-server#5149",
       "time": "2021-04-18T15:13:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5149",
       "text": "Translations for ingredients_processing.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5152",
+      "title": "OpenFoodFacts/openfoodfacts-server#5152",
       "time": "2021-04-14T23:55:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5152",
       "text": "Update ingredients.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5154",
+      "title": "OpenFoodFacts/openfoodfacts-server#5154",
       "time": "2021-04-17T09:24:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5154",
       "text": "Translations for stores.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5154",
+      "title": "OpenFoodFacts/openfoodfacts-server#5154",
       "time": "2021-04-23T12:23:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5154",
       "text": "Translations for stores.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5155",
+      "title": "OpenFoodFacts/openfoodfacts-server#5155",
       "time": "2021-04-17T09:44:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5155",
       "text": " Translations for periods_after_opening.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5155",
+      "title": "OpenFoodFacts/openfoodfacts-server#5155",
       "time": "2021-04-18T14:51:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5155",
       "text": " Translations for periods_after_opening.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5156",
+      "title": "OpenFoodFacts/openfoodfacts-server#5156",
       "time": "2021-04-17T09:49:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5156",
       "text": "Translation for other_nutritional_substances.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5156",
+      "title": "OpenFoodFacts/openfoodfacts-server#5156",
       "time": "2021-04-18T14:50:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5156",
       "text": "Translation for other_nutritional_substances.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5160",
+      "title": "OpenFoodFacts/openfoodfacts-server#5160",
       "time": "2021-04-17T20:39:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5160",
       "text": "chore: Portuguese translations for nutrients.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6051",
+      "title": "OpenFoodFacts/openfoodfacts-server#6051",
       "time": "2021-11-04T12:41:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6051",
       "text": "Update languages.result.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6064",
+      "title": "OpenFoodFacts/openfoodfacts-server#6064",
       "time": "2021-11-09T11:33:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6064",
       "text": "Change pt and pt-br in languages.txt +notes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6064",
+      "title": "OpenFoodFacts/openfoodfacts-server#6064",
       "time": "2021-11-09T12:33:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6064",
       "text": "Change pt and pt-br in languages.txt +notes"

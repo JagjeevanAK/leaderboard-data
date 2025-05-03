@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4373",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4373",
       "time": "2021-11-24T23:58:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4373",
       "text": "Fix issue #2867: Honor the default unit from the nutrient taxonomy"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4373",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4373",
       "time": "2021-12-12T11:03:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4373",
       "text": "Fix issue #2867: Honor the default unit from the nutrient taxonomy"

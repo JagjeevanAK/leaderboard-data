@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8423",
+      "title": "OpenFoodFacts/openfoodfacts-server#8423",
       "time": "2023-05-16T12:44:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8423",
       "text": "fix: make products aligned again in list #7309"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8423",
+      "title": "OpenFoodFacts/openfoodfacts-server#8423",
       "time": "2023-05-16T14:48:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8423",
       "text": "fix: make products aligned again in list #7309"

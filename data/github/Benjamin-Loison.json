@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#4273",
+      "title": "OpenFoodFacts/smooth-app#4273",
       "time": "2023-07-03T10:53:12Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4273",
       "text": "docs: Mostly correct spaces and new lines usage in `CONTRIBUTING.md`, `README.md` and `packages/smooth_app/fastlane/metadata/en-US/full_description.txt`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#4273",
+      "title": "OpenFoodFacts/smooth-app#4273",
       "time": "2023-07-08T09:23:35Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4273",
       "text": "docs: Mostly correct spaces and new lines usage in `CONTRIBUTING.md`, `README.md` and `packages/smooth_app/fastlane/metadata/en-US/full_description.txt`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#4887",
+      "title": "OpenFoodFacts/smooth-app#4887",
       "time": "2023-12-10T02:15:00Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4887",
       "text": "fix: Remove an unnecessary ending comma on `Share` or `View on the web`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#4887",
+      "title": "OpenFoodFacts/smooth-app#4887",
       "time": "2023-12-10T07:55:24Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4887",
       "text": "fix: Remove an unnecessary ending comma on `Share` or `View on the web`"

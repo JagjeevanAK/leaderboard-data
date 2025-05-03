@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3940",
+      "title": "OpenFoodFacts/smooth-app#3940",
       "time": "2023-05-07T19:51:12Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3940",
       "text": "fix: 3865 Insufficient contrast for the error banner"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3940",
+      "title": "OpenFoodFacts/smooth-app#3940",
       "time": "2023-05-13T13:26:33Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3940",
       "text": "fix: 3865 Insufficient contrast for the error banner"

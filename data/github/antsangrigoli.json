@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#93",
+      "title": "OpenFoodFacts/openfoodfacts-ios#93",
       "time": "2018-05-04T19:14:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/93",
       "text": "Resolves #92, Identifier Name Violation Issues after updating to Xcode 9.3"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#93",
+      "title": "OpenFoodFacts/openfoodfacts-ios#93",
       "time": "2018-05-12T07:46:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/93",
       "text": "Resolves #92, Identifier Name Violation Issues after updating to Xcode 9.3"

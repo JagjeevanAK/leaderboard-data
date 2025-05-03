@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#667",
+      "title": "OpenFoodFacts/openfoodfacts-ios#667",
       "time": "2020-06-01T12:53:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/667",
       "text": "Refactoring and improvements"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#667",
+      "title": "OpenFoodFacts/openfoodfacts-ios#667",
       "time": "2020-06-08T17:38:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/667",
       "text": "Refactoring and improvements"

@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/api-documentation#1",
+      "title": "OpenFoodFacts/api-documentation#1",
       "time": "2020-01-25T19:13:09Z",
       "link": "https://github.com/openfoodfacts/api-documentation/pull/1",
       "text": "Create Open Food Facts API Documentation.postman_collection_25.01.json"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/api-documentation#1",
+      "title": "OpenFoodFacts/api-documentation#1",
       "time": "2020-02-17T17:20:26Z",
       "link": "https://github.com/openfoodfacts/api-documentation/pull/1",
       "text": "Create Open Food Facts API Documentation.postman_collection_25.01.json"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/api-documentation#2",
+      "title": "OpenFoodFacts/api-documentation#2",
       "time": "2020-02-17T18:16:07Z",
       "link": "https://github.com/openfoodfacts/api-documentation/pull/2",
       "text": "Existing json file replaced with the latest version of the Postman co…"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/api-documentation#2",
+      "title": "OpenFoodFacts/api-documentation#2",
       "time": "2020-02-17T18:27:08Z",
       "link": "https://github.com/openfoodfacts/api-documentation/pull/2",
       "text": "Existing json file replaced with the latest version of the Postman co…"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/api-documentation#3",
+      "title": "OpenFoodFacts/api-documentation#3",
       "time": "2020-02-23T16:53:59Z",
       "link": "https://github.com/openfoodfacts/api-documentation/pull/3",
       "text": "Added latest version of the Postman collection + final product report…"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/api-documentation#3",
+      "title": "OpenFoodFacts/api-documentation#3",
       "time": "2020-02-23T18:18:27Z",
       "link": "https://github.com/openfoodfacts/api-documentation/pull/3",
       "text": "Added latest version of the Postman collection + final product report…"

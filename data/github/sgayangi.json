@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1195",
+      "title": "OpenFoodFacts/smooth-app#1195",
       "time": "2022-03-11T14:18:23Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1195",
       "text": "Flattened the color/dark mode settings"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1195",
+      "title": "OpenFoodFacts/smooth-app#1195",
       "time": "2022-03-11T16:02:19Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1195",
       "text": "Flattened the color/dark mode settings"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1199",
+      "title": "OpenFoodFacts/smooth-app#1199",
       "time": "2022-03-12T15:22:31Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1199",
       "text": "Compare button enabled only for two or more products"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1199",
+      "title": "OpenFoodFacts/smooth-app#1199",
       "time": "2022-03-13T10:06:06Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1199",
       "text": "Compare button enabled only for two or more products"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1268",
+      "title": "OpenFoodFacts/smooth-app#1268",
       "time": "2022-03-19T16:26:24Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1268",
       "text": "fix: Colors of generic widgets replaced with globalized constants for colors"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1268",
+      "title": "OpenFoodFacts/smooth-app#1268",
       "time": "2022-03-20T15:47:26Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1268",
       "text": "fix: Colors of generic widgets replaced with globalized constants for colors"

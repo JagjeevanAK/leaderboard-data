@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#669",
+      "title": "OpenFoodFacts/hunger-games#669",
       "time": "2023-07-10T10:29:51Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/669",
       "text": "aligned loader center while loading pages"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#674",
+      "title": "OpenFoodFacts/hunger-games#674",
       "time": "2023-07-11T06:32:52Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/674",
       "text": "aligned loader center while loading pages"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#674",
+      "title": "OpenFoodFacts/hunger-games#674",
       "time": "2023-07-11T14:58:27Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/674",
       "text": "aligned loader center while loading pages"

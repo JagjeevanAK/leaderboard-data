@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1917",
+      "title": "OpenFoodFacts/openfoodfacts-server#1917",
       "time": "2019-06-12T08:13:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1917",
       "text": "Add missing \"en:\" to parent category"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1917",
+      "title": "OpenFoodFacts/openfoodfacts-server#1917",
       "time": "2019-06-30T11:28:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1917",
       "text": "Add missing \"en:\" to parent category"

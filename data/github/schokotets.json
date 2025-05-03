@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1898",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1898",
       "time": "2018-09-17T01:40:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1898",
       "text": "Addressing #1897: changed the Sign Up buttom to a link"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1898",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1898",
       "time": "2018-09-18T15:57:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1898",
       "text": "Addressing #1897: changed the Sign Up buttom to a link"

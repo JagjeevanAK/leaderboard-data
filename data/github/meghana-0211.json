@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-python#318",
+      "title": "OpenFoodFacts/openfoodfacts-python#318",
       "time": "2025-03-22T21:58:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/318",
       "text": "feat: Integrate search-a-licious endpoint into SDK (#314)"

@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3247",
+      "title": "OpenFoodFacts/openfoodfacts-server#3247",
       "time": "2020-04-10T18:16:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3247",
       "text": "Installation Guide Documentation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#3247",
+      "title": "OpenFoodFacts/openfoodfacts-server#3247",
       "time": "2020-04-24T19:58:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3247",
       "text": "Installation Guide Documentation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3355",
+      "title": "OpenFoodFacts/openfoodfacts-server#3355",
       "time": "2020-05-01T19:24:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3355",
       "text": "Fixed overlap in country dropdown"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#3355",
+      "title": "OpenFoodFacts/openfoodfacts-server#3355",
       "time": "2020-05-02T10:14:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3355",
       "text": "Fixed overlap in country dropdown"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3421",
+      "title": "OpenFoodFacts/openfoodfacts-server#3421",
       "time": "2020-05-13T21:22:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3421",
       "text": "Mobile Fix for Product List layout"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#3421",
+      "title": "OpenFoodFacts/openfoodfacts-server#3421",
       "time": "2020-06-01T14:14:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3421",
       "text": "Mobile Fix for Product List layout"

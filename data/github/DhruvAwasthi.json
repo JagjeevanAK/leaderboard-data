@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9911",
+      "title": "OpenFoodFacts/openfoodfacts-server#9911",
       "time": "2024-03-13T18:18:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9911",
       "text": "docs: update README for readability, grammar, and consistency"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9911",
+      "title": "OpenFoodFacts/openfoodfacts-server#9911",
       "time": "2024-03-14T12:27:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9911",
       "text": "docs: update README for readability, grammar, and consistency"

@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4227",
+      "title": "OpenFoodFacts/openfoodfacts-server#4227",
       "time": "2020-09-18T17:27:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4227",
       "text": "feat: Show barcode image on product page - Fixes #1728"

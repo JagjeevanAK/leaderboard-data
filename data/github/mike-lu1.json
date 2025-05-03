@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9900",
+      "title": "OpenFoodFacts/openfoodfacts-server#9900",
       "time": "2024-03-11T23:37:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9900",
       "text": "fix: Harmonize handling of JS"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9900",
+      "title": "OpenFoodFacts/openfoodfacts-server#9900",
       "time": "2024-03-19T14:01:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9900",
       "text": "fix: Harmonize handling of JS"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9936",
+      "title": "OpenFoodFacts/openfoodfacts-server#9936",
       "time": "2024-03-18T07:22:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9936",
       "text": "Turn changes history into a table"

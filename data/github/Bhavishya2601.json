@@ -3,365 +3,372 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#231",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#231",
       "time": "2025-03-08T07:02:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/231",
       "text": "product card on category page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#240",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#240",
       "time": "2025-03-09T09:08:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/240",
       "text": "Style categories"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#241",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#241",
       "time": "2025-03-09T14:10:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/241",
       "text": "changed styling of categories"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#241",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#241",
       "time": "2025-03-09T19:24:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/241",
       "text": "changed styling of categories"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#242",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#242",
       "time": "2025-03-09T14:21:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/242",
       "text": "corrected alignment issues"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#242",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#242",
       "time": "2025-03-09T23:26:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/242",
       "text": "corrected alignment issues"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#244",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#244",
       "time": "2025-03-09T17:40:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/244",
       "text": "feat: product card on category page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#244",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#244",
       "time": "2025-03-10T15:49:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/244",
       "text": "feat: product card on category page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#248",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#248",
       "time": "2025-03-09T20:23:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/248",
       "text": "style: product page buttons on smaller screen"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#248",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#248",
       "time": "2025-03-10T08:48:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/248",
       "text": "style: product page buttons on smaller screen"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#261",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#261",
       "time": "2025-03-11T09:55:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/261",
       "text": "feat: add global footer"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#261",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#261",
       "time": "2025-03-11T19:44:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/261",
       "text": "feat: add global footer"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#263",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#263",
       "time": "2025-03-11T15:59:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/263",
       "text": "decrease font size for smaller screens"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#263",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#263",
       "time": "2025-03-11T23:42:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/263",
       "text": "decrease font size for smaller screens"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#289",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#289",
       "time": "2025-03-14T18:33:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/289",
       "text": "preference section on product page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#289",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#289",
       "time": "2025-03-22T01:20:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/289",
       "text": "preference section on product page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#293",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#293",
       "time": "2025-03-16T15:12:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/293",
       "text": "added preferences in card"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#293",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#293",
       "time": "2025-03-25T20:47:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/293",
       "text": "added preferences in card"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#310",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#310",
       "time": "2025-03-18T12:32:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/310",
       "text": "delete language in product edit page and show the languages in add language section"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#312",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#312",
       "time": "2025-03-18T13:10:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/312",
       "text": "added hover effects"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#330",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#330",
       "time": "2025-03-21T20:18:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/330",
       "text": "feat: Add new products"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#357",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#357",
       "time": "2025-03-24T09:48:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/357",
       "text": "feat: add support for mobile badges"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#384",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#384",
       "time": "2025-03-28T14:05:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/384",
       "text": "removed alpha and beta and changed the login text"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#396",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#396",
       "time": "2025-03-30T13:00:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/396",
       "text": "Resolved the missing string in nutrition editing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#397",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#397",
       "time": "2025-03-30T15:35:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/397",
       "text": "feat: add share button on product page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#397",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#397",
       "time": "2025-04-03T23:53:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/397",
       "text": "feat: add share button on product page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#415",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#415",
       "time": "2025-04-01T18:45:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/415",
       "text": "fix: made changes so that user can't access the edit page without logging in"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#416",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#416",
       "time": "2025-04-01T20:44:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/416",
       "text": "fix: Add a sticky save button in edit mode, visible at all times (part of #340)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#416",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#416",
       "time": "2025-04-10T12:45:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/416",
       "text": "fix: Add a sticky save button in edit mode, visible at all times (part of #340)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#433",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#433",
       "time": "2025-04-04T22:06:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/433",
       "text": "bug: fixed some products that were not loading"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#436",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#436",
       "time": "2025-04-05T19:40:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/436",
       "text": "feat: Added data sources section on product page (Part of #337)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#436",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#436",
       "time": "2025-04-18T00:05:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/436",
       "text": "feat: Added data sources section on product page (Part of #337)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#442",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#442",
       "time": "2025-04-07T06:39:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/442",
       "text": "feat: added organic preference in product page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#448",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#448",
       "time": "2025-04-08T17:01:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/448",
       "text": "fix: text-wrapping in folksonomy engine"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#448",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#448",
       "time": "2025-04-13T17:38:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/448",
       "text": "fix: text-wrapping in folksonomy engine"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#453",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#453",
       "time": "2025-04-09T05:54:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/453",
       "text": "fix: bug fixed - footer implemented twice"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#453",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#453",
       "time": "2025-04-09T12:00:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/453",
       "text": "fix: bug fixed - footer implemented twice"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#455",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#455",
       "time": "2025-04-09T17:47:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/455",
       "text": "feat: changed the preference section on product page to use productAttributes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#455",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#455",
       "time": "2025-04-15T16:51:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/455",
       "text": "feat: changed the preference section on product page to use productAttributes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#460",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#460",
       "time": "2025-04-10T20:06:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/460",
       "text": "fix: added arrows in product page for the content that extends"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#460",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#460",
       "time": "2025-04-15T20:52:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/460",
       "text": "fix: added arrows in product page for the content that extends"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#488",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#488",
       "time": "2025-04-19T10:21:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/488",
       "text": "fix: corrected the footer colour in light theme"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#488",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#488",
       "time": "2025-04-19T22:45:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/488",
       "text": "fix: corrected the footer colour in light theme"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#495",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#495",
       "time": "2025-04-19T12:33:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/495",
       "text": "fix: fixed alignment issues in product card on smaller screens"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#495",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#495",
       "time": "2025-04-19T22:50:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/495",
       "text": "fix: fixed alignment issues in product card on smaller screens"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#497",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#497",
       "time": "2025-04-19T13:10:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/497",
       "text": "fix: fixed header issues on smaller screens"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#497",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#497",
       "time": "2025-04-20T17:40:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/497",
       "text": "fix: fixed header issues on smaller screens"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#502",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#502",
       "time": "2025-04-19T19:16:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/502",
       "text": "fix: fixed content overflow on Folksonomy"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#502",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#502",
       "time": "2025-04-20T17:42:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/502",
       "text": "fix: fixed content overflow on Folksonomy"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#506",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#506",
       "time": "2025-04-20T18:31:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/506",
       "text": "style: fixed btn's on product page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#506",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#506",
       "time": "2025-04-20T18:36:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/506",
       "text": "style: fixed btn's on product page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#515",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#515",
       "time": "2025-04-28T14:51:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/515",
+      "text": "feat: implemented function to check if given barcode is EAN13 code or not"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#515",
+      "time": "2025-05-01T15:08:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/515",
       "text": "feat: implemented function to check if given barcode is EAN13 code or not"
     }

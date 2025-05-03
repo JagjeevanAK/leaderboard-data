@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-monitoring#87",
+      "title": "OpenFoodFacts/openfoodfacts-monitoring#87",
       "time": "2023-03-30T02:21:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/87",
       "text": "Modify AlertManager config file for different alert severities"

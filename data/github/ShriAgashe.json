@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#260",
+      "title": "OpenFoodFacts/openfoodfacts-dart#260",
       "time": "2021-10-06T16:59:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/260",
       "text": "Added the API Parameter 'energy-kj'"

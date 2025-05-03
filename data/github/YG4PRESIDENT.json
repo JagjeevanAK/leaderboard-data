@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/rate-my-recipe#65",
+      "title": "OpenFoodFacts/rate-my-recipe#65",
       "time": "2025-03-11T20:50:22Z",
       "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/65",
       "text": "Accessibility improvements"

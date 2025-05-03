@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8575",
+      "title": "OpenFoodFacts/openfoodfacts-server#8575",
       "time": "2023-06-17T11:25:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8575",
       "text": "Update Omega6 and Omega9 "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8576",
+      "title": "OpenFoodFacts/openfoodfacts-server#8576",
       "time": "2023-06-17T14:10:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8576",
       "text": "docs: Add Omega6 and Omega9 under polyunsaturated and monounsaturated fats in Producer.html"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8576",
+      "title": "OpenFoodFacts/openfoodfacts-server#8576",
       "time": "2023-06-27T15:17:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8576",
       "text": "docs: Add Omega6 and Omega9 under polyunsaturated and monounsaturated fats in Producer.html"

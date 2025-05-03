@@ -3,119 +3,119 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#2",
+      "title": "OpenFoodFacts/openfoodfacts-dart#2",
       "time": "2019-10-05T13:42:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/2",
       "text": "Nutriments management"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#2",
+      "title": "OpenFoodFacts/openfoodfacts-dart#2",
       "time": "2019-10-05T13:43:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/2",
       "text": "Nutriments management"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#6",
+      "title": "OpenFoodFacts/openfoodfacts-dart#6",
       "time": "2019-10-09T07:19:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/6",
       "text": "Added nutrient levels"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#6",
+      "title": "OpenFoodFacts/openfoodfacts-dart#6",
       "time": "2019-10-09T07:19:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/6",
       "text": "Added nutrient levels"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#7",
+      "title": "OpenFoodFacts/openfoodfacts-dart#7",
       "time": "2019-11-18T17:51:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/7",
       "text": "Nutriment Level added. Removed energyUnit as always in kJ"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#7",
+      "title": "OpenFoodFacts/openfoodfacts-dart#7",
       "time": "2019-11-18T18:04:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/7",
       "text": "Nutriment Level added. Removed energyUnit as always in kJ"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#18",
+      "title": "OpenFoodFacts/openfoodfacts-dart#18",
       "time": "2020-04-08T10:34:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/18",
       "text": "Request header"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#18",
+      "title": "OpenFoodFacts/openfoodfacts-dart#18",
       "time": "2020-04-08T11:56:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/18",
       "text": "Request header"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#19",
+      "title": "OpenFoodFacts/openfoodfacts-dart#19",
       "time": "2020-04-08T10:53:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/19",
       "text": "parse percent field of ingredients as double not as int"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#21",
+      "title": "OpenFoodFacts/openfoodfacts-dart#21",
       "time": "2020-04-09T15:15:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/21",
       "text": "product field \"images\" added. individual method for parsing from json"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#21",
+      "title": "OpenFoodFacts/openfoodfacts-dart#21",
       "time": "2020-04-13T14:30:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/21",
       "text": "product field \"images\" added. individual method for parsing from json"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#55",
+      "title": "OpenFoodFacts/openfoodfacts-dart#55",
       "time": "2020-10-23T11:40:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/55",
       "text": "don't send NULL attributes via json "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#55",
+      "title": "OpenFoodFacts/openfoodfacts-dart#55",
       "time": "2020-10-26T14:37:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/55",
       "text": "don't send NULL attributes via json "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#56",
+      "title": "OpenFoodFacts/openfoodfacts-dart#56",
       "time": "2020-11-20T08:41:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/56",
       "text": "Some tests fixed and product attribute added"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#56",
+      "title": "OpenFoodFacts/openfoodfacts-dart#56",
       "time": "2020-11-20T08:47:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/56",
       "text": "Some tests fixed and product attribute added"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#58",
+      "title": "OpenFoodFacts/openfoodfacts-dart#58",
       "time": "2020-12-01T13:50:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/58",
       "text": "product name hotfix"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#58",
+      "title": "OpenFoodFacts/openfoodfacts-dart#58",
       "time": "2020-12-02T08:53:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/58",
       "text": "product name hotfix"

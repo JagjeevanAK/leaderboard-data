@@ -3,112 +3,112 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#64",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#64",
       "time": "2016-04-24T03:35:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/64",
       "text": "Added Japanese translation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#64",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#64",
       "time": "2016-04-24T06:48:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/64",
       "text": "Added Japanese translation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#67",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#67",
       "time": "2016-04-25T16:07:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/67",
       "text": "Updated Japanese translation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#67",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#67",
       "time": "2016-04-25T20:15:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/67",
       "text": "Updated Japanese translation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#325",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#325",
       "time": "2016-12-04T08:03:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/325",
       "text": "fix #249 display no photo when no nutrition data"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#325",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#325",
       "time": "2016-12-10T11:04:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/325",
       "text": "fix #249 display no photo when no nutrition data"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#360",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#360",
       "time": "2016-12-23T07:52:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/360",
       "text": "fix #74 The keyboard stays open after Offline edit save"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#370",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#370",
       "time": "2016-12-24T14:19:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/370",
       "text": "Fix#78"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#371",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#371",
       "time": "2016-12-24T14:21:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/371",
       "text": "Fix keyboard issues (#314 #74 #78)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#400",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#400",
       "time": "2017-01-04T14:38:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/400",
       "text": "Fix#387to393"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#404",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#404",
       "time": "2017-01-05T16:43:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/404",
       "text": "Add icons to Product Upload buttons (closes #387, #388, #389)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#404",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#404",
       "time": "2018-01-29T12:44:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/404",
       "text": "Add icons to Product Upload buttons (closes #387, #388, #389)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#413",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#413",
       "time": "2017-01-08T15:36:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/413",
       "text": "Fix #254 Add commas between allergenic ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#413",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#413",
       "time": "2017-01-09T11:44:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/413",
       "text": "Fix #254 Add commas between allergenic ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-cordova-app#33",
+      "title": "OpenFoodFacts/openfoodfacts-cordova-app#33",
       "time": "2017-01-01T03:11:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/pull/33",
       "text": "japanese translation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-cordova-app#33",
+      "title": "OpenFoodFacts/openfoodfacts-cordova-app#33",
       "time": "2017-01-01T11:43:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/pull/33",
       "text": "japanese translation"

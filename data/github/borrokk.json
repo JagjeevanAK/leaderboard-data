@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6501",
+      "title": "OpenFoodFacts/openfoodfacts-server#6501",
       "time": "2022-03-22T13:35:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6501",
       "text": "fix: Add Ginger to the list of allergens - fixes #6430"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6515",
+      "title": "OpenFoodFacts/openfoodfacts-server#6515",
       "time": "2022-03-27T12:01:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6515",
       "text": "chore: Add \"xxxxxx-de-France\" logos"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6515",
+      "title": "OpenFoodFacts/openfoodfacts-server#6515",
       "time": "2022-03-31T08:55:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6515",
       "text": "chore: Add \"xxxxxx-de-France\" logos"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6569",
+      "title": "OpenFoodFacts/openfoodfacts-server#6569",
       "time": "2022-04-07T04:26:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6569",
       "text": "fix: Ingredient parsing improvement for additives"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6569",
+      "title": "OpenFoodFacts/openfoodfacts-server#6569",
       "time": "2022-04-29T13:07:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6569",
       "text": "fix: Ingredient parsing improvement for additives"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6738",
+      "title": "OpenFoodFacts/openfoodfacts-server#6738",
       "time": "2022-05-06T04:30:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6738",
       "text": "fix: hide the image selection block when the checkbox saying \"Nutrition facts are not specified on the product\" is selected"

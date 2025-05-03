@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-python#124",
+      "title": "OpenFoodFacts/openfoodfacts-python#124",
       "time": "2023-02-06T09:00:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/124",
       "text": "Docs update to be more beginner friendly"

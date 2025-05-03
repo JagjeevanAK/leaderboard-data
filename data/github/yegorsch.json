@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#45",
+      "title": "OpenFoodFacts/openfoodfacts-ios#45",
       "time": "2018-02-16T17:48:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/45",
       "text": "Change credits text view to support hyperlinks"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#45",
+      "title": "OpenFoodFacts/openfoodfacts-ios#45",
       "time": "2018-02-20T07:02:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/45",
       "text": "Change credits text view to support hyperlinks"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#64",
+      "title": "OpenFoodFacts/openfoodfacts-ios#64",
       "time": "2018-02-23T03:43:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/64",
       "text": "Button to share product is added"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#64",
+      "title": "OpenFoodFacts/openfoodfacts-ios#64",
       "time": "2018-04-24T19:25:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/64",
       "text": "Button to share product is added"

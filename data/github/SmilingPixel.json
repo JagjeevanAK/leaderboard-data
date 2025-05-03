@@ -3,35 +3,35 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#153",
+      "title": "OpenFoodFacts/facets-knowledge-panels#153",
       "time": "2025-03-08T11:08:39Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/153",
       "text": "fix: pytest warnings"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#153",
+      "title": "OpenFoodFacts/facets-knowledge-panels#153",
       "time": "2025-03-14T10:41:17Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/153",
       "text": "fix: pytest warnings"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#156",
+      "title": "OpenFoodFacts/facets-knowledge-panels#156",
       "time": "2025-03-11T22:18:16Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/156",
       "text": "chore: Upgrade ci pipeline"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#157",
+      "title": "OpenFoodFacts/facets-knowledge-panels#157",
       "time": "2025-03-12T02:18:30Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/157",
       "text": "chore: Upgrade ci pipeline"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#157",
+      "title": "OpenFoodFacts/facets-knowledge-panels#157",
       "time": "2025-03-13T14:54:24Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/157",
       "text": "chore: Upgrade ci pipeline"

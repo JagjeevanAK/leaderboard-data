@@ -1,282 +1,282 @@
 {
-  "last_updated": "2023-01-04T22:28:05Z",
+  "last_updated": "2023-01-03T18:50:04Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7945",
-      "time": "2023-01-04T22:28:05Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7945",
-      "text": "feat: make all glass bottles recyclable by default"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7945",
-      "time": "2023-01-06T09:48:48Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7945",
-      "text": "feat: make all glass bottles recyclable by default"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7952",
-      "time": "2023-01-05T23:49:25Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7952",
-      "text": "feat: highlight all selected images to delete for admins"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7952",
-      "time": "2023-01-06T09:26:25Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7952",
-      "text": "feat: highlight all selected images to delete for admins"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7960",
-      "time": "2023-01-07T16:07:59Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7960",
-      "text": "feat: add placeholder count check to check-translations.sh"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7960",
-      "time": "2023-01-10T10:30:48Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7960",
-      "text": "feat: add placeholder count check to check-translations.sh"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#159",
-      "time": "2022-12-31T13:26:37Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/159",
-      "text": "feat: show only some translations in the interface"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#163",
-      "time": "2023-01-03T11:02:04Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/163",
-      "text": "feat: parsing error endpoint"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#163",
-      "time": "2023-01-04T14:47:44Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/163",
-      "text": "feat: parsing error endpoint"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#171",
-      "time": "2023-01-11T15:14:15Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/171",
-      "text": "feat: better UX for saving changes to a taxonomy"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#174",
-      "time": "2023-01-13T09:19:01Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/174",
-      "text": "feat: hide all languages by default in the UI"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#175",
-      "time": "2023-01-13T09:20:26Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/175",
-      "text": "feat: hide all languages by default in the UI"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#175",
-      "time": "2023-01-13T17:01:45Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/175",
-      "text": "feat: hide all languages by default in the UI"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#176",
-      "time": "2023-01-13T19:10:54Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/176",
-      "text": "feat: add a button for non translated languages"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#179",
-      "time": "2023-01-16T17:12:30Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/179",
-      "text": "feat: add a button to add translations for langs with no translations"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#179",
-      "time": "2023-01-16T17:18:45Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/179",
-      "text": "feat: add a button to add translations for langs with no translations"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#180",
-      "time": "2023-01-17T15:52:32Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/180",
-      "text": "feat: select shown languages in UI"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#180",
-      "time": "2023-01-19T18:08:58Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/180",
-      "text": "feat: select shown languages in UI"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#185",
-      "time": "2023-01-19T19:04:50Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/185",
-      "text": "feat: store languages marked as visible by user in localstorage"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#185",
-      "time": "2023-01-20T23:52:36Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/185",
-      "text": "feat: store languages marked as visible by user in localstorage"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#186",
-      "time": "2023-01-20T05:33:09Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/186",
-      "text": "feat: parsing errors page"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#186",
-      "time": "2023-01-24T17:24:34Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/186",
-      "text": "feat: parsing errors page"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#187",
-      "time": "2023-01-20T08:25:48Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/187",
-      "text": "feat: hide synonyms and stopwords in the root nodes page"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#187",
-      "time": "2023-01-22T06:57:53Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/187",
-      "text": "feat: hide synonyms and stopwords in the root nodes page"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#195",
-      "time": "2023-01-22T08:47:03Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/195",
-      "text": "feat: add endpoint to upload taxonomy file"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#196",
-      "time": "2023-01-22T09:02:48Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/196",
-      "text": "feat: add taxonomy file upload endpoint"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#196",
-      "time": "2023-01-25T09:28:49Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/196",
-      "text": "feat: add taxonomy file upload endpoint"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#199",
-      "time": "2023-01-24T16:37:25Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/199",
-      "text": "docs: fix setup doc link"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#199",
-      "time": "2023-01-24T17:04:40Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/199",
-      "text": "docs: fix setup doc link"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#200",
-      "time": "2023-01-24T16:47:51Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/200",
-      "text": "docs: react live reload"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#200",
-      "time": "2023-01-24T17:02:07Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/200",
-      "text": "docs: react live reload"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#223",
-      "time": "2023-02-08T12:27:34Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/223",
-      "text": "feat: setup fastapi tests"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#223",
-      "time": "2023-02-08T20:12:37Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/223",
-      "text": "feat: setup fastapi tests"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#224",
-      "time": "2023-02-09T15:04:49Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/224",
-      "text": "feat: new UX for submitting changes"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#224",
-      "time": "2023-07-04T19:20:31Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/224",
-      "text": "feat: new UX for submitting changes"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#225",
-      "time": "2023-02-09T16:21:58Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/225",
-      "text": "feat: add tests for importing taxonomies"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#225",
-      "time": "2023-11-23T16:37:13Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/225",
-      "text": "feat: add tests for importing taxonomies"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#450",
+      "title": "OpenFoodFacts/hunger-games#450",
       "time": "2023-01-03T18:50:04Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/450",
       "text": "feat: select and deselect all button for infinite mode"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#450",
+      "title": "OpenFoodFacts/hunger-games#450",
       "time": "2023-01-05T09:19:27Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/450",
       "text": "feat: select and deselect all button for infinite mode"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/.github#18",
+      "title": "OpenFoodFacts/openfoodfacts-server#7945",
+      "time": "2023-01-04T22:28:05Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7945",
+      "text": "feat: make all glass bottles recyclable by default"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#7945",
+      "time": "2023-01-06T09:48:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7945",
+      "text": "feat: make all glass bottles recyclable by default"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#7952",
+      "time": "2023-01-05T23:49:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7952",
+      "text": "feat: highlight all selected images to delete for admins"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#7952",
+      "time": "2023-01-06T09:26:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7952",
+      "text": "feat: highlight all selected images to delete for admins"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#7960",
+      "time": "2023-01-07T16:07:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7960",
+      "text": "feat: add placeholder count check to check-translations.sh"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#7960",
+      "time": "2023-01-10T10:30:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7960",
+      "text": "feat: add placeholder count check to check-translations.sh"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#159",
+      "time": "2022-12-31T13:26:37Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/159",
+      "text": "feat: show only some translations in the interface"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#163",
+      "time": "2023-01-03T11:02:04Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/163",
+      "text": "feat: parsing error endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#163",
+      "time": "2023-01-04T14:47:44Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/163",
+      "text": "feat: parsing error endpoint"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#171",
+      "time": "2023-01-11T15:14:15Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/171",
+      "text": "feat: better UX for saving changes to a taxonomy"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#174",
+      "time": "2023-01-13T09:19:01Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/174",
+      "text": "feat: hide all languages by default in the UI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#175",
+      "time": "2023-01-13T09:20:26Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/175",
+      "text": "feat: hide all languages by default in the UI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#175",
+      "time": "2023-01-13T17:01:45Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/175",
+      "text": "feat: hide all languages by default in the UI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#176",
+      "time": "2023-01-13T19:10:54Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/176",
+      "text": "feat: add a button for non translated languages"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#179",
+      "time": "2023-01-16T17:12:30Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/179",
+      "text": "feat: add a button to add translations for langs with no translations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#179",
+      "time": "2023-01-16T17:18:45Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/179",
+      "text": "feat: add a button to add translations for langs with no translations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#180",
+      "time": "2023-01-17T15:52:32Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/180",
+      "text": "feat: select shown languages in UI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#180",
+      "time": "2023-01-19T18:08:58Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/180",
+      "text": "feat: select shown languages in UI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#185",
+      "time": "2023-01-19T19:04:50Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/185",
+      "text": "feat: store languages marked as visible by user in localstorage"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#185",
+      "time": "2023-01-20T23:52:36Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/185",
+      "text": "feat: store languages marked as visible by user in localstorage"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#186",
+      "time": "2023-01-20T05:33:09Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/186",
+      "text": "feat: parsing errors page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#186",
+      "time": "2023-01-24T17:24:34Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/186",
+      "text": "feat: parsing errors page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#187",
+      "time": "2023-01-20T08:25:48Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/187",
+      "text": "feat: hide synonyms and stopwords in the root nodes page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#187",
+      "time": "2023-01-22T06:57:53Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/187",
+      "text": "feat: hide synonyms and stopwords in the root nodes page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#195",
+      "time": "2023-01-22T08:47:03Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/195",
+      "text": "feat: add endpoint to upload taxonomy file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#196",
+      "time": "2023-01-22T09:02:48Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/196",
+      "text": "feat: add taxonomy file upload endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#196",
+      "time": "2023-01-25T09:28:49Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/196",
+      "text": "feat: add taxonomy file upload endpoint"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#199",
+      "time": "2023-01-24T16:37:25Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/199",
+      "text": "docs: fix setup doc link"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#199",
+      "time": "2023-01-24T17:04:40Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/199",
+      "text": "docs: fix setup doc link"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#200",
+      "time": "2023-01-24T16:47:51Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/200",
+      "text": "docs: react live reload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#200",
+      "time": "2023-01-24T17:02:07Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/200",
+      "text": "docs: react live reload"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#223",
+      "time": "2023-02-08T12:27:34Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/223",
+      "text": "feat: setup fastapi tests"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#223",
+      "time": "2023-02-08T20:12:37Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/223",
+      "text": "feat: setup fastapi tests"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#224",
+      "time": "2023-02-09T15:04:49Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/224",
+      "text": "feat: new UX for submitting changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#224",
+      "time": "2023-07-04T19:20:31Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/224",
+      "text": "feat: new UX for submitting changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#225",
+      "time": "2023-02-09T16:21:58Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/225",
+      "text": "feat: add tests for importing taxonomies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#225",
+      "time": "2023-11-23T16:37:13Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/225",
+      "text": "feat: add tests for importing taxonomies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/.github#18",
       "time": "2023-01-03T18:22:24Z",
       "link": "https://github.com/openfoodfacts/.github/pull/18",
       "text": "docs: README hunger-games indentation fix"

@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11182",
+      "title": "OpenFoodFacts/openfoodfacts-server#11182",
       "time": "2025-01-01T14:30:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11182",
       "text": "fix: Nutripatrol url trailing slash removal regex"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1178",
+      "title": "OpenFoodFacts/open-prices-frontend#1178",
       "time": "2024-12-26T20:02:00Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1178",
       "text": "refactor(l10n): Updated translations to review and merge"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1180",
+      "title": "OpenFoodFacts/open-prices-frontend#1180",
       "time": "2024-12-26T23:12:12Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1180",
       "text": "docs: add section & link to translation platform (crowdin)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1180",
+      "title": "OpenFoodFacts/open-prices-frontend#1180",
       "time": "2024-12-27T07:44:27Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1180",
       "text": "docs: add section & link to translation platform (crowdin)"

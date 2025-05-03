@@ -3,35 +3,35 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1100",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1100",
       "time": "2018-03-04T09:53:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1100",
       "text": "Fixes #1097 App will not crash when language is changed Modified Pref…"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1122",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1122",
       "time": "2018-03-05T11:04:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1122",
       "text": "Fixes #904 User can choose resolution for the image"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1122",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1122",
       "time": "2018-03-11T18:35:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1122",
       "text": "Fixes #904 User can choose resolution for the image"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1276",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1276",
       "time": "2018-03-18T11:46:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1276",
       "text": "Closes #1267: Update Alert allergens fragment"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1276",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1276",
       "time": "2018-03-23T13:42:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1276",
       "text": "Closes #1267: Update Alert allergens fragment"

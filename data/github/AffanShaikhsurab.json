@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#1020",
+      "title": "OpenFoodFacts/openfoodfacts-dart#1020",
       "time": "2025-01-22T07:44:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1020",
       "text": "feat: Add localized fields for conservation conditions and customer service in Product object"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#1020",
+      "title": "OpenFoodFacts/openfoodfacts-dart#1020",
       "time": "2025-03-12T13:51:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1020",
       "text": "feat: Add localized fields for conservation conditions and customer service in Product object"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#1027",
+      "title": "OpenFoodFacts/openfoodfacts-dart#1027",
       "time": "2025-01-24T08:54:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1027",
       "text": "feat: Add excludedItems parameter to autocomplete function with dynamic size adjustment"

@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#4216",
+      "title": "OpenFoodFacts/smooth-app#4216",
       "time": "2023-06-20T02:31:16Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4216",
       "text": "fix: Additives Page- Button text on additives page is not centered."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#4216",
+      "title": "OpenFoodFacts/smooth-app#4216",
       "time": "2023-07-13T05:52:01Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4216",
       "text": "fix: Additives Page- Button text on additives page is not centered."

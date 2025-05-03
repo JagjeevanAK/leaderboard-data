@@ -3,147 +3,147 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10883",
+      "title": "OpenFoodFacts/openfoodfacts-server#10883",
       "time": "2024-10-13T16:29:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10883",
       "text": "fix: correct element_type to type in element.yaml schema"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10884",
+      "title": "OpenFoodFacts/openfoodfacts-server#10884",
       "time": "2024-10-13T20:04:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10884",
       "text": "docs: Fix nutrients yaml"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10885",
+      "title": "OpenFoodFacts/openfoodfacts-server#10885",
       "time": "2024-10-13T22:14:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10885",
       "text": "docs: Fix api def type integer"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10886",
+      "title": "OpenFoodFacts/openfoodfacts-server#10886",
       "time": "2024-10-13T22:47:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10886",
       "text": "docs: Improve api def ingredient schema"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10886",
+      "title": "OpenFoodFacts/openfoodfacts-server#10886",
       "time": "2024-10-14T14:02:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10886",
       "text": "docs: Improve api def ingredient schema"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10902",
+      "title": "OpenFoodFacts/openfoodfacts-server#10902",
       "time": "2024-10-15T10:12:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10902",
       "text": "docs: add object titles def to improve SDK generation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10902",
+      "title": "OpenFoodFacts/openfoodfacts-server#10902",
       "time": "2024-10-17T12:41:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10902",
       "text": "docs: add object titles def to improve SDK generation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10913",
+      "title": "OpenFoodFacts/openfoodfacts-server#10913",
       "time": "2024-10-18T21:28:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10913",
       "text": "docs: Improve api def - tested ts client generation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10913",
+      "title": "OpenFoodFacts/openfoodfacts-server#10913",
       "time": "2024-10-21T13:26:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10913",
       "text": "docs: Improve api def - tested ts client generation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10922",
+      "title": "OpenFoodFacts/openfoodfacts-server#10922",
       "time": "2024-10-22T09:58:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10922",
       "text": "feat: api docs remove query string from get by barcode and add security to solve openapi linter errors/warnings "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10922",
+      "title": "OpenFoodFacts/openfoodfacts-server#10922",
       "time": "2024-10-24T08:36:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10922",
       "text": "feat: api docs remove query string from get by barcode and add security to solve openapi linter errors/warnings "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10976",
+      "title": "OpenFoodFacts/openfoodfacts-server#10976",
       "time": "2024-11-05T09:02:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10976",
       "text": "docs: Improved descriptions and schema adjustments for API references"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10976",
+      "title": "OpenFoodFacts/openfoodfacts-server#10976",
       "time": "2024-11-08T14:18:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10976",
       "text": "docs: Improved descriptions and schema adjustments for API references"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11005",
+      "title": "OpenFoodFacts/openfoodfacts-server#11005",
       "time": "2024-11-11T17:49:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11005",
       "text": "docs: openapi nutriscore definition"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11005",
+      "title": "OpenFoodFacts/openfoodfacts-server#11005",
       "time": "2024-11-12T10:46:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11005",
       "text": "docs: openapi nutriscore definition"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11009",
+      "title": "OpenFoodFacts/openfoodfacts-server#11009",
       "time": "2024-11-12T16:52:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11009",
       "text": "fix: apidoc openApi ecoscore mapping"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11009",
+      "title": "OpenFoodFacts/openfoodfacts-server#11009",
       "time": "2024-11-19T09:58:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11009",
       "text": "fix: apidoc openApi ecoscore mapping"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11012",
+      "title": "OpenFoodFacts/openfoodfacts-server#11012",
       "time": "2024-11-13T19:30:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11012",
       "text": "feat: openApi refactor fields parameter to support multiple values with enum validation (getProductByBarCode/search)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11012",
+      "title": "OpenFoodFacts/openfoodfacts-server#11012",
       "time": "2024-11-19T09:59:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11012",
       "text": "feat: openApi refactor fields parameter to support multiple values with enum validation (getProductByBarCode/search)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11504",
+      "title": "OpenFoodFacts/openfoodfacts-server#11504",
       "time": "2025-02-28T14:57:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11504",
       "text": "taxonomy: 2250 italian ingredient translations from \"en\""
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11504",
+      "title": "OpenFoodFacts/openfoodfacts-server#11504",
       "time": "2025-03-03T20:27:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11504",
       "text": "taxonomy: 2250 italian ingredient translations from \"en\""

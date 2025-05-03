@@ -3,654 +3,668 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#557",
+      "title": "OpenFoodFacts/open-prices#557",
       "time": "2024-11-09T22:25:22Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/557",
       "text": "feat(proofs): New endpoint to extract price data from images (with Gemini)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#557",
+      "title": "OpenFoodFacts/open-prices#557",
       "time": "2024-11-13T14:19:02Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/557",
       "text": "feat(proofs): New endpoint to extract price data from images (with Gemini)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#646",
+      "title": "OpenFoodFacts/open-prices#646",
       "time": "2024-12-21T18:32:32Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/646",
       "text": "feat(ProofMl): extract product_name and suggest ean-13 barcodes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#646",
+      "title": "OpenFoodFacts/open-prices#646",
       "time": "2024-12-21T21:45:59Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/646",
       "text": "feat(ProofMl): extract product_name and suggest ean-13 barcodes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#675",
+      "title": "OpenFoodFacts/open-prices#675",
       "time": "2025-01-11T14:04:46Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/675",
       "text": "feat(Price Stats): Stats grouped by"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#676",
+      "title": "OpenFoodFacts/open-prices#676",
       "time": "2025-01-12T19:17:53Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/676",
       "text": "feat(Prices): API: new filter on product categories_tags"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#676",
+      "title": "OpenFoodFacts/open-prices#676",
       "time": "2025-01-12T22:15:58Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/676",
       "text": "feat(Prices): API: new filter on product categories_tags"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#715",
+      "title": "OpenFoodFacts/open-prices#715",
       "time": "2025-02-21T20:40:57Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/715",
       "text": "feat(Proofs): ML: receipt content extraction"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#715",
+      "title": "OpenFoodFacts/open-prices#715",
       "time": "2025-02-22T15:56:17Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/715",
       "text": "feat(Proofs): ML: receipt content extraction"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#751",
+      "title": "OpenFoodFacts/open-prices#751",
       "time": "2025-03-08T15:43:58Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/751",
       "text": "docs(API): custom paginated response schema"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#751",
+      "title": "OpenFoodFacts/open-prices#751",
       "time": "2025-03-08T17:01:41Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/751",
       "text": "docs(API): custom paginated response schema"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#758",
+      "title": "OpenFoodFacts/open-prices#758",
       "time": "2025-03-16T17:44:58Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/758",
       "text": "feat(Challenges): basic model and API endpoint"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#758",
+      "title": "OpenFoodFacts/open-prices#758",
       "time": "2025-03-17T22:53:08Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/758",
       "text": "feat(Challenges): basic model and API endpoint"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#769",
+      "title": "OpenFoodFacts/open-prices#769",
       "time": "2025-03-23T00:43:34Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/769",
       "text": "refactor(Auth): Drop invalid json parser from post api"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#769",
+      "title": "OpenFoodFacts/open-prices#769",
       "time": "2025-03-23T09:04:23Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/769",
       "text": "refactor(Auth): Drop invalid json parser from post api"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#778",
+      "title": "OpenFoodFacts/open-prices#778",
       "time": "2025-03-23T19:24:16Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/778",
       "text": "feat(ProofMl): Added ReceiptItem model and API"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#778",
+      "title": "OpenFoodFacts/open-prices#778",
       "time": "2025-03-29T13:45:52Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/778",
       "text": "feat(ProofMl): Added ReceiptItem model and API"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#844",
+      "title": "OpenFoodFacts/open-prices-frontend#844",
       "time": "2024-09-25T20:06:50Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/844",
       "text": "fix(Category detail): properly refresh the list when choosing another category"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#844",
+      "title": "OpenFoodFacts/open-prices-frontend#844",
       "time": "2024-09-27T21:19:59Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/844",
       "text": "fix(Category detail): properly refresh the list when choosing another category"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#880",
+      "title": "OpenFoodFacts/open-prices-frontend#880",
       "time": "2024-09-30T17:45:31Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/880",
       "text": "fix(utils): relative time display"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#880",
+      "title": "OpenFoodFacts/open-prices-frontend#880",
       "time": "2024-09-30T19:18:26Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/880",
       "text": "fix(utils): relative time display"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#883",
+      "title": "OpenFoodFacts/open-prices-frontend#883",
       "time": "2024-09-30T20:49:53Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/883",
       "text": "refactor(User Dashboard Lists): properly remove Prices and Proof cards after delete"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#921",
+      "title": "OpenFoodFacts/open-prices-frontend#921",
       "time": "2024-10-03T19:37:07Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/921",
       "text": "feat(App): Dark mode support "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#921",
+      "title": "OpenFoodFacts/open-prices-frontend#921",
       "time": "2024-10-05T15:14:19Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/921",
       "text": "feat(App): Dark mode support "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#935",
+      "title": "OpenFoodFacts/open-prices-frontend#935",
       "time": "2024-10-05T19:02:40Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/935",
       "text": "feat(Challenge Page): A page for community challenges"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#935",
+      "title": "OpenFoodFacts/open-prices-frontend#935",
       "time": "2025-01-15T14:33:06Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/935",
       "text": "feat(Challenge Page): A page for community challenges"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#955",
+      "title": "OpenFoodFacts/open-prices-frontend#955",
       "time": "2024-10-15T18:12:12Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/955",
       "text": "refactor(ProofCard): Only show proof thumb image in User Dashboard Proof List"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#955",
+      "title": "OpenFoodFacts/open-prices-frontend#955",
       "time": "2024-10-17T07:55:12Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/955",
       "text": "refactor(ProofCard): Only show proof thumb image in User Dashboard Proof List"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#956",
+      "title": "OpenFoodFacts/open-prices-frontend#956",
       "time": "2024-10-15T18:35:22Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/956",
       "text": "feat(SignIn): parse and use username from access_token on signin, allows usage of emails to login"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#956",
+      "title": "OpenFoodFacts/open-prices-frontend#956",
       "time": "2024-10-15T21:25:43Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/956",
       "text": "feat(SignIn): parse and use username from access_token on signin, allows usage of emails to login"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#991",
+      "title": "OpenFoodFacts/open-prices-frontend#991",
       "time": "2024-10-27T18:00:59Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/991",
       "text": "feat(BarcodeManualInputDialog): Smarter dialog, with products suggestions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1009",
+      "title": "OpenFoodFacts/open-prices-frontend#1009",
       "time": "2024-11-03T15:07:23Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1009",
       "text": "feat(Product Map): Add prices count and average to map"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1025",
+      "title": "OpenFoodFacts/open-prices-frontend#1025",
       "time": "2024-11-09T22:54:48Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1025",
       "text": "feat(ContributionAssistant): new experiment, a contribution assistant using gemini"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1025",
+      "title": "OpenFoodFacts/open-prices-frontend#1025",
       "time": "2024-11-13T14:15:22Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1025",
       "text": "feat(ContributionAssistant): new experiment, a contribution assistant using gemini"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1039",
+      "title": "OpenFoodFacts/open-prices-frontend#1039",
       "time": "2024-11-14T23:58:23Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1039",
       "text": "refactor(ContributionAssistant): More UX tweaks following feedback"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1039",
+      "title": "OpenFoodFacts/open-prices-frontend#1039",
       "time": "2024-11-17T17:43:50Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1039",
       "text": "refactor(ContributionAssistant): More UX tweaks following feedback"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1042",
+      "title": "OpenFoodFacts/open-prices-frontend#1042",
       "time": "2024-11-17T18:11:51Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1042",
       "text": "refactor(ContributionAssistant): use barcode mode when codes look credible"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1042",
+      "title": "OpenFoodFacts/open-prices-frontend#1042",
       "time": "2024-11-20T19:34:24Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1042",
       "text": "refactor(ContributionAssistant): use barcode mode when codes look credible"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1067",
+      "title": "OpenFoodFacts/open-prices-frontend#1067",
       "time": "2024-11-29T22:10:08Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1067",
       "text": "fix(ContributionAssistant): remove labels_tags param when sending barcodes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1067",
+      "title": "OpenFoodFacts/open-prices-frontend#1067",
       "time": "2024-12-08T11:08:16Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1067",
       "text": "fix(ContributionAssistant): remove labels_tags param when sending barcodes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1089",
+      "title": "OpenFoodFacts/open-prices-frontend#1089",
       "time": "2024-12-04T22:18:41Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1089",
       "text": "fix(ContributionAssitant): strip whitespaces from gemini detected barcodes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1089",
+      "title": "OpenFoodFacts/open-prices-frontend#1089",
       "time": "2024-12-08T11:06:38Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1089",
       "text": "fix(ContributionAssitant): strip whitespaces from gemini detected barcodes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1124",
+      "title": "OpenFoodFacts/open-prices-frontend#1124",
       "time": "2024-12-12T23:55:08Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1124",
       "text": "feat(ContributionAssistant): Add support for automatic label detection"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1124",
+      "title": "OpenFoodFacts/open-prices-frontend#1124",
       "time": "2024-12-13T11:57:58Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1124",
       "text": "feat(ContributionAssistant): Add support for automatic label detection"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1125",
+      "title": "OpenFoodFacts/open-prices-frontend#1125",
       "time": "2024-12-13T00:00:25Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1125",
       "text": "fix(Price add): fix barcode type prefill feature (other typo). ref #1108"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1129",
+      "title": "OpenFoodFacts/open-prices-frontend#1129",
       "time": "2024-12-14T22:49:30Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1129",
       "text": "refactor(ContributionAssistant): var names, translations, avoid async"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1129",
+      "title": "OpenFoodFacts/open-prices-frontend#1129",
       "time": "2024-12-15T11:40:02Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1129",
       "text": "refactor(ContributionAssistant): var names, translations, avoid async"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1155",
+      "title": "OpenFoodFacts/open-prices-frontend#1155",
       "time": "2024-12-21T18:40:39Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1155",
       "text": "feat(ContributionAssistant): add support for product name gemini detection"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1155",
+      "title": "OpenFoodFacts/open-prices-frontend#1155",
       "time": "2024-12-22T07:59:07Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1155",
       "text": "feat(ContributionAssistant): add support for product name gemini detection"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1159",
+      "title": "OpenFoodFacts/open-prices-frontend#1159",
       "time": "2024-12-22T15:22:23Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1159",
       "text": "feat(Price Validator Assistant): add support for product name gemini detection"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1159",
+      "title": "OpenFoodFacts/open-prices-frontend#1159",
       "time": "2024-12-22T15:30:38Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1159",
       "text": "feat(Price Validator Assistant): add support for product name gemini detection"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1166",
+      "title": "OpenFoodFacts/open-prices-frontend#1166",
       "time": "2024-12-23T21:03:57Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1166",
       "text": "refactor(ContributionAssistant): Full integration with price tag data"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1166",
+      "title": "OpenFoodFacts/open-prices-frontend#1166",
       "time": "2024-12-24T23:19:12Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1166",
       "text": "refactor(ContributionAssistant): Full integration with price tag data"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1188",
+      "title": "OpenFoodFacts/open-prices-frontend#1188",
       "time": "2024-12-29T15:51:18Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1188",
       "text": "refactor(ContributionAssistant): More pricetags integrations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1188",
+      "title": "OpenFoodFacts/open-prices-frontend#1188",
       "time": "2024-12-30T12:03:56Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1188",
       "text": "refactor(ContributionAssistant): More pricetags integrations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1280",
+      "title": "OpenFoodFacts/open-prices-frontend#1280",
       "time": "2025-01-18T15:54:36Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1280",
       "text": "feat(SignIn): proper redirect when sign-in is required"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1280",
+      "title": "OpenFoodFacts/open-prices-frontend#1280",
       "time": "2025-01-18T21:51:36Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1280",
       "text": "feat(SignIn): proper redirect when sign-in is required"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1281",
+      "title": "OpenFoodFacts/open-prices-frontend#1281",
       "time": "2025-01-18T16:10:18Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1281",
       "text": "feat(Challenge): Match btn style with multiple proof upload"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1281",
+      "title": "OpenFoodFacts/open-prices-frontend#1281",
       "time": "2025-01-18T21:14:51Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1281",
       "text": "feat(Challenge): Match btn style with multiple proof upload"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1284",
+      "title": "OpenFoodFacts/open-prices-frontend#1284",
       "time": "2025-01-19T13:54:36Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1284",
       "text": "refactor(Challenge): improved UI following feedback"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1284",
+      "title": "OpenFoodFacts/open-prices-frontend#1284",
       "time": "2025-01-19T15:40:19Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1284",
       "text": "refactor(Challenge): improved UI following feedback"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1320",
+      "title": "OpenFoodFacts/open-prices-frontend#1320",
       "time": "2025-01-24T23:43:39Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1320",
       "text": "refactor(CurrentChallenge): Update end date"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1320",
+      "title": "OpenFoodFacts/open-prices-frontend#1320",
       "time": "2025-01-25T13:01:52Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1320",
       "text": "refactor(CurrentChallenge): Update end date"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1331",
+      "title": "OpenFoodFacts/open-prices-frontend#1331",
       "time": "2025-01-26T13:48:53Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1331",
       "text": "refactor(ContributionAssistant): Avoid wait on auto detection for old proofs"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1331",
+      "title": "OpenFoodFacts/open-prices-frontend#1331",
       "time": "2025-01-26T16:34:10Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1331",
       "text": "refactor(ContributionAssistant): Avoid wait on auto detection for old proofs"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1332",
+      "title": "OpenFoodFacts/open-prices-frontend#1332",
       "time": "2025-01-26T13:58:56Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1332",
       "text": "refactor(Challenge): Repeat proof upload warning on challenge page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1332",
+      "title": "OpenFoodFacts/open-prices-frontend#1332",
       "time": "2025-01-26T16:39:22Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1332",
       "text": "refactor(Challenge): Repeat proof upload warning on challenge page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1337",
+      "title": "OpenFoodFacts/open-prices-frontend#1337",
       "time": "2025-01-26T20:20:11Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1337",
       "text": "feat(ContributionAssistant): also display errored price tags"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1337",
+      "title": "OpenFoodFacts/open-prices-frontend#1337",
       "time": "2025-01-26T20:41:10Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1337",
       "text": "feat(ContributionAssistant): also display errored price tags"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1359",
+      "title": "OpenFoodFacts/open-prices-frontend#1359",
       "time": "2025-02-03T22:01:22Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1359",
       "text": "refactor(ContributionAssistant): Add support for new Not A Price option on canvas"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1359",
+      "title": "OpenFoodFacts/open-prices-frontend#1359",
       "time": "2025-02-03T23:10:55Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1359",
       "text": "refactor(ContributionAssistant): Add support for new Not A Price option on canvas"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1366",
+      "title": "OpenFoodFacts/open-prices-frontend#1366",
       "time": "2025-02-08T15:18:38Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1366",
       "text": "feat(CA): Allow edit of error'd price tags"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1366",
+      "title": "OpenFoodFacts/open-prices-frontend#1366",
       "time": "2025-02-09T22:09:40Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1366",
       "text": "feat(CA): Allow edit of error'd price tags"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1368",
+      "title": "OpenFoodFacts/open-prices-frontend#1368",
       "time": "2025-02-08T16:08:35Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1368",
       "text": "feat(LocationMap): Display tooltips as cards and allow selection"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1368",
+      "title": "OpenFoodFacts/open-prices-frontend#1368",
       "time": "2025-02-09T21:42:45Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1368",
       "text": "feat(LocationMap): Display tooltips as cards and allow selection"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1377",
+      "title": "OpenFoodFacts/open-prices-frontend#1377",
       "time": "2025-02-15T19:48:15Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1377",
       "text": "refactor(ContributionAssistant): display correct values for existing prices"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1377",
+      "title": "OpenFoodFacts/open-prices-frontend#1377",
       "time": "2025-02-16T22:03:13Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1377",
       "text": "refactor(ContributionAssistant): display correct values for existing prices"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1384",
+      "title": "OpenFoodFacts/open-prices-frontend#1384",
       "time": "2025-02-19T20:46:48Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1384",
       "text": "fix(Challenge): Timeline: fix off-by-one end date error"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1384",
+      "title": "OpenFoodFacts/open-prices-frontend#1384",
       "time": "2025-02-19T22:15:23Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1384",
       "text": "fix(Challenge): Timeline: fix off-by-one end date error"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1394",
+      "title": "OpenFoodFacts/open-prices-frontend#1394",
       "time": "2025-02-23T19:21:14Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1394",
       "text": "feat(Experiments): Receipt Assistant"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1394",
+      "title": "OpenFoodFacts/open-prices-frontend#1394",
       "time": "2025-04-02T14:22:01Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1394",
       "text": "feat(Experiments): Receipt Assistant"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1459",
+      "title": "OpenFoodFacts/open-prices-frontend#1459",
       "time": "2025-03-21T20:15:31Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1459",
       "text": "feat(Challenges): read from api, add challenges list page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1459",
+      "title": "OpenFoodFacts/open-prices-frontend#1459",
       "time": "2025-03-22T15:26:18Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1459",
       "text": "feat(Challenges): read from api, add challenges list page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1463",
+      "title": "OpenFoodFacts/open-prices-frontend#1463",
       "time": "2025-03-22T15:36:54Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1463",
       "text": "refactor(Challenges): challenge card"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1463",
+      "title": "OpenFoodFacts/open-prices-frontend#1463",
       "time": "2025-03-22T17:16:15Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1463",
       "text": "refactor(Challenges): challenge card"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1466",
+      "title": "OpenFoodFacts/open-prices-frontend#1466",
       "time": "2025-03-23T12:59:41Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1466",
       "text": "refactor(Challenges): Remove status filter + cleanup"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1466",
+      "title": "OpenFoodFacts/open-prices-frontend#1466",
       "time": "2025-03-23T14:06:42Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1466",
       "text": "refactor(Challenges): Remove status filter + cleanup"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1494",
+      "title": "OpenFoodFacts/open-prices-frontend#1494",
       "time": "2025-04-04T23:53:09Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1494",
       "text": "refactor(Image cropping): improve perfomances"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1494",
+      "title": "OpenFoodFacts/open-prices-frontend#1494",
       "time": "2025-04-05T08:15:47Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1494",
       "text": "refactor(Image cropping): improve perfomances"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1513",
+      "title": "OpenFoodFacts/open-prices-frontend#1513",
       "time": "2025-04-17T22:59:57Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1513",
       "text": "feat(Challenge): Add support for multiple product categories"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1513",
+      "title": "OpenFoodFacts/open-prices-frontend#1513",
       "time": "2025-04-18T19:30:58Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1513",
       "text": "feat(Challenge): Add support for multiple product categories"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1516",
+      "title": "OpenFoodFacts/open-prices-frontend#1516",
       "time": "2025-04-21T17:22:19Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1516",
       "text": "fix(Price Validation Assistant): fix filter refresh and duplication"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#1516",
+      "title": "OpenFoodFacts/open-prices-frontend#1516",
       "time": "2025-04-22T11:04:20Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1516",
       "text": "fix(Price Validation Assistant): fix filter refresh and duplication"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/open-prices-frontend#1527",
+      "time": "2025-04-30T21:26:52Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1527",
+      "text": "refactor(Challenge): use new tags api param"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/open-prices-frontend#1527",
+      "time": "2025-04-30T21:39:07Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1527",
+      "text": "refactor(Challenge): use new tags api param"
     }
   ],
   "open_prs": [],

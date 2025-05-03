@@ -1,194 +1,194 @@
 {
-  "last_updated": "2025-03-01T12:18:21Z",
+  "last_updated": "2025-03-25T19:52:21Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#163",
-      "time": "2025-03-01T12:18:21Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/163",
-      "text": "ProductEditing included store"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#182",
-      "time": "2025-03-01T20:55:39Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/182",
-      "text": "Product Editing testing with  store"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#184",
-      "time": "2025-03-02T08:59:07Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/184",
-      "text": "Added store Editing Option in Edit page"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#184",
-      "time": "2025-03-02T20:18:38Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/184",
-      "text": "Added store Editing Option in Edit page"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#187",
-      "time": "2025-03-02T12:28:19Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/187",
-      "text": "Camera permisssion check"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#187",
-      "time": "2025-03-02T15:55:52Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/187",
-      "text": "Camera permisssion check"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#203",
-      "time": "2025-03-04T12:38:46Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/203",
-      "text": "Fix formatting issue"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#206",
-      "time": "2025-03-04T15:42:22Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/206",
-      "text": "Fix formatting issue done"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#207",
-      "time": "2025-03-04T15:53:53Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/207",
-      "text": "Fix formatting issue done"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#207",
-      "time": "2025-03-04T21:30:40Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/207",
-      "text": "Fix formatting issue done"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#213",
-      "time": "2025-03-05T13:53:30Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/213",
-      "text": "TagFieldEditing"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#213",
-      "time": "2025-03-06T23:39:28Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/213",
-      "text": "TagFieldEditing"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#269",
-      "time": "2025-03-12T10:07:44Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/269",
-      "text": "OBF Integration to Product Page"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#322",
-      "time": "2025-03-19T19:36:11Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/322",
-      "text": "OBF Integration Into Search & Product Page"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#324",
-      "time": "2025-03-20T09:03:15Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/324",
-      "text": "addButtonToEachProductToOpenHungerGames"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#325",
-      "time": "2025-03-20T09:15:26Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/325",
-      "text": "feat: Add button to each product to open Hunger Games "
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#334",
-      "time": "2025-03-22T20:00:04Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/334",
-      "text": "feat: Add support for Price editing"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#348",
-      "time": "2025-03-23T19:37:19Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/348",
-      "text": "Fixed Responsiveness problems in Product Page"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#358",
-      "time": "2025-03-24T17:48:28Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/358",
-      "text": "Integrate Nutri-Patrol"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#408",
-      "time": "2025-04-01T08:57:27Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/408",
-      "text": "feat(product-page): add sticky \"Go up\" button"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#410",
-      "time": "2025-04-01T09:26:15Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/410",
-      "text": "fix: Hide debug option for questions in product page(Prodution) "
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#434",
-      "time": "2025-04-05T09:02:21Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/434",
-      "text": "feat: request location permission only when needed"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#438",
-      "time": "2025-04-06T09:27:09Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/438",
-      "text": "feat: Add support for Price editing"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#449",
-      "time": "2025-04-08T17:22:45Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/449",
-      "text": "fix: update open prices API and display"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-webcomponents#68",
-      "time": "2025-03-29T18:49:40Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/68",
-      "text": "feat: Nutripatrol web components"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#607",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#607",
       "time": "2025-03-25T19:52:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/607",
       "text": "feat: add support for the Search-A-Licious API"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#607",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#607",
       "time": "2025-03-28T00:00:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/607",
       "text": "feat: add support for the Search-A-Licious API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#163",
+      "time": "2025-03-01T12:18:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/163",
+      "text": "ProductEditing included store"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#182",
+      "time": "2025-03-01T20:55:39Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/182",
+      "text": "Product Editing testing with  store"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#184",
+      "time": "2025-03-02T08:59:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/184",
+      "text": "Added store Editing Option in Edit page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#184",
+      "time": "2025-03-02T20:18:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/184",
+      "text": "Added store Editing Option in Edit page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#187",
+      "time": "2025-03-02T12:28:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/187",
+      "text": "Camera permisssion check"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#187",
+      "time": "2025-03-02T15:55:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/187",
+      "text": "Camera permisssion check"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#203",
+      "time": "2025-03-04T12:38:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/203",
+      "text": "Fix formatting issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#206",
+      "time": "2025-03-04T15:42:22Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/206",
+      "text": "Fix formatting issue done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#207",
+      "time": "2025-03-04T15:53:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/207",
+      "text": "Fix formatting issue done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#207",
+      "time": "2025-03-04T21:30:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/207",
+      "text": "Fix formatting issue done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#213",
+      "time": "2025-03-05T13:53:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/213",
+      "text": "TagFieldEditing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#213",
+      "time": "2025-03-06T23:39:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/213",
+      "text": "TagFieldEditing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#269",
+      "time": "2025-03-12T10:07:44Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/269",
+      "text": "OBF Integration to Product Page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#322",
+      "time": "2025-03-19T19:36:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/322",
+      "text": "OBF Integration Into Search & Product Page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#324",
+      "time": "2025-03-20T09:03:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/324",
+      "text": "addButtonToEachProductToOpenHungerGames"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#325",
+      "time": "2025-03-20T09:15:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/325",
+      "text": "feat: Add button to each product to open Hunger Games "
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#334",
+      "time": "2025-03-22T20:00:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/334",
+      "text": "feat: Add support for Price editing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#348",
+      "time": "2025-03-23T19:37:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/348",
+      "text": "Fixed Responsiveness problems in Product Page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#358",
+      "time": "2025-03-24T17:48:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/358",
+      "text": "Integrate Nutri-Patrol"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#408",
+      "time": "2025-04-01T08:57:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/408",
+      "text": "feat(product-page): add sticky \"Go up\" button"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#410",
+      "time": "2025-04-01T09:26:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/410",
+      "text": "fix: Hide debug option for questions in product page(Prodution) "
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#434",
+      "time": "2025-04-05T09:02:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/434",
+      "text": "feat: request location permission only when needed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#438",
+      "time": "2025-04-06T09:27:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/438",
+      "text": "feat: Add support for Price editing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#449",
+      "time": "2025-04-08T17:22:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/449",
+      "text": "fix: update open prices API and display"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-webcomponents#68",
+      "time": "2025-03-29T18:49:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/68",
+      "text": "feat: Nutripatrol web components"
     }
   ],
   "open_prs": [],

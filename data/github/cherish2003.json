@@ -3,49 +3,49 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6452",
+      "title": "OpenFoodFacts/smooth-app#6452",
       "time": "2025-03-16T22:56:53Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6452",
       "text": "feat: add packaging photo access in packaging components screen"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6455",
+      "title": "OpenFoodFacts/smooth-app#6455",
       "time": "2025-03-17T17:25:14Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6455",
       "text": "fix: updated new nutri score page labels"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#6455",
+      "title": "OpenFoodFacts/smooth-app#6455",
       "time": "2025-03-24T18:50:15Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6455",
       "text": "fix: updated new nutri score page labels"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6461",
+      "title": "OpenFoodFacts/smooth-app#6461",
       "time": "2025-03-18T21:57:59Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6461",
       "text": "feat: add progress bar to onboarding flow"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6488",
+      "title": "OpenFoodFacts/smooth-app#6488",
       "time": "2025-03-28T22:18:56Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6488",
       "text": "feat: revamp authentication modal with enhanced UI"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6505",
+      "title": "OpenFoodFacts/smooth-app#6505",
       "time": "2025-03-31T20:41:46Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6505",
       "text": "feat: add properties (Folksonomy Engine) button to navbar "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6515",
+      "title": "OpenFoodFacts/smooth-app#6515",
       "time": "2025-04-03T11:17:09Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6515",
       "text": "fix: update product search label for clarity"

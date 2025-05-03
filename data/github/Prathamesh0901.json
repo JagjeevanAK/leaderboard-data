@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#229",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#229",
       "time": "2025-03-07T15:48:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/229",
       "text": "fix: visibility of barcode scan option on smaller screen"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#238",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#238",
       "time": "2025-03-09T07:29:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/238",
       "text": "fix: visibility of barcode scan option on smaller screen devices"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#238",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#238",
       "time": "2025-03-10T19:12:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/238",
       "text": "fix: visibility of barcode scan option on smaller screen devices"

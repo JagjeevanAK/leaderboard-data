@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7657",
+      "title": "OpenFoodFacts/openfoodfacts-server#7657",
       "time": "2022-11-06T15:46:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7657",
       "text": "taxonomy: Add Swedish plural form of \"dried\""
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7657",
+      "title": "OpenFoodFacts/openfoodfacts-server#7657",
       "time": "2022-11-07T08:31:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7657",
       "text": "taxonomy: Add Swedish plural form of \"dried\""

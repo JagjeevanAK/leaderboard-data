@@ -3,413 +3,413 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#235",
+      "title": "OpenFoodFacts/open-prices#235",
       "time": "2024-03-02T21:48:15Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/235",
       "text": "feat: add PATCH endpoint to edit/update proof"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#235",
+      "title": "OpenFoodFacts/open-prices#235",
       "time": "2024-03-03T09:49:52Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/235",
       "text": "feat: add PATCH endpoint to edit/update proof"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#250",
+      "title": "OpenFoodFacts/open-prices#250",
       "time": "2024-03-13T20:12:19Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/250",
       "text": "fix(products): update products added first in Open Prices"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#250",
+      "title": "OpenFoodFacts/open-prices#250",
       "time": "2024-03-15T10:45:03Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/250",
       "text": "fix(products): update products added first in Open Prices"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#154",
+      "title": "OpenFoodFacts/open-prices-frontend#154",
       "time": "2024-01-15T15:59:06Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/154",
       "text": "feat(i18n): add i18n configuration (French translation + language selector in user settings)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#154",
+      "title": "OpenFoodFacts/open-prices-frontend#154",
       "time": "2024-01-17T11:22:15Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/154",
       "text": "feat(i18n): add i18n configuration (French translation + language selector in user settings)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#160",
+      "title": "OpenFoodFacts/open-prices-frontend#160",
       "time": "2024-01-17T11:41:05Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/160",
       "text": "feat(i18n): add languages de nl it pt and update es fr"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#160",
+      "title": "OpenFoodFacts/open-prices-frontend#160",
       "time": "2024-01-17T13:06:03Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/160",
       "text": "feat(i18n): add languages de nl it pt and update es fr"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#174",
+      "title": "OpenFoodFacts/open-prices-frontend#174",
       "time": "2024-01-18T12:24:14Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/174",
       "text": "fix(crowdin): change config to simplify PR from crowdin"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#174",
+      "title": "OpenFoodFacts/open-prices-frontend#174",
       "time": "2024-01-18T12:31:25Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/174",
       "text": "fix(crowdin): change config to simplify PR from crowdin"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#198",
+      "title": "OpenFoodFacts/open-prices-frontend#198",
       "time": "2024-01-24T08:23:47Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/198",
       "text": "chore: update gitignore"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#198",
+      "title": "OpenFoodFacts/open-prices-frontend#198",
       "time": "2024-01-24T08:24:23Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/198",
       "text": "chore: update gitignore"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#241",
+      "title": "OpenFoodFacts/open-prices-frontend#241",
       "time": "2024-01-26T22:18:05Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/241",
       "text": "feat(i18n): Add new languages"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#241",
+      "title": "OpenFoodFacts/open-prices-frontend#241",
       "time": "2024-01-27T14:18:51Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/241",
       "text": "feat(i18n): Add new languages"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#250",
+      "title": "OpenFoodFacts/open-prices-frontend#250",
       "time": "2024-01-27T15:36:09Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/250",
       "text": "refactor(l10n): translation cleanup"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#250",
+      "title": "OpenFoodFacts/open-prices-frontend#250",
       "time": "2024-01-27T17:28:09Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/250",
       "text": "refactor(l10n): translation cleanup"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#261",
+      "title": "OpenFoodFacts/open-prices-frontend#261",
       "time": "2024-01-30T01:09:57Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/261",
       "text": "feat: Category translation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#266",
+      "title": "OpenFoodFacts/open-prices-frontend#266",
       "time": "2024-01-30T21:12:04Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/266",
       "text": "feat: add category price per unit toggle"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#266",
+      "title": "OpenFoodFacts/open-prices-frontend#266",
       "time": "2024-01-31T21:49:07Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/266",
       "text": "feat: add category price per unit toggle"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#296",
+      "title": "OpenFoodFacts/open-prices-frontend#296",
       "time": "2024-02-07T10:25:51Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/296",
       "text": "chore: locale cleanup (update language list)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#296",
+      "title": "OpenFoodFacts/open-prices-frontend#296",
       "time": "2024-02-08T09:20:14Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/296",
       "text": "chore: locale cleanup (update language list)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#297",
+      "title": "OpenFoodFacts/open-prices-frontend#297",
       "time": "2024-02-07T10:28:31Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/297",
       "text": "feat: add a country selector in the user settings"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#297",
+      "title": "OpenFoodFacts/open-prices-frontend#297",
       "time": "2024-02-16T17:39:24Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/297",
       "text": "feat: add a country selector in the user settings"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#310",
+      "title": "OpenFoodFacts/open-prices-frontend#310",
       "time": "2024-02-09T00:10:14Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/310",
       "text": "feat: Settings country dependencies"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#310",
+      "title": "OpenFoodFacts/open-prices-frontend#310",
       "time": "2024-02-27T18:43:18Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/310",
       "text": "feat: Settings country dependencies"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#337",
+      "title": "OpenFoodFacts/open-prices-frontend#337",
       "time": "2024-02-15T11:25:58Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/337",
       "text": "chore: cleanup language settings and language selector"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#337",
+      "title": "OpenFoodFacts/open-prices-frontend#337",
       "time": "2024-03-05T10:21:42Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/337",
       "text": "chore: cleanup language settings and language selector"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#342",
+      "title": "OpenFoodFacts/open-prices-frontend#342",
       "time": "2024-02-16T17:49:13Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/342",
       "text": "fix(l10n): improve language script"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#342",
+      "title": "OpenFoodFacts/open-prices-frontend#342",
       "time": "2024-02-16T20:50:55Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/342",
       "text": "fix(l10n): improve language script"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#344",
+      "title": "OpenFoodFacts/open-prices-frontend#344",
       "time": "2024-02-16T22:36:33Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/344",
       "text": "feat: update URL when using filter & order_by queries"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#344",
+      "title": "OpenFoodFacts/open-prices-frontend#344",
       "time": "2024-02-17T15:34:35Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/344",
       "text": "feat: update URL when using filter & order_by queries"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#345",
+      "title": "OpenFoodFacts/open-prices-frontend#345",
       "time": "2024-02-16T23:26:26Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/345",
       "text": "fix(l10n): fix languages with multiple entries in name and native"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#345",
+      "title": "OpenFoodFacts/open-prices-frontend#345",
       "time": "2024-02-17T12:47:12Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/345",
       "text": "fix(l10n): fix languages with multiple entries in name and native"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#346",
+      "title": "OpenFoodFacts/open-prices-frontend#346",
       "time": "2024-02-17T00:06:05Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/346",
       "text": "fix: show tooltip on click (discount, date)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#346",
+      "title": "OpenFoodFacts/open-prices-frontend#346",
       "time": "2024-02-17T12:45:06Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/346",
       "text": "fix: show tooltip on click (discount, date)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#355",
+      "title": "OpenFoodFacts/open-prices-frontend#355",
       "time": "2024-02-17T22:38:29Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/355",
       "text": "fix: typos in dynamic import (ref #349)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#355",
+      "title": "OpenFoodFacts/open-prices-frontend#355",
       "time": "2024-02-17T23:35:49Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/355",
       "text": "fix: typos in dynamic import (ref #349)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#358",
+      "title": "OpenFoodFacts/open-prices-frontend#358",
       "time": "2024-02-18T15:41:48Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/358",
       "text": "feat: add price filter/order on ProductDetail, LocationDetail & UserDetail pages"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#358",
+      "title": "OpenFoodFacts/open-prices-frontend#358",
       "time": "2024-02-20T09:27:24Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/358",
       "text": "feat: add price filter/order on ProductDetail, LocationDetail & UserDetail pages"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#376",
+      "title": "OpenFoodFacts/open-prices-frontend#376",
       "time": "2024-02-24T17:26:22Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/376",
       "text": "feat(price create form): allow user to select a recent proof"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#376",
+      "title": "OpenFoodFacts/open-prices-frontend#376",
       "time": "2024-02-26T08:15:04Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/376",
       "text": "feat(price create form): allow user to select a recent proof"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#378",
+      "title": "OpenFoodFacts/open-prices-frontend#378",
       "time": "2024-02-24T21:17:21Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/378",
       "text": "fix: delete proof display"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#378",
+      "title": "OpenFoodFacts/open-prices-frontend#378",
       "time": "2024-02-27T18:00:16Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/378",
       "text": "fix: delete proof display"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#397",
+      "title": "OpenFoodFacts/open-prices-frontend#397",
       "time": "2024-03-02T00:31:01Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/397",
       "text": "feat: allow using multiple currencies in Add Prices form"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#397",
+      "title": "OpenFoodFacts/open-prices-frontend#397",
       "time": "2024-03-10T18:23:56Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/397",
       "text": "feat: allow using multiple currencies in Add Prices form"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#401",
+      "title": "OpenFoodFacts/open-prices-frontend#401",
       "time": "2024-03-03T15:42:27Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/401",
       "text": "feat: add update PATCH proof in api"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#401",
+      "title": "OpenFoodFacts/open-prices-frontend#401",
       "time": "2024-03-03T18:42:24Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/401",
       "text": "feat: add update PATCH proof in api"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#404",
+      "title": "OpenFoodFacts/open-prices-frontend#404",
       "time": "2024-03-03T19:08:08Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/404",
       "text": "feat: new dialog to set RECEIPT as private"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#404",
+      "title": "OpenFoodFacts/open-prices-frontend#404",
       "time": "2024-03-13T17:57:55Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/404",
       "text": "feat: new dialog to set RECEIPT as private"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#405",
+      "title": "OpenFoodFacts/open-prices-frontend#405",
       "time": "2024-03-05T21:49:42Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/405",
       "text": "feat: Add price proof private in Add Price"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#405",
+      "title": "OpenFoodFacts/open-prices-frontend#405",
       "time": "2024-03-18T21:34:21Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/405",
       "text": "feat: Add price proof private in Add Price"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#406",
+      "title": "OpenFoodFacts/open-prices-frontend#406",
       "time": "2024-03-05T22:37:21Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/406",
       "text": "feat(settings): allow selecting multiple \"favorite\" currencies"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#406",
+      "title": "OpenFoodFacts/open-prices-frontend#406",
       "time": "2024-03-09T11:37:20Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/406",
       "text": "feat(settings): allow selecting multiple \"favorite\" currencies"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#419",
+      "title": "OpenFoodFacts/open-prices-frontend#419",
       "time": "2024-03-08T13:37:20Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/419",
       "text": "fix(i10n): language dropdown and locale load at mount"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#419",
+      "title": "OpenFoodFacts/open-prices-frontend#419",
       "time": "2024-03-08T16:58:09Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/419",
       "text": "fix(i10n): language dropdown and locale load at mount"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#431",
+      "title": "OpenFoodFacts/open-prices-frontend#431",
       "time": "2024-03-11T17:38:20Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/431",
       "text": "fix(store): wrong name for favorite_currencies"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#431",
+      "title": "OpenFoodFacts/open-prices-frontend#431",
       "time": "2024-03-11T17:39:51Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/431",
       "text": "fix(store): wrong name for favorite_currencies"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#439",
+      "title": "OpenFoodFacts/open-prices-frontend#439",
       "time": "2024-03-13T19:24:03Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/439",
       "text": "fix: proof edit button sliding"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#439",
+      "title": "OpenFoodFacts/open-prices-frontend#439",
       "time": "2024-03-13T19:24:23Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/439",
       "text": "fix: proof edit button sliding"

@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10492",
+      "title": "OpenFoodFacts/openfoodfacts-server#10492",
       "time": "2024-06-24T19:18:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10492",
       "text": "taxonomy: cs translations for cranberry juice and chokeberry juice"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10492",
+      "title": "OpenFoodFacts/openfoodfacts-server#10492",
       "time": "2024-06-25T09:03:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10492",
       "text": "taxonomy: cs translations for cranberry juice and chokeberry juice"

@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10154",
+      "title": "OpenFoodFacts/openfoodfacts-server#10154",
       "time": "2024-04-20T22:26:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10154",
       "text": "fix: Improve the style of the header and cells of the import spreadsheet t…"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10162",
+      "title": "OpenFoodFacts/openfoodfacts-server#10162",
       "time": "2024-04-22T16:16:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10162",
       "text": "fix: Automatically unselect images when source image is deleted #9793"

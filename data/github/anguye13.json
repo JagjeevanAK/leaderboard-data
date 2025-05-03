@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3419",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3419",
       "time": "2020-08-16T22:40:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3419",
       "text": "Fixes #3415: NullPointerException in AddProductOverviewFragment.java"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3419",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3419",
       "time": "2020-08-17T09:31:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3419",
       "text": "Fixes #3415: NullPointerException in AddProductOverviewFragment.java"

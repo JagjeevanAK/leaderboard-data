@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11705",
+      "title": "OpenFoodFacts/openfoodfacts-server#11705",
       "time": "2025-03-31T12:33:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11705",
       "text": "fix: Attempt to fix Being able to search or list by weight  #155"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11706",
+      "title": "OpenFoodFacts/openfoodfacts-server#11706",
       "time": "2025-03-31T13:02:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11706",
       "text": "feat: added Linkedin URL and SVG issue #11704"

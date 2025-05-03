@@ -3,49 +3,49 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1011",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1011",
       "time": "2018-03-01T13:58:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1011",
       "text": "Message shown on empty Username."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1011",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1011",
       "time": "2018-03-01T15:20:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1011",
       "text": "Message shown on empty Username."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1026",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1026",
       "time": "2018-03-01T17:58:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1026",
       "text": " java.lang.NullPointerException and trim extra space "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1032",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1032",
       "time": "2018-03-02T06:35:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1032",
       "text": "Closes #996  Login issue fixed"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1032",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1032",
       "time": "2018-03-12T23:26:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1032",
       "text": "Closes #996  Login issue fixed"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1263",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1263",
       "time": "2018-03-17T08:24:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1263",
       "text": "Fixing the multiple clicks on home button part of issue #1262"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1263",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1263",
       "time": "2018-03-17T21:56:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1263",
       "text": "Fixing the multiple clicks on home button part of issue #1262"

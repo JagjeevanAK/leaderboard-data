@@ -3,63 +3,63 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1739",
+      "title": "OpenFoodFacts/openfoodfacts-server#1739",
       "time": "2019-04-15T21:58:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1739",
       "text": "add Tomatoes GES"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1739",
+      "title": "OpenFoodFacts/openfoodfacts-server#1739",
       "time": "2019-04-22T09:15:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1739",
       "text": "add Tomatoes GES"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1743",
+      "title": "OpenFoodFacts/openfoodfacts-server#1743",
       "time": "2019-04-21T13:28:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1743",
       "text": "Foodges pois haricot asperge"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1743",
+      "title": "OpenFoodFacts/openfoodfacts-server#1743",
       "time": "2019-04-22T09:15:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1743",
       "text": "Foodges pois haricot asperge"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1745",
+      "title": "OpenFoodFacts/openfoodfacts-server#1745",
       "time": "2019-04-22T18:24:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1745",
       "text": "python script for foodGES"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1745",
+      "title": "OpenFoodFacts/openfoodfacts-server#1745",
       "time": "2019-06-20T07:20:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1745",
       "text": "python script for foodGES"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2025",
+      "title": "OpenFoodFacts/openfoodfacts-server#2025",
       "time": "2019-06-27T19:03:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2025",
       "text": "last ingredient modifications for carbon footprint ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2025",
+      "title": "OpenFoodFacts/openfoodfacts-server#2025",
       "time": "2019-06-29T13:08:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2025",
       "text": "last ingredient modifications for carbon footprint ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2036",
+      "title": "OpenFoodFacts/openfoodfacts-server#2036",
       "time": "2019-06-30T15:02:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2036",
       "text": "fix carbon footprint for turkey-meat, add fr:Mogette and fr:lardons c…"

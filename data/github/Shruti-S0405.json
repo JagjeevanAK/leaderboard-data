@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9912",
+      "title": "OpenFoodFacts/openfoodfacts-server#9912",
       "time": "2024-03-13T18:55:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9912",
       "text": "fix: added example row to the existing spreadsheet"

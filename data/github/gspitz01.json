@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1443",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1443",
       "time": "2018-04-11T18:26:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1443",
       "text": "Add Unit Tests for some of the models"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1443",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1443",
       "time": "2018-04-25T12:50:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1443",
       "text": "Add Unit Tests for some of the models"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1508",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1508",
       "time": "2018-04-25T19:23:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1508",
       "text": "More unit tests for the models."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1508",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1508",
       "time": "2018-04-26T01:41:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1508",
       "text": "More unit tests for the models."

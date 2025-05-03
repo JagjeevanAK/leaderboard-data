@@ -3,287 +3,287 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#47",
+      "title": "OpenFoodFacts/openfoodfacts-ios#47",
       "time": "2018-02-18T21:56:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/47",
       "text": "Change Username keyboard to e-mail address"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#47",
+      "title": "OpenFoodFacts/openfoodfacts-ios#47",
       "time": "2018-02-20T21:59:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/47",
       "text": "Change Username keyboard to e-mail address"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#50",
+      "title": "OpenFoodFacts/openfoodfacts-ios#50",
       "time": "2018-02-21T07:39:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/50",
       "text": " Add 'the free food products database' heading in the Launch Screen"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#50",
+      "title": "OpenFoodFacts/openfoodfacts-ios#50",
       "time": "2018-03-07T16:49:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/50",
       "text": " Add 'the free food products database' heading in the Launch Screen"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#62",
+      "title": "OpenFoodFacts/openfoodfacts-ios#62",
       "time": "2018-02-21T14:51:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/62",
       "text": "Resolves #52 Add \"Forgot password?\" button"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#62",
+      "title": "OpenFoodFacts/openfoodfacts-ios#62",
       "time": "2018-03-15T16:02:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/62",
       "text": "Resolves #52 Add \"Forgot password?\" button"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#68",
+      "title": "OpenFoodFacts/openfoodfacts-ios#68",
       "time": "2018-02-26T00:01:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/68",
       "text": "Resolves #56 Add iOS Open Beauty Facts application link"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#68",
+      "title": "OpenFoodFacts/openfoodfacts-ios#68",
       "time": "2018-03-07T16:49:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/68",
       "text": "Resolves #56 Add iOS Open Beauty Facts application link"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#69",
+      "title": "OpenFoodFacts/openfoodfacts-ios#69",
       "time": "2018-02-27T20:03:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/69",
       "text": "Update LICENSE"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#69",
+      "title": "OpenFoodFacts/openfoodfacts-ios#69",
       "time": "2018-03-01T13:41:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/69",
       "text": "Update LICENSE"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#72",
+      "title": "OpenFoodFacts/openfoodfacts-ios#72",
       "time": "2018-03-10T15:40:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/72",
       "text": "Resolves #71 Added a contribution option \"Support Open Food Facts\""
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#74",
+      "title": "OpenFoodFacts/openfoodfacts-ios#74",
       "time": "2018-03-10T16:23:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/74",
       "text": "Resolves #73 Translate Open Food Facts\" button"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#74",
+      "title": "OpenFoodFacts/openfoodfacts-ios#74",
       "time": "2018-03-15T16:02:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/74",
       "text": "Resolves #73 Translate Open Food Facts\" button"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#76",
+      "title": "OpenFoodFacts/openfoodfacts-ios#76",
       "time": "2018-03-10T18:22:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/76",
       "text": "Resolves #75 Added Contact and Frequently Asked Questions button"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#76",
+      "title": "OpenFoodFacts/openfoodfacts-ios#76",
       "time": "2018-03-15T16:02:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/76",
       "text": "Resolves #75 Added Contact and Frequently Asked Questions button"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#77",
+      "title": "OpenFoodFacts/openfoodfacts-ios#77",
       "time": "2018-03-10T19:04:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/77",
       "text": "Create Pull Request Template"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#77",
+      "title": "OpenFoodFacts/openfoodfacts-ios#77",
       "time": "2018-03-10T19:07:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/77",
       "text": "Create Pull Request Template"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#86",
+      "title": "OpenFoodFacts/openfoodfacts-ios#86",
       "time": "2018-03-28T18:25:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/86",
       "text": "Create issue template"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#86",
+      "title": "OpenFoodFacts/openfoodfacts-ios#86",
       "time": "2018-04-21T13:15:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/86",
       "text": "Create issue template"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#87",
+      "title": "OpenFoodFacts/openfoodfacts-ios#87",
       "time": "2018-03-28T18:38:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/87",
       "text": "Create contributing template"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#87",
+      "title": "OpenFoodFacts/openfoodfacts-ios#87",
       "time": "2018-05-28T10:09:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/87",
       "text": "Create contributing template"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#90",
+      "title": "OpenFoodFacts/openfoodfacts-ios#90",
       "time": "2018-04-14T21:36:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/90",
       "text": "Resolves #78, resolves #79 Translate Test Strings and Remove $(PRODUCT_NAME)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#90",
+      "title": "OpenFoodFacts/openfoodfacts-ios#90",
       "time": "2018-06-01T18:11:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/90",
       "text": "Resolves #78, resolves #79 Translate Test Strings and Remove $(PRODUCT_NAME)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#91",
+      "title": "OpenFoodFacts/openfoodfacts-ios#91",
       "time": "2018-04-27T17:16:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/91",
       "text": "Resolves #88 Add new white icons [WIP]"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#91",
+      "title": "OpenFoodFacts/openfoodfacts-ios#91",
       "time": "2019-11-17T16:25:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/91",
       "text": "Resolves #88 Add new white icons [WIP]"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#104",
+      "title": "OpenFoodFacts/openfoodfacts-ios#104",
       "time": "2018-06-18T07:44:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/104",
       "text": "Resolve #85 Search: Products keep repeating"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#104",
+      "title": "OpenFoodFacts/openfoodfacts-ios#104",
       "time": "2018-06-28T20:25:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/104",
       "text": "Resolve #85 Search: Products keep repeating"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#191",
+      "title": "OpenFoodFacts/openfoodfacts-ios#191",
       "time": "2019-02-27T22:19:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/191",
       "text": "Resolves #149 Contact doesn't do anything when clicked"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#191",
+      "title": "OpenFoodFacts/openfoodfacts-ios#191",
       "time": "2019-03-01T13:06:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/191",
       "text": "Resolves #149 Contact doesn't do anything when clicked"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#200",
+      "title": "OpenFoodFacts/openfoodfacts-ios#200",
       "time": "2019-03-01T10:37:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/200",
       "text": "Resolves #199 Essentials URL not localised"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#200",
+      "title": "OpenFoodFacts/openfoodfacts-ios#200",
       "time": "2019-03-01T13:05:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/200",
       "text": "Resolves #199 Essentials URL not localised"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#221",
+      "title": "OpenFoodFacts/openfoodfacts-ios#221",
       "time": "2019-03-02T13:21:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/221",
       "text": "Resolves #151, #204, #205, #206 Tiny Fixes - 1"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#221",
+      "title": "OpenFoodFacts/openfoodfacts-ios#221",
       "time": "2019-03-04T16:34:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/221",
       "text": "Resolves #151, #204, #205, #206 Tiny Fixes - 1"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#225",
+      "title": "OpenFoodFacts/openfoodfacts-ios#225",
       "time": "2019-03-04T11:27:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/225",
       "text": "Resolves #185 String bug in settings "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#225",
+      "title": "OpenFoodFacts/openfoodfacts-ios#225",
       "time": "2019-03-04T13:46:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/225",
       "text": "Resolves #185 String bug in settings "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#256",
+      "title": "OpenFoodFacts/openfoodfacts-ios#256",
       "time": "2019-03-06T16:11:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/256",
       "text": "Cropping of product search no results label"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#256",
+      "title": "OpenFoodFacts/openfoodfacts-ios#256",
       "time": "2019-03-06T16:49:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/256",
       "text": "Cropping of product search no results label"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#262",
+      "title": "OpenFoodFacts/openfoodfacts-ios#262",
       "time": "2019-03-07T10:01:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/262",
       "text": "Resolves #261 Weird template for contact"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#262",
+      "title": "OpenFoodFacts/openfoodfacts-ios#262",
       "time": "2019-07-13T13:53:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/262",
       "text": "Resolves #261 Weird template for contact"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#264",
+      "title": "OpenFoodFacts/openfoodfacts-ios#264",
       "time": "2019-03-07T19:55:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/264",
       "text": "Update README.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#264",
+      "title": "OpenFoodFacts/openfoodfacts-ios#264",
       "time": "2019-03-09T15:57:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/264",
       "text": "Update README.md"

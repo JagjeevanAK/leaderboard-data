@@ -3,49 +3,49 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1281",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1281",
       "time": "2018-03-18T23:40:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1281",
       "text": "Fixes #1264 It should be possible to slide out the intro slides"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1283",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1283",
       "time": "2018-03-19T07:31:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1283",
       "text": "Fixes #1264 exits the intro slides when swipe"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1283",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1283",
       "time": "2018-03-21T11:26:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1283",
       "text": "Fixes #1264 exits the intro slides when swipe"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1312",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1312",
       "time": "2018-03-21T18:48:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1312",
       "text": " Fixes #1300 some words weren't shown on the intro slides"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1312",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1312",
       "time": "2018-03-22T08:14:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1312",
       "text": " Fixes #1300 some words weren't shown on the intro slides"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1504",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1504",
       "time": "2018-04-25T13:15:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1504",
       "text": "Fixes #1259 added ProgressBar while making network requests."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1504",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1504",
       "time": "2018-04-25T17:29:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1504",
       "text": "Fixes #1259 added ProgressBar while making network requests."

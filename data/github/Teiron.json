@@ -3,294 +3,294 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6976",
+      "title": "OpenFoodFacts/openfoodfacts-server#6976",
       "time": "2022-06-28T11:37:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6976",
       "text": "taxonomy: add polish name of UHT pasteurised milk to ingridients.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6976",
+      "title": "OpenFoodFacts/openfoodfacts-server#6976",
       "time": "2022-06-28T14:04:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6976",
       "text": "taxonomy: add polish name of UHT pasteurised milk to ingridients.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7029",
+      "title": "OpenFoodFacts/openfoodfacts-server#7029",
       "time": "2022-07-07T10:50:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7029",
       "text": "taxonomy: Polish translations of ingredient processing"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7029",
+      "title": "OpenFoodFacts/openfoodfacts-server#7029",
       "time": "2022-07-08T10:41:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7029",
       "text": "taxonomy: Polish translations of ingredient processing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7068",
+      "title": "OpenFoodFacts/openfoodfacts-server#7068",
       "time": "2022-07-14T11:19:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7068",
       "text": "taxonomy: add new Polish translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7068",
+      "title": "OpenFoodFacts/openfoodfacts-server#7068",
       "time": "2022-07-15T11:23:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7068",
       "text": "taxonomy: add new Polish translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7119",
+      "title": "OpenFoodFacts/openfoodfacts-server#7119",
       "time": "2022-07-22T11:31:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7119",
       "text": "taxonomy: add new polish translations for ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7119",
+      "title": "OpenFoodFacts/openfoodfacts-server#7119",
       "time": "2022-07-22T15:18:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7119",
       "text": "taxonomy: add new polish translations for ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7646",
+      "title": "OpenFoodFacts/openfoodfacts-server#7646",
       "time": "2022-11-02T21:52:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7646",
       "text": "taxonomy: add polish translations for cereals"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7646",
+      "title": "OpenFoodFacts/openfoodfacts-server#7646",
       "time": "2022-11-04T16:28:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7646",
       "text": "taxonomy: add polish translations for cereals"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7824",
+      "title": "OpenFoodFacts/openfoodfacts-server#7824",
       "time": "2022-12-09T13:10:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7824",
       "text": "taxonomy: add Polish translations for caramel and safflower"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7824",
+      "title": "OpenFoodFacts/openfoodfacts-server#7824",
       "time": "2022-12-09T14:54:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7824",
       "text": "taxonomy: add Polish translations for caramel and safflower"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7859",
+      "title": "OpenFoodFacts/openfoodfacts-server#7859",
       "time": "2022-12-17T20:00:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7859",
       "text": "taxonomy: add various Polish translations for ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7859",
+      "title": "OpenFoodFacts/openfoodfacts-server#7859",
       "time": "2022-12-19T13:48:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7859",
       "text": "taxonomy: add various Polish translations for ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8065",
+      "title": "OpenFoodFacts/openfoodfacts-server#8065",
       "time": "2023-02-03T09:28:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8065",
       "text": "taxonomy: add polish taxonomy translations, mainly around lemons"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8065",
+      "title": "OpenFoodFacts/openfoodfacts-server#8065",
       "time": "2023-02-03T15:24:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8065",
       "text": "taxonomy: add polish taxonomy translations, mainly around lemons"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8122",
+      "title": "OpenFoodFacts/openfoodfacts-server#8122",
       "time": "2023-02-19T20:44:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8122",
       "text": "taxonomy: polish translations, mostly quark-related"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8122",
+      "title": "OpenFoodFacts/openfoodfacts-server#8122",
       "time": "2023-02-20T16:11:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8122",
       "text": "taxonomy: polish translations, mostly quark-related"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8327",
+      "title": "OpenFoodFacts/openfoodfacts-server#8327",
       "time": "2023-04-17T09:45:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8327",
       "text": "taxonomy: enable ingredient processing for Polish language"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10631",
+      "title": "OpenFoodFacts/openfoodfacts-server#10631",
       "time": "2024-08-03T11:58:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10631",
       "text": "taxonomy: add Polish ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10631",
+      "title": "OpenFoodFacts/openfoodfacts-server#10631",
       "time": "2024-08-05T10:17:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10631",
       "text": "taxonomy: add Polish ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10718",
+      "title": "OpenFoodFacts/openfoodfacts-server#10718",
       "time": "2024-08-20T15:48:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10718",
       "text": "taxonomy: Polish ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10718",
+      "title": "OpenFoodFacts/openfoodfacts-server#10718",
       "time": "2024-08-22T13:30:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10718",
       "text": "taxonomy: Polish ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10737",
+      "title": "OpenFoodFacts/openfoodfacts-server#10737",
       "time": "2024-08-27T09:22:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10737",
       "text": "taxonomy: add more Polish ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10737",
+      "title": "OpenFoodFacts/openfoodfacts-server#10737",
       "time": "2024-08-28T07:45:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10737",
       "text": "taxonomy: add more Polish ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11148",
+      "title": "OpenFoodFacts/openfoodfacts-server#11148",
       "time": "2024-12-20T08:16:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11148",
       "text": "taxonomy: Polish natural aromas"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11148",
+      "title": "OpenFoodFacts/openfoodfacts-server#11148",
       "time": "2024-12-30T16:49:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11148",
       "text": "taxonomy: Polish natural aromas"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11219",
+      "title": "OpenFoodFacts/openfoodfacts-server#11219",
       "time": "2025-01-08T22:20:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11219",
       "text": "taxonomy: more flavorings translated to Polish"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11219",
+      "title": "OpenFoodFacts/openfoodfacts-server#11219",
       "time": "2025-01-10T09:57:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11219",
       "text": "taxonomy: more flavorings translated to Polish"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11229",
+      "title": "OpenFoodFacts/openfoodfacts-server#11229",
       "time": "2025-01-10T15:02:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11229",
       "text": "taxonomy: popular missing Polish translations of taxonomy"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11229",
+      "title": "OpenFoodFacts/openfoodfacts-server#11229",
       "time": "2025-01-15T12:56:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11229",
       "text": "taxonomy: popular missing Polish translations of taxonomy"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11249",
+      "title": "OpenFoodFacts/openfoodfacts-server#11249",
       "time": "2025-01-16T10:22:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11249",
       "text": "taxonomy: add Polish translations for juices in ingredients taxonomy"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11254",
+      "title": "OpenFoodFacts/openfoodfacts-server#11254",
       "time": "2025-01-17T08:32:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11254",
       "text": "taxonomy: polish translations for flour and pasta"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11254",
+      "title": "OpenFoodFacts/openfoodfacts-server#11254",
       "time": "2025-01-17T10:21:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11254",
       "text": "taxonomy: polish translations for flour and pasta"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11281",
+      "title": "OpenFoodFacts/openfoodfacts-server#11281",
       "time": "2025-01-23T14:03:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11281",
       "text": "taxonomy: add Polish translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11281",
+      "title": "OpenFoodFacts/openfoodfacts-server#11281",
       "time": "2025-01-23T21:25:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11281",
       "text": "taxonomy: add Polish translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11283",
+      "title": "OpenFoodFacts/openfoodfacts-server#11283",
       "time": "2025-01-24T08:18:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11283",
       "text": "taxonomy: Polish taxonomy vinegar, sugar and others"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11283",
+      "title": "OpenFoodFacts/openfoodfacts-server#11283",
       "time": "2025-02-04T10:25:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11283",
       "text": "taxonomy: Polish taxonomy vinegar, sugar and others"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11465",
+      "title": "OpenFoodFacts/openfoodfacts-server#11465",
       "time": "2025-02-20T09:14:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11465",
       "text": "taxonomy: pork in Polish"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11465",
+      "title": "OpenFoodFacts/openfoodfacts-server#11465",
       "time": "2025-02-22T14:16:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11465",
       "text": "taxonomy: pork in Polish"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11491",
+      "title": "OpenFoodFacts/openfoodfacts-server#11491",
       "time": "2025-02-26T09:25:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11491",
       "text": "taxonomy: Polish cereals"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11491",
+      "title": "OpenFoodFacts/openfoodfacts-server#11491",
       "time": "2025-02-26T10:49:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11491",
       "text": "taxonomy: Polish cereals"

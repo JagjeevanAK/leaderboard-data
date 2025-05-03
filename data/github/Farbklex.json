@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#162",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#162",
       "time": "2016-10-07T22:15:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/162",
       "text": "Nutritional info #97"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#162",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#162",
       "time": "2016-10-08T06:23:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/162",
       "text": "Nutritional info #97"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4331",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4331",
       "time": "2021-10-26T20:54:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4331",
       "text": "chore: remove keylistener for additional nutrients in edit mode"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4331",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4331",
       "time": "2021-10-29T08:55:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4331",
       "text": "chore: remove keylistener for additional nutrients in edit mode"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4332",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4332",
       "time": "2021-10-26T21:46:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4332",
       "text": "Issue/4141 improve edit mode by fixing button at the bottom"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4332",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4332",
       "time": "2021-10-27T11:42:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4332",
       "text": "Issue/4141 improve edit mode by fixing button at the bottom"

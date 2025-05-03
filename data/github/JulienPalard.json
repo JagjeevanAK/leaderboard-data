@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2113",
+      "title": "OpenFoodFacts/openfoodfacts-server#2113",
       "time": "2019-07-16T17:06:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2113",
       "text": "FIX: unescaped double quote"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2113",
+      "title": "OpenFoodFacts/openfoodfacts-server#2113",
       "time": "2019-07-16T19:35:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2113",
       "text": "FIX: unescaped double quote"

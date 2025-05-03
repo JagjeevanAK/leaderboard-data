@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smoothielanding#15",
+      "title": "OpenFoodFacts/smoothielanding#15",
       "time": "2022-08-06T11:31:56Z",
       "link": "https://github.com/openfoodfacts/smoothielanding/pull/15",
       "text": "Update index.html"

@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#45",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#45",
       "time": "2016-04-19T10:18:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/45",
       "text": "Add action send to intent"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#45",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#45",
       "time": "2016-04-19T10:35:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/45",
       "text": "Add action send to intent"

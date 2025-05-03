@@ -3,98 +3,98 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#931",
+      "title": "OpenFoodFacts/openfoodfacts-ios#931",
       "time": "2021-10-02T15:27:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/931",
       "text": "Task/930 fix xcode warnings"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#931",
+      "title": "OpenFoodFacts/openfoodfacts-ios#931",
       "time": "2021-10-09T13:10:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/931",
       "text": "Task/930 fix xcode warnings"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#933",
+      "title": "OpenFoodFacts/openfoodfacts-ios#933",
       "time": "2021-10-03T17:09:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/933",
       "text": "a11y/932 Expose product scores in product cells"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#933",
+      "title": "OpenFoodFacts/openfoodfacts-ios#933",
       "time": "2021-10-09T13:10:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/933",
       "text": "a11y/932 Expose product scores in product cells"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#934",
+      "title": "OpenFoodFacts/openfoodfacts-ios#934",
       "time": "2021-10-03T17:52:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/934",
       "text": "Task/929 Fix Swiftlint warnings"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#934",
+      "title": "OpenFoodFacts/openfoodfacts-ios#934",
       "time": "2021-10-09T13:09:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/934",
       "text": "Task/929 Fix Swiftlint warnings"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#939",
+      "title": "OpenFoodFacts/openfoodfacts-ios#939",
       "time": "2021-10-15T19:01:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/939",
       "text": "[a11y/936] make flash button accessible"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#939",
+      "title": "OpenFoodFacts/openfoodfacts-ios#939",
       "time": "2021-10-23T15:23:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/939",
       "text": "[a11y/936] make flash button accessible"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#940",
+      "title": "OpenFoodFacts/openfoodfacts-ios#940",
       "time": "2021-10-15T19:15:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/940",
       "text": "[Bugfix/938] Align manual barcode entry to top of safe area"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#940",
+      "title": "OpenFoodFacts/openfoodfacts-ios#940",
       "time": "2021-10-23T15:24:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/940",
       "text": "[Bugfix/938] Align manual barcode entry to top of safe area"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#941",
+      "title": "OpenFoodFacts/openfoodfacts-ios#941",
       "time": "2021-10-15T19:19:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/941",
       "text": "[a11y/937] Add headers to Scanner screen."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#941",
+      "title": "OpenFoodFacts/openfoodfacts-ios#941",
       "time": "2021-10-23T15:25:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/941",
       "text": "[a11y/937] Add headers to Scanner screen."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#943",
+      "title": "OpenFoodFacts/openfoodfacts-ios#943",
       "time": "2021-10-15T19:26:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/943",
       "text": "[issue/942] Remove TODO to allow SwiftLint to pass."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#943",
+      "title": "OpenFoodFacts/openfoodfacts-ios#943",
       "time": "2021-10-23T15:26:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/943",
       "text": "[issue/942] Remove TODO to allow SwiftLint to pass."

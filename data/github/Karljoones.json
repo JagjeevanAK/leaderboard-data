@@ -3,245 +3,245 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2158",
+      "title": "OpenFoodFacts/openfoodfacts-server#2158",
       "time": "2019-08-08T16:14:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2158",
       "text": "Swedish OFF logos"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2158",
+      "title": "OpenFoodFacts/openfoodfacts-server#2158",
       "time": "2019-08-09T10:30:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2158",
       "text": "Swedish OFF logos"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#131",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#131",
       "time": "2016-08-08T16:21:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/131",
       "text": "Added way to check if an application is installed on a device"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#681",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#681",
       "time": "2018-01-26T23:37:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/681",
       "text": "Added new camera icon for #388"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#682",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#682",
       "time": "2018-01-27T10:31:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/682",
       "text": "Implemented and tested 18:9 aspect ratio support for issue #537"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#682",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#682",
       "time": "2018-01-28T09:27:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/682",
       "text": "Implemented and tested 18:9 aspect ratio support for issue #537"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#686",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#686",
       "time": "2018-01-29T18:37:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/686",
       "text": "Chromebook support, and support for devices with no hardware camera "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#686",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#686",
       "time": "2018-02-14T10:36:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/686",
       "text": "Chromebook support, and support for devices with no hardware camera "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#926",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#926",
       "time": "2018-02-25T23:05:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/926",
       "text": "Fixed #923: warning when uploading offline edits with airplane mode/ offline"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#926",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#926",
       "time": "2018-02-25T23:38:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/926",
       "text": "Fixed #923: warning when uploading offline edits with airplane mode/ offline"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#927",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#927",
       "time": "2018-02-25T23:32:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/927",
       "text": "Issue #924: save button should be disabled when saving"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#927",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#927",
       "time": "2018-02-25T23:36:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/927",
       "text": "Issue #924: save button should be disabled when saving"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#932",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#932",
       "time": "2018-02-26T09:36:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/932",
       "text": "Fixed #498"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#932",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#932",
       "time": "2018-02-27T01:22:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/932",
       "text": "Fixed #498"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#936",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#936",
       "time": "2018-02-26T10:54:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/936",
       "text": "Fixed #933: drawer items selected at wrong times corrected"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#936",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#936",
       "time": "2018-02-27T00:13:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/936",
       "text": "Fixed #933: drawer items selected at wrong times corrected"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#937",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#937",
       "time": "2018-02-26T11:45:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/937",
       "text": "Fixed #70: keyboard is hidden when nav drawer is displayed"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#937",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#937",
       "time": "2018-02-27T00:38:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/937",
       "text": "Fixed #70: keyboard is hidden when nav drawer is displayed"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#938",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#938",
       "time": "2018-02-26T12:02:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/938",
       "text": "Fixed #467: rephrased delete dialog (EN)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#938",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#938",
       "time": "2018-02-26T12:04:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/938",
       "text": "Fixed #467: rephrased delete dialog (EN)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#961",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#961",
       "time": "2018-02-27T13:59:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/961",
       "text": "Fixes #332: Let the user decide if products should be sent on mobile data or Wifi"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#961",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#961",
       "time": "2018-02-27T17:38:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/961",
       "text": "Fixes #332: Let the user decide if products should be sent on mobile data or Wifi"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1052",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1052",
       "time": "2018-03-02T21:12:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1052",
       "text": "Changed how offline edit badge is displayed"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1052",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1052",
       "time": "2018-03-03T20:59:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1052",
       "text": "Changed how offline edit badge is displayed"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1063",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1063",
       "time": "2018-03-03T11:39:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1063",
       "text": "Fixed #1033: Formatted preference fragment"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1063",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1063",
       "time": "2018-03-03T17:33:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1063",
       "text": "Fixed #1033: Formatted preference fragment"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1665",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1665",
       "time": "2018-06-03T13:27:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1665",
       "text": "Fixed #1657: reworded and rearranged preferences"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1665",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1665",
       "time": "2018-06-03T19:44:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1665",
       "text": "Fixed #1657: reworded and rearranged preferences"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1666",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1666",
       "time": "2018-06-03T13:38:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1666",
       "text": "Fixed #1651: Fixed offline addition activity title"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1666",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1666",
       "time": "2018-06-03T14:26:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1666",
       "text": "Fixed #1651: Fixed offline addition activity title"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2862",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2862",
       "time": "2019-08-15T19:49:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2862",
       "text": "[Closes #273] Added the ability to open product pages by URL"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2862",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2862",
       "time": "2020-06-15T10:34:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2862",
       "text": "[Closes #273] Added the ability to open product pages by URL"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2863",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2863",
       "time": "2019-08-17T11:05:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2863",
       "text": "[Closes #2342] Disable tooltip"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-resources#13",
+      "title": "OpenFoodFacts/openfoodfacts-resources#13",
       "time": "2019-08-08T16:09:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-resources/pull/13",
       "text": "Added Swedish OFF logos"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-resources#13",
+      "title": "OpenFoodFacts/openfoodfacts-resources#13",
       "time": "2020-06-25T08:52:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-resources/pull/13",
       "text": "Added Swedish OFF logos"

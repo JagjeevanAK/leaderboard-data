@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/folksonomy_api#255",
+      "title": "OpenFoodFacts/folksonomy_api#255",
       "time": "2025-03-14T19:24:34Z",
       "link": "https://github.com/openfoodfacts/folksonomy_api/pull/255",
       "text": "feat: get the product details from the barcode ( #185)"

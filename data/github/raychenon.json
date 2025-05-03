@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3087",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3087",
       "time": "2020-05-04T20:31:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3087",
       "text": "#3086 sort the list of ingredients alphabetically"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3088",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3088",
       "time": "2020-05-04T21:07:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3088",
       "text": "Sort nutrients alphabetically in product editing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3089",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3089",
       "time": "2020-05-05T21:20:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3089",
       "text": "#3086 sort nutrients collator"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3089",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3089",
       "time": "2020-05-07T16:55:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3089",
       "text": "#3086 sort nutrients collator"

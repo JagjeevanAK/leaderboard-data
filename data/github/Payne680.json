@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9921",
+      "title": "OpenFoodFacts/openfoodfacts-server#9921",
       "time": "2024-03-14T16:01:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9921",
       "text": "feat: Improved Data Validation for Fiber Content Calculation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9921",
+      "title": "OpenFoodFacts/openfoodfacts-server#9921",
       "time": "2024-03-15T18:31:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9921",
       "text": "feat: Improved Data Validation for Fiber Content Calculation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9963",
+      "title": "OpenFoodFacts/openfoodfacts-server#9963",
       "time": "2024-03-19T15:52:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9963",
       "text": "feat: Ingredient count check for mozzarella"

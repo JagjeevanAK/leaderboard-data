@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10059",
+      "title": "OpenFoodFacts/openfoodfacts-server#10059",
       "time": "2024-03-30T18:44:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10059",
       "text": "test: Test::More --> Test2::V0 (hackathon 2024-03)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10059",
+      "title": "OpenFoodFacts/openfoodfacts-server#10059",
       "time": "2024-04-05T08:37:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10059",
       "text": "test: Test::More --> Test2::V0 (hackathon 2024-03)"

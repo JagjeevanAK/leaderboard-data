@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9062",
+      "title": "OpenFoodFacts/openfoodfacts-server#9062",
       "time": "2023-09-24T07:19:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9062",
       "text": "FIX #9033 Changed Username to UserId using replace"

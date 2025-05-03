@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11808",
+      "title": "OpenFoodFacts/openfoodfacts-server#11808",
       "time": "2025-04-20T03:26:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11808",
       "text": "Enhancement: Language switcher now preserves current page on language…"

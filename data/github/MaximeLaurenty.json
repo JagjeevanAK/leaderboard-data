@@ -3,56 +3,56 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1509",
+      "title": "OpenFoodFacts/openfoodfacts-server#1509",
       "time": "2018-11-14T21:56:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1509",
       "text": "Update ingredients.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1509",
+      "title": "OpenFoodFacts/openfoodfacts-server#1509",
       "time": "2018-11-15T15:42:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1509",
       "text": "Update ingredients.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1545",
+      "title": "OpenFoodFacts/openfoodfacts-server#1545",
       "time": "2018-11-28T19:58:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1545",
       "text": "Update ingredients.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1545",
+      "title": "OpenFoodFacts/openfoodfacts-server#1545",
       "time": "2018-12-03T12:54:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1545",
       "text": "Update ingredients.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1573",
+      "title": "OpenFoodFacts/openfoodfacts-server#1573",
       "time": "2018-12-13T14:14:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1573",
       "text": "Update concatenate-csv-sections.py"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1573",
+      "title": "OpenFoodFacts/openfoodfacts-server#1573",
       "time": "2019-02-06T17:45:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1573",
       "text": "Update concatenate-csv-sections.py"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1574",
+      "title": "OpenFoodFacts/openfoodfacts-server#1574",
       "time": "2018-12-13T15:18:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1574",
       "text": "To get html table of packager codes for ireland"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1574",
+      "title": "OpenFoodFacts/openfoodfacts-server#1574",
       "time": "2019-01-09T13:21:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1574",
       "text": "To get html table of packager codes for ireland"

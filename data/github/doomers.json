@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#782",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#782",
       "time": "2018-02-17T08:54:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/782",
       "text": "restrict LoginActivity to portrait mode only #778"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#782",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#782",
       "time": "2018-02-17T19:23:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/782",
       "text": "restrict LoginActivity to portrait mode only #778"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#843",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#843",
       "time": "2018-02-20T20:26:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/843",
       "text": "added notifications on download and share button"

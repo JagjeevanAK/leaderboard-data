@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10903",
+      "title": "OpenFoodFacts/openfoodfacts-server#10903",
       "time": "2024-10-15T12:50:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10903",
       "text": "taxonomy: small format fixes in ingredient taxonomy"

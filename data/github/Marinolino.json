@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3203",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3203",
       "time": "2020-06-01T08:38:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3203",
       "text": "Improved Test Coverage + Test Refactoring"

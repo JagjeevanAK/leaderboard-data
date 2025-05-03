@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2547",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2547",
       "time": "2019-04-10T10:36:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2547",
       "text": "Correct \"install/open\" drawer item labels"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2547",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2547",
       "time": "2019-08-16T08:24:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2547",
       "text": "Correct \"install/open\" drawer item labels"

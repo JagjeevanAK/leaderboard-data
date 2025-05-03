@@ -3,56 +3,56 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4212",
+      "title": "OpenFoodFacts/openfoodfacts-server#4212",
       "time": "2020-09-15T20:50:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4212",
       "text": "Fixed spelling for German Flammkuchen"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4212",
+      "title": "OpenFoodFacts/openfoodfacts-server#4212",
       "time": "2020-09-16T06:22:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4212",
       "text": "Fixed spelling for German Flammkuchen"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4246",
+      "title": "OpenFoodFacts/openfoodfacts-server#4246",
       "time": "2020-09-22T18:11:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4246",
       "text": "Renamed German category to 'Müsli'"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4246",
+      "title": "OpenFoodFacts/openfoodfacts-server#4246",
       "time": "2020-09-23T14:49:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4246",
       "text": "Renamed German category to 'Müsli'"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5165",
+      "title": "OpenFoodFacts/openfoodfacts-server#5165",
       "time": "2021-04-21T12:38:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5165",
       "text": "added German synonyms for yellow pepper and cumin"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5165",
+      "title": "OpenFoodFacts/openfoodfacts-server#5165",
       "time": "2021-04-21T14:10:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5165",
       "text": "added German synonyms for yellow pepper and cumin"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5361",
+      "title": "OpenFoodFacts/openfoodfacts-server#5361",
       "time": "2021-07-07T17:42:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5361",
       "text": "Fixed spelling for German 'Papaya'"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5361",
+      "title": "OpenFoodFacts/openfoodfacts-server#5361",
       "time": "2021-07-09T16:28:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5361",
       "text": "Fixed spelling for German 'Papaya'"

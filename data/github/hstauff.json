@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5169",
+      "title": "OpenFoodFacts/openfoodfacts-server#5169",
       "time": "2021-04-23T14:21:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5169",
       "text": "Fixes #4968: Chrome autofills username field with e-mail address"

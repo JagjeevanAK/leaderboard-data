@@ -3,252 +3,252 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7100",
+      "title": "OpenFoodFacts/openfoodfacts-server#7100",
       "time": "2022-07-20T12:15:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7100",
       "text": "Open Api File"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7148",
+      "title": "OpenFoodFacts/openfoodfacts-server#7148",
       "time": "2022-07-27T10:12:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7148",
       "text": "docs: Open API specification | Get A product By Barcode"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7148",
+      "title": "OpenFoodFacts/openfoodfacts-server#7148",
       "time": "2022-09-28T15:00:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7148",
       "text": "docs: Open API specification | Get A product By Barcode"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7444",
+      "title": "OpenFoodFacts/openfoodfacts-server#7444",
       "time": "2022-10-05T07:23:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7444",
       "text": "docs: Introduction to the Open Food Facts API"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7444",
+      "title": "OpenFoodFacts/openfoodfacts-server#7444",
       "time": "2022-10-13T17:47:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7444",
       "text": "docs: Introduction to the Open Food Facts API"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7567",
+      "title": "OpenFoodFacts/openfoodfacts-server#7567",
       "time": "2022-10-17T18:27:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7567",
       "text": "docs: API tutorial (initial version)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7567",
+      "title": "OpenFoodFacts/openfoodfacts-server#7567",
       "time": "2022-10-21T07:40:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7567",
       "text": "docs: API tutorial (initial version)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7603",
+      "title": "OpenFoodFacts/openfoodfacts-server#7603",
       "time": "2022-10-24T11:38:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7603",
       "text": "docs: improvements to the image API"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7640",
+      "title": "OpenFoodFacts/openfoodfacts-server#7640",
       "time": "2022-11-01T03:31:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7640",
       "text": "docs: Write Nutri-Score data for a product"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7640",
+      "title": "OpenFoodFacts/openfoodfacts-server#7640",
       "time": "2022-11-08T10:20:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7640",
       "text": "docs: Write Nutri-Score data for a product"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7661",
+      "title": "OpenFoodFacts/openfoodfacts-server#7661",
       "time": "2022-11-07T15:06:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7661",
       "text": "docs: API reference cheatsheet"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7674",
+      "title": "OpenFoodFacts/openfoodfacts-server#7674",
       "time": "2022-11-09T07:18:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7674",
       "text": "docs: improvement to the Images API"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7674",
+      "title": "OpenFoodFacts/openfoodfacts-server#7674",
       "time": "2022-11-16T10:37:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7674",
       "text": "docs: improvement to the Images API"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7702",
+      "title": "OpenFoodFacts/openfoodfacts-server#7702",
       "time": "2022-11-15T16:57:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7702",
       "text": "docs: search for a product tutorial"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7702",
+      "title": "OpenFoodFacts/openfoodfacts-server#7702",
       "time": "2022-11-22T15:45:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7702",
       "text": "docs: search for a product tutorial"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7752",
+      "title": "OpenFoodFacts/openfoodfacts-server#7752",
       "time": "2022-11-22T16:34:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7752",
       "text": "docs: include sorting to search in open api"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7752",
+      "title": "OpenFoodFacts/openfoodfacts-server#7752",
       "time": "2022-11-25T21:40:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7752",
       "text": "docs: include sorting to search in open api"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7766",
+      "title": "OpenFoodFacts/openfoodfacts-server#7766",
       "time": "2022-11-28T14:32:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7766",
       "text": "docs: add more optional search parameters to open api"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7766",
+      "title": "OpenFoodFacts/openfoodfacts-server#7766",
       "time": "2023-01-02T09:39:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7766",
       "text": "docs: add more optional search parameters to open api"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7767",
+      "title": "OpenFoodFacts/openfoodfacts-server#7767",
       "time": "2022-11-28T16:25:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7767",
       "text": "docs: remove excess examples from the open api"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7767",
+      "title": "OpenFoodFacts/openfoodfacts-server#7767",
       "time": "2022-11-30T16:11:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7767",
       "text": "docs: remove excess examples from the open api"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7776",
+      "title": "OpenFoodFacts/openfoodfacts-server#7776",
       "time": "2022-11-30T13:16:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7776",
       "text": "docs: Add more body parameters to Edit A Product"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7776",
+      "title": "OpenFoodFacts/openfoodfacts-server#7776",
       "time": "2022-12-12T09:43:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7776",
       "text": "docs: Add more body parameters to Edit A Product"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7779",
+      "title": "OpenFoodFacts/openfoodfacts-server#7779",
       "time": "2022-11-30T23:59:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7779",
       "text": "first draft of the cheatsheet"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7780",
+      "title": "OpenFoodFacts/openfoodfacts-server#7780",
       "time": "2022-12-01T00:01:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7780",
       "text": "fix:  make home first in the nav bar"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7780",
+      "title": "OpenFoodFacts/openfoodfacts-server#7780",
       "time": "2022-12-02T18:01:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7780",
       "text": "fix:  make home first in the nav bar"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7785",
+      "title": "OpenFoodFacts/openfoodfacts-server#7785",
       "time": "2022-12-01T23:16:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7785",
       "text": "docs: create reference cheatsheet"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7785",
+      "title": "OpenFoodFacts/openfoodfacts-server#7785",
       "time": "2022-12-08T15:27:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7785",
       "text": "docs: create reference cheatsheet"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7871",
+      "title": "OpenFoodFacts/openfoodfacts-server#7871",
       "time": "2022-12-21T11:10:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7871",
       "text": "docs: tutorial: Upload photos using the Open Food Facts API"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7871",
+      "title": "OpenFoodFacts/openfoodfacts-server#7871",
       "time": "2023-01-16T22:24:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7871",
       "text": "docs: tutorial: Upload photos using the Open Food Facts API"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7971",
+      "title": "OpenFoodFacts/openfoodfacts-server#7971",
       "time": "2023-01-10T22:51:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7971",
       "text": "docs: cheatsheet - Get information for list of product"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7971",
+      "title": "OpenFoodFacts/openfoodfacts-server#7971",
       "time": "2023-01-16T22:23:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7971",
       "text": "docs: cheatsheet - Get information for list of product"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8129",
+      "title": "OpenFoodFacts/openfoodfacts-server#8129",
       "time": "2023-02-22T10:52:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8129",
       "text": "docs: Docs overhaul"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8129",
+      "title": "OpenFoodFacts/openfoodfacts-server#8129",
       "time": "2023-02-22T20:15:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8129",
       "text": "docs: Docs overhaul"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/api-documentation#94",
+      "title": "OpenFoodFacts/api-documentation#94",
       "time": "2022-06-16T10:11:16Z",
       "link": "https://github.com/openfoodfacts/api-documentation/pull/94",
       "text": "Friction log"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/api-documentation#94",
+      "title": "OpenFoodFacts/api-documentation#94",
       "time": "2022-06-20T16:26:37Z",
       "link": "https://github.com/openfoodfacts/api-documentation/pull/94",
       "text": "Friction log"

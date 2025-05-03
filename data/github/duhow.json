@@ -3,343 +3,343 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7607",
+      "title": "OpenFoodFacts/openfoodfacts-server#7607",
       "time": "2022-10-24T17:34:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7607",
       "text": "taxonomy: add some catalan ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7607",
+      "title": "OpenFoodFacts/openfoodfacts-server#7607",
       "time": "2022-10-28T12:55:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7607",
       "text": "taxonomy: add some catalan ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7686",
+      "title": "OpenFoodFacts/openfoodfacts-server#7686",
       "time": "2022-11-10T20:11:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7686",
       "text": "taxonomy: some Catalan and Spanish translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7686",
+      "title": "OpenFoodFacts/openfoodfacts-server#7686",
       "time": "2022-11-14T17:29:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7686",
       "text": "taxonomy: some Catalan and Spanish translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7725",
+      "title": "OpenFoodFacts/openfoodfacts-server#7725",
       "time": "2022-11-20T17:37:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7725",
       "text": "taxonomy: some Spanish and Catalan translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7725",
+      "title": "OpenFoodFacts/openfoodfacts-server#7725",
       "time": "2022-11-25T08:47:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7725",
       "text": "taxonomy: some Spanish and Catalan translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7759",
+      "title": "OpenFoodFacts/openfoodfacts-server#7759",
       "time": "2022-11-26T13:02:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7759",
       "text": "taxonomy: some Spanish and Catalan translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7759",
+      "title": "OpenFoodFacts/openfoodfacts-server#7759",
       "time": "2022-12-02T10:29:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7759",
       "text": "taxonomy: some Spanish and Catalan translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7920",
+      "title": "OpenFoodFacts/openfoodfacts-server#7920",
       "time": "2022-12-30T15:53:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7920",
       "text": "taxonomy: Add Animal Welfair / Bienestar Animal label"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7920",
+      "title": "OpenFoodFacts/openfoodfacts-server#7920",
       "time": "2023-01-02T11:32:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7920",
       "text": "taxonomy: Add Animal Welfair / Bienestar Animal label"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7921",
+      "title": "OpenFoodFacts/openfoodfacts-server#7921",
       "time": "2022-12-30T16:12:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7921",
       "text": "taxonomy: Add Spanish translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7921",
+      "title": "OpenFoodFacts/openfoodfacts-server#7921",
       "time": "2023-01-02T11:31:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7921",
       "text": "taxonomy: Add Spanish translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7976",
+      "title": "OpenFoodFacts/openfoodfacts-server#7976",
       "time": "2023-01-11T18:38:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7976",
       "text": "taxonomy: Update ingredients in Catalan and Spanish"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7976",
+      "title": "OpenFoodFacts/openfoodfacts-server#7976",
       "time": "2023-01-13T12:46:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7976",
       "text": "taxonomy: Update ingredients in Catalan and Spanish"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8161",
+      "title": "OpenFoodFacts/openfoodfacts-server#8161",
       "time": "2023-03-05T17:43:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8161",
       "text": "taxonomy: Update ingredients in Catalan and Spanish"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8161",
+      "title": "OpenFoodFacts/openfoodfacts-server#8161",
       "time": "2023-03-06T14:36:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8161",
       "text": "taxonomy: Update ingredients in Catalan and Spanish"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8372",
+      "title": "OpenFoodFacts/openfoodfacts-server#8372",
       "time": "2023-04-27T11:56:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8372",
       "text": "taxonomy: Update ingredients in Catalan"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8372",
+      "title": "OpenFoodFacts/openfoodfacts-server#8372",
       "time": "2023-05-03T07:58:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8372",
       "text": "taxonomy: Update ingredients in Catalan"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8491",
+      "title": "OpenFoodFacts/openfoodfacts-server#8491",
       "time": "2023-05-31T18:40:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8491",
       "text": "taxonomy: Add Spanish/Catalan sugars for creatine products"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8491",
+      "title": "OpenFoodFacts/openfoodfacts-server#8491",
       "time": "2023-06-07T19:05:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8491",
       "text": "taxonomy: Add Spanish/Catalan sugars for creatine products"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8517",
+      "title": "OpenFoodFacts/openfoodfacts-server#8517",
       "time": "2023-06-05T13:21:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8517",
       "text": "taxonomy: Add CCPAE logo"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8517",
+      "title": "OpenFoodFacts/openfoodfacts-server#8517",
       "time": "2023-06-27T15:10:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8517",
       "text": "taxonomy: Add CCPAE logo"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8743",
+      "title": "OpenFoodFacts/openfoodfacts-server#8743",
       "time": "2023-07-26T21:33:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8743",
       "text": "taxonomy: Update ingredients for Spanish and Catalan"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8743",
+      "title": "OpenFoodFacts/openfoodfacts-server#8743",
       "time": "2023-07-27T15:07:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8743",
       "text": "taxonomy: Update ingredients for Spanish and Catalan"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8758",
+      "title": "OpenFoodFacts/openfoodfacts-server#8758",
       "time": "2023-07-30T21:51:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8758",
       "text": "taxonomy: Add mushroom sauces for Spanish and Catalan"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8758",
+      "title": "OpenFoodFacts/openfoodfacts-server#8758",
       "time": "2023-07-31T09:59:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8758",
       "text": "taxonomy: Add mushroom sauces for Spanish and Catalan"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8768",
+      "title": "OpenFoodFacts/openfoodfacts-server#8768",
       "time": "2023-07-31T13:51:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8768",
       "text": "taxonomy: Add ingredients in Catalan and Spanish"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8768",
+      "title": "OpenFoodFacts/openfoodfacts-server#8768",
       "time": "2023-08-05T22:15:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8768",
       "text": "taxonomy: Add ingredients in Catalan and Spanish"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8790",
+      "title": "OpenFoodFacts/openfoodfacts-server#8790",
       "time": "2023-08-02T10:51:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8790",
       "text": "feat: Timeout before calling autocomplete"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8790",
+      "title": "OpenFoodFacts/openfoodfacts-server#8790",
       "time": "2023-08-08T12:10:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8790",
       "text": "feat: Timeout before calling autocomplete"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9309",
+      "title": "OpenFoodFacts/openfoodfacts-server#9309",
       "time": "2023-11-13T15:00:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9309",
       "text": "taxonomy: update Spanish sentences (processing.txt & preservation.txt)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9309",
+      "title": "OpenFoodFacts/openfoodfacts-server#9309",
       "time": "2023-11-15T08:40:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9309",
       "text": "taxonomy: update Spanish sentences (processing.txt & preservation.txt)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9475",
+      "title": "OpenFoodFacts/openfoodfacts-server#9475",
       "time": "2023-12-05T15:07:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9475",
       "text": "taxonomy: Add ingredients in Spanish"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9475",
+      "title": "OpenFoodFacts/openfoodfacts-server#9475",
       "time": "2023-12-05T16:09:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9475",
       "text": "taxonomy: Add ingredients in Spanish"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9476",
+      "title": "OpenFoodFacts/openfoodfacts-server#9476",
       "time": "2023-12-05T15:31:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9476",
       "text": "taxonomy: Update ingredients parsing for Spanish and Catalan"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9476",
+      "title": "OpenFoodFacts/openfoodfacts-server#9476",
       "time": "2023-12-12T12:54:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9476",
       "text": "taxonomy: Update ingredients parsing for Spanish and Catalan"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9521",
+      "title": "OpenFoodFacts/openfoodfacts-server#9521",
       "time": "2023-12-12T19:35:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9521",
       "text": "taxonomy: label Calidad Certificada Andalucia"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9521",
+      "title": "OpenFoodFacts/openfoodfacts-server#9521",
       "time": "2023-12-12T20:36:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9521",
       "text": "taxonomy: label Calidad Certificada Andalucia"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9530",
+      "title": "OpenFoodFacts/openfoodfacts-server#9530",
       "time": "2023-12-14T14:14:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9530",
       "text": "taxonomy: Add (gym) protein nutrients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9530",
+      "title": "OpenFoodFacts/openfoodfacts-server#9530",
       "time": "2023-12-15T08:59:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9530",
       "text": "taxonomy: Add (gym) protein nutrients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9551",
+      "title": "OpenFoodFacts/openfoodfacts-server#9551",
       "time": "2023-12-17T20:32:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9551",
       "text": "taxonomy: change German label"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9551",
+      "title": "OpenFoodFacts/openfoodfacts-server#9551",
       "time": "2023-12-18T14:36:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9551",
       "text": "taxonomy: change German label"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9561",
+      "title": "OpenFoodFacts/openfoodfacts-server#9561",
       "time": "2023-12-20T16:03:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9561",
       "text": "taxonomy: add new cream ingredient"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9561",
+      "title": "OpenFoodFacts/openfoodfacts-server#9561",
       "time": "2023-12-20T21:50:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9561",
       "text": "taxonomy: add new cream ingredient"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9591",
+      "title": "OpenFoodFacts/openfoodfacts-server#9591",
       "time": "2023-12-23T16:28:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9591",
       "text": "taxonomy: Add Spanish and Catalan ingredients and labels"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9591",
+      "title": "OpenFoodFacts/openfoodfacts-server#9591",
       "time": "2023-12-25T21:23:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9591",
       "text": "taxonomy: Add Spanish and Catalan ingredients and labels"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9657",
+      "title": "OpenFoodFacts/openfoodfacts-server#9657",
       "time": "2024-01-16T08:55:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9657",
       "text": "taxonomy: Add translations in Spanish"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9657",
+      "title": "OpenFoodFacts/openfoodfacts-server#9657",
       "time": "2024-01-24T09:59:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9657",
       "text": "taxonomy: Add translations in Spanish"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#99",
+      "title": "OpenFoodFacts/open-prices-frontend#99",
       "time": "2024-01-04T12:13:42Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/99",
       "text": "style: Add small separation in scan barcode button"

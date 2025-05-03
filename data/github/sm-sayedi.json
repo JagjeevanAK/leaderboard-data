@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#4611",
+      "title": "OpenFoodFacts/smooth-app#4611",
       "time": "2023-08-30T11:19:16Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4611",
       "text": "fix: Made the notification bar of the scanner transluent"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#4611",
+      "title": "OpenFoodFacts/smooth-app#4611",
       "time": "2023-09-02T14:07:55Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4611",
       "text": "fix: Made the notification bar of the scanner transluent"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#4619",
+      "title": "OpenFoodFacts/smooth-app#4619",
       "time": "2023-09-03T09:16:49Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4619",
       "text": "fix: Added a close button to the tooltip in Onboarding"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#4619",
+      "title": "OpenFoodFacts/smooth-app#4619",
       "time": "2023-09-06T12:36:53Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4619",
       "text": "fix: Added a close button to the tooltip in Onboarding"

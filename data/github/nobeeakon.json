@@ -1,320 +1,320 @@
 {
-  "last_updated": "2024-06-18T01:37:21Z",
+  "last_updated": "2022-07-26T18:00:38Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#633",
-      "time": "2024-06-18T01:37:21Z",
-      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/633",
-      "text": "refactor: Issue 530"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#172",
-      "time": "2023-01-11T17:24:26Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/172",
-      "text": "feat: CI formatter"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#172",
-      "time": "2023-01-16T16:19:04Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/172",
-      "text": "feat: CI formatter"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#190",
-      "time": "2023-01-20T16:34:23Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/190",
-      "text": "draft: added typescript"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#191",
-      "time": "2023-01-20T16:47:21Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/191",
-      "text": "feat: added typescript"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#191",
-      "time": "2023-01-20T18:19:58Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/191",
-      "text": "feat: added typescript"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#193",
-      "time": "2023-01-20T23:40:26Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/193",
-      "text": "refactor: Typescript migration"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#193",
-      "time": "2023-01-23T13:38:02Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/193",
-      "text": "refactor: Typescript migration"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#197",
-      "time": "2023-01-23T19:05:28Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/197",
-      "text": "refactor: navbar to typescript."
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#197",
-      "time": "2023-01-24T18:18:14Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/197",
-      "text": "refactor: navbar to typescript."
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#201",
-      "time": "2023-01-25T00:06:58Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/201",
-      "text": "refactor:  typescript, useFetch hook"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#201",
-      "time": "2023-01-25T14:23:44Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/201",
-      "text": "refactor:  typescript, useFetch hook"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#208",
-      "time": "2023-01-25T15:18:39Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/208",
-      "text": "refactor: typescript, migrated gotoproject page"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#208",
-      "time": "2023-01-28T18:06:43Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/208",
-      "text": "refactor: typescript, migrated gotoproject page"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#210",
-      "time": "2023-01-27T14:58:22Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/210",
-      "text": "refactor: typescript in export page"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#210",
-      "time": "2023-01-30T23:59:18Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/210",
-      "text": "refactor: typescript in export page"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#212",
-      "time": "2023-01-28T19:30:33Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/212",
-      "text": "refactor: Typescript migration,  root nodes (/entry page)"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#212",
-      "time": "2023-02-06T17:45:11Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/212",
-      "text": "refactor: Typescript migration,  root nodes (/entry page)"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#215",
-      "time": "2023-02-02T15:40:42Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/215",
-      "text": "refactor: Typescript migration, edit entry component"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#215",
-      "time": "2023-02-10T14:31:26Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/215",
-      "text": "refactor: Typescript migration, edit entry component"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#216",
-      "time": "2023-02-03T15:17:40Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/216",
-      "text": "refactor: API projects response"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#216",
-      "time": "2023-02-07T19:32:25Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/216",
-      "text": "refactor: API projects response"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#220",
-      "time": "2023-02-07T20:39:56Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/220",
-      "text": "refactor: typescript search"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#220",
-      "time": "2023-02-10T14:55:23Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/220",
-      "text": "refactor: typescript search"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#226",
-      "time": "2023-02-10T16:25:04Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/226",
-      "text": "refactor: node parents  to typescript"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#226",
-      "time": "2023-02-14T17:29:23Z",
-      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/226",
-      "text": "refactor: node parents  to typescript"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#69",
+      "title": "OpenFoodFacts/hunger-games#69",
       "time": "2022-07-26T18:00:38Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/69",
       "text": "fix: questions page, rephrase remaining annotations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#69",
+      "title": "OpenFoodFacts/hunger-games#69",
       "time": "2022-07-26T19:54:58Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/69",
       "text": "fix: questions page, rephrase remaining annotations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#75",
+      "title": "OpenFoodFacts/hunger-games#75",
       "time": "2022-07-26T21:21:16Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/75",
       "text": "fix: countries list was a single long string which caused the list to…"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#75",
+      "title": "OpenFoodFacts/hunger-games#75",
       "time": "2022-07-27T10:28:24Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/75",
       "text": "fix: countries list was a single long string which caused the list to…"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#80",
+      "title": "OpenFoodFacts/hunger-games#80",
       "time": "2022-07-27T14:32:23Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/80",
       "text": "issue 59, store hide images state"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#80",
+      "title": "OpenFoodFacts/hunger-games#80",
       "time": "2022-07-30T09:00:52Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/80",
       "text": "issue 59, store hide images state"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#83",
+      "title": "OpenFoodFacts/hunger-games#83",
       "time": "2022-07-28T15:23:39Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/83",
       "text": "added report an issue link in the settings page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#83",
+      "title": "OpenFoodFacts/hunger-games#83",
       "time": "2022-07-30T09:21:14Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/83",
       "text": "added report an issue link in the settings page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#90",
+      "title": "OpenFoodFacts/hunger-games#90",
       "time": "2022-07-30T17:28:30Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/90",
       "text": "Issue 88"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#90",
+      "title": "OpenFoodFacts/hunger-games#90",
       "time": "2022-07-31T08:45:12Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/90",
       "text": "Issue 88"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#91",
+      "title": "OpenFoodFacts/hunger-games#91",
       "time": "2022-07-30T17:33:36Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/91",
       "text": "Added contributing.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#91",
+      "title": "OpenFoodFacts/hunger-games#91",
       "time": "2022-07-31T18:28:02Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/91",
       "text": "Added contributing.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#118",
+      "title": "OpenFoodFacts/hunger-games#118",
       "time": "2022-08-02T17:02:54Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/118",
       "text": "readme: added slack direction and channel"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#118",
+      "title": "OpenFoodFacts/hunger-games#118",
       "time": "2022-08-03T07:42:43Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/118",
       "text": "readme: added slack direction and channel"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#125",
+      "title": "OpenFoodFacts/hunger-games#125",
       "time": "2022-08-06T13:46:39Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/125",
       "text": "feat: turn product details into a more legible table (solves #123)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#125",
+      "title": "OpenFoodFacts/hunger-games#125",
       "time": "2022-08-07T17:24:43Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/125",
       "text": "feat: turn product details into a more legible table (solves #123)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#126",
+      "title": "OpenFoodFacts/hunger-games#126",
       "time": "2022-08-06T14:15:48Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/126",
       "text": "ci: run \"Prettier\" on each commit"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#132",
+      "title": "OpenFoodFacts/hunger-games#132",
       "time": "2022-08-08T13:36:36Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/132",
       "text": "Ci/run prettier on every commit"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#132",
+      "title": "OpenFoodFacts/hunger-games#132",
       "time": "2022-08-08T16:01:02Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/132",
       "text": "Ci/run prettier on every commit"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/open-prices-frontend#633",
+      "time": "2024-06-18T01:37:21Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/633",
+      "text": "refactor: Issue 530"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#172",
+      "time": "2023-01-11T17:24:26Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/172",
+      "text": "feat: CI formatter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#172",
+      "time": "2023-01-16T16:19:04Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/172",
+      "text": "feat: CI formatter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#190",
+      "time": "2023-01-20T16:34:23Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/190",
+      "text": "draft: added typescript"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#191",
+      "time": "2023-01-20T16:47:21Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/191",
+      "text": "feat: added typescript"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#191",
+      "time": "2023-01-20T18:19:58Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/191",
+      "text": "feat: added typescript"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#193",
+      "time": "2023-01-20T23:40:26Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/193",
+      "text": "refactor: Typescript migration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#193",
+      "time": "2023-01-23T13:38:02Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/193",
+      "text": "refactor: Typescript migration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#197",
+      "time": "2023-01-23T19:05:28Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/197",
+      "text": "refactor: navbar to typescript."
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#197",
+      "time": "2023-01-24T18:18:14Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/197",
+      "text": "refactor: navbar to typescript."
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#201",
+      "time": "2023-01-25T00:06:58Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/201",
+      "text": "refactor:  typescript, useFetch hook"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#201",
+      "time": "2023-01-25T14:23:44Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/201",
+      "text": "refactor:  typescript, useFetch hook"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#208",
+      "time": "2023-01-25T15:18:39Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/208",
+      "text": "refactor: typescript, migrated gotoproject page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#208",
+      "time": "2023-01-28T18:06:43Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/208",
+      "text": "refactor: typescript, migrated gotoproject page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#210",
+      "time": "2023-01-27T14:58:22Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/210",
+      "text": "refactor: typescript in export page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#210",
+      "time": "2023-01-30T23:59:18Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/210",
+      "text": "refactor: typescript in export page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#212",
+      "time": "2023-01-28T19:30:33Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/212",
+      "text": "refactor: Typescript migration,  root nodes (/entry page)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#212",
+      "time": "2023-02-06T17:45:11Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/212",
+      "text": "refactor: Typescript migration,  root nodes (/entry page)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#215",
+      "time": "2023-02-02T15:40:42Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/215",
+      "text": "refactor: Typescript migration, edit entry component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#215",
+      "time": "2023-02-10T14:31:26Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/215",
+      "text": "refactor: Typescript migration, edit entry component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#216",
+      "time": "2023-02-03T15:17:40Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/216",
+      "text": "refactor: API projects response"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#216",
+      "time": "2023-02-07T19:32:25Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/216",
+      "text": "refactor: API projects response"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#220",
+      "time": "2023-02-07T20:39:56Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/220",
+      "text": "refactor: typescript search"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#220",
+      "time": "2023-02-10T14:55:23Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/220",
+      "text": "refactor: typescript search"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/taxonomy-editor#226",
+      "time": "2023-02-10T16:25:04Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/226",
+      "text": "refactor: node parents  to typescript"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/taxonomy-editor#226",
+      "time": "2023-02-14T17:29:23Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/226",
+      "text": "refactor: node parents  to typescript"
     }
   ],
   "open_prs": [],

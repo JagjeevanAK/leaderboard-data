@@ -3,350 +3,350 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2617",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2617",
       "time": "2019-05-07T21:32:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2617",
       "text": "Fixes #2611: Added dependencies version in root project"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2617",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2617",
       "time": "2019-05-14T07:17:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2617",
       "text": "Fixes #2611: Added dependencies version in root project"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2633",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2633",
       "time": "2019-05-13T19:05:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2633",
       "text": "Fixes #2632: Removed unused namespace declaration in XML files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2633",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2633",
       "time": "2019-05-14T06:50:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2633",
       "text": "Fixes #2632: Removed unused namespace declaration in XML files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2635",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2635",
       "time": "2019-05-13T19:33:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2635",
       "text": "Fixes #2634: Removed all unused import statements from the project"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2635",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2635",
       "time": "2019-05-15T07:52:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2635",
       "text": "Fixes #2634: Removed all unused import statements from the project"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2637",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2637",
       "time": "2019-05-13T19:51:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2637",
       "text": "Fixes #2636: Fixed code style issues"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2637",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2637",
       "time": "2019-05-14T07:07:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2637",
       "text": "Fixes #2636: Fixed code style issues"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2641",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2641",
       "time": "2019-05-14T21:01:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2641",
       "text": "Fixes #2640: Removed redundant castings in the project"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2641",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2641",
       "time": "2019-05-15T07:59:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2641",
       "text": "Fixes #2640: Removed redundant castings in the project"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2653",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2653",
       "time": "2019-05-24T19:19:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2653",
       "text": "Fixes #2652: Removed unnecessary throws declarations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2653",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2653",
       "time": "2019-05-27T16:22:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2653",
       "text": "Fixes #2652: Removed unnecessary throws declarations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2655",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2655",
       "time": "2019-05-24T19:31:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2655",
       "text": "Fixes #2654: Simplified JUnit assertions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2655",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2655",
       "time": "2019-05-27T16:21:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2655",
       "text": "Fixes #2654: Simplified JUnit assertions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2657",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2657",
       "time": "2019-05-24T19:46:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2657",
       "text": "Fixes #2656: Fixed Android resource validation error"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2657",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2657",
       "time": "2019-05-27T16:53:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2657",
       "text": "Fixes #2656: Fixed Android resource validation error"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2659",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2659",
       "time": "2019-05-24T20:02:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2659",
       "text": "Fixes #2658: Removed Hardcoded texts "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2659",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2659",
       "time": "2019-05-24T21:00:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2659",
       "text": "Fixes #2658: Removed Hardcoded texts "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2662",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2662",
       "time": "2019-05-25T06:52:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2662",
       "text": "Fixes #2661: Removed obsolete layout params"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2662",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2662",
       "time": "2019-05-27T16:51:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2662",
       "text": "Fixes #2661: Removed obsolete layout params"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2663",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2663",
       "time": "2019-05-25T07:03:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2663",
       "text": "Fixes #2660: Fixed Keyboard inaccessible widget lint warnings"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2663",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2663",
       "time": "2019-05-27T16:56:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2663",
       "text": "Fixes #2660: Fixed Keyboard inaccessible widget lint warnings"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2670",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2670",
       "time": "2019-05-28T07:01:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2670",
       "text": "Fixes #2669: Deleted KeepAliveService and removed method using this service"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2670",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2670",
       "time": "2019-05-28T14:07:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2670",
       "text": "Fixes #2669: Deleted KeepAliveService and removed method using this service"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2672",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2672",
       "time": "2019-05-28T07:09:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2672",
       "text": "Fixes #2671: Updated compile and target SDK versions of the app"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2672",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2672",
       "time": "2019-06-12T09:38:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2672",
       "text": "Fixes #2671: Updated compile and target SDK versions of the app"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2674",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2674",
       "time": "2019-05-28T07:23:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2674",
       "text": "Fixes #2673: Replaced SharedPreferences commit() method with apply()"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2674",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2674",
       "time": "2019-05-28T07:56:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2674",
       "text": "Fixes #2673: Replaced SharedPreferences commit() method with apply()"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2688",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2688",
       "time": "2019-05-30T06:50:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2688",
       "text": "Fixes #2687: Resolved inconvertible types between two objects while comparing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2690",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2690",
       "time": "2019-05-30T07:01:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2690",
       "text": "Fixes #2689: Replaced all anonymous classes with lambdas"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2690",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2690",
       "time": "2019-06-06T12:48:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2690",
       "text": "Fixes #2689: Replaced all anonymous classes with lambdas"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2692",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2692",
       "time": "2019-05-30T08:29:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2692",
       "text": "Fizes #2691: Replaced Explicit type with <> in the whole project"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2692",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2692",
       "time": "2019-06-03T07:46:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2692",
       "text": "Fizes #2691: Replaced Explicit type with <> in the whole project"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2710",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2710",
       "time": "2019-06-06T19:50:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2710",
       "text": "Fixes #2709: Updated Travis link with working one in contributing.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2710",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2710",
       "time": "2019-06-07T12:51:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2710",
       "text": "Fixes #2709: Updated Travis link with working one in contributing.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2712",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2712",
       "time": "2019-06-07T06:54:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2712",
       "text": "Fixe #2711: Removed unnecessary boxing on Float value"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2712",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2712",
       "time": "2019-06-07T12:51:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2712",
       "text": "Fixe #2711: Removed unnecessary boxing on Float value"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2713",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2713",
       "time": "2019-06-08T06:56:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2713",
       "text": "Documentation for NavigationBaseFragment"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2713",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2713",
       "time": "2019-06-26T12:07:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2713",
       "text": "Documentation for NavigationBaseFragment"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2714",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2714",
       "time": "2019-06-08T08:14:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2714",
       "text": "Updated ReadMe file by writing conceptual overviews of the project"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2714",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2714",
       "time": "2019-06-26T12:09:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2714",
       "text": "Updated ReadMe file by writing conceptual overviews of the project"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2726",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2726",
       "time": "2019-06-09T07:34:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2726",
       "text": "Fixes #2723: Documented the files in openfood/repositories package"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2726",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2726",
       "time": "2019-06-26T12:08:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2726",
       "text": "Fixes #2723: Documented the files in openfood/repositories package"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2732",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2732",
       "time": "2019-06-10T11:14:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2732",
       "text": "Fixes #2720: Documented the files in openfood/jobs package"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2750",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2750",
       "time": "2019-06-17T08:14:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2750",
       "text": "Fixes #2749: Removed commented code from the project."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2750",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2750",
       "time": "2019-06-18T10:05:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2750",
       "text": "Fixes #2749: Removed commented code from the project."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2766",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2766",
       "time": "2019-06-23T06:45:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2766",
       "text": "Fixes #2765: Replaced Lambdas with method references"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2766",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2766",
       "time": "2019-06-26T16:26:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2766",
       "text": "Fixes #2765: Replaced Lambdas with method references"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2771",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2771",
       "time": "2019-06-23T10:39:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2771",
       "text": "Fixes #2760: Removed all unused resources from res folder"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2771",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2771",
       "time": "2019-06-28T16:05:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2771",
       "text": "Fixes #2760: Removed all unused resources from res folder"

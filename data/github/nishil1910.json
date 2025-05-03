@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3653",
+      "title": "OpenFoodFacts/smooth-app#3653",
       "time": "2023-01-29T08:54:31Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3653",
       "text": "Changed to Floating Action Button"

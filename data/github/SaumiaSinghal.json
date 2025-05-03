@@ -3,84 +3,84 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1668",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1668",
       "time": "2018-06-04T09:40:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1668",
       "text": "Closes Issue#1491: Added right and left margin to offline card view."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1668",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1668",
       "time": "2018-06-04T14:11:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1668",
       "text": "Closes Issue#1491: Added right and left margin to offline card view."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1673",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1673",
       "time": "2018-06-04T23:05:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1673",
       "text": "Closes #842: Fixed the position of Progress icon."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1673",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1673",
       "time": "2018-06-07T17:34:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1673",
       "text": "Closes #842: Fixed the position of Progress icon."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1696",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1696",
       "time": "2018-06-11T13:47:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1696",
       "text": "Closes Issue#1695: Fixed cropped title on launch screen"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1696",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1696",
       "time": "2018-06-16T15:47:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1696",
       "text": "Closes Issue#1695: Fixed cropped title on launch screen"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1697",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1697",
       "time": "2018-06-11T18:31:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1697",
       "text": "Closes Issue#1689: Added Swipe Down feature to go back to Main Activity"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1697",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1697",
       "time": "2018-06-16T15:43:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1697",
       "text": "Closes Issue#1689: Added Swipe Down feature to go back to Main Activity"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1703",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1703",
       "time": "2018-06-13T19:51:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1703",
       "text": "Closes Issue-1655: Removed Gallery Option in Product Addition Mode"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1703",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1703",
       "time": "2018-06-14T13:09:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1703",
       "text": "Closes Issue-1655: Removed Gallery Option in Product Addition Mode"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1705",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1705",
       "time": "2018-06-13T20:37:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1705",
       "text": "Closes Issue#1654: Removed empty ingredient card in product addition mode"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1705",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1705",
       "time": "2018-06-14T04:02:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1705",
       "text": "Closes Issue#1654: Removed empty ingredient card in product addition mode"

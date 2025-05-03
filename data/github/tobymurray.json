@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/.github#20",
+      "title": "OpenFoodFacts/.github#20",
       "time": "2023-01-17T19:47:06Z",
       "link": "https://github.com/openfoodfacts/.github/pull/20",
       "text": "docs: Fix typo"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/.github#20",
+      "title": "OpenFoodFacts/.github#20",
       "time": "2023-01-18T08:33:35Z",
       "link": "https://github.com/openfoodfacts/.github/pull/20",
       "text": "docs: Fix typo"

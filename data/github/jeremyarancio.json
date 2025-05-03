@@ -1,254 +1,254 @@
 {
-  "last_updated": "2024-08-02T15:55:41Z",
+  "last_updated": "2024-09-26T13:09:53Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#1385",
-      "time": "2024-08-02T15:55:41Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1385",
-      "text": "fix(dev_build): :zap: Add network po-default before build in make dev"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#1385",
-      "time": "2024-08-20T13:05:14Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1385",
-      "text": "fix(dev_build): :zap: Add network po-default before build in make dev"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#1401",
-      "time": "2024-08-21T15:45:19Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1401",
-      "text": "feat: Batch job - Spellcheck"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#1408",
-      "time": "2024-09-05T17:53:24Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1408",
-      "text": "docs: :memo: Batch Job - Spellcheck documentation"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#1408",
-      "time": "2024-09-18T07:57:32Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1408",
-      "text": "docs: :memo: Batch Job - Spellcheck documentation"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#1434",
-      "time": "2024-10-17T16:46:27Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1434",
-      "text": "feat: Spellcheck annotate"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#1434",
-      "time": "2024-10-21T07:48:11Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1434",
-      "text": "feat: Spellcheck annotate"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#1436",
-      "time": "2024-10-22T16:20:46Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1436",
-      "text": "feat: :zap: Add CLI command to convert and push JSONL to Huggingface"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#1436",
-      "time": "2024-10-28T14:33:49Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1436",
-      "text": "feat: :zap: Add CLI command to convert and push JSONL to Huggingface"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#1456",
-      "time": "2024-10-30T14:36:50Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1456",
-      "text": "fix: :art: Parquet data type fixed"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-web#600",
-      "time": "2024-07-15T15:13:33Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/600",
-      "text": "docs(duckdb-url): :sparkles: Add DuckDB x OFF blog post url to data.html"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-web#600",
-      "time": "2024-07-15T15:40:29Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/600",
-      "text": "docs(duckdb-url): :sparkles: Add DuckDB x OFF blog post url to data.html"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-web#629",
-      "time": "2024-10-28T08:41:26Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/629",
-      "text": "feat: Add Parquet format to data page"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-web#629",
-      "time": "2024-11-20T14:04:43Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/629",
-      "text": "feat: Add Parquet format to data page"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-web#635",
-      "time": "2024-11-20T13:56:12Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/635",
-      "text": "feat: Parquet db bis"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10830",
+      "title": "OpenFoodFacts/openfoodfacts-server#10830",
       "time": "2024-09-26T13:09:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10830",
       "text": "docs: :memo: How to extract a batch of images from AWS"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10830",
+      "title": "OpenFoodFacts/openfoodfacts-server#10830",
       "time": "2024-09-27T15:58:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10830",
       "text": "docs: :memo: How to extract a batch of images from AWS"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ai#340",
+      "title": "OpenFoodFacts/robotoff#1385",
+      "time": "2024-08-02T15:55:41Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1385",
+      "text": "fix(dev_build): :zap: Add network po-default before build in make dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/robotoff#1385",
+      "time": "2024-08-20T13:05:14Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1385",
+      "text": "fix(dev_build): :zap: Add network po-default before build in make dev"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/robotoff#1401",
+      "time": "2024-08-21T15:45:19Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1401",
+      "text": "feat: Batch job - Spellcheck"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/robotoff#1408",
+      "time": "2024-09-05T17:53:24Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1408",
+      "text": "docs: :memo: Batch Job - Spellcheck documentation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/robotoff#1408",
+      "time": "2024-09-18T07:57:32Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1408",
+      "text": "docs: :memo: Batch Job - Spellcheck documentation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/robotoff#1434",
+      "time": "2024-10-17T16:46:27Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1434",
+      "text": "feat: Spellcheck annotate"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/robotoff#1434",
+      "time": "2024-10-21T07:48:11Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1434",
+      "text": "feat: Spellcheck annotate"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/robotoff#1436",
+      "time": "2024-10-22T16:20:46Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1436",
+      "text": "feat: :zap: Add CLI command to convert and push JSONL to Huggingface"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/robotoff#1436",
+      "time": "2024-10-28T14:33:49Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1436",
+      "text": "feat: :zap: Add CLI command to convert and push JSONL to Huggingface"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/robotoff#1456",
+      "time": "2024-10-30T14:36:50Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1456",
+      "text": "fix: :art: Parquet data type fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-web#600",
+      "time": "2024-07-15T15:13:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/600",
+      "text": "docs(duckdb-url): :sparkles: Add DuckDB x OFF blog post url to data.html"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-web#600",
+      "time": "2024-07-15T15:40:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/600",
+      "text": "docs(duckdb-url): :sparkles: Add DuckDB x OFF blog post url to data.html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-web#629",
+      "time": "2024-10-28T08:41:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/629",
+      "text": "feat: Add Parquet format to data page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-web#629",
+      "time": "2024-11-20T14:04:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/629",
+      "text": "feat: Add Parquet format to data page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-web#635",
+      "time": "2024-11-20T13:56:12Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/635",
+      "text": "feat: Parquet db bis"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-ai#340",
       "time": "2024-04-11T16:39:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/340",
       "text": "feat: Spellcheck benchmark dataset and evaluation algorithm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ai#340",
+      "title": "OpenFoodFacts/openfoodfacts-ai#340",
       "time": "2024-06-18T10:21:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/340",
       "text": "feat: Spellcheck benchmark dataset and evaluation algorithm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ai#344",
+      "title": "OpenFoodFacts/openfoodfacts-ai#344",
       "time": "2024-06-26T14:46:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/344",
       "text": "Article duckdb-OFF"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ai#345",
+      "title": "OpenFoodFacts/openfoodfacts-ai#345",
       "time": "2024-07-08T07:28:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/345",
       "text": "feat: Spellcheck"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ai#345",
+      "title": "OpenFoodFacts/openfoodfacts-ai#345",
       "time": "2024-08-23T09:52:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/345",
       "text": "feat: Spellcheck"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ai#350",
+      "title": "OpenFoodFacts/openfoodfacts-ai#350",
       "time": "2024-10-02T15:40:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/350",
       "text": "feat: add CLI command to pre-annotate object detection tasks with Yolo-world"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ai#350",
+      "title": "OpenFoodFacts/openfoodfacts-ai#350",
       "time": "2024-11-04T15:48:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/350",
       "text": "feat: add CLI command to pre-annotate object detection tasks with Yolo-world"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ai#366",
+      "title": "OpenFoodFacts/openfoodfacts-ai#366",
       "time": "2024-12-02T15:28:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/366",
       "text": "Crop detection ultralytics to hf + Spellcheck merge updates"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ai#367",
+      "title": "OpenFoodFacts/openfoodfacts-ai#367",
       "time": "2024-12-02T15:52:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/367",
       "text": "feat: :art: Consider \"was_cancelled\" during export from ls to hf"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ai#367",
+      "title": "OpenFoodFacts/openfoodfacts-ai#367",
       "time": "2024-12-04T09:55:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/367",
       "text": "feat: :art: Consider \"was_cancelled\" during export from ls to hf"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-exports#6",
+      "title": "OpenFoodFacts/openfoodfacts-exports#6",
       "time": "2024-11-12T18:23:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-exports/pull/6",
       "text": "feat: :fire: Postprocess parquet: images field"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-exports#6",
+      "title": "OpenFoodFacts/openfoodfacts-exports#6",
       "time": "2024-11-13T14:57:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-exports/pull/6",
       "text": "feat: :fire: Postprocess parquet: images field"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-exports#22",
+      "title": "OpenFoodFacts/openfoodfacts-exports#22",
       "time": "2024-12-18T15:52:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-exports/pull/22",
       "text": "fix: :sparkles: Add rev key to Images in Parquet"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-exports#22",
+      "title": "OpenFoodFacts/openfoodfacts-exports#22",
       "time": "2024-12-19T09:23:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-exports/pull/22",
       "text": "fix: :sparkles: Add rev key to Images in Parquet"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-exports#30",
+      "title": "OpenFoodFacts/openfoodfacts-exports#30",
       "time": "2025-03-07T09:52:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-exports/pull/30",
       "text": "fix: :bug: Nova_groups pydantic error fixed"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-exports#30",
+      "title": "OpenFoodFacts/openfoodfacts-exports#30",
       "time": "2025-03-07T10:28:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-exports/pull/30",
       "text": "fix: :bug: Nova_groups pydantic error fixed"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-exports#32",
+      "title": "OpenFoodFacts/openfoodfacts-exports#32",
       "time": "2025-04-02T15:04:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-exports/pull/32",
       "text": "Convert parquet csv"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/test-data#1",
+      "title": "OpenFoodFacts/test-data#1",
       "time": "2024-12-18T15:44:52Z",
       "link": "https://github.com/openfoodfacts/test-data/pull/1",
       "text": "feat: :zap: Update Export Parquet tests to consider rev in Images"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/test-data#1",
+      "title": "OpenFoodFacts/test-data#1",
       "time": "2024-12-19T09:22:39Z",
       "link": "https://github.com/openfoodfacts/test-data/pull/1",
       "text": "feat: :zap: Update Export Parquet tests to consider rev in Images"

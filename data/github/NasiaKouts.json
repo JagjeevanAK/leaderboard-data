@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#524",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#524",
       "time": "2017-03-15T18:53:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/524",
       "text": "Fixed Issue #415"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#524",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#524",
       "time": "2017-03-15T19:11:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/524",
       "text": "Fixed Issue #415"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#575",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#575",
       "time": "2017-04-19T13:11:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/575",
       "text": "Fixed issue#479"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#575",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#575",
       "time": "2017-05-19T12:52:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/575",
       "text": "Fixed issue#479"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#576",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#576",
       "time": "2017-04-19T13:16:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/576",
       "text": "(import org.greenrobot.greendao.annotation.Unique never used) Fixed issue#567"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#576",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#576",
       "time": "2017-05-04T11:15:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/576",
       "text": "(import org.greenrobot.greendao.annotation.Unique never used) Fixed issue#567"

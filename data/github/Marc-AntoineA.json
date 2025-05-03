@@ -3,70 +3,70 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/search-a-licious#130",
+      "title": "OpenFoodFacts/search-a-licious#130",
       "time": "2024-06-05T11:07:45Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/130",
       "text": "fix: improve \"npx playwright install-deps\" in frontend/dockerfile"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/search-a-licious#130",
+      "title": "OpenFoodFacts/search-a-licious#130",
       "time": "2024-06-05T16:38:46Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/130",
       "text": "fix: improve \"npx playwright install-deps\" in frontend/dockerfile"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/search-a-licious#133",
+      "title": "OpenFoodFacts/search-a-licious#133",
       "time": "2024-06-05T15:11:26Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/133",
       "text": "feat: create healthchecks "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/search-a-licious#133",
+      "title": "OpenFoodFacts/search-a-licious#133",
       "time": "2024-06-07T12:32:37Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/133",
       "text": "feat: create healthchecks "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/search-a-licious#157",
+      "title": "OpenFoodFacts/search-a-licious#157",
       "time": "2024-06-11T18:40:49Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/157",
       "text": "feat: implement scores distributions charts"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/search-a-licious#157",
+      "title": "OpenFoodFacts/search-a-licious#157",
       "time": "2024-06-19T14:34:43Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/157",
       "text": "feat: implement scores distributions charts"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/search-a-licious#185",
+      "title": "OpenFoodFacts/search-a-licious#185",
       "time": "2024-06-21T16:48:57Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/185",
       "text": "feat: move vega charts to API"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/search-a-licious#185",
+      "title": "OpenFoodFacts/search-a-licious#185",
       "time": "2024-06-25T18:35:42Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/185",
       "text": "feat: move vega charts to API"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/search-a-licious#189",
+      "title": "OpenFoodFacts/search-a-licious#189",
       "time": "2024-06-25T18:43:10Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/189",
       "text": "feat: be able to create scatter plots"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/search-a-licious#189",
+      "title": "OpenFoodFacts/search-a-licious#189",
       "time": "2024-07-08T15:14:10Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/189",
       "text": "feat: be able to create scatter plots"

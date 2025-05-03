@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-infrastructure#474",
+      "title": "OpenFoodFacts/openfoodfacts-infrastructure#474",
       "time": "2025-04-17T15:46:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/474",
       "text": "feat: Adding docker, ci/cd & reverse proxy to `monitoring-01`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-monitoring#117",
+      "title": "OpenFoodFacts/openfoodfacts-monitoring#117",
       "time": "2025-04-18T20:39:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/117",
       "text": "ci: Move monitoring to the new `monitoring-01` VM"

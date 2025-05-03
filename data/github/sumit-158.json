@@ -1,660 +1,660 @@
 {
-  "last_updated": "2022-10-11T12:27:41Z",
+  "last_updated": "2022-11-25T11:29:31Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#950",
-      "time": "2022-10-11T12:27:41Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/950",
-      "text": "fix: Update generate-docs.yml"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#950",
-      "time": "2022-10-14T14:22:58Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/950",
-      "text": "fix: Update generate-docs.yml"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7757",
+      "title": "OpenFoodFacts/openfoodfacts-server#7757",
       "time": "2022-11-25T11:29:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7757",
       "text": "taxonomy: add paneer wikidata"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7757",
+      "title": "OpenFoodFacts/openfoodfacts-server#7757",
       "time": "2022-11-28T08:42:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7757",
       "text": "taxonomy: add paneer wikidata"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7955",
+      "title": "OpenFoodFacts/openfoodfacts-server#7955",
       "time": "2023-01-06T15:01:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7955",
       "text": "docs: add troubleshooting"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7955",
+      "title": "OpenFoodFacts/openfoodfacts-server#7955",
       "time": "2023-01-25T09:24:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7955",
       "text": "docs: add troubleshooting"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8055",
+      "title": "OpenFoodFacts/openfoodfacts-server#8055",
       "time": "2023-01-31T13:53:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8055",
       "text": "feat: Injecting Facet-knoweledge-panel"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8055",
+      "title": "OpenFoodFacts/openfoodfacts-server#8055",
       "time": "2023-02-27T09:55:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8055",
       "text": "feat: Injecting Facet-knoweledge-panel"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-infrastructure#158",
-      "time": "2022-11-09T07:16:49Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/158",
-      "text": "build: Deploy docs to github pages with mkdocs"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-infrastructure#158",
-      "time": "2022-11-21T13:53:13Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/158",
-      "text": "build: Deploy docs to github pages with mkdocs"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-python#117",
-      "time": "2022-09-09T13:27:02Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/117",
-      "text": "docs: update readme.md"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-python#117",
-      "time": "2022-09-09T14:01:24Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/117",
-      "text": "docs: update readme.md"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#4",
+      "title": "OpenFoodFacts/facets-knowledge-panels#4",
       "time": "2022-07-06T11:56:49Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/4",
       "text": "Setup the base of project based on FastApi"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#4",
+      "title": "OpenFoodFacts/facets-knowledge-panels#4",
       "time": "2022-07-07T17:13:24Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/4",
       "text": "Setup the base of project based on FastApi"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#5",
+      "title": "OpenFoodFacts/facets-knowledge-panels#5",
       "time": "2022-07-08T10:18:22Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/5",
       "text": "Update main.py"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#5",
+      "title": "OpenFoodFacts/facets-knowledge-panels#5",
       "time": "2022-07-08T17:07:17Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/5",
       "text": "Update main.py"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#6",
+      "title": "OpenFoodFacts/facets-knowledge-panels#6",
       "time": "2022-07-08T12:08:32Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/6",
       "text": "Api point for KP"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#6",
+      "title": "OpenFoodFacts/facets-knowledge-panels#6",
       "time": "2022-07-08T17:04:09Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/6",
       "text": "Api point for KP"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#7",
+      "title": "OpenFoodFacts/facets-knowledge-panels#7",
       "time": "2022-07-11T10:25:59Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/7",
       "text": "Update Readme"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#7",
+      "title": "OpenFoodFacts/facets-knowledge-panels#7",
       "time": "2022-07-15T15:27:37Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/7",
       "text": "Update Readme"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#8",
+      "title": "OpenFoodFacts/facets-knowledge-panels#8",
       "time": "2022-07-12T11:26:16Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/8",
       "text": "feat: Adding a knowledge panel for Hunger Games"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#8",
+      "title": "OpenFoodFacts/facets-knowledge-panels#8",
       "time": "2022-07-15T16:40:56Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/8",
       "text": "feat: Adding a knowledge panel for Hunger Games"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#10",
+      "title": "OpenFoodFacts/facets-knowledge-panels#10",
       "time": "2022-07-16T15:12:16Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/10",
       "text": "feat: Adding a Knowledge Panel for data-quality"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#10",
+      "title": "OpenFoodFacts/facets-knowledge-panels#10",
       "time": "2022-07-29T14:44:38Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/10",
       "text": "feat: Adding a Knowledge Panel for data-quality"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#13",
+      "title": "OpenFoodFacts/facets-knowledge-panels#13",
       "time": "2022-07-19T11:35:17Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/13",
       "text": "feat: Adding Knowledge Panel for Last-edits"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#15",
+      "title": "OpenFoodFacts/facets-knowledge-panels#15",
       "time": "2022-07-20T07:15:45Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/15",
       "text": "feat: Adding knowlege panel for taxonomy data"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#16",
+      "title": "OpenFoodFacts/facets-knowledge-panels#16",
       "time": "2022-07-29T15:54:39Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/16",
       "text": "Added last_edits_kp"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#16",
+      "title": "OpenFoodFacts/facets-knowledge-panels#16",
       "time": "2022-08-01T10:55:31Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/16",
       "text": "Added last_edits_kp"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#17",
+      "title": "OpenFoodFacts/facets-knowledge-panels#17",
       "time": "2022-08-01T13:52:00Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/17",
       "text": "feat: Wikidata knowledge panel"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#17",
+      "title": "OpenFoodFacts/facets-knowledge-panels#17",
       "time": "2022-09-02T14:27:34Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/17",
       "text": "feat: Wikidata knowledge panel"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#18",
+      "title": "OpenFoodFacts/facets-knowledge-panels#18",
       "time": "2022-08-11T15:06:48Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/18",
       "text": "feat: Initialize Internationalization"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#18",
+      "title": "OpenFoodFacts/facets-knowledge-panels#18",
       "time": "2022-08-26T18:01:47Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/18",
       "text": "feat: Initialize Internationalization"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#24",
+      "title": "OpenFoodFacts/facets-knowledge-panels#24",
       "time": "2022-08-28T12:11:44Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/24",
       "text": "docs: Added OpenAPI documentation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#24",
+      "title": "OpenFoodFacts/facets-knowledge-panels#24",
       "time": "2022-09-28T14:51:43Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/24",
       "text": "docs: Added OpenAPI documentation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#27",
+      "title": "OpenFoodFacts/facets-knowledge-panels#27",
       "time": "2022-08-31T11:33:20Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/27",
       "text": "feat: multiple_facet knowledge_panel"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#27",
+      "title": "OpenFoodFacts/facets-knowledge-panels#27",
       "time": "2022-09-16T19:20:13Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/27",
       "text": "feat: multiple_facet knowledge_panel"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#29",
+      "title": "OpenFoodFacts/facets-knowledge-panels#29",
       "time": "2022-09-02T10:57:31Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/29",
       "text": "feat: making kp async"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#29",
+      "title": "OpenFoodFacts/facets-knowledge-panels#29",
       "time": "2022-09-21T10:41:21Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/29",
       "text": "feat: making kp async"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#36",
+      "title": "OpenFoodFacts/facets-knowledge-panels#36",
       "time": "2022-09-22T10:58:53Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/36",
       "text": "ci: Update release-please.yml"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#36",
+      "title": "OpenFoodFacts/facets-knowledge-panels#36",
       "time": "2022-09-23T10:41:41Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/36",
       "text": "ci: Update release-please.yml"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#41",
+      "title": "OpenFoodFacts/facets-knowledge-panels#41",
       "time": "2022-09-29T11:06:23Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/41",
       "text": "fix: typo and prettify doc"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#41",
+      "title": "OpenFoodFacts/facets-knowledge-panels#41",
       "time": "2022-09-29T14:52:06Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/41",
       "text": "fix: typo and prettify doc"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#46",
+      "title": "OpenFoodFacts/facets-knowledge-panels#46",
       "time": "2022-10-11T05:21:58Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/46",
       "text": "refactor: Update Makefile"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#46",
+      "title": "OpenFoodFacts/facets-knowledge-panels#46",
       "time": "2022-10-11T09:20:35Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/46",
       "text": "refactor: Update Makefile"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#47",
+      "title": "OpenFoodFacts/facets-knowledge-panels#47",
       "time": "2022-10-11T12:25:36Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/47",
       "text": "build: Github page for docs"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#47",
+      "title": "OpenFoodFacts/facets-knowledge-panels#47",
       "time": "2022-10-17T16:46:45Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/47",
       "text": "build: Github page for docs"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#49",
+      "title": "OpenFoodFacts/facets-knowledge-panels#49",
       "time": "2022-10-15T13:16:31Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/49",
       "text": "refactor: compliance with the knowledge panels API"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#49",
+      "title": "OpenFoodFacts/facets-knowledge-panels#49",
       "time": "2022-10-21T08:54:29Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/49",
       "text": "refactor: compliance with the knowledge panels API"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#50",
+      "title": "OpenFoodFacts/facets-knowledge-panels#50",
       "time": "2022-10-16T11:52:24Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/50",
       "text": "ci: Create label.yml"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#50",
+      "title": "OpenFoodFacts/facets-knowledge-panels#50",
       "time": "2022-10-17T09:00:08Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/50",
       "text": "ci: Create label.yml"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#59",
+      "title": "OpenFoodFacts/facets-knowledge-panels#59",
       "time": "2022-11-04T10:15:33Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/59",
       "text": "build: api point to display knowledge panels"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#59",
+      "title": "OpenFoodFacts/facets-knowledge-panels#59",
       "time": "2022-11-24T15:00:29Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/59",
       "text": "build: api point to display knowledge panels"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#68",
+      "title": "OpenFoodFacts/facets-knowledge-panels#68",
       "time": "2022-11-29T11:18:58Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/68",
       "text": "fix: build mkdocs script and update doc"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#68",
+      "title": "OpenFoodFacts/facets-knowledge-panels#68",
       "time": "2022-11-30T16:21:58Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/68",
       "text": "fix: build mkdocs script and update doc"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#73",
+      "title": "OpenFoodFacts/facets-knowledge-panels#73",
       "time": "2022-12-02T03:55:21Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/73",
       "text": "fix: Update API references.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#73",
+      "title": "OpenFoodFacts/facets-knowledge-panels#73",
       "time": "2022-12-02T07:58:32Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/73",
       "text": "fix: Update API references.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#74",
+      "title": "OpenFoodFacts/facets-knowledge-panels#74",
       "time": "2022-12-05T11:02:40Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/74",
       "text": "fix: Make external services URLs configurable"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#74",
+      "title": "OpenFoodFacts/facets-knowledge-panels#74",
       "time": "2022-12-22T13:27:25Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/74",
       "text": "fix: Make external services URLs configurable"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#79",
+      "title": "OpenFoodFacts/facets-knowledge-panels#79",
       "time": "2022-12-23T11:31:23Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/79",
       "text": "fix: Implementing caching"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#79",
+      "title": "OpenFoodFacts/facets-knowledge-panels#79",
       "time": "2023-01-10T11:29:14Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/79",
       "text": "fix: Implementing caching"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#82",
+      "title": "OpenFoodFacts/facets-knowledge-panels#82",
       "time": "2023-01-10T12:17:24Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/82",
       "text": "fix: hungergame url"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#82",
+      "title": "OpenFoodFacts/facets-knowledge-panels#82",
       "time": "2023-01-10T13:15:57Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/82",
       "text": "fix: hungergame url"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#84",
+      "title": "OpenFoodFacts/facets-knowledge-panels#84",
       "time": "2023-01-12T10:41:34Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/84",
       "text": "fix: staging deployment for off.net"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#84",
+      "title": "OpenFoodFacts/facets-knowledge-panels#84",
       "time": "2023-01-13T09:30:40Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/84",
       "text": "fix: staging deployment for off.net"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#86",
+      "title": "OpenFoodFacts/facets-knowledge-panels#86",
       "time": "2023-01-13T11:07:11Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/86",
       "text": "fix: Sever side error"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#86",
+      "title": "OpenFoodFacts/facets-knowledge-panels#86",
       "time": "2023-01-17T05:07:17Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/86",
       "text": "fix: Sever side error"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#90",
+      "title": "OpenFoodFacts/facets-knowledge-panels#90",
       "time": "2023-01-25T12:36:43Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/90",
       "text": "fix: Allow all origin"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#90",
+      "title": "OpenFoodFacts/facets-knowledge-panels#90",
       "time": "2023-01-27T10:21:23Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/90",
       "text": "fix: Allow all origin"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#92",
+      "title": "OpenFoodFacts/facets-knowledge-panels#92",
       "time": "2023-01-29T11:33:28Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/92",
       "text": "refactor: Tweak HTML template"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#92",
+      "title": "OpenFoodFacts/facets-knowledge-panels#92",
       "time": "2023-01-30T09:33:22Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/92",
       "text": "refactor: Tweak HTML template"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#93",
+      "title": "OpenFoodFacts/facets-knowledge-panels#93",
       "time": "2023-02-02T14:15:03Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/93",
       "text": "fix: small fix"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#93",
+      "title": "OpenFoodFacts/facets-knowledge-panels#93",
       "time": "2023-02-03T10:26:18Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/93",
       "text": "fix: small fix"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#94",
+      "title": "OpenFoodFacts/facets-knowledge-panels#94",
       "time": "2023-02-03T13:44:02Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/94",
       "text": "feat: now support both forms of Noun for facet"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#94",
+      "title": "OpenFoodFacts/facets-knowledge-panels#94",
       "time": "2023-02-03T16:01:56Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/94",
       "text": "feat: now support both forms of Noun for facet"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#95",
+      "title": "OpenFoodFacts/facets-knowledge-panels#95",
       "time": "2023-02-05T09:58:59Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/95",
       "text": "feat: Now support alpha2 code"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#95",
+      "title": "OpenFoodFacts/facets-knowledge-panels#95",
       "time": "2023-02-06T10:07:52Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/95",
       "text": "feat: Now support alpha2 code"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#97",
+      "title": "OpenFoodFacts/facets-knowledge-panels#97",
       "time": "2023-02-22T13:28:59Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/97",
       "text": "refactor: add panel id"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#97",
+      "title": "OpenFoodFacts/facets-knowledge-panels#97",
       "time": "2023-02-22T14:40:02Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/97",
       "text": "refactor: add panel id"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#100",
+      "title": "OpenFoodFacts/facets-knowledge-panels#100",
       "time": "2023-03-10T07:58:23Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/100",
       "text": "refactor: Changed Data-quality Url"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#100",
+      "title": "OpenFoodFacts/facets-knowledge-panels#100",
       "time": "2023-03-10T10:20:44Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/100",
       "text": "refactor: Changed Data-quality Url"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#107",
+      "title": "OpenFoodFacts/facets-knowledge-panels#107",
       "time": "2023-03-29T12:32:41Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/107",
       "text": "fix: small change in .pot"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#107",
+      "title": "OpenFoodFacts/facets-knowledge-panels#107",
       "time": "2023-03-31T15:45:42Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/107",
       "text": "fix: small change in .pot"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#117",
+      "title": "OpenFoodFacts/facets-knowledge-panels#117",
       "time": "2023-07-19T06:20:48Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/117",
       "text": "refactor: use User-Agent"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#117",
+      "title": "OpenFoodFacts/facets-knowledge-panels#117",
       "time": "2023-07-20T15:28:38Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/117",
       "text": "refactor: use User-Agent"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/community-portal#9",
+      "title": "OpenFoodFacts/openfoodfacts-python#117",
+      "time": "2022-09-09T13:27:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/117",
+      "text": "docs: update readme.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-python#117",
+      "time": "2022-09-09T14:01:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/117",
+      "text": "docs: update readme.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-infrastructure#158",
+      "time": "2022-11-09T07:16:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/158",
+      "text": "build: Deploy docs to github pages with mkdocs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-infrastructure#158",
+      "time": "2022-11-21T13:53:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/158",
+      "text": "build: Deploy docs to github pages with mkdocs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/robotoff#950",
+      "time": "2022-10-11T12:27:41Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/950",
+      "text": "fix: Update generate-docs.yml"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/robotoff#950",
+      "time": "2022-10-14T14:22:58Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/950",
+      "text": "fix: Update generate-docs.yml"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/community-portal#9",
       "time": "2022-06-08T14:05:36Z",
       "link": "https://github.com/openfoodfacts/community-portal/pull/9",
       "text": "build: base of project"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/community-portal#9",
+      "title": "OpenFoodFacts/community-portal#9",
       "time": "2022-06-16T16:18:53Z",
       "link": "https://github.com/openfoodfacts/community-portal/pull/9",
       "text": "build: base of project"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/community-portal#12",
+      "title": "OpenFoodFacts/community-portal#12",
       "time": "2022-06-17T10:16:18Z",
       "link": "https://github.com/openfoodfacts/community-portal/pull/12",
       "text": "feat: adding authentication page UI based on Figma"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/community-portal#13",
+      "title": "OpenFoodFacts/community-portal#13",
       "time": "2022-06-20T11:55:58Z",
       "link": "https://github.com/openfoodfacts/community-portal/pull/13",
       "text": "feat: Initialization docker "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/community-portal#13",
+      "title": "OpenFoodFacts/community-portal#13",
       "time": "2022-06-20T15:49:57Z",
       "link": "https://github.com/openfoodfacts/community-portal/pull/13",
       "text": "feat: Initialization docker "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/community-portal#32",
+      "title": "OpenFoodFacts/community-portal#32",
       "time": "2022-06-29T10:18:44Z",
       "link": "https://github.com/openfoodfacts/community-portal/pull/32",
       "text": "feat: Initializing models for API"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/community-portal#33",
+      "title": "OpenFoodFacts/community-portal#33",
       "time": "2022-06-29T18:08:05Z",
       "link": "https://github.com/openfoodfacts/community-portal/pull/33",
       "text": "fix: Update Authentication page UI"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/community-portal#34",
+      "title": "OpenFoodFacts/community-portal#34",
       "time": "2022-06-30T14:40:04Z",
       "link": "https://github.com/openfoodfacts/community-portal/pull/34",
       "text": "feat: Responsive dashboard"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/community-portal#38",
+      "title": "OpenFoodFacts/community-portal#38",
       "time": "2022-07-02T08:51:36Z",
       "link": "https://github.com/openfoodfacts/community-portal/pull/38",
       "text": "feat: Adding responsive dashboard"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/community-portal#39",
+      "title": "OpenFoodFacts/community-portal#39",
       "time": "2022-07-02T14:04:20Z",
       "link": "https://github.com/openfoodfacts/community-portal/pull/39",
       "text": "feat: Initializing API"

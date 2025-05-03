@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9987",
+      "title": "OpenFoodFacts/openfoodfacts-server#9987",
       "time": "2024-03-23T14:46:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9987",
       "text": "fix: drop Encode::Punycode (no longer used)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9987",
+      "title": "OpenFoodFacts/openfoodfacts-server#9987",
       "time": "2024-03-23T16:40:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9987",
       "text": "fix: drop Encode::Punycode (no longer used)"

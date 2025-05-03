@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#789",
+      "title": "OpenFoodFacts/openfoodfacts-ios#789",
       "time": "2020-11-07T00:01:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/789",
       "text": "Rearrange product information views when editing"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#789",
+      "title": "OpenFoodFacts/openfoodfacts-ios#789",
       "time": "2020-11-19T11:25:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/789",
       "text": "Rearrange product information views when editing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#793",
+      "title": "OpenFoodFacts/openfoodfacts-ios#793",
       "time": "2020-11-19T00:51:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/793",
       "text": "Fixed tab bar icon title/navigation item title"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#793",
+      "title": "OpenFoodFacts/openfoodfacts-ios#793",
       "time": "2020-11-21T15:18:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/793",
       "text": "Fixed tab bar icon title/navigation item title"

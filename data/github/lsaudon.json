@@ -1,107 +1,107 @@
 {
-  "last_updated": "2022-07-23T10:37:04Z",
+  "last_updated": "2022-06-27T17:45:07Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#528",
-      "time": "2022-07-23T10:37:04Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/528",
-      "text": "chore: upgrade dependencies"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#528",
-      "time": "2022-07-23T19:45:52Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/528",
-      "text": "chore: upgrade dependencies"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2403",
+      "title": "OpenFoodFacts/smooth-app#2403",
       "time": "2022-06-27T17:45:07Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2403",
       "text": "docs: right checkbox in README"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#2403",
+      "title": "OpenFoodFacts/smooth-app#2403",
       "time": "2022-06-27T17:58:34Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2403",
       "text": "docs: right checkbox in README"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2406",
+      "title": "OpenFoodFacts/smooth-app#2406",
       "time": "2022-06-27T18:29:07Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2406",
       "text": "refactor: Remove useless files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#2406",
+      "title": "OpenFoodFacts/smooth-app#2406",
       "time": "2022-06-27T18:39:42Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2406",
       "text": "refactor: Remove useless files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2407",
+      "title": "OpenFoodFacts/smooth-app#2407",
       "time": "2022-06-27T19:23:12Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2407",
       "text": "refactor: Avoid unused parameters"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#2407",
+      "title": "OpenFoodFacts/smooth-app#2407",
       "time": "2022-06-28T14:50:19Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2407",
       "text": "refactor: Avoid unused parameters"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2414",
+      "title": "OpenFoodFacts/smooth-app#2414",
       "time": "2022-06-28T14:32:43Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2414",
       "text": "perf: Optimize SVG files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2418",
+      "title": "OpenFoodFacts/smooth-app#2418",
       "time": "2022-06-29T07:56:07Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2418",
       "text": "fix: Revert \"refactor: Avoid unused parameters (#2407)\""
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#2418",
+      "title": "OpenFoodFacts/smooth-app#2418",
       "time": "2022-06-29T08:01:27Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2418",
       "text": "fix: Revert \"refactor: Avoid unused parameters (#2407)\""
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2432",
+      "title": "OpenFoodFacts/smooth-app#2432",
       "time": "2022-06-29T18:15:37Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2432",
       "text": "perf: Prefer const border radius"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#2432",
+      "title": "OpenFoodFacts/smooth-app#2432",
       "time": "2022-07-02T14:04:26Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2432",
       "text": "perf: Prefer const border radius"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5109",
+      "title": "OpenFoodFacts/smooth-app#5109",
       "time": "2024-03-08T19:53:39Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5109",
       "text": "refactor: getSupportedLanguagesNameInEnglish & resolve lint"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts_flutter_lints#1",
+      "title": "OpenFoodFacts/openfoodfacts-dart#528",
+      "time": "2022-07-23T10:37:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/528",
+      "text": "chore: upgrade dependencies"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-dart#528",
+      "time": "2022-07-23T19:45:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/528",
+      "text": "chore: upgrade dependencies"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts_flutter_lints#1",
       "time": "2022-06-28T18:01:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts_flutter_lints/pull/1",
       "text": "Add some rules"

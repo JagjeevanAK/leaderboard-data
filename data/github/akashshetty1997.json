@@ -3,49 +3,49 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#414",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#414",
       "time": "2025-04-01T16:29:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/414",
       "text": "fix: Don't show rotating icon for missing image in product page (fixes #413)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#414",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#414",
       "time": "2025-04-09T21:59:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/414",
       "text": "fix: Don't show rotating icon for missing image in product page (fixes #413)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#461",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#461",
       "time": "2025-04-10T22:03:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/461",
       "text": "fix: search ui display 3 cards per row"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#504",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#504",
       "time": "2025-04-19T23:26:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/504",
       "text": "fix: error handling for network connectivity issues"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#504",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#504",
       "time": "2025-04-24T18:15:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/504",
       "text": "fix: error handling for network connectivity issues"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#511",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#511",
       "time": "2025-04-25T01:26:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/511",
       "text": "fix: fallback locale and isLoading for i18n crash on offline "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#511",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#511",
       "time": "2025-04-25T15:37:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/511",
       "text": "fix: fallback locale and isLoading for i18n crash on offline "

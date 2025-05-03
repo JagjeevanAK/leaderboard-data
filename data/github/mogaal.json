@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#30",
+      "title": "OpenFoodFacts/openfoodfacts-go#30",
       "time": "2020-11-11T17:59:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/30",
       "text": "More Nutriment fields"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#30",
+      "title": "OpenFoodFacts/openfoodfacts-go#30",
       "time": "2020-11-11T18:39:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/30",
       "text": "More Nutriment fields"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#31",
+      "title": "OpenFoodFacts/openfoodfacts-go#31",
       "time": "2020-11-26T14:20:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/31",
       "text": "More fields"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#31",
+      "title": "OpenFoodFacts/openfoodfacts-go#31",
       "time": "2020-11-26T16:12:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/31",
       "text": "More fields"

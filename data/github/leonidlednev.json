@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6197",
+      "title": "OpenFoodFacts/openfoodfacts-server#6197",
       "time": "2021-12-14T21:14:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6197",
       "text": "Update robots.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6197",
+      "title": "OpenFoodFacts/openfoodfacts-server#6197",
       "time": "2021-12-16T08:12:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6197",
       "text": "Update robots.txt"

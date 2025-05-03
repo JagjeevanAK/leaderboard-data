@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4213",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4213",
       "time": "2021-09-02T16:08:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4213",
       "text": "Fix occlusion and overlap on welcome pages"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4213",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4213",
       "time": "2021-09-04T12:57:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4213",
       "text": "Fix occlusion and overlap on welcome pages"

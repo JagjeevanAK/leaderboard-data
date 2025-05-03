@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1209",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1209",
       "time": "2018-03-11T21:58:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1209",
       "text": "Fixes #1203: Inconsistent spaces (minute vs hour)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1209",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1209",
       "time": "2018-03-11T23:53:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1209",
       "text": "Fixes #1203: Inconsistent spaces (minute vs hour)"

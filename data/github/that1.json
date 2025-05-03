@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10786",
+      "title": "OpenFoodFacts/openfoodfacts-server#10786",
       "time": "2024-09-12T14:26:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10786",
       "text": "fix: incorrect self-reference in ingredient.yaml"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10786",
+      "title": "OpenFoodFacts/openfoodfacts-server#10786",
       "time": "2024-09-13T11:02:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10786",
       "text": "fix: incorrect self-reference in ingredient.yaml"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10787",
+      "title": "OpenFoodFacts/openfoodfacts-server#10787",
       "time": "2024-09-12T14:30:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10787",
       "text": "fix: invalid type in product_misc.yaml"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10787",
+      "title": "OpenFoodFacts/openfoodfacts-server#10787",
       "time": "2024-09-13T11:03:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10787",
       "text": "fix: invalid type in product_misc.yaml"

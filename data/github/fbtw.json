@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#230",
+      "title": "OpenFoodFacts/open-prices#230",
       "time": "2024-02-24T04:10:44Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/230",
       "text": "feat: translate landing page in spanish"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#230",
+      "title": "OpenFoodFacts/open-prices#230",
       "time": "2024-02-24T23:22:14Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/230",
       "text": "feat: translate landing page in spanish"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#386",
+      "title": "OpenFoodFacts/open-prices-frontend#386",
       "time": "2024-02-27T17:54:09Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/386",
       "text": "test: Sin app"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#444",
+      "title": "OpenFoodFacts/open-prices-frontend#444",
       "time": "2024-03-15T03:08:27Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/444",
       "text": "feat: add column limits on the main pages and change the color scheme"

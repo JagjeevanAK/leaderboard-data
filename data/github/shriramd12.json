@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#4349",
+      "title": "OpenFoodFacts/smooth-app#4349",
       "time": "2023-07-21T16:23:36Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4349",
       "text": "fix: Fixed spacing below website card"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#4349",
+      "title": "OpenFoodFacts/smooth-app#4349",
       "time": "2023-07-25T12:42:00Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4349",
       "text": "fix: Fixed spacing below website card"

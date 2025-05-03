@@ -3,70 +3,70 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#37",
+      "title": "OpenFoodFacts/openfoodfacts-go#37",
       "time": "2021-05-14T23:51:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/37",
       "text": "fix: process IngredientsN as string or int"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#37",
+      "title": "OpenFoodFacts/openfoodfacts-go#37",
       "time": "2021-05-16T16:06:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/37",
       "text": "fix: process IngredientsN as string or int"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#38",
+      "title": "OpenFoodFacts/openfoodfacts-go#38",
       "time": "2021-05-15T11:57:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/38",
       "text": "chore: re-enable Rev field"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#38",
+      "title": "OpenFoodFacts/openfoodfacts-go#38",
       "time": "2021-05-15T18:15:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/38",
       "text": "chore: re-enable Rev field"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#39",
+      "title": "OpenFoodFacts/openfoodfacts-go#39",
       "time": "2021-05-16T17:48:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/39",
       "text": "chore: switch product_test to use test data only"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#39",
+      "title": "OpenFoodFacts/openfoodfacts-go#39",
       "time": "2021-05-16T18:56:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/39",
       "text": "chore: switch product_test to use test data only"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#40",
+      "title": "OpenFoodFacts/openfoodfacts-go#40",
       "time": "2021-05-16T18:21:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/40",
       "text": "feat: add Ecoscore and Manufacturing places fields"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#40",
+      "title": "OpenFoodFacts/openfoodfacts-go#40",
       "time": "2021-05-16T19:04:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/40",
       "text": "feat: add Ecoscore and Manufacturing places fields"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#41",
+      "title": "OpenFoodFacts/openfoodfacts-go#41",
       "time": "2021-05-17T19:21:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/41",
       "text": "chore: fix lint error"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#41",
+      "title": "OpenFoodFacts/openfoodfacts-go#41",
       "time": "2021-05-17T21:50:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/41",
       "text": "chore: fix lint error"

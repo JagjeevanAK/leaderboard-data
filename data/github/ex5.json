@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#29",
+      "title": "OpenFoodFacts/openfoodfacts-go#29",
       "time": "2020-09-09T10:37:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/29",
       "text": "Fix IngredientsN \"cannot unmarshal string into int\" error"

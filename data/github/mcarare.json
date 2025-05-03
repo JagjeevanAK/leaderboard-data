@@ -3,56 +3,56 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4275",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4275",
       "time": "2021-10-01T12:59:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4275",
       "text": "For #4260: Replace PreferenceChangeListener with PreferenceClickListener."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4275",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4275",
       "time": "2021-10-03T12:56:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4275",
       "text": "For #4260: Replace PreferenceChangeListener with PreferenceClickListener."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4276",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4276",
       "time": "2021-10-01T13:21:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4276",
       "text": "For #1821: Add gravity for spinner to improve RTL rendering."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4276",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4276",
       "time": "2021-10-03T12:55:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4276",
       "text": "For #1821: Add gravity for spinner to improve RTL rendering."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4277",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4277",
       "time": "2021-10-01T13:41:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4277",
       "text": "For #4218: Remove top to bottom constraint."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4277",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4277",
       "time": "2021-10-03T12:58:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4277",
       "text": "For #4218: Remove top to bottom constraint."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4294",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4294",
       "time": "2021-10-05T07:39:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4294",
       "text": "For #4247: Perform layout updates on the main thread."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4294",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4294",
       "time": "2021-10-08T13:36:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4294",
       "text": "For #4247: Perform layout updates on the main thread."

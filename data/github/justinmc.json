@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#588",
+      "title": "OpenFoodFacts/smooth-app#588",
       "time": "2021-09-24T17:34:03Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/588",
       "text": "Fix \"already disposed\" error"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#588",
+      "title": "OpenFoodFacts/smooth-app#588",
       "time": "2021-10-02T00:20:10Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/588",
       "text": "Fix \"already disposed\" error"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#676",
+      "title": "OpenFoodFacts/smooth-app#676",
       "time": "2021-11-19T19:32:20Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/676",
       "text": "fix: Android embedding v2 fix"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#676",
+      "title": "OpenFoodFacts/smooth-app#676",
       "time": "2022-02-05T11:13:08Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/676",
       "text": "fix: Android embedding v2 fix"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#707",
+      "title": "OpenFoodFacts/smooth-app#707",
       "time": "2021-12-03T18:04:15Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/707",
       "text": "feat: Ingredients Page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#707",
+      "title": "OpenFoodFacts/smooth-app#707",
       "time": "2022-03-27T22:13:56Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/707",
       "text": "feat: Ingredients Page"

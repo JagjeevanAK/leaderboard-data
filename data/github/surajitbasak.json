@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#4698",
+      "title": "OpenFoodFacts/smooth-app#4698",
       "time": "2023-10-04T08:58:52Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4698",
       "text": "feat: Step-by-step fast-track"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#4698",
+      "title": "OpenFoodFacts/smooth-app#4698",
       "time": "2023-11-15T18:08:46Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4698",
       "text": "feat: Step-by-step fast-track"

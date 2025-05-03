@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5111",
+      "title": "OpenFoodFacts/smooth-app#5111",
       "time": "2024-03-10T00:48:27Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5111",
       "text": "chore: Moving email and newsletter up in contact page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#5111",
+      "title": "OpenFoodFacts/smooth-app#5111",
       "time": "2024-03-10T07:36:29Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5111",
       "text": "chore: Moving email and newsletter up in contact page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5113",
+      "title": "OpenFoodFacts/smooth-app#5113",
       "time": "2024-03-10T19:26:55Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5113",
       "text": "fix: Adjusting Search History Keyword Tapping"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#5113",
+      "title": "OpenFoodFacts/smooth-app#5113",
       "time": "2024-03-11T06:50:43Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5113",
       "text": "fix: Adjusting Search History Keyword Tapping"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5117",
+      "title": "OpenFoodFacts/smooth-app#5117",
       "time": "2024-03-13T03:17:29Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5117",
       "text": "fix: RankingFloatingActionButton partially off-screen for some translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#5117",
+      "title": "OpenFoodFacts/smooth-app#5117",
       "time": "2024-05-14T04:44:19Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5117",
       "text": "fix: RankingFloatingActionButton partially off-screen for some translations"

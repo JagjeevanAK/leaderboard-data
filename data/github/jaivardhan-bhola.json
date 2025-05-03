@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-events#209",
+      "title": "OpenFoodFacts/openfoodfacts-events#209",
       "time": "2023-02-02T14:37:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-events/pull/209",
       "text": "Update schemas.py"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-events#210",
+      "title": "OpenFoodFacts/openfoodfacts-events#210",
       "time": "2023-02-02T14:41:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-events/pull/210",
       "text": "fix: #137 (The barcode field should be a string, not an integer)"

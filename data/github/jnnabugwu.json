@@ -3,63 +3,63 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5332",
+      "title": "OpenFoodFacts/smooth-app#5332",
       "time": "2024-06-02T17:09:04Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5332",
       "text": "feat: added deeplinking for the sign up page #4169"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#5332",
+      "title": "OpenFoodFacts/smooth-app#5332",
       "time": "2024-06-07T13:03:18Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5332",
       "text": "feat: added deeplinking for the sign up page #4169"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5337",
+      "title": "OpenFoodFacts/smooth-app#5337",
       "time": "2024-06-06T00:59:01Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5337",
       "text": "feat: added deeplinking to forgot password page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5362",
+      "title": "OpenFoodFacts/smooth-app#5362",
       "time": "2024-06-12T20:52:13Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5362",
       "text": "feat: Deeplinking for the forgot password page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5451",
+      "title": "OpenFoodFacts/smooth-app#5451",
       "time": "2024-07-01T01:04:12Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5451",
       "text": "feat: Spellchecker on product name 5415"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#5451",
+      "title": "OpenFoodFacts/smooth-app#5451",
       "time": "2024-07-04T13:29:25Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5451",
       "text": "feat: Spellchecker on product name 5415"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5510",
+      "title": "OpenFoodFacts/smooth-app#5510",
       "time": "2024-07-23T22:37:23Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5510",
       "text": "feat: added the \"Help improve OFF in your country\" tile on the contribute page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5874",
+      "title": "OpenFoodFacts/smooth-app#5874",
       "time": "2024-11-17T23:24:10Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5874",
       "text": "feat: Contribute to your country link"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#5874",
+      "title": "OpenFoodFacts/smooth-app#5874",
       "time": "2025-02-14T08:33:18Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5874",
       "text": "feat: Contribute to your country link"

@@ -1,710 +1,724 @@
 {
-  "last_updated": "2025-04-28T14:26:41.000Z",
+  "last_updated": "2024-07-22T08:33:02Z",
   "activity": [
     {
-      "type": "issue_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11830",
-      "time": "2025-04-28T14:26:41.000Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11830",
-      "text": "Demote products from vegan/vegetarian/palm-oil-free if they have ingredients specifically contradicting this"
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#10573",
+      "time": "2024-07-22T08:33:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10573",
+      "text": "taxonomy: Add “akaciefiber” synonym (Swedish)"
     },
     {
-      "type": "comment_created",
-      "title": "openfoodfacts/openfoodfacts-server#11827",
-      "time": "2025-04-28T12:47:19.000Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11827#issuecomment-2835131791",
-      "text": "Were all the removals intentional?"
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#10573",
+      "time": "2024-07-22T12:35:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10573",
+      "text": "taxonomy: Add “akaciefiber” synonym (Swedish)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10628",
+      "title": "OpenFoodFacts/openfoodfacts-server#10628",
       "time": "2024-07-31T11:16:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10628",
       "text": "taxonomy: Add Swedish for habanero chili"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10628",
+      "title": "OpenFoodFacts/openfoodfacts-server#10628",
       "time": "2024-08-05T10:02:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10628",
       "text": "taxonomy: Add Swedish for habanero chili"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10635",
+      "title": "OpenFoodFacts/openfoodfacts-server#10635",
       "time": "2024-08-04T10:58:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10635",
       "text": "taxonomy: add “from” Danish+Swedish translation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10635",
+      "title": "OpenFoodFacts/openfoodfacts-server#10635",
       "time": "2024-08-05T11:46:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10635",
       "text": "taxonomy: add “from” Danish+Swedish translation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10646",
+      "title": "OpenFoodFacts/openfoodfacts-server#10646",
       "time": "2024-08-05T18:59:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10646",
       "text": "taxonomy: Add Swedish translations and synonyms"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10646",
+      "title": "OpenFoodFacts/openfoodfacts-server#10646",
       "time": "2024-08-06T09:59:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10646",
       "text": "taxonomy: Add Swedish translations and synonyms"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10656",
+      "title": "OpenFoodFacts/openfoodfacts-server#10656",
       "time": "2024-08-07T15:20:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10656",
       "text": "taxonomy: Add Idared (red) apples"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10656",
+      "title": "OpenFoodFacts/openfoodfacts-server#10656",
       "time": "2024-08-11T11:14:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10656",
       "text": "taxonomy: Add Idared (red) apples"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10657",
+      "title": "OpenFoodFacts/openfoodfacts-server#10657",
       "time": "2024-08-08T11:40:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10657",
       "text": "taxonomy: add XX entry for Rainforest Alliance"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10657",
+      "title": "OpenFoodFacts/openfoodfacts-server#10657",
       "time": "2024-08-10T10:22:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10657",
       "text": "taxonomy: add XX entry for Rainforest Alliance"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10658",
+      "title": "OpenFoodFacts/openfoodfacts-server#10658",
       "time": "2024-08-08T11:56:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10658",
       "text": "taxonomy: Add Swedish translations for carrot concentrate and almond chunks/pieces"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10658",
+      "title": "OpenFoodFacts/openfoodfacts-server#10658",
       "time": "2024-08-09T12:23:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10658",
       "text": "taxonomy: Add Swedish translations for carrot concentrate and almond chunks/pieces"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10670",
+      "title": "OpenFoodFacts/openfoodfacts-server#10670",
       "time": "2024-08-09T18:56:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10670",
       "text": "taxonomy: Add Swedish translation of rice bran oil"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10670",
+      "title": "OpenFoodFacts/openfoodfacts-server#10670",
       "time": "2024-08-10T10:23:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10670",
       "text": "taxonomy: Add Swedish translation of rice bran oil"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10671",
+      "title": "OpenFoodFacts/openfoodfacts-server#10671",
       "time": "2024-08-09T19:34:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10671",
       "text": "taxonomy: Have `grape sugar` inherit from `glucose` rather than `monosaccharide`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10671",
+      "title": "OpenFoodFacts/openfoodfacts-server#10671",
       "time": "2024-08-10T10:27:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10671",
       "text": "taxonomy: Have `grape sugar` inherit from `glucose` rather than `monosaccharide`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10673",
+      "title": "OpenFoodFacts/openfoodfacts-server#10673",
       "time": "2024-08-11T11:40:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10673",
       "text": "taxonomy: Add Swedish terms for hydrolysed soy protein and ginger extract"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10673",
+      "title": "OpenFoodFacts/openfoodfacts-server#10673",
       "time": "2024-08-13T10:11:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10673",
       "text": "taxonomy: Add Swedish terms for hydrolysed soy protein and ginger extract"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10675",
+      "title": "OpenFoodFacts/openfoodfacts-server#10675",
       "time": "2024-08-11T20:20:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10675",
       "text": "taxonomy: Add “grädd” alias for cream"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10675",
+      "title": "OpenFoodFacts/openfoodfacts-server#10675",
       "time": "2024-08-13T10:17:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10675",
       "text": "taxonomy: Add “grädd” alias for cream"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10676",
+      "title": "OpenFoodFacts/openfoodfacts-server#10676",
       "time": "2024-08-11T20:49:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10676",
       "text": "taxonomy: Add sv:högpastöriserad processing"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10676",
+      "title": "OpenFoodFacts/openfoodfacts-server#10676",
       "time": "2024-08-13T14:06:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10676",
       "text": "taxonomy: Add sv:högpastöriserad processing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10685",
+      "title": "OpenFoodFacts/openfoodfacts-server#10685",
       "time": "2024-08-12T14:10:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10685",
       "text": "taxonomy: Add sv:pecannötter and sv:lönnsirap"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10685",
+      "title": "OpenFoodFacts/openfoodfacts-server#10685",
       "time": "2024-08-13T09:57:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10685",
       "text": "taxonomy: Add sv:pecannötter and sv:lönnsirap"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10687",
+      "title": "OpenFoodFacts/openfoodfacts-server#10687",
       "time": "2024-08-12T15:24:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10687",
       "text": "taxonomy: Add `sv:krispiga flingor` to ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10687",
+      "title": "OpenFoodFacts/openfoodfacts-server#10687",
       "time": "2024-08-13T14:06:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10687",
       "text": "taxonomy: Add `sv:krispiga flingor` to ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10688",
+      "title": "OpenFoodFacts/openfoodfacts-server#10688",
       "time": "2024-08-12T21:07:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10688",
       "text": "taxonomy: Add Swedish steaming and rolling"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10688",
+      "title": "OpenFoodFacts/openfoodfacts-server#10688",
       "time": "2024-08-13T09:53:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10688",
       "text": "taxonomy: Add Swedish steaming and rolling"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10689",
+      "title": "OpenFoodFacts/openfoodfacts-server#10689",
       "time": "2024-08-12T23:04:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10689",
       "text": "taxonomy: Massively update the Keyhole label information"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10689",
+      "title": "OpenFoodFacts/openfoodfacts-server#10689",
       "time": "2024-08-13T11:19:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10689",
       "text": "taxonomy: Massively update the Keyhole label information"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10695",
+      "title": "OpenFoodFacts/openfoodfacts-server#10695",
       "time": "2024-08-13T16:33:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10695",
       "text": "taxonomy: fix specifying Norwegian as Bokmål (labels.txt)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10695",
+      "title": "OpenFoodFacts/openfoodfacts-server#10695",
       "time": "2024-08-22T13:27:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10695",
       "text": "taxonomy: fix specifying Norwegian as Bokmål (labels.txt)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10696",
+      "title": "OpenFoodFacts/openfoodfacts-server#10696",
       "time": "2024-08-13T18:56:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10696",
       "text": "taxonomy: Green Dot label improvement"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10696",
+      "title": "OpenFoodFacts/openfoodfacts-server#10696",
       "time": "2024-08-22T13:28:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10696",
       "text": "taxonomy: Green Dot label improvement"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10697",
+      "title": "OpenFoodFacts/openfoodfacts-server#10697",
       "time": "2024-08-13T19:14:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10697",
       "text": "taxonomy: Add sv:kakaokräm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10697",
+      "title": "OpenFoodFacts/openfoodfacts-server#10697",
       "time": "2024-08-21T10:47:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10697",
       "text": "taxonomy: Add sv:kakaokräm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10698",
+      "title": "OpenFoodFacts/openfoodfacts-server#10698",
       "time": "2024-08-13T22:43:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10698",
       "text": "taxonomy: Add “100% Climate Compensated” label"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10698",
+      "title": "OpenFoodFacts/openfoodfacts-server#10698",
       "time": "2024-08-21T10:45:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10698",
       "text": "taxonomy: Add “100% Climate Compensated” label"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10707",
+      "title": "OpenFoodFacts/openfoodfacts-server#10707",
       "time": "2024-08-16T20:35:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10707",
       "text": "taxonomy: Add Swedish Rainforest Alliance synonyms"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10707",
+      "title": "OpenFoodFacts/openfoodfacts-server#10707",
       "time": "2024-08-22T13:29:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10707",
       "text": "taxonomy: Add Swedish Rainforest Alliance synonyms"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10758",
+      "title": "OpenFoodFacts/openfoodfacts-server#10758",
       "time": "2024-08-31T09:44:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10758",
       "text": "taxonomy: Add Swedish “sustainable” palm oil"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10758",
+      "title": "OpenFoodFacts/openfoodfacts-server#10758",
       "time": "2024-09-04T08:26:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10758",
       "text": "taxonomy: Add Swedish “sustainable” palm oil"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10784",
+      "title": "OpenFoodFacts/openfoodfacts-server#10784",
       "time": "2024-09-10T11:36:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10784",
       "text": "taxonomy: Add label for MåBra health(y) food award"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10784",
+      "title": "OpenFoodFacts/openfoodfacts-server#10784",
       "time": "2024-10-02T08:58:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10784",
       "text": "taxonomy: Add label for MåBra health(y) food award"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11515",
+      "title": "OpenFoodFacts/openfoodfacts-server#11515",
       "time": "2025-03-01T11:29:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11515",
       "text": "taxonomy: More Swedish (sv) labels"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11515",
+      "title": "OpenFoodFacts/openfoodfacts-server#11515",
       "time": "2025-03-02T15:17:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11515",
       "text": "taxonomy: More Swedish (sv) labels"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11516",
+      "title": "OpenFoodFacts/openfoodfacts-server#11516",
       "time": "2025-03-01T11:33:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11516",
       "text": "taxonomy: Copy some `se` entries to `sv`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11516",
+      "title": "OpenFoodFacts/openfoodfacts-server#11516",
       "time": "2025-03-02T12:47:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11516",
       "text": "taxonomy: Copy some `se` entries to `sv`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11571",
+      "title": "OpenFoodFacts/openfoodfacts-server#11571",
       "time": "2025-03-08T12:05:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11571",
       "text": "taxonomy: More Swedish (sv)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11571",
+      "title": "OpenFoodFacts/openfoodfacts-server#11571",
       "time": "2025-03-10T14:06:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11571",
       "text": "taxonomy: More Swedish (sv)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11578",
+      "title": "OpenFoodFacts/openfoodfacts-server#11578",
       "time": "2025-03-10T09:29:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11578",
       "text": "taxonomy: Some Danish and Swedish translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11578",
+      "title": "OpenFoodFacts/openfoodfacts-server#11578",
       "time": "2025-03-10T12:10:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11578",
       "text": "taxonomy: Some Danish and Swedish translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11587",
+      "title": "OpenFoodFacts/openfoodfacts-server#11587",
       "time": "2025-03-10T16:07:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11587",
       "text": "taxonomy: Add “Från Sverige” sub-labels"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11587",
+      "title": "OpenFoodFacts/openfoodfacts-server#11587",
       "time": "2025-03-12T08:41:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11587",
       "text": "taxonomy: Add “Från Sverige” sub-labels"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11589",
+      "title": "OpenFoodFacts/openfoodfacts-server#11589",
       "time": "2025-03-10T21:21:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11589",
       "text": "taxonomy: Various updates"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11589",
+      "title": "OpenFoodFacts/openfoodfacts-server#11589",
       "time": "2025-03-11T09:35:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11589",
       "text": "taxonomy: Various updates"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11594",
+      "title": "OpenFoodFacts/openfoodfacts-server#11594",
       "time": "2025-03-11T10:36:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11594",
       "text": "taxonomy: Add “Baby spinach” synonym"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11594",
+      "title": "OpenFoodFacts/openfoodfacts-server#11594",
       "time": "2025-03-11T17:05:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11594",
       "text": "taxonomy: Add “Baby spinach” synonym"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11599",
+      "title": "OpenFoodFacts/openfoodfacts-server#11599",
       "time": "2025-03-11T19:58:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11599",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11599",
+      "title": "OpenFoodFacts/openfoodfacts-server#11599",
       "time": "2025-03-12T17:01:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11599",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11625",
+      "title": "OpenFoodFacts/openfoodfacts-server#11625",
       "time": "2025-03-16T16:25:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11625",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11625",
+      "title": "OpenFoodFacts/openfoodfacts-server#11625",
       "time": "2025-03-16T19:10:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11625",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11627",
+      "title": "OpenFoodFacts/openfoodfacts-server#11627",
       "time": "2025-03-16T20:22:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11627",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11627",
+      "title": "OpenFoodFacts/openfoodfacts-server#11627",
       "time": "2025-03-17T11:28:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11627",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11649",
+      "title": "OpenFoodFacts/openfoodfacts-server#11649",
       "time": "2025-03-22T13:25:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11649",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11649",
+      "title": "OpenFoodFacts/openfoodfacts-server#11649",
       "time": "2025-03-23T15:30:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11649",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11659",
+      "title": "OpenFoodFacts/openfoodfacts-server#11659",
       "time": "2025-03-24T15:51:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11659",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11659",
+      "title": "OpenFoodFacts/openfoodfacts-server#11659",
       "time": "2025-03-25T09:04:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11659",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11669",
+      "title": "OpenFoodFacts/openfoodfacts-server#11669",
       "time": "2025-03-25T11:10:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11669",
       "text": "taxonomy: Tighten up vegan requirements"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11674",
+      "title": "OpenFoodFacts/openfoodfacts-server#11674",
       "time": "2025-03-26T01:08:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11674",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11674",
+      "title": "OpenFoodFacts/openfoodfacts-server#11674",
       "time": "2025-03-26T11:18:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11674",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11687",
+      "title": "OpenFoodFacts/openfoodfacts-server#11687",
       "time": "2025-03-28T12:43:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11687",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11687",
+      "title": "OpenFoodFacts/openfoodfacts-server#11687",
       "time": "2025-04-02T07:39:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11687",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11726",
+      "title": "OpenFoodFacts/openfoodfacts-server#11726",
       "time": "2025-04-01T19:16:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11726",
       "text": "taxonomy: Add sucrose cocoate to OBF ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11726",
+      "title": "OpenFoodFacts/openfoodfacts-server#11726",
       "time": "2025-04-07T08:59:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11726",
       "text": "taxonomy: Add sucrose cocoate to OBF ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11729",
+      "title": "OpenFoodFacts/openfoodfacts-server#11729",
       "time": "2025-04-02T22:56:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11729",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11729",
+      "title": "OpenFoodFacts/openfoodfacts-server#11729",
       "time": "2025-04-07T13:14:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11729",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11767",
+      "title": "OpenFoodFacts/openfoodfacts-server#11767",
       "time": "2025-04-09T13:19:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11767",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11767",
+      "title": "OpenFoodFacts/openfoodfacts-server#11767",
       "time": "2025-04-11T10:03:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11767",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11779",
+      "title": "OpenFoodFacts/openfoodfacts-server#11779",
       "time": "2025-04-13T11:39:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11779",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11779",
+      "title": "OpenFoodFacts/openfoodfacts-server#11779",
       "time": "2025-04-15T10:35:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11779",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11789",
+      "title": "OpenFoodFacts/openfoodfacts-server#11789",
       "time": "2025-04-15T19:43:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11789",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11789",
+      "title": "OpenFoodFacts/openfoodfacts-server#11789",
       "time": "2025-04-24T15:26:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11789",
       "text": "taxonomy: Various updates/additions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11799",
+      "title": "OpenFoodFacts/openfoodfacts-server#11799",
       "time": "2025-04-17T21:25:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11799",
       "text": "taxonomy: fix wikidata for OBF ingredient PETROLATUM"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11799",
+      "title": "OpenFoodFacts/openfoodfacts-server#11799",
       "time": "2025-04-25T20:11:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11799",
       "text": "taxonomy: fix wikidata for OBF ingredient PETROLATUM"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11800",
+      "title": "OpenFoodFacts/openfoodfacts-server#11800",
       "time": "2025-04-18T08:13:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11800",
       "text": "taxonomy: Update L. plantarum ingredient"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11800",
+      "title": "OpenFoodFacts/openfoodfacts-server#11800",
       "time": "2025-04-18T12:38:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11800",
       "text": "taxonomy: Update L. plantarum ingredient"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11806",
+      "title": "OpenFoodFacts/openfoodfacts-server#11806",
       "time": "2025-04-19T10:27:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11806",
       "text": "taxonomy: Untangle un/pickled cucumbers/gherkins"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11806",
+      "title": "OpenFoodFacts/openfoodfacts-server#11806",
       "time": "2025-04-24T08:12:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11806",
       "text": "taxonomy: Untangle un/pickled cucumbers/gherkins"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11807",
+      "title": "OpenFoodFacts/openfoodfacts-server#11807",
       "time": "2025-04-19T18:37:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11807",
       "text": "taxonomy: Move vitamins out of ingredients.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11810",
+      "title": "OpenFoodFacts/openfoodfacts-server#11810",
       "time": "2025-04-20T18:20:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11810",
       "text": "fix: Rename label image files with `_`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11810",
+      "title": "OpenFoodFacts/openfoodfacts-server#11810",
       "time": "2025-04-22T09:09:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11810",
       "text": "fix: Rename label image files with `_`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11814",
+      "title": "OpenFoodFacts/openfoodfacts-server#11814",
       "time": "2025-04-22T14:30:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11814",
       "text": "taxonomy: Add Swedish consumer waste recycling"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11814",
+      "title": "OpenFoodFacts/openfoodfacts-server#11814",
       "time": "2025-04-24T08:08:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11814",
       "text": "taxonomy: Add Swedish consumer waste recycling"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11822",
+      "title": "OpenFoodFacts/openfoodfacts-server#11822",
       "time": "2025-04-25T10:59:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11822",
       "text": "taxonomy: Various updates/additions"
     },
     {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#11822",
+      "time": "2025-05-02T19:58:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11822",
+      "text": "taxonomy: Various updates/additions"
+    },
+    {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11825",
+      "title": "OpenFoodFacts/openfoodfacts-server#11825",
       "time": "2025-04-26T22:16:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11825",
       "text": "taxonomy: Expand vegan food product categories"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11825",
+      "title": "OpenFoodFacts/openfoodfacts-server#11825",
       "time": "2025-04-28T12:16:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11825",
       "text": "taxonomy: Expand vegan food product categories"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11828",
+      "title": "OpenFoodFacts/openfoodfacts-server#11828",
       "time": "2025-04-28T12:22:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11828",
       "text": "taxonomy: Dedupe beauty ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11831",
+      "title": "OpenFoodFacts/openfoodfacts-server#11831",
       "time": "2025-04-28T14:36:34Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11831",
+      "text": "feat: Handle label/ingredient conflicts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-server#11831",
+      "time": "2025-05-02T08:38:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11831",
       "text": "feat: Handle label/ingredient conflicts"
     }

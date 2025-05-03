@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1773",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1773",
       "time": "2018-07-13T21:56:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1773",
       "text": "Closes #1759 Logo for Crop Button"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1773",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1773",
       "time": "2018-07-13T23:19:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1773",
       "text": "Closes #1759 Logo for Crop Button"

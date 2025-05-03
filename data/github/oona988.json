@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3939",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3939",
       "time": "2021-04-11T15:54:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3939",
       "text": "Fix for the bug: Bad clipping for questions #2525"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3939",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3939",
       "time": "2021-04-12T21:52:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3939",
       "text": "Fix for the bug: Bad clipping for questions #2525"

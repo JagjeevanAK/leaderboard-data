@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3812",
+      "title": "OpenFoodFacts/openfoodfacts-server#3812",
       "time": "2020-07-07T07:46:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3812",
       "text": "Italian translations for materials taxonomies"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#3812",
+      "title": "OpenFoodFacts/openfoodfacts-server#3812",
       "time": "2020-07-08T10:15:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3812",
       "text": "Italian translations for materials taxonomies"

@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-laravel#43",
+      "title": "OpenFoodFacts/openfoodfacts-laravel#43",
       "time": "2023-04-22T18:05:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/43",
       "text": "feat: laravel 10 compatibility"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-laravel#43",
+      "title": "OpenFoodFacts/openfoodfacts-laravel#43",
       "time": "2024-05-01T10:33:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/43",
       "text": "feat: laravel 10 compatibility"

@@ -3,238 +3,238 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#11",
+      "title": "OpenFoodFacts/hunger-games#11",
       "time": "2022-06-15T13:26:54Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/11",
       "text": "feat: pwa added"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#11",
+      "title": "OpenFoodFacts/hunger-games#11",
       "time": "2022-06-16T07:53:15Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/11",
       "text": "feat: pwa added"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#14",
+      "title": "OpenFoodFacts/hunger-games#14",
       "time": "2022-06-19T19:01:49Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/14",
       "text": "Logos styling fixed"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#14",
+      "title": "OpenFoodFacts/hunger-games#14",
       "time": "2022-06-20T13:05:56Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/14",
       "text": "Logos styling fixed"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#16",
+      "title": "OpenFoodFacts/hunger-games#16",
       "time": "2022-06-19T19:29:51Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/16",
       "text": "feat: 404 page added"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#16",
+      "title": "OpenFoodFacts/hunger-games#16",
       "time": "2022-06-20T13:06:24Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/16",
       "text": "feat: 404 page added"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#19",
+      "title": "OpenFoodFacts/hunger-games#19",
       "time": "2022-06-22T08:17:28Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/19",
       "text": "Questions Page and Logo Update Page Styling"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#19",
+      "title": "OpenFoodFacts/hunger-games#19",
       "time": "2022-06-22T20:22:55Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/19",
       "text": "Questions Page and Logo Update Page Styling"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#20",
+      "title": "OpenFoodFacts/hunger-games#20",
       "time": "2022-06-22T08:25:38Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/20",
       "text": "Hunger game to hunger games"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#20",
+      "title": "OpenFoodFacts/hunger-games#20",
       "time": "2022-06-22T09:08:07Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/20",
       "text": "Hunger game to hunger games"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#55",
+      "title": "OpenFoodFacts/hunger-games#55",
       "time": "2022-07-17T12:55:52Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/55",
       "text": "Fixed keyboard shortcuts bug"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#56",
+      "title": "OpenFoodFacts/hunger-games#56",
       "time": "2022-07-17T13:08:04Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/56",
       "text": "No questions remaining UI"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#58",
+      "title": "OpenFoodFacts/hunger-games#58",
       "time": "2022-07-18T08:18:48Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/58",
       "text": "Home Page UI added"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#98",
+      "title": "OpenFoodFacts/hunger-games#98",
       "time": "2022-07-31T11:51:33Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/98",
       "text": "Welcome tour and Home page UI"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#98",
+      "title": "OpenFoodFacts/hunger-games#98",
       "time": "2022-08-01T07:24:22Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/98",
       "text": "Welcome tour and Home page UI"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#115",
+      "title": "OpenFoodFacts/hunger-games#115",
       "time": "2022-08-01T13:14:18Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/115",
       "text": "feat: Welcome tour"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#115",
+      "title": "OpenFoodFacts/hunger-games#115",
       "time": "2022-08-05T07:47:37Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/115",
       "text": "feat: Welcome tour"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#121",
+      "title": "OpenFoodFacts/hunger-games#121",
       "time": "2022-08-05T13:54:56Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/121",
       "text": "fix: ensure the Welcome Tour opens automatically only for the first time"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#121",
+      "title": "OpenFoodFacts/hunger-games#121",
       "time": "2022-08-07T16:55:33Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/121",
       "text": "fix: ensure the Welcome Tour opens automatically only for the first time"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#133",
+      "title": "OpenFoodFacts/hunger-games#133",
       "time": "2022-08-08T15:44:55Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/133",
       "text": "feat: feature flags added to dev mode"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#133",
+      "title": "OpenFoodFacts/hunger-games#133",
       "time": "2022-08-10T16:48:41Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/133",
       "text": "feat: feature flags added to dev mode"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#147",
+      "title": "OpenFoodFacts/hunger-games#147",
       "time": "2022-08-14T09:18:53Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/147",
       "text": "feat: reporting images added"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#147",
+      "title": "OpenFoodFacts/hunger-games#147",
       "time": "2022-08-21T13:16:45Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/147",
       "text": "feat: reporting images added"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-hungergames#399",
+      "title": "OpenFoodFacts/openfoodfacts-hungergames#399",
       "time": "2022-03-15T08:21:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/399",
       "text": "feat: Added console.log statements to replace POST and PUT requests in development | Fixes #397"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-hungergames#399",
+      "title": "OpenFoodFacts/openfoodfacts-hungergames#399",
       "time": "2022-03-15T20:32:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/399",
       "text": "feat: Added console.log statements to replace POST and PUT requests in development | Fixes #397"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-hungergames#402",
+      "title": "OpenFoodFacts/openfoodfacts-hungergames#402",
       "time": "2022-03-17T03:22:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/402",
       "text": "feat: coc and cg added"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-hungergames#402",
+      "title": "OpenFoodFacts/openfoodfacts-hungergames#402",
       "time": "2022-03-18T08:23:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/402",
       "text": "feat: coc and cg added"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-hungergames#407",
+      "title": "OpenFoodFacts/openfoodfacts-hungergames#407",
       "time": "2022-03-25T17:18:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/407",
       "text": "feat: Added link to products in category/label/etc"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-hungergames#407",
+      "title": "OpenFoodFacts/openfoodfacts-hungergames#407",
       "time": "2022-03-30T18:04:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/407",
       "text": "feat: Added link to products in category/label/etc"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-hungergames#416",
+      "title": "OpenFoodFacts/openfoodfacts-hungergames#416",
       "time": "2022-04-05T20:09:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/416",
       "text": "fix: no questions remaining fixed with pagination"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-hungergames#449",
+      "title": "OpenFoodFacts/openfoodfacts-hungergames#449",
       "time": "2022-05-17T08:16:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/449",
       "text": "feat: Added favicon and link to main website"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-hungergames#449",
+      "title": "OpenFoodFacts/openfoodfacts-hungergames#449",
       "time": "2022-05-17T11:13:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/449",
       "text": "feat: Added favicon and link to main website"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-hungergames#457",
+      "title": "OpenFoodFacts/openfoodfacts-hungergames#457",
       "time": "2022-05-29T04:34:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/457",
       "text": "feat: 404 page added"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-hungergames#457",
+      "title": "OpenFoodFacts/openfoodfacts-hungergames#457",
       "time": "2022-05-30T09:14:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/pull/457",
       "text": "feat: 404 page added"

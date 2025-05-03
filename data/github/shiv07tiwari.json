@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2033",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2033",
       "time": "2018-12-27T12:52:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2033",
       "text": "Added product name as per user Language"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2034",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2034",
       "time": "2018-12-27T15:42:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2034",
       "text": "#fixes 1005 Product name as per the user language"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2035",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2035",
       "time": "2018-12-27T15:46:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2035",
       "text": "Added headers in scan http calls"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2035",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2035",
       "time": "2019-01-02T09:05:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2035",
       "text": "Added headers in scan http calls"

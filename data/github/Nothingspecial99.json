@@ -3,119 +3,119 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11525",
+      "title": "OpenFoodFacts/openfoodfacts-server#11525",
       "time": "2025-03-02T19:41:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11525",
       "text": "docs: Add troubleshooting steps for WSL(root user) in quick-start-guide"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11525",
+      "title": "OpenFoodFacts/openfoodfacts-server#11525",
       "time": "2025-03-04T11:58:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11525",
       "text": "docs: Add troubleshooting steps for WSL(root user) in quick-start-guide"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11529",
+      "title": "OpenFoodFacts/openfoodfacts-server#11529",
       "time": "2025-03-03T17:57:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11529",
       "text": "feat: Add 'Contact Us' in producers_resources_list"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11529",
+      "title": "OpenFoodFacts/openfoodfacts-server#11529",
       "time": "2025-03-05T12:55:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11529",
       "text": "feat: Add 'Contact Us' in producers_resources_list"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11544",
+      "title": "OpenFoodFacts/openfoodfacts-server#11544",
       "time": "2025-03-05T18:13:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11544",
       "text": "feat: Add 'delete' button in edit mode for mods"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11544",
+      "title": "OpenFoodFacts/openfoodfacts-server#11544",
       "time": "2025-03-06T15:17:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11544",
       "text": "feat: Add 'delete' button in edit mode for mods"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11567",
+      "title": "OpenFoodFacts/openfoodfacts-server#11567",
       "time": "2025-03-07T20:46:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11567",
       "text": "feat: Add a button to add product if not found in search"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11567",
+      "title": "OpenFoodFacts/openfoodfacts-server#11567",
       "time": "2025-04-25T08:04:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11567",
       "text": "feat: Add a button to add product if not found in search"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11575",
+      "title": "OpenFoodFacts/openfoodfacts-server#11575",
       "time": "2025-03-09T04:41:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11575",
       "text": "style: Make footer apk icons coherent with mobile page apk icons"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11575",
+      "title": "OpenFoodFacts/openfoodfacts-server#11575",
       "time": "2025-03-25T13:40:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11575",
       "text": "style: Make footer apk icons coherent with mobile page apk icons"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11577",
+      "title": "OpenFoodFacts/openfoodfacts-server#11577",
       "time": "2025-03-09T08:08:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11577",
       "text": "docs: Add note about regenerating expected results for integration tests."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11577",
+      "title": "OpenFoodFacts/openfoodfacts-server#11577",
       "time": "2025-03-10T12:11:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11577",
       "text": "docs: Add note about regenerating expected results for integration tests."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#172",
+      "title": "OpenFoodFacts/facets-knowledge-panels#172",
       "time": "2025-03-28T09:41:53Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/172",
       "text": "fix: resolve JSON fetch failure in `data_quality_kp` method"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#172",
+      "title": "OpenFoodFacts/facets-knowledge-panels#172",
       "time": "2025-04-23T07:49:41Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/172",
       "text": "fix: resolve JSON fetch failure in `data_quality_kp` method"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#175",
+      "title": "OpenFoodFacts/facets-knowledge-panels#175",
       "time": "2025-03-30T14:53:42Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/175",
       "text": "fix: return translated description in Hunger Games KP given valid lang_code"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#175",
+      "title": "OpenFoodFacts/facets-knowledge-panels#175",
       "time": "2025-04-23T07:34:57Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/175",
       "text": "fix: return translated description in Hunger Games KP given valid lang_code"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#178",
+      "title": "OpenFoodFacts/facets-knowledge-panels#178",
       "time": "2025-04-11T13:15:42Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/178",
       "text": "ci: Modify codeql-analysis.yml"

@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1135",
+      "title": "OpenFoodFacts/openfoodfacts-server#1135",
       "time": "2018-03-08T23:26:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1135",
       "text": "update ingredients taxonomy after few hours of work"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1135",
+      "title": "OpenFoodFacts/openfoodfacts-server#1135",
       "time": "2018-03-09T08:26:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1135",
       "text": "update ingredients taxonomy after few hours of work"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1138",
+      "title": "OpenFoodFacts/openfoodfacts-server#1138",
       "time": "2018-03-09T21:27:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1138",
       "text": "Update ingredients.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1138",
+      "title": "OpenFoodFacts/openfoodfacts-server#1138",
       "time": "2018-03-13T13:10:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1138",
       "text": "Update ingredients.txt"

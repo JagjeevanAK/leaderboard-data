@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7185",
+      "title": "OpenFoodFacts/openfoodfacts-server#7185",
       "time": "2022-08-06T18:50:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7185",
       "text": "taxonomy: add breading and whole grain flour blend"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7185",
+      "title": "OpenFoodFacts/openfoodfacts-server#7185",
       "time": "2022-08-09T08:20:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7185",
       "text": "taxonomy: add breading and whole grain flour blend"

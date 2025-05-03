@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-python#20",
+      "title": "OpenFoodFacts/openfoodfacts-python#20",
       "time": "2016-11-22T13:25:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/20",
       "text": "'purchase_places' declared twice"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-python#20",
+      "title": "OpenFoodFacts/openfoodfacts-python#20",
       "time": "2016-12-04T17:15:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/20",
       "text": "'purchase_places' declared twice"

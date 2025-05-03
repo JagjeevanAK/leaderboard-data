@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-python#321",
+      "title": "OpenFoodFacts/openfoodfacts-python#321",
       "time": "2025-04-07T11:33:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/321",
       "text": "docs(api.py): Add note about 10,000 results API limitation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-python#322",
+      "title": "OpenFoodFacts/openfoodfacts-python#322",
       "time": "2025-04-07T11:56:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/322",
       "text": "docs: add example usage for add_image method"

@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11433",
+      "title": "OpenFoodFacts/openfoodfacts-server#11433",
       "time": "2025-02-16T15:48:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11433",
       "text": "fix: Add Missing site description for OPF and OPFF"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11433",
+      "title": "OpenFoodFacts/openfoodfacts-server#11433",
       "time": "2025-02-17T15:29:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11433",
       "text": "fix: Add Missing site description for OPF and OPFF"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11517",
+      "title": "OpenFoodFacts/openfoodfacts-server#11517",
       "time": "2025-03-01T19:39:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11517",
       "text": "docs: Update ref-cheatsheet.md to mention suggest from search"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11517",
+      "title": "OpenFoodFacts/openfoodfacts-server#11517",
       "time": "2025-03-06T09:20:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11517",
       "text": "docs: Update ref-cheatsheet.md to mention suggest from search"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11526",
+      "title": "OpenFoodFacts/openfoodfacts-server#11526",
       "time": "2025-03-03T08:46:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11526",
       "text": "docs: in the YAML schema, fix the link to product_quality.yaml"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11526",
+      "title": "OpenFoodFacts/openfoodfacts-server#11526",
       "time": "2025-03-03T11:40:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11526",
       "text": "docs: in the YAML schema, fix the link to product_quality.yaml"

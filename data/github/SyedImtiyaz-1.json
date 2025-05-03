@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#189",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#189",
       "time": "2025-03-02T17:13:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/189",
       "text": "Allow Unselecting Images from a Product"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#191",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#191",
       "time": "2025-03-02T19:25:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/191",
       "text": "Fix: Resolve Horizontal Overflow Issue (Edit Page)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#191",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#191",
       "time": "2025-03-04T15:03:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/191",
       "text": "Fix: Resolve Horizontal Overflow Issue (Edit Page)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#198",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#198",
       "time": "2025-03-03T16:35:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/198",
       "text": "Fix: Prevent Dropdown Overlap in Tag Selection Input"

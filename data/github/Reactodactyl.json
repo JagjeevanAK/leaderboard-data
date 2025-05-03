@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-web#488",
+      "title": "OpenFoodFacts/openfoodfacts-web#488",
       "time": "2023-10-05T21:32:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/488",
       "text": "fix: Conjoined Hyperlink and Text"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-web#488",
+      "title": "OpenFoodFacts/openfoodfacts-web#488",
       "time": "2023-10-26T14:10:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/488",
       "text": "fix: Conjoined Hyperlink and Text"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-web#489",
+      "title": "OpenFoodFacts/openfoodfacts-web#489",
       "time": "2023-10-07T16:05:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/489",
       "text": "fix: spelling of developped to developed"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-web#489",
+      "title": "OpenFoodFacts/openfoodfacts-web#489",
       "time": "2023-10-26T14:10:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/489",
       "text": "fix: spelling of developped to developed"

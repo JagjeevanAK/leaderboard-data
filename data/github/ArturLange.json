@@ -1,369 +1,369 @@
 {
-  "last_updated": "2023-08-28T09:18:35Z",
+  "last_updated": "2024-02-07T18:53:52Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#1184",
-      "time": "2023-08-28T09:18:35Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1184",
-      "text": "feat: Added Polish brands, stores and labels"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#198",
+      "title": "OpenFoodFacts/open-prices#198",
       "time": "2024-02-07T18:53:52Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/198",
       "text": "style: Improve typing, pre-commit, updates openfoodfacts package"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#198",
+      "title": "OpenFoodFacts/open-prices#198",
       "time": "2024-03-08T11:12:02Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/198",
       "text": "style: Improve typing, pre-commit, updates openfoodfacts package"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#203",
+      "title": "OpenFoodFacts/open-prices#203",
       "time": "2024-02-10T13:48:19Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/203",
       "text": "build: standardize and upgrade python version"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#203",
+      "title": "OpenFoodFacts/open-prices#203",
       "time": "2024-02-23T09:38:39Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/203",
       "text": "build: standardize and upgrade python version"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#210",
+      "title": "OpenFoodFacts/open-prices#210",
       "time": "2024-02-16T18:47:56Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/210",
       "text": "perf: enable gzip encoding"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#210",
+      "title": "OpenFoodFacts/open-prices#210",
       "time": "2024-02-19T11:03:10Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/210",
       "text": "perf: enable gzip encoding"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#212",
+      "title": "OpenFoodFacts/open-prices#212",
       "time": "2024-02-20T17:35:36Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/212",
       "text": "perf: enable cache for static files in nginx"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#212",
+      "title": "OpenFoodFacts/open-prices#212",
       "time": "2024-02-21T10:00:07Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/212",
       "text": "perf: enable cache for static files in nginx"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#226",
+      "title": "OpenFoodFacts/open-prices#226",
       "time": "2024-02-23T17:13:18Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/226",
       "text": "refactor: Simplify api.py (move endpoints to their own routers)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#226",
+      "title": "OpenFoodFacts/open-prices#226",
       "time": "2024-02-27T18:38:41Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/226",
       "text": "refactor: Simplify api.py (move endpoints to their own routers)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#242",
+      "title": "OpenFoodFacts/open-prices#242",
       "time": "2024-03-06T12:58:20Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/242",
       "text": "fix: setting cookie on the response"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#242",
+      "title": "OpenFoodFacts/open-prices#242",
       "time": "2024-03-27T13:17:54Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/242",
       "text": "fix: setting cookie on the response"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7346",
+      "title": "OpenFoodFacts/openfoodfacts-server#7346",
       "time": "2022-09-15T14:43:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7346",
       "text": "taxonomy: add missing polish translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7346",
+      "title": "OpenFoodFacts/openfoodfacts-server#7346",
       "time": "2022-09-20T07:40:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7346",
       "text": "taxonomy: add missing polish translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7405",
+      "title": "OpenFoodFacts/openfoodfacts-server#7405",
       "time": "2022-09-27T12:37:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7405",
       "text": "taxonomy: add Polish translations, fix some typos"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7405",
+      "title": "OpenFoodFacts/openfoodfacts-server#7405",
       "time": "2022-09-28T09:34:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7405",
       "text": "taxonomy: add Polish translations, fix some typos"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7423",
+      "title": "OpenFoodFacts/openfoodfacts-server#7423",
       "time": "2022-09-29T21:14:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7423",
       "text": "taxonomy: add polish translations to categories"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7423",
+      "title": "OpenFoodFacts/openfoodfacts-server#7423",
       "time": "2022-10-11T10:05:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7423",
       "text": "taxonomy: add polish translations to categories"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7904",
+      "title": "OpenFoodFacts/openfoodfacts-server#7904",
       "time": "2022-12-24T19:29:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7904",
       "text": "taxonomy: add common polish categories and translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7904",
+      "title": "OpenFoodFacts/openfoodfacts-server#7904",
       "time": "2023-01-02T11:51:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7904",
       "text": "taxonomy: add common polish categories and translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8299",
+      "title": "OpenFoodFacts/openfoodfacts-server#8299",
       "time": "2023-04-08T13:34:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8299",
       "text": "taxonomy: Add labels to labels.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8299",
+      "title": "OpenFoodFacts/openfoodfacts-server#8299",
       "time": "2023-04-11T16:19:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8299",
       "text": "taxonomy: Add labels to labels.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8371",
+      "title": "OpenFoodFacts/openfoodfacts-server#8371",
       "time": "2023-04-27T05:25:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8371",
       "text": "taxonomy: mushrooms etc"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8371",
+      "title": "OpenFoodFacts/openfoodfacts-server#8371",
       "time": "2023-07-04T19:46:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8371",
       "text": "taxonomy: mushrooms etc"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8380",
+      "title": "OpenFoodFacts/openfoodfacts-server#8380",
       "time": "2023-04-30T10:10:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8380",
       "text": "chore: Update polish packager codes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8380",
+      "title": "OpenFoodFacts/openfoodfacts-server#8380",
       "time": "2023-06-16T08:48:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8380",
       "text": "chore: Update polish packager codes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8663",
+      "title": "OpenFoodFacts/openfoodfacts-server#8663",
       "time": "2023-07-05T15:27:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8663",
       "text": "taxonomy: Taxonomy update (mostly Polish)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8898",
+      "title": "OpenFoodFacts/openfoodfacts-server#8898",
       "time": "2023-08-22T17:37:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8898",
       "text": "taxonomy: Update polish taxonomy"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8898",
+      "title": "OpenFoodFacts/openfoodfacts-server#8898",
       "time": "2023-08-23T18:10:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8898",
       "text": "taxonomy: Update polish taxonomy"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8930",
+      "title": "OpenFoodFacts/openfoodfacts-server#8930",
       "time": "2023-08-31T15:00:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8930",
       "text": "taxonomy: Add/update translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8930",
+      "title": "OpenFoodFacts/openfoodfacts-server#8930",
       "time": "2024-01-22T16:22:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8930",
       "text": "taxonomy: Add/update translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9662",
+      "title": "OpenFoodFacts/openfoodfacts-server#9662",
       "time": "2024-01-17T10:11:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9662",
       "text": "taxonomy: Add polish herbs translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9662",
+      "title": "OpenFoodFacts/openfoodfacts-server#9662",
       "time": "2024-01-18T11:19:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9662",
       "text": "taxonomy: Add polish herbs translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9718",
+      "title": "OpenFoodFacts/openfoodfacts-server#9718",
       "time": "2024-01-29T17:24:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9718",
       "text": "taxonomy: add missing  categories"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9718",
+      "title": "OpenFoodFacts/openfoodfacts-server#9718",
       "time": "2024-04-19T13:38:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9718",
       "text": "taxonomy: add missing  categories"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9801",
+      "title": "OpenFoodFacts/openfoodfacts-server#9801",
       "time": "2024-02-15T08:42:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9801",
       "text": "taxonomy: add origins translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9801",
+      "title": "OpenFoodFacts/openfoodfacts-server#9801",
       "time": "2024-02-16T09:54:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9801",
       "text": "taxonomy: add origins translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9896",
+      "title": "OpenFoodFacts/openfoodfacts-server#9896",
       "time": "2024-03-11T10:37:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9896",
       "text": "taxonomy: polish translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9896",
+      "title": "OpenFoodFacts/openfoodfacts-server#9896",
       "time": "2024-04-03T09:49:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9896",
       "text": "taxonomy: polish translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10260",
+      "title": "OpenFoodFacts/openfoodfacts-server#10260",
       "time": "2024-05-09T16:57:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10260",
       "text": "taxonomy: Add missing stuff to taxonomies"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10260",
+      "title": "OpenFoodFacts/openfoodfacts-server#10260",
       "time": "2024-05-15T08:23:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10260",
       "text": "taxonomy: Add missing stuff to taxonomies"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#348",
+      "title": "OpenFoodFacts/open-prices-frontend#348",
       "time": "2024-02-17T06:14:42Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/348",
       "text": "fix: fix Lighthouse errors (PWA config)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#348",
+      "title": "OpenFoodFacts/open-prices-frontend#348",
       "time": "2024-02-17T12:43:00Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/348",
       "text": "fix: fix Lighthouse errors (PWA config)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#349",
+      "title": "OpenFoodFacts/open-prices-frontend#349",
       "time": "2024-02-17T06:23:01Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/349",
       "text": "perf: Dynamic imports of vue components"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#349",
+      "title": "OpenFoodFacts/open-prices-frontend#349",
       "time": "2024-02-17T09:46:17Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/349",
       "text": "perf: Dynamic imports of vue components"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#350",
+      "title": "OpenFoodFacts/open-prices-frontend#350",
       "time": "2024-02-17T09:49:05Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/350",
       "text": "build: upgrade Vue"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#350",
+      "title": "OpenFoodFacts/open-prices-frontend#350",
       "time": "2024-02-17T12:39:43Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/350",
       "text": "build: upgrade Vue"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#352",
+      "title": "OpenFoodFacts/open-prices-frontend#352",
       "time": "2024-02-17T11:38:53Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/352",
       "text": "fix: Turn 2 links into real buttons (Type a barcode & Select from gallery)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#352",
+      "title": "OpenFoodFacts/open-prices-frontend#352",
       "time": "2024-02-17T15:06:35Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/352",
       "text": "fix: Turn 2 links into real buttons (Type a barcode & Select from gallery)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-python#215",
+      "title": "OpenFoodFacts/openfoodfacts-python#215",
       "time": "2024-02-23T08:30:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/215",
       "text": "feat: add PEP 561 compliance (typing in installed package)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-python#215",
+      "title": "OpenFoodFacts/openfoodfacts-python#215",
       "time": "2024-03-01T13:42:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/215",
       "text": "feat: add PEP 561 compliance (typing in installed package)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/robotoff#1184",
+      "time": "2023-08-28T09:18:35Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1184",
+      "text": "feat: Added Polish brands, stores and labels"
     }
   ],
   "open_prs": [],

@@ -3,266 +3,273 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6551",
+      "title": "OpenFoodFacts/smooth-app#6551",
       "time": "2025-04-14T06:38:17Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6551",
       "text": "feat: github action pinning with Ratchet"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11505",
+      "title": "OpenFoodFacts/openfoodfacts-server#11505",
       "time": "2025-03-01T06:41:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11505",
       "text": "fix: Missing Template Error: Update ecoscore_details.tt.html to environmental_score_details.tt.html "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11522",
+      "title": "OpenFoodFacts/openfoodfacts-server#11522",
       "time": "2025-03-02T14:00:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11522",
       "text": "docs: Grep Invalid Option --P Fix"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11522",
+      "title": "OpenFoodFacts/openfoodfacts-server#11522",
       "time": "2025-03-03T18:35:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11522",
       "text": "docs: Grep Invalid Option --P Fix"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11534",
+      "title": "OpenFoodFacts/openfoodfacts-server#11534",
       "time": "2025-03-04T15:49:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11534",
       "text": "fix: Added a GNU grep dependency check to Makefile"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11534",
+      "title": "OpenFoodFacts/openfoodfacts-server#11534",
       "time": "2025-03-05T12:54:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11534",
       "text": "fix: Added a GNU grep dependency check to Makefile"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11555",
+      "title": "OpenFoodFacts/openfoodfacts-server#11555",
       "time": "2025-03-07T13:28:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11555",
       "text": "fix: added skip tests while docs updations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11555",
+      "title": "OpenFoodFacts/openfoodfacts-server#11555",
       "time": "2025-03-14T15:21:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11555",
       "text": "fix: added skip tests while docs updations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11585",
+      "title": "OpenFoodFacts/openfoodfacts-server#11585",
       "time": "2025-03-10T14:03:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11585",
       "text": "fix: Update bug_report.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11585",
+      "title": "OpenFoodFacts/openfoodfacts-server#11585",
       "time": "2025-03-11T09:37:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11585",
       "text": "fix: Update bug_report.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11591",
+      "title": "OpenFoodFacts/openfoodfacts-server#11591",
       "time": "2025-03-11T09:01:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11591",
       "text": "fix: Missing Template Error: Update ecoscore_details.tt.html to environmental_score_details.tt.html "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11591",
+      "title": "OpenFoodFacts/openfoodfacts-server#11591",
       "time": "2025-03-11T14:54:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11591",
       "text": "fix: Missing Template Error: Update ecoscore_details.tt.html to environmental_score_details.tt.html "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11603",
+      "title": "OpenFoodFacts/openfoodfacts-server#11603",
       "time": "2025-03-12T10:45:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11603",
       "text": "fix: Added CORS Support to `/cgi/product_image_unselect.pl` and `/cgi/product_image_crop.pl`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11603",
+      "title": "OpenFoodFacts/openfoodfacts-server#11603",
       "time": "2025-03-13T17:30:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11603",
       "text": "fix: Added CORS Support to `/cgi/product_image_unselect.pl` and `/cgi/product_image_crop.pl`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11605",
+      "title": "OpenFoodFacts/openfoodfacts-server#11605",
       "time": "2025-03-12T12:41:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11605",
       "text": "fix: Twitter Url and logo updates"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11605",
+      "title": "OpenFoodFacts/openfoodfacts-server#11605",
       "time": "2025-03-27T15:19:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11605",
       "text": "fix: Twitter Url and logo updates"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11617",
+      "title": "OpenFoodFacts/openfoodfacts-server#11617",
       "time": "2025-03-14T15:57:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11617",
       "text": "fix: fixed the issue of pull_request.yml file"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11617",
+      "title": "OpenFoodFacts/openfoodfacts-server#11617",
       "time": "2025-03-14T16:38:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11617",
       "text": "fix: fixed the issue of pull_request.yml file"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11618",
+      "title": "OpenFoodFacts/openfoodfacts-server#11618",
       "time": "2025-03-14T16:52:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11618",
       "text": "ci: Update pull_request.yml"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11622",
+      "title": "OpenFoodFacts/openfoodfacts-server#11622",
       "time": "2025-03-15T02:26:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11622",
       "text": "testing gitpod"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11624",
+      "title": "OpenFoodFacts/openfoodfacts-server#11624",
       "time": "2025-03-15T14:35:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11624",
       "text": "ci: Updated the workflow file with refined logic "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11624",
+      "title": "OpenFoodFacts/openfoodfacts-server#11624",
       "time": "2025-03-17T10:53:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11624",
       "text": "ci: Updated the workflow file with refined logic "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11628",
+      "title": "OpenFoodFacts/openfoodfacts-server#11628",
       "time": "2025-03-17T12:07:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11628",
       "text": "fix: Update pull_request.yml"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11630",
+      "title": "OpenFoodFacts/openfoodfacts-server#11630",
       "time": "2025-03-17T17:12:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11630",
       "text": "ci: replaced dorny/path-filter to tj-actions/changed-files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11630",
+      "title": "OpenFoodFacts/openfoodfacts-server#11630",
       "time": "2025-03-18T08:20:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11630",
       "text": "ci: replaced dorny/path-filter to tj-actions/changed-files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11631",
+      "title": "OpenFoodFacts/openfoodfacts-server#11631",
       "time": "2025-03-18T13:10:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11631",
       "text": "ci: Testing matrix strategy to run tests in parallel."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11644",
+      "title": "OpenFoodFacts/openfoodfacts-server#11644",
       "time": "2025-03-21T01:30:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11644",
       "text": "fix: replace tj-actions/changed-file by step-security/changed-files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11644",
+      "title": "OpenFoodFacts/openfoodfacts-server#11644",
       "time": "2025-03-21T16:47:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11644",
       "text": "fix: replace tj-actions/changed-file by step-security/changed-files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11647",
+      "title": "OpenFoodFacts/openfoodfacts-server#11647",
       "time": "2025-03-21T16:42:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11647",
       "text": "ci: Optimization of CI Pipeline"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11703",
+      "title": "OpenFoodFacts/openfoodfacts-server#11703",
       "time": "2025-03-31T08:36:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11703",
       "text": "feat: Added Display currently served version on website and attached the latest release notes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11731",
+      "title": "OpenFoodFacts/openfoodfacts-server#11731",
       "time": "2025-04-03T08:54:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11731",
       "text": "feat: Google IDX Testing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11781",
+      "title": "OpenFoodFacts/openfoodfacts-server#11781",
       "time": "2025-04-14T05:15:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11781",
       "text": "feat: github action pinning with Ratchet"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11782",
+      "title": "OpenFoodFacts/openfoodfacts-server#11782",
       "time": "2025-04-14T10:14:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11782",
       "text": "fix: Configured Apache log rotation in docker deployment scenario"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11826",
+      "title": "OpenFoodFacts/openfoodfacts-server#11826",
       "time": "2025-04-27T07:15:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11826",
       "text": "fix: Minor changes in spec file"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11826",
+      "title": "OpenFoodFacts/openfoodfacts-server#11826",
       "time": "2025-04-28T12:18:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11826",
       "text": "fix: Minor changes in spec file"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/folksonomy_api#275",
-      "time": "2025-04-14T06:18:10Z",
-      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/275",
-      "text": "feat: github action pinning with Ratchet"
+      "title": "OpenFoodFacts/openfoodfacts-server#11847",
+      "time": "2025-05-01T13:51:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11847",
+      "text": "feat: Added Spectral as tool for Linting in OpenApi Spec file "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#472",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#472",
       "time": "2025-04-14T07:05:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/472",
       "text": "feat: github action pinning with Ratchet"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/mobile_scanner#1",
+      "title": "OpenFoodFacts/folksonomy_api#275",
+      "time": "2025-04-14T06:18:10Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/275",
+      "text": "feat: github action pinning with Ratchet"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/mobile_scanner#1",
       "time": "2025-03-23T07:00:59Z",
       "link": "https://github.com/openfoodfacts/mobile_scanner/pull/1",
       "text": "fix: Forked repo is some what  outdated need's to be in sync with the original one."

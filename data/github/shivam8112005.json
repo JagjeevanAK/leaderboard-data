@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#285",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#285",
       "time": "2025-03-14T05:58:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/285",
       "text": "handle missing images in home page cards (#272)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#285",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#285",
       "time": "2025-03-26T11:32:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/285",
       "text": "handle missing images in home page cards (#272)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#326",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#326",
       "time": "2025-03-20T18:38:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/326",
       "text": "Enhanced Card Component of Home Page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#326",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#326",
       "time": "2025-03-27T23:35:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/326",
       "text": "Enhanced Card Component of Home Page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#374",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#374",
       "time": "2025-03-28T12:14:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/374",
       "text": "Corrected the path of Placeholder.svg in the SmallProductCard component"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#374",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#374",
       "time": "2025-03-31T08:15:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/374",
       "text": "Corrected the path of Placeholder.svg in the SmallProductCard component"

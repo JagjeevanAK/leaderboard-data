@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6408",
+      "title": "OpenFoodFacts/smooth-app#6408",
       "time": "2025-03-02T18:12:30Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6408",
       "text": "feat: added some shortcut links in prices section"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#6408",
+      "title": "OpenFoodFacts/smooth-app#6408",
       "time": "2025-03-24T18:14:57Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6408",
       "text": "feat: added some shortcut links in prices section"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6472",
+      "title": "OpenFoodFacts/smooth-app#6472",
       "time": "2025-03-24T13:37:37Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6472",
       "text": "feat: added shortcut link for community calendar (closes #5536)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#6472",
+      "title": "OpenFoodFacts/smooth-app#6472",
       "time": "2025-03-26T07:43:55Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6472",
       "text": "feat: added shortcut link for community calendar (closes #5536)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6484",
+      "title": "OpenFoodFacts/smooth-app#6484",
       "time": "2025-03-28T11:24:04Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6484",
       "text": "refactor: highlighted missing fields with sorting functionality in Edit product page."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6497",
+      "title": "OpenFoodFacts/smooth-app#6497",
       "time": "2025-03-29T17:36:08Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6497",
       "text": "refactor: highlighted indicators for incomplete fields"

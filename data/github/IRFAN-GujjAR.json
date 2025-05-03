@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1411",
+      "title": "OpenFoodFacts/smooth-app#1411",
       "time": "2022-03-29T19:48:56Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1411",
       "text": "feat: Add animation when deleting an item from a list"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1411",
+      "title": "OpenFoodFacts/smooth-app#1411",
       "time": "2022-03-31T16:46:22Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1411",
       "text": "feat: Add animation when deleting an item from a list"

@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5427",
+      "title": "OpenFoodFacts/openfoodfacts-server#5427",
       "time": "2021-08-01T19:09:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5427",
       "text": "add missing ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5427",
+      "title": "OpenFoodFacts/openfoodfacts-server#5427",
       "time": "2021-08-11T09:45:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5427",
       "text": "add missing ingredients"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5620",
+      "title": "OpenFoodFacts/openfoodfacts-server#5620",
       "time": "2021-09-06T13:51:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5620",
       "text": "github-linguist: Treat .csv.<number> files as CSV, not Roff"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5620",
+      "title": "OpenFoodFacts/openfoodfacts-server#5620",
       "time": "2021-09-07T07:02:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5620",
       "text": "github-linguist: Treat .csv.<number> files as CSV, not Roff"

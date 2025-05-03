@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3064",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3064",
       "time": "2020-04-14T20:17:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3064",
       "text": "Fixed bottom panel bug"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3064",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3064",
       "time": "2020-04-15T18:13:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3064",
       "text": "Fixed bottom panel bug"

@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#405",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#405",
       "time": "2025-03-31T19:00:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/405",
       "text": "Update to env.example"

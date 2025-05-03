@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#623",
+      "title": "OpenFoodFacts/openfoodfacts-ios#623",
       "time": "2020-03-06T00:48:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/623",
       "text": "Use xcodegen to generate the xcode project and fix the build: all tests building, unit tests succeeding"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#623",
+      "title": "OpenFoodFacts/openfoodfacts-ios#623",
       "time": "2020-03-09T15:52:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/623",
       "text": "Use xcodegen to generate the xcode project and fix the build: all tests building, unit tests succeeding"

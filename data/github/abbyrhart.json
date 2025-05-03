@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10168",
+      "title": "OpenFoodFacts/openfoodfacts-server#10168",
       "time": "2024-04-24T04:26:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10168",
       "text": "fix: Accessibility [2.4.1]: Provide a skip links option Fixes #6575"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10168",
+      "title": "OpenFoodFacts/openfoodfacts-server#10168",
       "time": "2024-05-16T13:46:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10168",
       "text": "fix: Accessibility [2.4.1]: Provide a skip links option Fixes #6575"

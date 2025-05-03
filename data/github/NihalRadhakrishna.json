@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#229",
+      "title": "OpenFoodFacts/taxonomy-editor#229",
       "time": "2023-02-14T16:01:05Z",
       "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/229",
       "text": "feat: Show feedback when special characters are entered in branch name"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/taxonomy-editor#229",
+      "title": "OpenFoodFacts/taxonomy-editor#229",
       "time": "2023-02-16T15:39:07Z",
       "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/229",
       "text": "feat: Show feedback when special characters are entered in branch name"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#230",
+      "title": "OpenFoodFacts/taxonomy-editor#230",
       "time": "2023-02-14T16:40:36Z",
       "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/230",
       "text": "feat: Add load animation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/taxonomy-editor#232",
+      "title": "OpenFoodFacts/taxonomy-editor#232",
       "time": "2023-02-16T17:50:33Z",
       "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/232",
       "text": "feat: add loading animation"

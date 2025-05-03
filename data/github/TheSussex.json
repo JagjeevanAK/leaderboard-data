@@ -3,259 +3,259 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9925",
+      "title": "OpenFoodFacts/openfoodfacts-server#9925",
       "time": "2024-03-15T03:12:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9925",
       "text": "fix: Add a new sheet for categories to the import spreadsheet template"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9925",
+      "title": "OpenFoodFacts/openfoodfacts-server#9925",
       "time": "2024-03-28T10:00:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9925",
       "text": "fix: Add a new sheet for categories to the import spreadsheet template"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9952",
+      "title": "OpenFoodFacts/openfoodfacts-server#9952",
       "time": "2024-03-19T03:42:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9952",
       "text": "fix: Add org name directly in url for a logged in user on producer platform"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9954",
+      "title": "OpenFoodFacts/openfoodfacts-server#9954",
       "time": "2024-03-19T09:35:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9954",
       "text": "fix: Add timestamp in log4perl logs"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9954",
+      "title": "OpenFoodFacts/openfoodfacts-server#9954",
       "time": "2024-03-19T10:35:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9954",
       "text": "fix: Add timestamp in log4perl logs"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9957",
+      "title": "OpenFoodFacts/openfoodfacts-server#9957",
       "time": "2024-03-19T13:30:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9957",
       "text": "fix: Add lang tag to import template title"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9957",
+      "title": "OpenFoodFacts/openfoodfacts-server#9957",
       "time": "2024-03-19T14:05:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9957",
       "text": "fix: Add lang tag to import template title"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9975",
+      "title": "OpenFoodFacts/openfoodfacts-server#9975",
       "time": "2024-03-22T11:02:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9975",
       "text": "fix: Add example line to import template"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10058",
+      "title": "OpenFoodFacts/openfoodfacts-server#10058",
       "time": "2024-03-30T14:50:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10058",
       "text": "fix: make the texts on edit organization profile buttons visible"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10058",
+      "title": "OpenFoodFacts/openfoodfacts-server#10058",
       "time": "2024-04-08T08:41:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10058",
       "text": "fix: make the texts on edit organization profile buttons visible"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10136",
+      "title": "OpenFoodFacts/openfoodfacts-server#10136",
       "time": "2024-04-15T16:32:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10136",
       "text": "fix: disable the Invite Users button until at least one email address has been entered"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10136",
+      "title": "OpenFoodFacts/openfoodfacts-server#10136",
       "time": "2024-04-19T13:30:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10136",
       "text": "fix: disable the Invite Users button until at least one email address has been entered"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10379",
+      "title": "OpenFoodFacts/openfoodfacts-server#10379",
       "time": "2024-06-01T13:56:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10379",
       "text": "feat: store org data in mongo db"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10379",
+      "title": "OpenFoodFacts/openfoodfacts-server#10379",
       "time": "2024-06-03T11:47:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10379",
       "text": "feat: store org data in mongo db"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10393",
+      "title": "OpenFoodFacts/openfoodfacts-server#10393",
       "time": "2024-06-05T08:07:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10393",
       "text": "chore: add org update script"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10393",
+      "title": "OpenFoodFacts/openfoodfacts-server#10393",
       "time": "2024-06-11T14:08:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10393",
       "text": "chore: add org update script"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10433",
+      "title": "OpenFoodFacts/openfoodfacts-server#10433",
       "time": "2024-06-11T22:24:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10433",
       "text": "feat: display orgs data in table"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10433",
+      "title": "OpenFoodFacts/openfoodfacts-server#10433",
       "time": "2024-06-21T10:38:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10433",
       "text": "feat: display orgs data in table"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10447",
+      "title": "OpenFoodFacts/openfoodfacts-server#10447",
       "time": "2024-06-17T05:35:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10447",
       "text": "chore: add script to gather organization data daily"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10447",
+      "title": "OpenFoodFacts/openfoodfacts-server#10447",
       "time": "2024-07-22T11:51:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10447",
       "text": "chore: add script to gather organization data daily"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10499",
+      "title": "OpenFoodFacts/openfoodfacts-server#10499",
       "time": "2024-06-26T14:16:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10499",
       "text": "feat: display new fields in orgs table"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10499",
+      "title": "OpenFoodFacts/openfoodfacts-server#10499",
       "time": "2024-07-02T07:44:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10499",
       "text": "feat: display new fields in orgs table"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10510",
+      "title": "OpenFoodFacts/openfoodfacts-server#10510",
       "time": "2024-07-03T14:08:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10510",
       "text": "feat: add filters to orgs table"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10510",
+      "title": "OpenFoodFacts/openfoodfacts-server#10510",
       "time": "2024-07-05T10:30:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10510",
       "text": "feat: add filters to orgs table"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10522",
+      "title": "OpenFoodFacts/openfoodfacts-server#10522",
       "time": "2024-07-08T14:47:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10522",
       "text": "Feat make filter dropdown"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10524",
+      "title": "OpenFoodFacts/openfoodfacts-server#10524",
       "time": "2024-07-08T15:03:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10524",
       "text": "feat: make valid org filter field a dropdown"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10524",
+      "title": "OpenFoodFacts/openfoodfacts-server#10524",
       "time": "2024-07-09T09:42:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10524",
       "text": "feat: make valid org filter field a dropdown"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10534",
+      "title": "OpenFoodFacts/openfoodfacts-server#10534",
       "time": "2024-07-10T23:11:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10534",
       "text": "feat: add product data to org table"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10534",
+      "title": "OpenFoodFacts/openfoodfacts-server#10534",
       "time": "2024-07-22T11:43:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10534",
       "text": "feat: add product data to org table"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10582",
+      "title": "OpenFoodFacts/openfoodfacts-server#10582",
       "time": "2024-07-23T07:42:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10582",
       "text": "feat: add script for public platform"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10583",
+      "title": "OpenFoodFacts/openfoodfacts-server#10583",
       "time": "2024-07-23T07:46:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10583",
       "text": "feat: duplicate script for off database"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10583",
+      "title": "OpenFoodFacts/openfoodfacts-server#10583",
       "time": "2024-07-30T08:08:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10583",
       "text": "feat: duplicate script for off database"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10599",
+      "title": "OpenFoodFacts/openfoodfacts-server#10599",
       "time": "2024-07-26T08:01:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10599",
       "text": "feat: add improvement to product navbar"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10599",
+      "title": "OpenFoodFacts/openfoodfacts-server#10599",
       "time": "2024-07-29T10:38:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10599",
       "text": "feat: add improvement to product navbar"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10677",
+      "title": "OpenFoodFacts/openfoodfacts-server#10677",
       "time": "2024-08-11T22:58:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10677",
       "text": "feat: add template for product with improv. opportunities page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10679",
+      "title": "OpenFoodFacts/openfoodfacts-server#10679",
       "time": "2024-08-12T08:43:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10679",
       "text": "feat: make improvements to org table"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10679",
+      "title": "OpenFoodFacts/openfoodfacts-server#10679",
       "time": "2024-09-17T14:12:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10679",
       "text": "feat: make improvements to org table"

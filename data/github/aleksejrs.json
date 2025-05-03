@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#958",
+      "title": "OpenFoodFacts/openfoodfacts-server#958",
       "time": "2017-11-17T18:51:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/958",
       "text": "Pet-specific examples in the product editor"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#958",
+      "title": "OpenFoodFacts/openfoodfacts-server#958",
       "time": "2017-11-17T19:24:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/958",
       "text": "Pet-specific examples in the product editor"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2095",
+      "title": "OpenFoodFacts/openfoodfacts-server#2095",
       "time": "2019-07-12T22:59:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2095",
       "text": "Merge Sour creams with Smetana and some German names"

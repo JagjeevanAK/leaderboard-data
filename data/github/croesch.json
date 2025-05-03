@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1159",
+      "title": "OpenFoodFacts/openfoodfacts-server#1159",
       "time": "2018-03-25T17:45:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1159",
       "text": "Start of German translation"

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-03T10:28:38.000Z",
+  "last_updated": "2025-03-23T10:36:35Z",
   "activity": [
     {
       "type": "pr_merged",
@@ -11,346 +11,374 @@
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#347",
-      "time": "2025-03-23T18:03:38Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/347",
-      "text": "fix: Fixed design issues in product cards on homepage"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#347",
-      "time": "2025-04-03T23:31:24Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/347",
-      "text": "fix: Fixed design issues in product cards on homepage"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#350",
-      "time": "2025-03-23T21:51:16Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/350",
-      "text": "feat: Added Browser Caching for Products with Questions on HomePage"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#351",
-      "time": "2025-03-24T06:22:52Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/351",
-      "text": "feat: Added configurable radius parameter for searching nearby stores"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#351",
-      "time": "2025-03-27T23:46:52Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/351",
-      "text": "feat: Added configurable radius parameter for searching nearby stores"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#353",
-      "time": "2025-03-24T07:30:50Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/353",
-      "text": "fix: Improvements and Fixes in package.json"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#353",
-      "time": "2025-03-31T09:35:08Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/353",
-      "text": "fix: Improvements and Fixes in package.json"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#355",
-      "time": "2025-03-24T07:47:28Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/355",
-      "text": "docs: added license"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#356",
-      "time": "2025-03-24T08:50:46Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/356",
-      "text": "chore: Fixed lint and check errors"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#372",
-      "time": "2025-03-28T09:09:47Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/372",
-      "text": "fix: Header logo responsiveness"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#372",
-      "time": "2025-03-31T23:47:06Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/372",
-      "text": "fix: Header logo responsiveness"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#429",
-      "time": "2025-04-04T14:12:54Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/429",
-      "text": "fix: search page issue of cards showing in single column fixed"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#429",
-      "time": "2025-04-15T16:48:49Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/429",
-      "text": "fix: search page issue of cards showing in single column fixed"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#469",
-      "time": "2025-04-13T14:49:41Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/469",
-      "text": "feat: nodejs SDK Integration for Open Prices APIs"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#469",
-      "time": "2025-04-25T14:48:47Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/469",
-      "text": "feat: nodejs SDK Integration for Open Prices APIs"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#480",
-      "time": "2025-04-15T20:39:11Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/480",
-      "text": "style: remove flex from root component"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#480",
-      "time": "2025-04-17T23:29:21Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/480",
-      "text": "style: remove flex from root component"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#503",
-      "time": "2025-04-19T20:26:56Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/503",
-      "text": "fix: Fixed value of set_cookie in Open Prices Auth"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#503",
-      "time": "2025-04-19T22:35:42Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/503",
-      "text": "fix: Fixed value of set_cookie in Open Prices Auth"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-webcomponents#54",
-      "time": "2025-03-25T00:38:45Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/54",
-      "text": "feat: Created Web Component for Donation Banner"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-webcomponents#54",
-      "time": "2025-03-26T12:03:01Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/54",
-      "text": "feat: Created Web Component for Donation Banner"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-webcomponents#64",
-      "time": "2025-03-27T15:26:28Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/64",
-      "text": "feat: Added web component for Mobile badges"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-webcomponents#64",
-      "time": "2025-04-02T09:09:03Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/64",
-      "text": "feat: Added web component for Mobile badges"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-webcomponents#65",
-      "time": "2025-03-27T15:40:48Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/65",
-      "text": "chore: formatting of files"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-webcomponents#65",
-      "time": "2025-03-28T08:49:30Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/65",
-      "text": "chore: formatting of files"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-webcomponents#105",
-      "time": "2025-04-09T16:44:37Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/105",
-      "text": "feat: POC on Integrating StoryBook in web-components"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-webcomponents#107",
-      "time": "2025-04-10T22:28:28Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/107",
-      "text": "feat: Implemented component for Folksonomy Editor"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-webcomponents#107",
-      "time": "2025-04-25T16:15:00Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/107",
-      "text": "feat: Implemented component for Folksonomy Editor"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-webcomponents#117",
-      "time": "2025-04-22T01:04:51Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/117",
-      "text": "feat: Folksonomy Editor Advanced Features"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#602",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#602",
       "time": "2025-03-23T10:36:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/602",
       "text": "chore: add debugger task for vscode"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#602",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#602",
       "time": "2025-03-28T00:02:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/602",
       "text": "chore: add debugger task for vscode"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#604",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#604",
       "time": "2025-03-23T12:25:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/604",
       "text": "test: Added unit tests for missing branches and edge cases"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#604",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#604",
       "time": "2025-03-28T00:08:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/604",
       "text": "test: Added unit tests for missing branches and edge cases"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#605",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#605",
       "time": "2025-03-23T13:53:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/605",
       "text": "test: add test suite for Prices Api"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#605",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#605",
       "time": "2025-03-28T00:08:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/605",
       "text": "test: add test suite for Prices Api"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#614",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#614",
       "time": "2025-04-13T12:08:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/614",
       "text": "fix: Exporting Search APIs for consumption"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#614",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#614",
       "time": "2025-04-13T16:33:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/614",
       "text": "fix: Exporting Search APIs for consumption"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#619",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#619",
       "time": "2025-04-18T20:22:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/619",
       "text": "fix: Fixed all issues with Folksonomy API integrations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#620",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#620",
       "time": "2025-04-18T20:41:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/620",
       "text": "fix: Resolve Open Prices API related issues in SDK"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#620",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#620",
       "time": "2025-04-19T23:03:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/620",
       "text": "fix: Resolve Open Prices API related issues in SDK"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#621",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#621",
       "time": "2025-04-20T07:00:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/621",
       "text": "refactor: Folksonomy refactoring and Added missing docs"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#621",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#621",
       "time": "2025-04-23T20:36:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/621",
       "text": "refactor: Folksonomy refactoring and Added missing docs"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#622",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#622",
       "time": "2025-04-20T07:15:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/622",
       "text": "fix: Fixed \"body stream already read bug\" in Folksonomy SDK"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#622",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#622",
       "time": "2025-04-20T17:58:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/622",
       "text": "fix: Fixed \"body stream already read bug\" in Folksonomy SDK"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#623",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#623",
       "time": "2025-04-20T07:21:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/623",
       "text": "feat: Added error handling for Folksonomy Write APIs"
     },
     {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#623",
+      "time": "2025-05-03T10:28:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/623",
+      "text": "feat: Added error handling for Folksonomy Write APIs"
+    },
+    {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#624",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#624",
       "time": "2025-04-20T08:12:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/624",
       "text": "feat: Support configurable base URL for all APIs"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#624",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#624",
       "time": "2025-04-20T17:51:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/624",
       "text": "feat: Support configurable base URL for all APIs"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#627",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#627",
       "time": "2025-04-23T03:51:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/627",
       "text": "feat: Added authToken option in Prices API"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#627",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#627",
       "time": "2025-04-23T20:30:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/627",
       "text": "feat: Added authToken option in Prices API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#629",
+      "time": "2025-05-01T11:34:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/629",
+      "text": "fix: Updated folksonomy schemas"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#347",
+      "time": "2025-03-23T18:03:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/347",
+      "text": "fix: Fixed design issues in product cards on homepage"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#347",
+      "time": "2025-04-03T23:31:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/347",
+      "text": "fix: Fixed design issues in product cards on homepage"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#350",
+      "time": "2025-03-23T21:51:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/350",
+      "text": "feat: Added Browser Caching for Products with Questions on HomePage"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#351",
+      "time": "2025-03-24T06:22:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/351",
+      "text": "feat: Added configurable radius parameter for searching nearby stores"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#351",
+      "time": "2025-03-27T23:46:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/351",
+      "text": "feat: Added configurable radius parameter for searching nearby stores"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#353",
+      "time": "2025-03-24T07:30:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/353",
+      "text": "fix: Improvements and Fixes in package.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#353",
+      "time": "2025-03-31T09:35:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/353",
+      "text": "fix: Improvements and Fixes in package.json"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#355",
+      "time": "2025-03-24T07:47:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/355",
+      "text": "docs: added license"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#356",
+      "time": "2025-03-24T08:50:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/356",
+      "text": "chore: Fixed lint and check errors"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#372",
+      "time": "2025-03-28T09:09:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/372",
+      "text": "fix: Header logo responsiveness"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#372",
+      "time": "2025-03-31T23:47:06Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/372",
+      "text": "fix: Header logo responsiveness"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#429",
+      "time": "2025-04-04T14:12:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/429",
+      "text": "fix: search page issue of cards showing in single column fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#429",
+      "time": "2025-04-15T16:48:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/429",
+      "text": "fix: search page issue of cards showing in single column fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#469",
+      "time": "2025-04-13T14:49:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/469",
+      "text": "feat: nodejs SDK Integration for Open Prices APIs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#469",
+      "time": "2025-04-25T14:48:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/469",
+      "text": "feat: nodejs SDK Integration for Open Prices APIs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#480",
+      "time": "2025-04-15T20:39:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/480",
+      "text": "style: remove flex from root component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#480",
+      "time": "2025-04-17T23:29:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/480",
+      "text": "style: remove flex from root component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#503",
+      "time": "2025-04-19T20:26:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/503",
+      "text": "fix: Fixed value of set_cookie in Open Prices Auth"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#503",
+      "time": "2025-04-19T22:35:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/503",
+      "text": "fix: Fixed value of set_cookie in Open Prices Auth"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#516",
+      "time": "2025-04-29T18:36:57Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/516",
+      "text": "feat: nodejs SDK Integration for Folksonomy APIs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#516",
+      "time": "2025-05-02T16:48:18Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/516",
+      "text": "feat: nodejs SDK Integration for Folksonomy APIs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-webcomponents#54",
+      "time": "2025-03-25T00:38:45Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/54",
+      "text": "feat: Created Web Component for Donation Banner"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-webcomponents#54",
+      "time": "2025-03-26T12:03:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/54",
+      "text": "feat: Created Web Component for Donation Banner"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-webcomponents#64",
+      "time": "2025-03-27T15:26:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/64",
+      "text": "feat: Added web component for Mobile badges"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-webcomponents#64",
+      "time": "2025-04-02T09:09:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/64",
+      "text": "feat: Added web component for Mobile badges"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-webcomponents#65",
+      "time": "2025-03-27T15:40:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/65",
+      "text": "chore: formatting of files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-webcomponents#65",
+      "time": "2025-03-28T08:49:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/65",
+      "text": "chore: formatting of files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-webcomponents#105",
+      "time": "2025-04-09T16:44:37Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/105",
+      "text": "feat: POC on Integrating StoryBook in web-components"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-webcomponents#107",
+      "time": "2025-04-10T22:28:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/107",
+      "text": "feat: Implemented component for Folksonomy Editor"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-webcomponents#107",
+      "time": "2025-04-25T16:15:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/107",
+      "text": "feat: Implemented component for Folksonomy Editor"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-webcomponents#117",
+      "time": "2025-04-22T01:04:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/117",
+      "text": "feat: Folksonomy Editor Advanced Features"
     }
   ],
   "open_prs": [

@@ -3,91 +3,91 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#346",
+      "title": "OpenFoodFacts/openfoodfacts-ios#346",
       "time": "2019-10-05T02:39:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/346",
       "text": "Pull in 3.18.0 version of Realm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#346",
+      "title": "OpenFoodFacts/openfoodfacts-ios#346",
       "time": "2019-10-05T19:40:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/346",
       "text": "Pull in 3.18.0 version of Realm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#350",
+      "title": "OpenFoodFacts/openfoodfacts-ios#350",
       "time": "2019-10-06T03:14:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/350",
       "text": "Fix build for MarqueeLabel.framework"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#350",
+      "title": "OpenFoodFacts/openfoodfacts-ios#350",
       "time": "2019-10-08T08:08:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/350",
       "text": "Fix build for MarqueeLabel.framework"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#361",
+      "title": "OpenFoodFacts/openfoodfacts-ios#361",
       "time": "2019-10-11T03:09:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/361",
       "text": "Added .xcodesample.plist to OpenFoodFacts.xcodeprroj/ to force Xcode …"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#361",
+      "title": "OpenFoodFacts/openfoodfacts-ios#361",
       "time": "2019-10-11T08:35:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/361",
       "text": "Added .xcodesample.plist to OpenFoodFacts.xcodeprroj/ to force Xcode …"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#364",
+      "title": "OpenFoodFacts/openfoodfacts-ios#364",
       "time": "2019-10-13T03:31:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/364",
       "text": "Whoops, here's the README.md (so sorry!)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#365",
+      "title": "OpenFoodFacts/openfoodfacts-ios#365",
       "time": "2019-10-13T04:27:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/365",
       "text": "Fixes Create an account and Forgot password button landings in LoginV…"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#365",
+      "title": "OpenFoodFacts/openfoodfacts-ios#365",
       "time": "2019-10-15T09:19:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/365",
       "text": "Fixes Create an account and Forgot password button landings in LoginV…"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#385",
+      "title": "OpenFoodFacts/openfoodfacts-ios#385",
       "time": "2019-10-15T15:30:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/385",
       "text": "Add back the README.md file"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#385",
+      "title": "OpenFoodFacts/openfoodfacts-ios#385",
       "time": "2019-10-15T15:58:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/385",
       "text": "Add back the README.md file"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#413",
+      "title": "OpenFoodFacts/openfoodfacts-ios#413",
       "time": "2019-10-21T16:05:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/413",
       "text": "Added Carthage and README troubleshooting"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#413",
+      "title": "OpenFoodFacts/openfoodfacts-ios#413",
       "time": "2019-11-03T10:57:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/413",
       "text": "Added Carthage and README troubleshooting"

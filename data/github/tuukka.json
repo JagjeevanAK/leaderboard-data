@@ -1,33 +1,33 @@
 {
-  "last_updated": "2024-04-24T18:31:37Z",
+  "last_updated": "2023-09-29T14:41:18Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#554",
-      "time": "2024-04-24T18:31:37Z",
-      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/554",
-      "text": "fix: accept comma as decimal separator in prices"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#554",
-      "time": "2024-04-25T20:53:02Z",
-      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/554",
-      "text": "fix: accept comma as decimal separator in prices"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#745",
+      "title": "OpenFoodFacts/hunger-games#745",
       "time": "2023-09-29T14:41:18Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/745",
       "text": "Fix typo in English greeting"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#745",
+      "title": "OpenFoodFacts/hunger-games#745",
       "time": "2023-09-29T17:16:04Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/745",
       "text": "Fix typo in English greeting"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/open-prices-frontend#554",
+      "time": "2024-04-24T18:31:37Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/554",
+      "text": "fix: accept comma as decimal separator in prices"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/open-prices-frontend#554",
+      "time": "2024-04-25T20:53:02Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/554",
+      "text": "fix: accept comma as decimal separator in prices"
     }
   ],
   "open_prs": [],

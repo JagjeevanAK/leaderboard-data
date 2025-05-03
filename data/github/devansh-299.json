@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3000",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3000",
       "time": "2020-01-16T16:25:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3000",
       "text": "fixes#2999 - Added first timer introduction"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3000",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3000",
       "time": "2020-02-14T12:28:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3000",
       "text": "fixes#2999 - Added first timer introduction"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3002",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3002",
       "time": "2020-01-20T16:52:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3002",
       "text": "fix#3001 error messages are shown using built-in methods"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3002",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3002",
       "time": "2020-02-09T15:18:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3002",
       "text": "fix#3001 error messages are shown using built-in methods"

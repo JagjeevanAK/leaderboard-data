@@ -3,112 +3,112 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#453",
+      "title": "OpenFoodFacts/robotoff#453",
       "time": "2021-09-28T19:02:38Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/453",
       "text": "Format code with black and isort"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#455",
+      "title": "OpenFoodFacts/robotoff#455",
       "time": "2021-09-29T08:41:17Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/455",
       "text": "Format code with black and isort"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#537",
+      "title": "OpenFoodFacts/robotoff#537",
       "time": "2022-01-10T16:52:00Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/537",
       "text": "Format code with black and isort"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#537",
+      "title": "OpenFoodFacts/robotoff#537",
       "time": "2022-01-16T17:53:51Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/537",
       "text": "Format code with black and isort"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#923",
+      "title": "OpenFoodFacts/robotoff#923",
       "time": "2022-09-30T13:19:53Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/923",
       "text": "Format code with black and isort"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#935",
+      "title": "OpenFoodFacts/robotoff#935",
       "time": "2022-10-03T10:12:41Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/935",
       "text": "Format code with black and isort"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#935",
+      "title": "OpenFoodFacts/robotoff#935",
       "time": "2022-10-03T13:17:22Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/935",
       "text": "Format code with black and isort"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#965",
+      "title": "OpenFoodFacts/robotoff#965",
       "time": "2022-10-18T09:38:59Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/965",
       "text": "Format code with black and isort"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#965",
+      "title": "OpenFoodFacts/robotoff#965",
       "time": "2022-10-18T10:56:31Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/965",
       "text": "Format code with black and isort"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#1003",
+      "title": "OpenFoodFacts/robotoff#1003",
       "time": "2022-11-29T09:19:45Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/1003",
       "text": "Format code with black and isort"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#1010",
+      "title": "OpenFoodFacts/robotoff#1010",
       "time": "2022-12-06T11:04:58Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/1010",
       "text": "Format code with black and isort"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#1010",
+      "title": "OpenFoodFacts/robotoff#1010",
       "time": "2022-12-06T11:06:37Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/1010",
       "text": "Format code with black and isort"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-php#34",
+      "title": "OpenFoodFacts/openfoodfacts-php#34",
       "time": "2021-09-28T18:58:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/34",
       "text": "Format code with php-cs-fixer"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-php#34",
+      "title": "OpenFoodFacts/openfoodfacts-php#34",
       "time": "2021-09-29T07:21:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-php/pull/34",
       "text": "Format code with php-cs-fixer"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-laravel#9",
+      "title": "OpenFoodFacts/openfoodfacts-laravel#9",
       "time": "2021-09-28T18:58:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/9",
       "text": "fix: Format code with php-cs-fixer"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-laravel#9",
+      "title": "OpenFoodFacts/openfoodfacts-laravel#9",
       "time": "2022-02-08T09:34:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-laravel/pull/9",
       "text": "fix: Format code with php-cs-fixer"

@@ -3,56 +3,56 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#363",
+      "title": "OpenFoodFacts/openfoodfacts-ios#363",
       "time": "2019-10-11T12:56:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/363",
       "text": "Fix broken build"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#363",
+      "title": "OpenFoodFacts/openfoodfacts-ios#363",
       "time": "2019-10-13T11:57:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/363",
       "text": "Fix broken build"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#373",
+      "title": "OpenFoodFacts/openfoodfacts-ios#373",
       "time": "2019-10-14T16:21:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/373",
       "text": "Upgrade to Swift 5.1"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#373",
+      "title": "OpenFoodFacts/openfoodfacts-ios#373",
       "time": "2019-10-15T09:09:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/373",
       "text": "Upgrade to Swift 5.1"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#391",
+      "title": "OpenFoodFacts/openfoodfacts-ios#391",
       "time": "2019-10-17T01:16:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/391",
       "text": "Fixed a ton of lint warnings, now there are only 4 warnings"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#391",
+      "title": "OpenFoodFacts/openfoodfacts-ios#391",
       "time": "2019-10-17T07:50:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/391",
       "text": "Fixed a ton of lint warnings, now there are only 4 warnings"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#406",
+      "title": "OpenFoodFacts/openfoodfacts-ios#406",
       "time": "2019-10-20T00:45:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/406",
       "text": "Wait up to 180 minutes for travis with no output to finish and run the unit and ui tests"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#406",
+      "title": "OpenFoodFacts/openfoodfacts-ios#406",
       "time": "2019-11-03T10:56:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/406",
       "text": "Wait up to 180 minutes for travis with no output to finish and run the unit and ui tests"

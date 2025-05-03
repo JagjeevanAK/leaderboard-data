@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1539",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1539",
       "time": "2018-04-30T20:41:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1539",
       "text": "Fixes #1495 - incorrectly spaced commas are aligned properly"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1539",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1539",
       "time": "2018-05-01T02:58:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1539",
       "text": "Fixes #1495 - incorrectly spaced commas are aligned properly"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1563",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1563",
       "time": "2018-05-08T03:15:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1563",
       "text": "Fixes #1500; better handling of scan on shake settings changes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1563",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1563",
       "time": "2018-05-08T04:56:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1563",
       "text": "Fixes #1500; better handling of scan on shake settings changes"

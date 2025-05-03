@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#45",
+      "title": "OpenFoodFacts/openfoodfacts-dart#45",
       "time": "2020-08-02T15:51:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/45",
       "text": "Add kcal values in Nutriments"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#45",
+      "title": "OpenFoodFacts/openfoodfacts-dart#45",
       "time": "2020-08-02T16:14:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/45",
       "text": "Add kcal values in Nutriments"

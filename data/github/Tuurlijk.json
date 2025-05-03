@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#1",
+      "title": "OpenFoodFacts/openfoodfacts-ios#1",
       "time": "2016-12-05T08:59:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/1",
       "text": "Update README.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#1",
+      "title": "OpenFoodFacts/openfoodfacts-ios#1",
       "time": "2016-12-05T10:13:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/1",
       "text": "Update README.md"

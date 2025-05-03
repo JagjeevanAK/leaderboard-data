@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6759",
+      "title": "OpenFoodFacts/openfoodfacts-server#6759",
       "time": "2022-05-11T21:22:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6759",
       "text": "chore: add some translations for 'psyllium seed husk'"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6759",
+      "title": "OpenFoodFacts/openfoodfacts-server#6759",
       "time": "2022-05-12T12:36:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6759",
       "text": "chore: add some translations for 'psyllium seed husk'"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6760",
+      "title": "OpenFoodFacts/openfoodfacts-server#6760",
       "time": "2022-05-11T22:51:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6760",
       "text": "chore: add natural rice sourdough with some translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6760",
+      "title": "OpenFoodFacts/openfoodfacts-server#6760",
       "time": "2022-05-12T12:36:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6760",
       "text": "chore: add natural rice sourdough with some translations"

@@ -3,77 +3,77 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2083",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2083",
       "time": "2019-01-10T21:30:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2083",
       "text": "Fixed: Issues #2073, #2075: Small issue with the store field, Merge the Nutrition and Nutrition table tabs."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2084",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2084",
       "time": "2019-01-11T13:17:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2084",
       "text": "Fixed: Issue: #2073, Small issue in store and other fields of Overview Tab."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2084",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2084",
       "time": "2019-01-11T14:49:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2084",
       "text": "Fixed: Issue: #2073, Small issue in store and other fields of Overview Tab."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2085",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2085",
       "time": "2019-01-11T13:50:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2085",
       "text": "Fixed: Issue: #2075, Merge contents of Nutrition table Tab into Nutrition Tab."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2085",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2085",
       "time": "2019-01-12T02:34:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2085",
       "text": "Fixed: Issue: #2075, Merge contents of Nutrition table Tab into Nutrition Tab."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2104",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2104",
       "time": "2019-01-16T13:14:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2104",
       "text": "Fixed: issue: #2086, Trash icon visible after swiping in History section."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2149",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2149",
       "time": "2019-01-25T11:32:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2149",
       "text": "Fixes: #2086: Trash icon visible after swiping in History section."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2150",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2150",
       "time": "2019-01-25T13:45:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2150",
       "text": "Fixes: #2145, NullPointerException on EditText"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2150",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2150",
       "time": "2019-01-26T17:54:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2150",
       "text": "Fixes: #2145, NullPointerException on EditText"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2170",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2170",
       "time": "2019-01-27T21:18:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2170",
       "text": "Fixes: #2168, Origin of ingredients is not clickable"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2170",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2170",
       "time": "2019-01-28T15:04:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2170",
       "text": "Fixes: #2168, Origin of ingredients is not clickable"

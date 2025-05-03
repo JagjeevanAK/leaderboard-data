@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9337",
+      "title": "OpenFoodFacts/openfoodfacts-server#9337",
       "time": "2023-11-18T04:25:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9337",
       "text": "fix: Correct handling of fractions without leading zero in Salt/Sodium content field Fixes #6717"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9337",
+      "title": "OpenFoodFacts/openfoodfacts-server#9337",
       "time": "2023-11-29T16:16:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9337",
       "text": "fix: Correct handling of fractions without leading zero in Salt/Sodium content field Fixes #6717"

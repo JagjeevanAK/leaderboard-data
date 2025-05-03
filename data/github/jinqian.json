@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#54",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#54",
       "time": "2016-04-19T22:21:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/54",
       "text": "Some refactoring on view injection & minor cleanups "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#54",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#54",
       "time": "2016-04-20T06:17:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/54",
       "text": "Some refactoring on view injection & minor cleanups "

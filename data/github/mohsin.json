@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3558",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3558",
       "time": "2020-10-25T20:10:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3558",
       "text": "Bugfix: Fix format issue crash"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3558",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3558",
       "time": "2020-10-26T18:32:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3558",
       "text": "Bugfix: Fix format issue crash"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3565",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3565",
       "time": "2020-10-29T16:36:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3565",
       "text": "Feature: To take a picture of the recycling instructions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3565",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3565",
       "time": "2020-11-11T08:49:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3565",
       "text": "Feature: To take a picture of the recycling instructions"

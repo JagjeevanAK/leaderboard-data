@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#28",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#28",
       "time": "2020-08-14T18:55:35Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/28",
       "text": "build(requirements.txt): add requirements"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-nutrition-table-extractor#28",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#28",
       "time": "2021-09-06T07:40:25Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/28",
       "text": "build(requirements.txt): add requirements"

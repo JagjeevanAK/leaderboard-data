@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/DriveOFF#9",
+      "title": "OpenFoodFacts/DriveOFF#9",
       "time": "2024-04-04T02:31:35Z",
       "link": "https://github.com/openfoodfacts/DriveOFF/pull/9",
       "text": "feat: new drives for `Walmart`"

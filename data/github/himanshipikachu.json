@@ -3,126 +3,126 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9933",
+      "title": "OpenFoodFacts/openfoodfacts-server#9933",
       "time": "2024-03-17T08:09:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9933",
       "text": "fix: issue #9873 header and description styling for import spreadsheet"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9934",
+      "title": "OpenFoodFacts/openfoodfacts-server#9934",
       "time": "2024-03-17T21:48:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9934",
       "text": "fix: issue #9876 import spreadsheet template with mandatory fields"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9934",
+      "title": "OpenFoodFacts/openfoodfacts-server#9934",
       "time": "2024-03-18T15:47:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9934",
       "text": "fix: issue #9876 import spreadsheet template with mandatory fields"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9962",
+      "title": "OpenFoodFacts/openfoodfacts-server#9962",
       "time": "2024-03-19T15:20:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9962",
       "text": "Fix 9534"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9965",
+      "title": "OpenFoodFacts/openfoodfacts-server#9965",
       "time": "2024-03-20T05:53:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9965",
       "text": "fix: ciqual_food_code and ciqual_proxy_food_code on ingredients analysis panel"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9965",
+      "title": "OpenFoodFacts/openfoodfacts-server#9965",
       "time": "2024-03-26T15:28:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9965",
       "text": "fix: ciqual_food_code and ciqual_proxy_food_code on ingredients analysis panel"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9968",
+      "title": "OpenFoodFacts/openfoodfacts-server#9968",
       "time": "2024-03-21T10:09:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9968",
       "text": "feat: Add is_in_taxonomy boolean flag in ingredient parsing result"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9968",
+      "title": "OpenFoodFacts/openfoodfacts-server#9968",
       "time": "2024-04-19T13:11:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9968",
       "text": "feat: Add is_in_taxonomy boolean flag in ingredient parsing result"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10022",
+      "title": "OpenFoodFacts/openfoodfacts-server#10022",
       "time": "2024-03-25T15:14:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10022",
       "text": "fix: sort_by param in the current url being mixed up with \"?\" instead of \"&\""
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10024",
+      "title": "OpenFoodFacts/openfoodfacts-server#10024",
       "time": "2024-03-25T15:50:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10024",
       "text": "fix: sort_by param issue in the url with \"?\" instead of \"&\" "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10041",
+      "title": "OpenFoodFacts/openfoodfacts-server#10041",
       "time": "2024-03-27T18:47:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10041",
       "text": "feat: added unit for sodium in India"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10041",
+      "title": "OpenFoodFacts/openfoodfacts-server#10041",
       "time": "2024-04-02T08:02:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10041",
       "text": "feat: added unit for sodium in India"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10062",
+      "title": "OpenFoodFacts/openfoodfacts-server#10062",
       "time": "2024-03-31T17:55:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10062",
       "text": "fix: contribution tag not highlighting as part of issue #10061"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10062",
+      "title": "OpenFoodFacts/openfoodfacts-server#10062",
       "time": "2024-04-02T08:13:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10062",
       "text": "fix: contribution tag not highlighting as part of issue #10061"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10072",
+      "title": "OpenFoodFacts/openfoodfacts-server#10072",
       "time": "2024-04-02T13:32:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10072",
       "text": "fix: Deleted the Pros' Meet-Up link in Menu"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10072",
+      "title": "OpenFoodFacts/openfoodfacts-server#10072",
       "time": "2024-04-02T15:02:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10072",
       "text": "fix: Deleted the Pros' Meet-Up link in Menu"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10095",
+      "title": "OpenFoodFacts/openfoodfacts-server#10095",
       "time": "2024-04-05T19:56:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10095",
       "text": "feat: Added view_this_revision button"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10095",
+      "title": "OpenFoodFacts/openfoodfacts-server#10095",
       "time": "2024-04-19T13:09:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10095",
       "text": "feat: Added view_this_revision button"

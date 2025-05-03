@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#316",
+      "title": "OpenFoodFacts/robotoff#316",
       "time": "2021-02-12T14:34:09Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/316",
       "text": "Add MONGO_URI as envvar"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#316",
+      "title": "OpenFoodFacts/robotoff#316",
       "time": "2021-02-12T14:35:34Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/316",
       "text": "Add MONGO_URI as envvar"

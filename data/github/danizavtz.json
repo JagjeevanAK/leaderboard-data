@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-web#264",
+      "title": "OpenFoodFacts/openfoodfacts-web#264",
       "time": "2022-06-29T19:01:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/264",
       "text": "fix: adjust missing files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-web#265",
+      "title": "OpenFoodFacts/openfoodfacts-web#265",
       "time": "2022-06-29T19:10:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/265",
       "text": "feat: finish ptbr translations"

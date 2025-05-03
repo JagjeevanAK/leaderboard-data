@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#236",
+      "title": "OpenFoodFacts/hunger-games#236",
       "time": "2022-09-30T21:45:04Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/236",
       "text": "fix: show existing categories in categories questions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#236",
+      "title": "OpenFoodFacts/hunger-games#236",
       "time": "2022-10-02T08:47:47Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/236",
       "text": "fix: show existing categories in categories questions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#312",
+      "title": "OpenFoodFacts/hunger-games#312",
       "time": "2022-10-23T10:46:30Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/312",
       "text": "fix: added Settings and Tour to menu in mobile view"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#312",
+      "title": "OpenFoodFacts/hunger-games#312",
       "time": "2022-10-27T09:00:00Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/312",
       "text": "fix: added Settings and Tour to menu in mobile view"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#366",
+      "title": "OpenFoodFacts/hunger-games#366",
       "time": "2022-11-27T19:28:03Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/366",
       "text": "fix: change header color to match new OFF design"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#366",
+      "title": "OpenFoodFacts/hunger-games#366",
       "time": "2022-12-09T11:52:56Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/366",
       "text": "fix: change header color to match new OFF design"

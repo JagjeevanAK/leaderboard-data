@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10192",
+      "title": "OpenFoodFacts/openfoodfacts-server#10192",
       "time": "2024-04-28T21:57:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10192",
       "text": "docs: updated quick start guide with fix to permission issue on macOS. "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10192",
+      "title": "OpenFoodFacts/openfoodfacts-server#10192",
       "time": "2024-04-30T14:49:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10192",
       "text": "docs: updated quick start guide with fix to permission issue on macOS. "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10193",
+      "title": "OpenFoodFacts/openfoodfacts-server#10193",
       "time": "2024-04-29T02:26:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10193",
       "text": "fix: Move all images to the deleted folder when product is deleted without deleting individual images first "

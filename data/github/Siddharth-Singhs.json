@@ -3,35 +3,35 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#797",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#797",
       "time": "2018-02-18T10:11:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/797",
       "text": "Fixes #766 Show notifications when network status of device changes."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#826",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#826",
       "time": "2018-02-20T13:50:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/826",
       "text": "Fixes #766 Show notifications when network status of device changes."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#841",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#841",
       "time": "2018-02-20T17:33:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/841",
       "text": "Fixes #830 Upload toast is hiding the \"Upload All\" button"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#856",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#856",
       "time": "2018-02-21T17:33:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/856",
       "text": "Fixes #766 Show notifications when network status of device changes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#878",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#878",
       "time": "2018-02-23T17:23:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/878",
       "text": "Fixes #830 Upload toast is hiding the \"Upload All\" button"

@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/search-a-licious#59",
+      "title": "OpenFoodFacts/search-a-licious#59",
       "time": "2023-10-19T13:54:27Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/59",
       "text": "Feature/taxonomy autocomplete"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/search-a-licious#60",
+      "title": "OpenFoodFacts/search-a-licious#60",
       "time": "2023-10-19T13:59:06Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/60",
       "text": "feat: add taxonomy autocomplete feature to search-a-licious"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/search-a-licious#60",
+      "title": "OpenFoodFacts/search-a-licious#60",
       "time": "2023-11-09T09:53:43Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/60",
       "text": "feat: add taxonomy autocomplete feature to search-a-licious"

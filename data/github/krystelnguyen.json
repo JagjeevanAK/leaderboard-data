@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4564",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4564",
       "time": "2022-03-21T09:25:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4564",
       "text": "Fix: #4546 Fixed sign up and password background buttons"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4564",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4564",
       "time": "2022-03-24T08:53:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4564",
       "text": "Fix: #4546 Fixed sign up and password background buttons"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4570",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4570",
       "time": "2022-03-21T11:46:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4570",
       "text": "Fix: #4555 display details attribute when folding / unfolding categories"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4570",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4570",
       "time": "2022-03-21T15:59:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4570",
       "text": "Fix: #4555 display details attribute when folding / unfolding categories"

@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8263",
+      "title": "OpenFoodFacts/openfoodfacts-server#8263",
       "time": "2023-03-28T19:09:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8263",
       "text": "refactor: Refactor the update_all_products.pl in Products.pm Fixes#7271"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8279",
+      "title": "OpenFoodFacts/openfoodfacts-server#8279",
       "time": "2023-04-01T21:17:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8279",
       "text": "docs: Edit spellling errors in Read.md files #8264"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8279",
+      "title": "OpenFoodFacts/openfoodfacts-server#8279",
       "time": "2023-05-23T08:59:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8279",
       "text": "docs: Edit spellling errors in Read.md files #8264"

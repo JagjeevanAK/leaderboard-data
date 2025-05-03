@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-rust#40",
+      "title": "OpenFoodFacts/openfoodfacts-rust#40",
       "time": "2024-06-04T16:29:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-rust/pull/40",
       "text": "feat: expose version types"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-rust#40",
+      "title": "OpenFoodFacts/openfoodfacts-rust#40",
       "time": "2024-06-07T07:40:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-rust/pull/40",
       "text": "feat: expose version types"

@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-category-classification#70",
+      "title": "OpenFoodFacts/off-category-classification#70",
       "time": "2022-05-25T18:04:47Z",
       "link": "https://github.com/openfoodfacts/off-category-classification/pull/70",
       "text": "docs: Makefile + Readme + other documentation files"

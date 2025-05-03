@@ -3,49 +3,49 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2983",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2983",
       "time": "2019-12-30T12:41:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2983",
       "text": "Fixes #2974: Added bottom navigation for PreferenceFragment"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2983",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2983",
       "time": "2019-12-30T13:07:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2983",
       "text": "Fixes #2974: Added bottom navigation for PreferenceFragment"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2986",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2986",
       "time": "2019-12-30T17:26:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2986",
       "text": "Fixes #2977: Tweaked the CommonBottomListener"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2987",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2987",
       "time": "2019-12-31T10:12:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2987",
       "text": "Closes #2977: Tweaked the CommonBottomListener"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2987",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2987",
       "time": "2020-05-04T17:59:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2987",
       "text": "Closes #2977: Tweaked the CommonBottomListener"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3025",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3025",
       "time": "2020-02-21T07:00:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3025",
       "text": "Refactored the redundant setup of the bottom navigation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3025",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3025",
       "time": "2020-03-16T15:12:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3025",
       "text": "Refactored the redundant setup of the bottom navigation"

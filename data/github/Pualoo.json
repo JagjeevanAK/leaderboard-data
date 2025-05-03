@@ -3,56 +3,56 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1676",
+      "title": "OpenFoodFacts/smooth-app#1676",
       "time": "2022-04-27T19:46:15Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1676",
       "text": "fix: 🐛 Set light mode on the scan page. issue: #1558"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1676",
+      "title": "OpenFoodFacts/smooth-app#1676",
       "time": "2022-04-28T13:55:53Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1676",
       "text": "fix: 🐛 Set light mode on the scan page. issue: #1558"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1689",
+      "title": "OpenFoodFacts/smooth-app#1689",
       "time": "2022-04-28T17:35:23Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1689",
       "text": "fix: 🐛 Update value nutrition table quantity #1671"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1689",
+      "title": "OpenFoodFacts/smooth-app#1689",
       "time": "2022-04-28T18:33:01Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1689",
       "text": "fix: 🐛 Update value nutrition table quantity #1671"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1719",
+      "title": "OpenFoodFacts/smooth-app#1719",
       "time": "2022-04-29T21:20:07Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1719",
       "text": "feat: Button ingredient extraction appear after upload an image. Issue: #1624 "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1719",
+      "title": "OpenFoodFacts/smooth-app#1719",
       "time": "2022-05-03T15:27:53Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1719",
       "text": "feat: Button ingredient extraction appear after upload an image. Issue: #1624 "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1776",
+      "title": "OpenFoodFacts/smooth-app#1776",
       "time": "2022-05-06T18:21:03Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1776",
       "text": "feat: 🎸 Scroll to list card after adding product to a list #1699"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1776",
+      "title": "OpenFoodFacts/smooth-app#1776",
       "time": "2022-05-10T17:47:47Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1776",
       "text": "feat: 🎸 Scroll to list card after adding product to a list #1699"

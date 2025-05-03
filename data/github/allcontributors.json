@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#556",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#556",
       "time": "2024-11-05T15:16:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/556",
       "text": "docs: add bengeois as a contributor for code"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#557",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#557",
       "time": "2024-11-05T15:17:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/557",
       "text": "docs: add gciluffo as a contributor for code"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#557",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#557",
       "time": "2024-11-05T15:20:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/557",
       "text": "docs: add gciluffo as a contributor for code"

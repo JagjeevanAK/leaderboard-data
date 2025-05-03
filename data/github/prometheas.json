@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9090",
+      "title": "OpenFoodFacts/openfoodfacts-server#9090",
       "time": "2023-09-29T21:41:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9090",
       "text": "taxonomy: add taxonomy labels for keto foods"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9090",
+      "title": "OpenFoodFacts/openfoodfacts-server#9090",
       "time": "2023-09-30T11:23:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9090",
       "text": "taxonomy: add taxonomy labels for keto foods"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/search-a-licious#36",
+      "title": "OpenFoodFacts/search-a-licious#36",
       "time": "2023-06-08T01:04:30Z",
       "link": "https://github.com/openfoodfacts/search-a-licious/pull/36",
       "text": "chore: add initial devcontainer.json config"

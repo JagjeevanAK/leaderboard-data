@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#48",
+      "title": "OpenFoodFacts/openfoodfacts-ios#48",
       "time": "2018-02-19T18:22:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/48",
       "text": "Added Reachability Manager to indicate No Internet Connection "

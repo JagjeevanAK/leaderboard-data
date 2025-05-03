@@ -3,77 +3,77 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#155",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#155",
       "time": "2025-02-28T18:20:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/155",
       "text": "feat: Added sidebar toggle button and sidebar functionality"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#158",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#158",
       "time": "2025-02-28T20:58:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/158",
       "text": "Added the accordion for navigation on smaller devices"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#158",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#158",
       "time": "2025-03-01T18:27:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/158",
       "text": "Added the accordion for navigation on smaller devices"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#183",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#183",
       "time": "2025-03-02T04:46:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/183",
       "text": "Made the settings and folksonomy page responsive for smaller devices"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#183",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#183",
       "time": "2025-03-02T16:00:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/183",
       "text": "Made the settings and folksonomy page responsive for smaller devices"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#197",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#197",
       "time": "2025-03-03T12:00:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/197",
       "text": "Add environment variable requirement to README.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#212",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#212",
       "time": "2025-03-05T13:04:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/212",
       "text": "Fix: fixed the token error in login"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#212",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#212",
       "time": "2025-03-06T23:36:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/212",
       "text": "Fix: fixed the token error in login"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#232",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#232",
       "time": "2025-03-08T10:27:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/232",
       "text": "fix: nutriscore and greenscore links in product page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#232",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#232",
       "time": "2025-03-08T18:43:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/232",
       "text": "fix: nutriscore and greenscore links in product page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#271",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#271",
       "time": "2025-03-12T11:16:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/271",
       "text": "Added universal search OxF from barcode scanner."

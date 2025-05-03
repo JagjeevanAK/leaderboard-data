@@ -3,98 +3,98 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2363",
+      "title": "OpenFoodFacts/openfoodfacts-server#2363",
       "time": "2019-09-21T14:04:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2363",
       "text": "Fixed typos for Romanian translation + added E445 synonyms"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2363",
+      "title": "OpenFoodFacts/openfoodfacts-server#2363",
       "time": "2019-09-21T15:21:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2363",
       "text": "Fixed typos for Romanian translation + added E445 synonyms"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2365",
+      "title": "OpenFoodFacts/openfoodfacts-server#2365",
       "time": "2019-09-21T16:32:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2365",
       "text": "Added RO translations for Nutriments"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2365",
+      "title": "OpenFoodFacts/openfoodfacts-server#2365",
       "time": "2019-09-22T10:09:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2365",
       "text": "Added RO translations for Nutriments"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2366",
+      "title": "OpenFoodFacts/openfoodfacts-server#2366",
       "time": "2019-09-22T09:14:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2366",
       "text": "Added individual additives for E470a"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2366",
+      "title": "OpenFoodFacts/openfoodfacts-server#2366",
       "time": "2019-09-22T10:09:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2366",
       "text": "Added individual additives for E470a"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2367",
+      "title": "OpenFoodFacts/openfoodfacts-server#2367",
       "time": "2019-09-22T18:13:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2367",
       "text": "Added missing RO additive translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2367",
+      "title": "OpenFoodFacts/openfoodfacts-server#2367",
       "time": "2019-09-23T11:57:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2367",
       "text": "Added missing RO additive translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2370",
+      "title": "OpenFoodFacts/openfoodfacts-server#2370",
       "time": "2019-09-24T08:24:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2370",
       "text": "Added missing RO additives"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2370",
+      "title": "OpenFoodFacts/openfoodfacts-server#2370",
       "time": "2019-09-25T08:44:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2370",
       "text": "Added missing RO additives"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2405",
+      "title": "OpenFoodFacts/openfoodfacts-server#2405",
       "time": "2019-10-06T13:16:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2405",
       "text": "Added some RO category translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2405",
+      "title": "OpenFoodFacts/openfoodfacts-server#2405",
       "time": "2019-10-08T19:32:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2405",
       "text": "Added some RO category translations"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2894",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2894",
       "time": "2019-09-28T16:27:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2894",
       "text": "Change theme and fix bottom navigation issues"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2894",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2894",
       "time": "2019-12-27T12:14:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2894",
       "text": "Change theme and fix bottom navigation issues"

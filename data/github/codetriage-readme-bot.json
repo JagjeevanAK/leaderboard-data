@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#724",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#724",
       "time": "2018-02-13T16:29:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/724",
       "text": "Add CodeTriage badge to openfoodfacts/openfoodfacts-androidapp"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#724",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#724",
       "time": "2018-02-13T16:37:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/724",
       "text": "Add CodeTriage badge to openfoodfacts/openfoodfacts-androidapp"

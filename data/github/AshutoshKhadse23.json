@@ -1,89 +1,89 @@
 {
-  "last_updated": "2025-05-03T12:04:13.000Z",
+  "last_updated": "2025-03-31T08:50:05Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6576",
-      "time": "2025-05-03T12:04:13.000Z",
-      "link": "https://github.com/openfoodfacts/smooth-app/pull/6576",
-      "text": "fix: dark mode issue in feedback page"
-    },
-    {
-      "type": "issue_opened",
-      "title": "openfoodfacts/smooth-app#6575",
-      "time": "2025-05-03T06:41:45.000Z",
-      "link": "https://github.com/openfoodfacts/smooth-app/issues/6575",
-      "text": "Search Results Not Updating After Changing Country Without App Restarte"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#1059",
-      "time": "2025-04-17T20:05:52Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1059",
-      "text": "feat: Add flexibility to PriceTotalStats"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#1059",
-      "time": "2025-04-19T15:57:20Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1059",
-      "text": "feat: Add flexibility to PriceTotalStats"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6501",
+      "title": "OpenFoodFacts/smooth-app#6501",
       "time": "2025-03-31T08:50:05Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6501",
       "text": "fix: partial filter selector (#6491)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6540",
+      "title": "OpenFoodFacts/smooth-app#6540",
       "time": "2025-04-09T18:05:59Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6540",
       "text": "fix: missing discount indicator"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#6540",
+      "title": "OpenFoodFacts/smooth-app#6540",
       "time": "2025-04-10T15:53:54Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6540",
       "text": "fix: missing discount indicator"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6547",
+      "title": "OpenFoodFacts/smooth-app#6547",
       "time": "2025-04-11T17:52:15Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6547",
       "text": "fix: Null check operator used on a null"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#6547",
+      "title": "OpenFoodFacts/smooth-app#6547",
       "time": "2025-04-12T11:27:25Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6547",
       "text": "fix: Null check operator used on a null"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6553",
+      "title": "OpenFoodFacts/smooth-app#6553",
       "time": "2025-04-15T13:27:47Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6553",
       "text": "feat: Added stats view to the prices"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#6553",
+      "title": "OpenFoodFacts/smooth-app#6553",
       "time": "2025-04-20T09:27:07Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6553",
       "text": "feat: Added stats view to the prices"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6561",
+      "title": "OpenFoodFacts/smooth-app#6561",
       "time": "2025-04-21T19:36:27Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6561",
       "text": "feat: Add infinite scrolling to the various Open Prices ListViews."
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/smooth-app#6576",
+      "time": "2025-05-03T12:04:11Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6576",
+      "text": "fix: dark mode issue in feedback page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-dart#1059",
+      "time": "2025-04-17T20:05:52Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1059",
+      "text": "feat: Add flexibility to PriceTotalStats"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-dart#1059",
+      "time": "2025-04-19T15:57:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1059",
+      "text": "feat: Add flexibility to PriceTotalStats"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-dart#1075",
+      "time": "2025-04-30T18:07:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1075",
+      "text": "feat: challenge list and retrive"
     }
   ],
   "open_prs": [

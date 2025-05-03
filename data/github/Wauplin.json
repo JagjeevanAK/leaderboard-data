@@ -3,63 +3,63 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#181",
+      "title": "OpenFoodFacts/robotoff#181",
       "time": "2020-05-18T16:30:29Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/181",
       "text": "Update spellcheck "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#181",
+      "title": "OpenFoodFacts/robotoff#181",
       "time": "2020-07-06T07:20:02Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/181",
       "text": "Update spellcheck "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#315",
+      "title": "OpenFoodFacts/robotoff#315",
       "time": "2021-02-05T09:06:44Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/315",
       "text": "Add poetry + some project changes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#315",
+      "title": "OpenFoodFacts/robotoff#315",
       "time": "2021-06-04T09:03:01Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/315",
       "text": "Add poetry + some project changes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#329",
+      "title": "OpenFoodFacts/robotoff#329",
       "time": "2021-05-21T07:50:06Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/329",
       "text": "Generate cli documentation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#329",
+      "title": "OpenFoodFacts/robotoff#329",
       "time": "2021-05-21T10:55:49Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/329",
       "text": "Generate cli documentation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#331",
+      "title": "OpenFoodFacts/robotoff#331",
       "time": "2021-07-01T15:06:44Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/331",
       "text": "feat: XGFood model from EMLyon"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ai#68",
+      "title": "OpenFoodFacts/openfoodfacts-ai#68",
       "time": "2021-01-29T11:11:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/68",
       "text": "Add ocr cleaning script"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ai#68",
+      "title": "OpenFoodFacts/openfoodfacts-ai#68",
       "time": "2021-03-11T16:21:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/68",
       "text": "Add ocr cleaning script"

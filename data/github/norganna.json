@@ -3,70 +3,70 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#3",
+      "title": "OpenFoodFacts/openfoodfacts-go#3",
       "time": "2016-12-18T08:17:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/3",
       "text": "Initial structure for product and related components."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#3",
+      "title": "OpenFoodFacts/openfoodfacts-go#3",
       "time": "2016-12-18T11:08:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/3",
       "text": "Initial structure for product and related components."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#4",
+      "title": "OpenFoodFacts/openfoodfacts-go#4",
       "time": "2016-12-18T11:29:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/4",
       "text": "Create interface and framework for http API"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#4",
+      "title": "OpenFoodFacts/openfoodfacts-go#4",
       "time": "2016-12-18T11:41:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/4",
       "text": "Create interface and framework for http API"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#5",
+      "title": "OpenFoodFacts/openfoodfacts-go#5",
       "time": "2016-12-18T12:49:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/5",
       "text": "Add documentation."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#5",
+      "title": "OpenFoodFacts/openfoodfacts-go#5",
       "time": "2016-12-18T12:50:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/5",
       "text": "Add documentation."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#6",
+      "title": "OpenFoodFacts/openfoodfacts-go#6",
       "time": "2016-12-18T15:11:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/6",
       "text": "Improve documentation."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#6",
+      "title": "OpenFoodFacts/openfoodfacts-go#6",
       "time": "2016-12-18T15:15:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/6",
       "text": "Improve documentation."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#7",
+      "title": "OpenFoodFacts/openfoodfacts-go#7",
       "time": "2016-12-19T04:21:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/7",
       "text": "Add license and headers to all files."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#7",
+      "title": "OpenFoodFacts/openfoodfacts-go#7",
       "time": "2016-12-19T04:21:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/7",
       "text": "Add license and headers to all files."

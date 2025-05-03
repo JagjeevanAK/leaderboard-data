@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#740",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#740",
       "time": "2018-02-14T11:31:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/740",
       "text": "Added BottomNavigationView to Product_Activity."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#746",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#746",
       "time": "2018-02-14T19:05:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/746",
       "text": "fix #704 (Added BottomNavigationView - Draft)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#762",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#762",
       "time": "2018-02-15T15:54:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/762",
       "text": "fix #730 Notification when no internet access"

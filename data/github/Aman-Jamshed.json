@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7869",
+      "title": "OpenFoodFacts/openfoodfacts-server#7869",
       "time": "2022-12-20T21:57:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7869",
       "text": "docs: Added instructions under Troubleshooting section to solve error caused by local mongodb database server."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7869",
+      "title": "OpenFoodFacts/openfoodfacts-server#7869",
       "time": "2022-12-23T17:21:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7869",
       "text": "docs: Added instructions under Troubleshooting section to solve error caused by local mongodb database server."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7916",
+      "title": "OpenFoodFacts/openfoodfacts-server#7916",
       "time": "2022-12-29T18:05:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7916",
       "text": "fix: scattered product name in responsive mode on product lists Fixes #7499"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7916",
+      "title": "OpenFoodFacts/openfoodfacts-server#7916",
       "time": "2023-01-02T12:17:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7916",
       "text": "fix: scattered product name in responsive mode on product lists Fixes #7499"

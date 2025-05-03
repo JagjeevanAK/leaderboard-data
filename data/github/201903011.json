@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1587",
+      "title": "OpenFoodFacts/smooth-app#1587",
       "time": "2022-04-16T16:48:54Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1587",
       "text": "add delete history"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1588",
+      "title": "OpenFoodFacts/smooth-app#1588",
       "time": "2022-04-17T04:27:10Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1588",
       "text": "fix: delete history option"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1589",
+      "title": "OpenFoodFacts/smooth-app#1589",
       "time": "2022-04-17T04:50:32Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1589",
       "text": "fix: delete option in history"

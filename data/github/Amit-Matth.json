@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6429",
+      "title": "OpenFoodFacts/smooth-app#6429",
       "time": "2025-03-08T09:49:30Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6429",
       "text": "fix: center loading indicator alignment"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#6429",
+      "title": "OpenFoodFacts/smooth-app#6429",
       "time": "2025-03-09T14:10:41Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6429",
       "text": "fix: center loading indicator alignment"

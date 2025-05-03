@@ -3,77 +3,77 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11170",
+      "title": "OpenFoodFacts/openfoodfacts-server#11170",
       "time": "2024-12-24T10:08:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11170",
       "text": "Update Footer \"Follow Us\" Logo from Twitter to X "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11180",
+      "title": "OpenFoodFacts/openfoodfacts-server#11180",
       "time": "2025-01-01T12:53:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11180",
       "text": "added-whatsapp-channel-link-to-footer"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11582",
+      "title": "OpenFoodFacts/openfoodfacts-server#11582",
       "time": "2025-03-10T13:33:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11582",
       "text": "fix: correct grid layout and remove extra space"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11582",
+      "title": "OpenFoodFacts/openfoodfacts-server#11582",
       "time": "2025-03-17T11:04:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11582",
       "text": "fix: correct grid layout and remove extra space"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11623",
+      "title": "OpenFoodFacts/openfoodfacts-server#11623",
       "time": "2025-03-15T07:41:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11623",
       "text": "fix: Producers on large-screen"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11639",
+      "title": "OpenFoodFacts/openfoodfacts-server#11639",
       "time": "2025-03-20T11:58:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11639",
       "text": "fix: correct grid layout and remove extra space"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11650",
+      "title": "OpenFoodFacts/openfoodfacts-server#11650",
       "time": "2025-03-23T06:36:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11650",
       "text": "feat: Enable Folksonomy Engine for all visitors Restrict add/edit for anonymous users by prompting login"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11668",
+      "title": "OpenFoodFacts/openfoodfacts-server#11668",
       "time": "2025-03-25T08:34:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11668",
       "text": "feat: Promote Write API"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#160",
+      "title": "OpenFoodFacts/facets-knowledge-panels#160",
       "time": "2025-03-12T10:23:54Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/160",
       "text": "Fix: Prevent crash due to missing locales"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#161",
+      "title": "OpenFoodFacts/facets-knowledge-panels#161",
       "time": "2025-03-12T11:24:28Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/161",
       "text": "fix: Set fallback=True in i18n.py"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#161",
+      "title": "OpenFoodFacts/facets-knowledge-panels#161",
       "time": "2025-03-14T10:52:36Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/161",
       "text": "fix: Set fallback=True in i18n.py"

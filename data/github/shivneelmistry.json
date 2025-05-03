@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ruby#96",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#96",
       "time": "2024-05-30T06:19:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/96",
       "text": "fix: Update API paths"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ruby#96",
+      "title": "OpenFoodFacts/openfoodfacts-ruby#96",
       "time": "2024-05-30T06:46:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ruby/pull/96",
       "text": "fix: Update API paths"

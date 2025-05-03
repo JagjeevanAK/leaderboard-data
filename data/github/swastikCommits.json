@@ -1,579 +1,593 @@
 {
-  "last_updated": "2025-03-10T01:39:40Z",
+  "last_updated": "2025-03-28T02:17:46Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#250",
-      "time": "2025-03-10T01:39:40Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/250",
-      "text": "feat: implemented the GitHub icon in mobile view"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#250",
-      "time": "2025-03-10T19:09:36Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/250",
-      "text": "feat: implemented the GitHub icon in mobile view"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#252",
-      "time": "2025-03-10T02:25:35Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/252",
-      "text": "feat: implemented the current percentage value of slider in Influence component"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#252",
-      "time": "2025-03-10T19:16:00Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/252",
-      "text": "feat: implemented the current percentage value of slider in Influence component"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#257",
-      "time": "2025-03-10T16:48:26Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/257",
-      "text": "fix: Debug component overflowing when the content is too wide"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#257",
-      "time": "2025-03-11T19:49:50Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/257",
-      "text": "fix: Debug component overflowing when the content is too wide"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#259",
-      "time": "2025-03-11T02:30:41Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/259",
-      "text": "fix: knowledge panel action button not working"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#259",
-      "time": "2025-03-21T18:58:11Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/259",
-      "text": "fix: knowledge panel action button not working"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#267",
-      "time": "2025-03-12T09:11:49Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/267",
-      "text": "fix: Replaced the twitter logo with X logo"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#267",
-      "time": "2025-03-16T16:21:32Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/267",
-      "text": "fix: Replaced the twitter logo with X logo"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#274",
-      "time": "2025-03-13T01:18:54Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/274",
-      "text": "feat: beautification of folksonomy engine key"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#275",
-      "time": "2025-03-13T04:04:36Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/275",
-      "text": "feat: added padding to header for symmetrical UI"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#275",
-      "time": "2025-03-20T00:30:07Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/275",
-      "text": "feat: added padding to header for symmetrical UI"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#276",
-      "time": "2025-03-13T05:46:20Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/276",
-      "text": "fix: Replacement of camera icon with barcode scanner icon"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#276",
-      "time": "2025-03-14T00:30:27Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/276",
-      "text": "fix: Replacement of camera icon with barcode scanner icon"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#279",
-      "time": "2025-03-13T15:23:09Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/279",
-      "text": "feat: Implementation of the Knowledge Panel Facets for facets"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#288",
-      "time": "2025-03-14T15:37:03Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/288",
-      "text": "feat: beautification of Folksonomy engine key (/folksonomy)"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#288",
-      "time": "2025-03-25T20:45:23Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/288",
-      "text": "feat: beautification of Folksonomy engine key (/folksonomy)"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#290",
-      "time": "2025-03-15T10:45:48Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/290",
-      "text": "feat: implemented basic details, nutritional information and packaging editing"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#291",
-      "time": "2025-03-15T11:50:58Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/291",
-      "text": "feat: implementation of product basic editing, packaging editing and nutritional information editing"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#291",
-      "time": "2025-03-21T18:56:20Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/291",
-      "text": "feat: implementation of product basic editing, packaging editing and nutritional information editing"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#294",
-      "time": "2025-03-17T00:43:36Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/294",
-      "text": "feat: enhancements for authentication"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#294",
-      "time": "2025-03-20T00:48:48Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/294",
-      "text": "feat: enhancements for authentication"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#296",
-      "time": "2025-03-17T11:20:20Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/296",
-      "text": "fix: country dropdown menu overflowing horizontally"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#296",
-      "time": "2025-03-20T00:50:17Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/296",
-      "text": "fix: country dropdown menu overflowing horizontally"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#298",
-      "time": "2025-03-17T15:24:31Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/298",
-      "text": "feat: implementation of rotation of images for logged in users"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#298",
-      "time": "2025-03-21T19:01:29Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/298",
-      "text": "feat: implementation of rotation of images for logged in users"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#299",
-      "time": "2025-03-17T16:03:21Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/299",
-      "text": "chore: fixes some pnpm lint errors"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#299",
-      "time": "2025-03-26T11:58:32Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/299",
-      "text": "chore: fixes some pnpm lint errors"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#303",
-      "time": "2025-03-18T01:28:11Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/303",
-      "text": "chore: fixed all errors in `pnpm check`"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#303",
-      "time": "2025-03-25T21:00:59Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/303",
-      "text": "chore: fixed all errors in `pnpm check`"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#304",
-      "time": "2025-03-18T02:24:23Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/304",
-      "text": "feat: implemented traceability codes tag editing"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#304",
-      "time": "2025-03-23T15:17:23Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/304",
-      "text": "feat: implemented traceability codes tag editing"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#305",
-      "time": "2025-03-18T08:59:42Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/305",
-      "text": "feat: implemented real-time Energy Calculation in edit page"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#307",
-      "time": "2025-03-18T11:01:47Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/307",
-      "text": "chore: created `.env.example` for environment variables"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#307",
-      "time": "2025-03-21T19:02:20Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/307",
-      "text": "chore: created `.env.example` for environment variables"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#313",
-      "time": "2025-03-19T01:14:31Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/313",
-      "text": "fix: location marker gets broken on map"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#313",
-      "time": "2025-03-22T01:40:08Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/313",
-      "text": "fix: location marker gets broken on map"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#327",
-      "time": "2025-03-21T03:35:03Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/327",
-      "text": "ci: setup of pre-commit hook for pnpm format and added pnpm format job to CI/CD pipeline"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#327",
-      "time": "2025-03-22T01:22:15Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/327",
-      "text": "ci: setup of pre-commit hook for pnpm format and added pnpm format job to CI/CD pipeline"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#332",
-      "time": "2025-03-22T11:23:04Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/332",
-      "text": "feat: Product Image Zoom Enhancement"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#344",
-      "time": "2025-03-23T14:17:48Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/344",
-      "text": "feat: added the new user API with improved login usability"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#345",
-      "time": "2025-03-23T14:58:21Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/345",
-      "text": "chore: made the base URL configurable via environment variables"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#345",
-      "time": "2025-03-25T20:32:30Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/345",
-      "text": "chore: made the base URL configurable via environment variables"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#346",
-      "time": "2025-03-23T15:02:43Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/346",
-      "text": "chore: added the missing VITE_PRICES_API_URL"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#366",
-      "time": "2025-03-27T17:30:01Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/366",
-      "text": "chore: fixed the last `pnpm check` error"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#366",
-      "time": "2025-03-27T23:42:51Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/366",
-      "text": "chore: fixed the last `pnpm check` error"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#386",
-      "time": "2025-03-28T17:00:07Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/386",
-      "text": "style: X logo color changes as per the theme"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#386",
-      "time": "2025-04-03T11:34:26Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/386",
-      "text": "style: X logo color changes as per the theme"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#387",
-      "time": "2025-03-29T01:39:59Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/387",
-      "text": "fix: type errors fixed in a product which fails to fetch"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#387",
-      "time": "2025-04-09T22:23:38Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/387",
-      "text": "fix: type errors fixed in a product which fails to fetch"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#388",
-      "time": "2025-03-29T01:58:04Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/388",
-      "text": "feat: made all strings translatable using Crowdin"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#391",
-      "time": "2025-03-29T11:17:33Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/391",
-      "text": "style: fixes the text color of tags in Light mode"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#391",
-      "time": "2025-03-31T08:12:04Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/391",
-      "text": "style: fixes the text color of tags in Light mode"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#406",
-      "time": "2025-04-01T02:56:09Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/406",
-      "text": "feat: migration of translation strings using Crowdin"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#406",
-      "time": "2025-04-03T11:40:13Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/406",
-      "text": "feat: migration of translation strings using Crowdin"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#407",
-      "time": "2025-04-01T05:08:25Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/407",
-      "text": "fix: overlapping tags in edit page"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#407",
-      "time": "2025-04-12T14:17:56Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/407",
-      "text": "fix: overlapping tags in edit page"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#422",
-      "time": "2025-04-02T15:13:07Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/422",
-      "text": "fix: Nova card not targeting specific panel ID"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#422",
-      "time": "2025-04-08T17:46:24Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/422",
-      "text": "fix: Nova card not targeting specific panel ID"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#424",
-      "time": "2025-04-03T08:30:16Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/424",
-      "text": "feat: implementation of locally hosted Backend URL"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#435",
-      "time": "2025-04-05T18:03:20Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/435",
-      "text": "fix: product image overflowing from the container"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#454",
-      "time": "2025-04-09T11:58:14Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/454",
-      "text": "style: fixed the inconsistency of UI in landing page"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#454",
-      "time": "2025-04-09T21:52:38Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/454",
-      "text": "style: fixed the inconsistency of UI in landing page"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#463",
-      "time": "2025-04-11T02:37:24Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/463",
-      "text": "feat: implementation of loading spinner onclick of Save button (Edit page)"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#463",
-      "time": "2025-04-12T13:49:09Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/463",
-      "text": "feat: implementation of loading spinner onclick of Save button (Edit page)"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#471",
-      "time": "2025-04-14T05:31:28Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/471",
-      "text": "feat: implementation of new footer"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#471",
-      "time": "2025-04-18T00:58:59Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/471",
-      "text": "feat: implementation of new footer"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#476",
-      "time": "2025-04-14T11:31:08Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/476",
-      "text": "fix: product image overflows from the container"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#483",
-      "time": "2025-04-16T06:47:16Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/483",
-      "text": "feat: implementation of Zoom functionality on product Images"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#484",
-      "time": "2025-04-16T17:41:58Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/484",
-      "text": "fix: product image overflows from the container"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#484",
-      "time": "2025-04-20T17:45:40Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/484",
-      "text": "fix: product image overflows from the container"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#491",
-      "time": "2025-04-19T11:08:48Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/491",
-      "text": "fix: text inside tags getting clipped on mobile browsers"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#491",
-      "time": "2025-04-20T18:19:31Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/491",
-      "text": "fix: text inside tags getting clipped on mobile browsers"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#493",
-      "time": "2025-04-19T11:30:58Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/493",
-      "text": "fix: data sources overflow from the container on mobile browsers"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#493",
-      "time": "2025-04-20T18:21:25Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/493",
-      "text": "fix: data sources overflow from the container on mobile browsers"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#500",
-      "time": "2025-04-19T15:21:02Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/500",
-      "text": "fix: added default empty values to properties and safety checks for missing data"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#500",
-      "time": "2025-04-27T21:21:15Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/500",
-      "text": "fix: added default empty values to properties and safety checks for missing data"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#505",
-      "time": "2025-04-20T06:33:31Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/505",
-      "text": "feat: added VITE_API_VERSION parameter to test the API in dev mode"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#509",
-      "time": "2025-04-22T02:29:07Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/509",
-      "text": "feat: implementation of a basic photo manager"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#608",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#608",
       "time": "2025-03-28T02:17:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/608",
       "text": "chore: added quality checks for nutrition"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#616",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#616",
       "time": "2025-04-18T02:35:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/616",
       "text": "feat: integration of OBF, OPF and OPFF"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#250",
+      "time": "2025-03-10T01:39:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/250",
+      "text": "feat: implemented the GitHub icon in mobile view"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#250",
+      "time": "2025-03-10T19:09:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/250",
+      "text": "feat: implemented the GitHub icon in mobile view"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#252",
+      "time": "2025-03-10T02:25:35Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/252",
+      "text": "feat: implemented the current percentage value of slider in Influence component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#252",
+      "time": "2025-03-10T19:16:00Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/252",
+      "text": "feat: implemented the current percentage value of slider in Influence component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#257",
+      "time": "2025-03-10T16:48:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/257",
+      "text": "fix: Debug component overflowing when the content is too wide"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#257",
+      "time": "2025-03-11T19:49:50Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/257",
+      "text": "fix: Debug component overflowing when the content is too wide"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#259",
+      "time": "2025-03-11T02:30:41Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/259",
+      "text": "fix: knowledge panel action button not working"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#259",
+      "time": "2025-03-21T18:58:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/259",
+      "text": "fix: knowledge panel action button not working"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#267",
+      "time": "2025-03-12T09:11:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/267",
+      "text": "fix: Replaced the twitter logo with X logo"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#267",
+      "time": "2025-03-16T16:21:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/267",
+      "text": "fix: Replaced the twitter logo with X logo"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#274",
+      "time": "2025-03-13T01:18:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/274",
+      "text": "feat: beautification of folksonomy engine key"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#275",
+      "time": "2025-03-13T04:04:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/275",
+      "text": "feat: added padding to header for symmetrical UI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#275",
+      "time": "2025-03-20T00:30:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/275",
+      "text": "feat: added padding to header for symmetrical UI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#276",
+      "time": "2025-03-13T05:46:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/276",
+      "text": "fix: Replacement of camera icon with barcode scanner icon"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#276",
+      "time": "2025-03-14T00:30:27Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/276",
+      "text": "fix: Replacement of camera icon with barcode scanner icon"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#279",
+      "time": "2025-03-13T15:23:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/279",
+      "text": "feat: Implementation of the Knowledge Panel Facets for facets"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#288",
+      "time": "2025-03-14T15:37:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/288",
+      "text": "feat: beautification of Folksonomy engine key (/folksonomy)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#288",
+      "time": "2025-03-25T20:45:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/288",
+      "text": "feat: beautification of Folksonomy engine key (/folksonomy)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#290",
+      "time": "2025-03-15T10:45:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/290",
+      "text": "feat: implemented basic details, nutritional information and packaging editing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#291",
+      "time": "2025-03-15T11:50:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/291",
+      "text": "feat: implementation of product basic editing, packaging editing and nutritional information editing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#291",
+      "time": "2025-03-21T18:56:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/291",
+      "text": "feat: implementation of product basic editing, packaging editing and nutritional information editing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#294",
+      "time": "2025-03-17T00:43:36Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/294",
+      "text": "feat: enhancements for authentication"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#294",
+      "time": "2025-03-20T00:48:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/294",
+      "text": "feat: enhancements for authentication"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#296",
+      "time": "2025-03-17T11:20:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/296",
+      "text": "fix: country dropdown menu overflowing horizontally"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#296",
+      "time": "2025-03-20T00:50:17Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/296",
+      "text": "fix: country dropdown menu overflowing horizontally"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#298",
+      "time": "2025-03-17T15:24:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/298",
+      "text": "feat: implementation of rotation of images for logged in users"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#298",
+      "time": "2025-03-21T19:01:29Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/298",
+      "text": "feat: implementation of rotation of images for logged in users"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#299",
+      "time": "2025-03-17T16:03:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/299",
+      "text": "chore: fixes some pnpm lint errors"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#299",
+      "time": "2025-03-26T11:58:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/299",
+      "text": "chore: fixes some pnpm lint errors"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#303",
+      "time": "2025-03-18T01:28:11Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/303",
+      "text": "chore: fixed all errors in `pnpm check`"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#303",
+      "time": "2025-03-25T21:00:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/303",
+      "text": "chore: fixed all errors in `pnpm check`"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#304",
+      "time": "2025-03-18T02:24:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/304",
+      "text": "feat: implemented traceability codes tag editing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#304",
+      "time": "2025-03-23T15:17:23Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/304",
+      "text": "feat: implemented traceability codes tag editing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#305",
+      "time": "2025-03-18T08:59:42Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/305",
+      "text": "feat: implemented real-time Energy Calculation in edit page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#307",
+      "time": "2025-03-18T11:01:47Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/307",
+      "text": "chore: created `.env.example` for environment variables"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#307",
+      "time": "2025-03-21T19:02:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/307",
+      "text": "chore: created `.env.example` for environment variables"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#313",
+      "time": "2025-03-19T01:14:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/313",
+      "text": "fix: location marker gets broken on map"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#313",
+      "time": "2025-03-22T01:40:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/313",
+      "text": "fix: location marker gets broken on map"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#327",
+      "time": "2025-03-21T03:35:03Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/327",
+      "text": "ci: setup of pre-commit hook for pnpm format and added pnpm format job to CI/CD pipeline"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#327",
+      "time": "2025-03-22T01:22:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/327",
+      "text": "ci: setup of pre-commit hook for pnpm format and added pnpm format job to CI/CD pipeline"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#332",
+      "time": "2025-03-22T11:23:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/332",
+      "text": "feat: Product Image Zoom Enhancement"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#344",
+      "time": "2025-03-23T14:17:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/344",
+      "text": "feat: added the new user API with improved login usability"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#345",
+      "time": "2025-03-23T14:58:21Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/345",
+      "text": "chore: made the base URL configurable via environment variables"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#345",
+      "time": "2025-03-25T20:32:30Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/345",
+      "text": "chore: made the base URL configurable via environment variables"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#346",
+      "time": "2025-03-23T15:02:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/346",
+      "text": "chore: added the missing VITE_PRICES_API_URL"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#366",
+      "time": "2025-03-27T17:30:01Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/366",
+      "text": "chore: fixed the last `pnpm check` error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#366",
+      "time": "2025-03-27T23:42:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/366",
+      "text": "chore: fixed the last `pnpm check` error"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#386",
+      "time": "2025-03-28T17:00:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/386",
+      "text": "style: X logo color changes as per the theme"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#386",
+      "time": "2025-04-03T11:34:26Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/386",
+      "text": "style: X logo color changes as per the theme"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#387",
+      "time": "2025-03-29T01:39:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/387",
+      "text": "fix: type errors fixed in a product which fails to fetch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#387",
+      "time": "2025-04-09T22:23:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/387",
+      "text": "fix: type errors fixed in a product which fails to fetch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#388",
+      "time": "2025-03-29T01:58:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/388",
+      "text": "feat: made all strings translatable using Crowdin"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#391",
+      "time": "2025-03-29T11:17:33Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/391",
+      "text": "style: fixes the text color of tags in Light mode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#391",
+      "time": "2025-03-31T08:12:04Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/391",
+      "text": "style: fixes the text color of tags in Light mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#406",
+      "time": "2025-04-01T02:56:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/406",
+      "text": "feat: migration of translation strings using Crowdin"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#406",
+      "time": "2025-04-03T11:40:13Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/406",
+      "text": "feat: migration of translation strings using Crowdin"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#407",
+      "time": "2025-04-01T05:08:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/407",
+      "text": "fix: overlapping tags in edit page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#407",
+      "time": "2025-04-12T14:17:56Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/407",
+      "text": "fix: overlapping tags in edit page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#422",
+      "time": "2025-04-02T15:13:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/422",
+      "text": "fix: Nova card not targeting specific panel ID"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#422",
+      "time": "2025-04-08T17:46:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/422",
+      "text": "fix: Nova card not targeting specific panel ID"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#424",
+      "time": "2025-04-03T08:30:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/424",
+      "text": "feat: implementation of locally hosted Backend URL"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#435",
+      "time": "2025-04-05T18:03:20Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/435",
+      "text": "fix: product image overflowing from the container"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#454",
+      "time": "2025-04-09T11:58:14Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/454",
+      "text": "style: fixed the inconsistency of UI in landing page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#454",
+      "time": "2025-04-09T21:52:38Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/454",
+      "text": "style: fixed the inconsistency of UI in landing page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#463",
+      "time": "2025-04-11T02:37:24Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/463",
+      "text": "feat: implementation of loading spinner onclick of Save button (Edit page)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#463",
+      "time": "2025-04-12T13:49:09Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/463",
+      "text": "feat: implementation of loading spinner onclick of Save button (Edit page)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#471",
+      "time": "2025-04-14T05:31:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/471",
+      "text": "feat: implementation of new footer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#471",
+      "time": "2025-04-18T00:58:59Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/471",
+      "text": "feat: implementation of new footer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#476",
+      "time": "2025-04-14T11:31:08Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/476",
+      "text": "fix: product image overflows from the container"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#483",
+      "time": "2025-04-16T06:47:16Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/483",
+      "text": "feat: implementation of Zoom functionality on product Images"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#483",
+      "time": "2025-05-01T17:09:43Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/483",
+      "text": "feat: implementation of Zoom functionality on product Images"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#484",
+      "time": "2025-04-16T17:41:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/484",
+      "text": "fix: product image overflows from the container"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#484",
+      "time": "2025-04-20T17:45:40Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/484",
+      "text": "fix: product image overflows from the container"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#491",
+      "time": "2025-04-19T11:08:48Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/491",
+      "text": "fix: text inside tags getting clipped on mobile browsers"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#491",
+      "time": "2025-04-20T18:19:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/491",
+      "text": "fix: text inside tags getting clipped on mobile browsers"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#493",
+      "time": "2025-04-19T11:30:58Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/493",
+      "text": "fix: data sources overflow from the container on mobile browsers"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#493",
+      "time": "2025-04-20T18:21:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/493",
+      "text": "fix: data sources overflow from the container on mobile browsers"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#500",
+      "time": "2025-04-19T15:21:02Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/500",
+      "text": "fix: added default empty values to properties and safety checks for missing data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#500",
+      "time": "2025-04-27T21:21:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/500",
+      "text": "fix: added default empty values to properties and safety checks for missing data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#505",
+      "time": "2025-04-20T06:33:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/505",
+      "text": "feat: added VITE_API_VERSION parameter to test the API in dev mode"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#509",
+      "time": "2025-04-22T02:29:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/509",
+      "text": "feat: implementation of a basic photo manager"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#509",
+      "time": "2025-05-01T17:12:31Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/509",
+      "text": "feat: implementation of a basic photo manager"
     }
   ],
   "open_prs": [],

@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1681",
+      "title": "OpenFoodFacts/openfoodfacts-server#1681",
       "time": "2019-02-27T16:06:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1681",
       "text": "Update ingredients.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1681",
+      "title": "OpenFoodFacts/openfoodfacts-server#1681",
       "time": "2019-03-07T21:02:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1681",
       "text": "Update ingredients.txt"

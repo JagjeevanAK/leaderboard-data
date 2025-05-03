@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#910",
+      "title": "OpenFoodFacts/openfoodfacts-ios#910",
       "time": "2021-07-31T09:10:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/910",
       "text": "Optimise Settings screen for dynamic type (#908)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#910",
+      "title": "OpenFoodFacts/openfoodfacts-ios#910",
       "time": "2021-08-27T18:34:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/910",
       "text": "Optimise Settings screen for dynamic type (#908)"

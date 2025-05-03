@@ -3,84 +3,84 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2315",
+      "title": "OpenFoodFacts/openfoodfacts-server#2315",
       "time": "2019-09-12T11:45:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2315",
       "text": "add advocaats category"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2315",
+      "title": "OpenFoodFacts/openfoodfacts-server#2315",
       "time": "2019-09-14T14:42:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2315",
       "text": "add advocaats category"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2323",
+      "title": "OpenFoodFacts/openfoodfacts-server#2323",
       "time": "2019-09-13T09:35:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2323",
       "text": "add German ingredients, issue #2231"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2323",
+      "title": "OpenFoodFacts/openfoodfacts-server#2323",
       "time": "2019-09-19T07:14:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2323",
       "text": "add German ingredients, issue #2231"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2343",
+      "title": "OpenFoodFacts/openfoodfacts-server#2343",
       "time": "2019-09-16T19:58:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2343",
       "text": "add translations for E14** for de, pl, es, sk, etc, issue #2189"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2343",
+      "title": "OpenFoodFacts/openfoodfacts-server#2343",
       "time": "2019-09-17T06:26:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2343",
       "text": "add translations for E14** for de, pl, es, sk, etc, issue #2189"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2344",
+      "title": "OpenFoodFacts/openfoodfacts-server#2344",
       "time": "2019-09-16T20:41:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2344",
       "text": "Fix milk classification German"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2344",
+      "title": "OpenFoodFacts/openfoodfacts-server#2344",
       "time": "2019-09-30T14:33:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2344",
       "text": "Fix milk classification German"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2353",
+      "title": "OpenFoodFacts/openfoodfacts-server#2353",
       "time": "2019-09-18T12:30:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2353",
       "text": "Work on PDO, PDI, TSG, organic and no-GMO labels"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2353",
+      "title": "OpenFoodFacts/openfoodfacts-server#2353",
       "time": "2019-10-04T13:15:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2353",
       "text": "Work on PDO, PDI, TSG, organic and no-GMO labels"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2356",
+      "title": "OpenFoodFacts/openfoodfacts-server#2356",
       "time": "2019-09-19T11:55:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2356",
       "text": "German translations, spelling corrections for additives"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2356",
+      "title": "OpenFoodFacts/openfoodfacts-server#2356",
       "time": "2019-09-23T14:09:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2356",
       "text": "German translations, spelling corrections for additives"

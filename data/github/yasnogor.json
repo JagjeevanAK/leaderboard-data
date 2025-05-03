@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2235",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2235",
       "time": "2019-02-18T21:46:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2235",
       "text": "Fixes #2177: Prepared nutrition facts are not displayed"

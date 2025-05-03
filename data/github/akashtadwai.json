@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#770",
+      "title": "OpenFoodFacts/robotoff#770",
       "time": "2022-05-18T16:14:48Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/770",
       "text": "fix: Updated Makefile, docs to install without errors "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#770",
+      "title": "OpenFoodFacts/robotoff#770",
       "time": "2022-05-20T13:14:59Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/770",
       "text": "fix: Updated Makefile, docs to install without errors "

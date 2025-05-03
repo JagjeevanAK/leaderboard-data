@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8645",
+      "title": "OpenFoodFacts/openfoodfacts-server#8645",
       "time": "2023-07-03T07:45:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8645",
       "text": "taxonomy: Danish additions, corrections"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8645",
+      "title": "OpenFoodFacts/openfoodfacts-server#8645",
       "time": "2023-07-04T19:49:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8645",
       "text": "taxonomy: Danish additions, corrections"

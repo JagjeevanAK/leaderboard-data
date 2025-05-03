@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6632",
+      "title": "OpenFoodFacts/openfoodfacts-server#6632",
       "time": "2022-04-16T12:14:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6632",
       "text": "chore: Update languages.txt (Turkish translations)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6632",
+      "title": "OpenFoodFacts/openfoodfacts-server#6632",
       "time": "2022-04-19T13:45:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6632",
       "text": "chore: Update languages.txt (Turkish translations)"

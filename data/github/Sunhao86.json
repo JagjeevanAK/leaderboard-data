@@ -3,45 +3,45 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6453",
+      "title": "OpenFoodFacts/smooth-app#6453",
       "time": "2025-03-17T07:10:21Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6453",
       "text": "fix: Add a help section to the Folksonomy page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/folksonomy_api#257",
-      "time": "2025-03-15T03:52:39Z",
-      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/257",
-      "text": "ci: Add pre-commit configuration"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#314",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#314",
       "time": "2025-03-19T03:37:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/314",
       "text": "Add search results sorting functionality (fixes #292)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#336",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#336",
       "time": "2025-03-23T01:52:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/336",
       "text": "feat: add a global nutrient calculator that calculates nutrition for a list of products"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#336",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#336",
       "time": "2025-04-08T17:38:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/336",
       "text": "feat: add a global nutrient calculator that calculates nutrition for a list of products"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#369",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#369",
       "time": "2025-03-28T01:47:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/369",
       "text": "feat: Add product comparison feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/folksonomy_api#257",
+      "time": "2025-03-15T03:52:39Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/257",
+      "text": "ci: Add pre-commit configuration"
     }
   ],
   "open_prs": [],

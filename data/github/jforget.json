@@ -3,49 +3,49 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10783",
+      "title": "OpenFoodFacts/openfoodfacts-server#10783",
       "time": "2024-09-10T08:07:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10783",
       "text": "Fix: YAML syntax in schema files."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10783",
+      "title": "OpenFoodFacts/openfoodfacts-server#10783",
       "time": "2024-09-13T11:03:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10783",
       "text": "Fix: YAML syntax in schema files."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10875",
+      "title": "OpenFoodFacts/openfoodfacts-server#10875",
       "time": "2024-10-10T18:25:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10875",
       "text": "docs: reviewing the Ecoscore.pm program and fixing the product_ecoscore.yaml schema"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10875",
+      "title": "OpenFoodFacts/openfoodfacts-server#10875",
       "time": "2024-10-11T08:12:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10875",
       "text": "docs: reviewing the Ecoscore.pm program and fixing the product_ecoscore.yaml schema"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11220",
+      "title": "OpenFoodFacts/openfoodfacts-server#11220",
       "time": "2025-01-09T07:35:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11220",
       "text": "docs: YAML syntax in the data schema files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11642",
+      "title": "OpenFoodFacts/openfoodfacts-server#11642",
       "time": "2025-03-20T19:52:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11642",
       "text": "docs: Documentation for 'last_updated_t'."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11642",
+      "title": "OpenFoodFacts/openfoodfacts-server#11642",
       "time": "2025-03-21T13:27:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11642",
       "text": "docs: Documentation for 'last_updated_t'."

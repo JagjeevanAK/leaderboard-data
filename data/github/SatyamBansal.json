@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#779",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#779",
       "time": "2018-02-17T04:56:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/779",
       "text": "fix #486 #185 share icon size ,colour & share functionality"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#779",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#779",
       "time": "2018-02-18T17:48:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/779",
       "text": "fix #486 #185 share icon size ,colour & share functionality"

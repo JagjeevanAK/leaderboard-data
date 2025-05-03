@@ -3,35 +3,35 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3497",
+      "title": "OpenFoodFacts/smooth-app#3497",
       "time": "2023-01-02T15:35:11Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3497",
       "text": "feat: Added \"Compare\" floating action button #3447"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3497",
+      "title": "OpenFoodFacts/smooth-app#3497",
       "time": "2023-01-02T17:20:34Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3497",
       "text": "feat: Added \"Compare\" floating action button #3447"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3659",
+      "title": "OpenFoodFacts/smooth-app#3659",
       "time": "2023-01-30T18:37:24Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3659",
       "text": " feat: added dialog if users click on unselect image button #2427"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3707",
+      "title": "OpenFoodFacts/smooth-app#3707",
       "time": "2023-02-13T19:04:41Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3707",
       "text": "feat: added dialog if users click on unselect image button #2427"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3707",
+      "title": "OpenFoodFacts/smooth-app#3707",
       "time": "2023-02-14T06:56:32Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3707",
       "text": "feat: added dialog if users click on unselect image button #2427"

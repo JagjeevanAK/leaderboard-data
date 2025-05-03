@@ -3,189 +3,189 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#739",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#739",
       "time": "2018-02-14T07:22:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/739",
       "text": "Fixes #430, fixes #729: (Offset for loading dialog for the login screen)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#739",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#739",
       "time": "2018-03-13T11:30:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/739",
       "text": "Fixes #430, fixes #729: (Offset for loading dialog for the login screen)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#741",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#741",
       "time": "2018-02-14T11:36:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/741",
       "text": "Fixes #596 (Offset for the splash screen loading dialog)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#744",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#744",
       "time": "2018-02-14T17:29:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/744",
       "text": "Fixes #631 (Added confirmation before logging out)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#744",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#744",
       "time": "2018-02-23T17:02:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/744",
       "text": "Fixes #631 (Added confirmation before logging out)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#745",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#745",
       "time": "2018-02-14T17:30:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/745",
       "text": "Update strings.xml"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#819",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#819",
       "time": "2018-02-19T19:22:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/819",
       "text": "Fixes #685"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#820",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#820",
       "time": "2018-02-19T19:23:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/820",
       "text": "Fixes #685 (String resources needed for HistoryScanActivity)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#820",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#820",
       "time": "2018-02-22T09:07:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/820",
       "text": "Fixes #685 (String resources needed for HistoryScanActivity)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#919",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#919",
       "time": "2018-02-25T16:00:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/919",
       "text": "Fixes #489 (enable shrinkResources in build.gradle)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#955",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#955",
       "time": "2018-02-27T10:19:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/955",
       "text": "Alert data"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#958",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#958",
       "time": "2018-02-27T11:57:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/958",
       "text": "Fixes #368: Rephrased allergy warning"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#958",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#958",
       "time": "2018-02-27T14:08:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/958",
       "text": "Fixes #368: Rephrased allergy warning"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1028",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1028",
       "time": "2018-03-01T19:31:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1028",
       "text": "Fixes #708 \"Added option for donation\""
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1028",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1028",
       "time": "2018-03-02T10:51:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1028",
       "text": "Fixes #708 \"Added option for donation\""
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1034",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1034",
       "time": "2018-03-02T08:21:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1034",
       "text": "Closes #489: Enabled Shrink resources in build.gradle"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1034",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1034",
       "time": "2018-03-19T11:41:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1034",
       "text": "Closes #489: Enabled Shrink resources in build.gradle"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1074",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1074",
       "time": "2018-03-03T19:29:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1074",
       "text": "Hid search option in action bar of preferences screen,Fixes #1073"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1074",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1074",
       "time": "2018-03-03T20:42:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1074",
       "text": "Hid search option in action bar of preferences screen,Fixes #1073"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1076",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1076",
       "time": "2018-03-03T20:08:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1076",
       "text": "Added Terms Of use in Preferences Screen"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1076",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1076",
       "time": "2018-03-04T09:09:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1076",
       "text": "Added Terms Of use in Preferences Screen"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1083",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1083",
       "time": "2018-03-03T21:15:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1083",
       "text": "Fixes #1077 ,Disabled Search icon"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1091",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1091",
       "time": "2018-03-04T03:55:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1091",
       "text": "Disabled search option in offline edit,allergen alert,Fixes #1077"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1091",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1091",
       "time": "2018-03-04T09:10:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1091",
       "text": "Disabled search option in offline edit,allergen alert,Fixes #1077"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1174",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1174",
       "time": "2018-03-08T19:25:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1174",
       "text": "Fixed #855: Automatic detection of text in image"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1272",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1272",
       "time": "2018-03-18T06:43:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1272",
       "text": "Closes #205: Added RateUs feature"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1272",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1272",
       "time": "2018-04-25T10:37:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1272",
       "text": "Closes #205: Added RateUs feature"

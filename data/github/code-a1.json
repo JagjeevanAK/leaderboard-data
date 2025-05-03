@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8019",
+      "title": "OpenFoodFacts/openfoodfacts-server#8019",
       "time": "2023-01-20T14:53:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8019",
       "text": "taxonomy: Added \"Succo di arance bionde\" under orange juice"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8019",
+      "title": "OpenFoodFacts/openfoodfacts-server#8019",
       "time": "2023-01-23T09:36:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8019",
       "text": "taxonomy: Added \"Succo di arance bionde\" under orange juice"

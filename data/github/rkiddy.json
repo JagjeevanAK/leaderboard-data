@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9083",
+      "title": "OpenFoodFacts/openfoodfacts-server#9083",
       "time": "2023-09-27T23:05:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9083",
       "text": "feat: USDA API import to a list of products missing in OFF"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9527",
+      "title": "OpenFoodFacts/openfoodfacts-server#9527",
       "time": "2023-12-13T19:24:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9527",
       "text": "quick-start docs - \"make dev\" errors"

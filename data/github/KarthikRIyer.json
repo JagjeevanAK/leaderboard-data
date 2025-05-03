@@ -3,112 +3,112 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2070",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2070",
       "time": "2019-01-07T21:13:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2070",
       "text": "Display CarbonFootprint in CardView and add Environment Tab"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2070",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2070",
       "time": "2019-01-09T11:08:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2070",
       "text": "Display CarbonFootprint in CardView and add Environment Tab"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2078",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2078",
       "time": "2019-01-09T12:48:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2078",
       "text": "Refresh instantaneously after edit and fix display of calculated additives and allergens"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2078",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2078",
       "time": "2019-01-12T14:27:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2078",
       "text": "Refresh instantaneously after edit and fix display of calculated additives and allergens"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2092",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2092",
       "time": "2019-01-12T12:14:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2092",
       "text": "Allow rotation of front, nutrient and ingredient images during editing"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2092",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2092",
       "time": "2019-04-05T14:45:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2092",
       "text": "Allow rotation of front, nutrient and ingredient images during editing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2108",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2108",
       "time": "2019-01-17T08:13:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2108",
       "text": "Add check on nutrient values entered"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2108",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2108",
       "time": "2019-01-19T05:53:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2108",
       "text": "Add check on nutrient values entered"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2123",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2123",
       "time": "2019-01-20T08:02:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2123",
       "text": "Allow user to choose nutrient units"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2123",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2123",
       "time": "2019-01-28T15:01:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2123",
       "text": "Allow user to choose nutrient units"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2147",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2147",
       "time": "2019-01-24T21:37:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2147",
       "text": "Add nova group to ingredients tab and add link to nutri-score info in nutrition tab"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2147",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2147",
       "time": "2019-02-14T20:14:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2147",
       "text": "Add nova group to ingredients tab and add link to nutri-score info in nutrition tab"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2161",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2161",
       "time": "2019-01-26T19:19:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2161",
       "text": "Added padding to bottom of product name"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2161",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2161",
       "time": "2019-01-28T15:00:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2161",
       "text": "Added padding to bottom of product name"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2162",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2162",
       "time": "2019-01-26T19:37:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2162",
       "text": "Hide ingredients card when there are no ingredients"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#2162",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#2162",
       "time": "2019-02-03T17:48:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/2162",
       "text": "Hide ingredients card when there are no ingredients"

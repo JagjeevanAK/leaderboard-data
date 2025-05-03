@@ -1,19 +1,19 @@
 {
-  "last_updated": "2021-02-02T09:55:32Z",
+  "last_updated": "2023-01-10T14:00:35Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#883",
-      "time": "2021-02-02T09:55:32Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/883",
-      "text": "feat: removed Mint package manager dependcies as it was not used, uses Carthage as package manager."
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7967",
+      "title": "OpenFoodFacts/openfoodfacts-server#7967",
       "time": "2023-01-10T14:00:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7967",
       "text": "taxonomy: Added 'Refined palmolein oil'"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-ios#883",
+      "time": "2021-02-02T09:55:32Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/883",
+      "text": "feat: removed Mint package manager dependcies as it was not used, uses Carthage as package manager."
     }
   ],
   "open_prs": [],

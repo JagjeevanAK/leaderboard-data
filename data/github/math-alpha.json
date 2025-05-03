@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#149",
+      "title": "OpenFoodFacts/facets-knowledge-panels#149",
       "time": "2025-02-27T20:28:18Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/149",
       "text": "chore: This change replaces `master` branch references with `main`."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#149",
+      "title": "OpenFoodFacts/facets-knowledge-panels#149",
       "time": "2025-02-28T13:20:59Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/149",
       "text": "chore: This change replaces `master` branch references with `main`."

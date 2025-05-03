@@ -3,105 +3,105 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6638",
+      "title": "OpenFoodFacts/openfoodfacts-server#6638",
       "time": "2022-04-17T19:50:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6638",
       "text": "docs: Enabling Developer Mode on Windows to use symlinks"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6638",
+      "title": "OpenFoodFacts/openfoodfacts-server#6638",
       "time": "2022-04-18T09:34:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6638",
       "text": "docs: Enabling Developer Mode on Windows to use symlinks"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6648",
+      "title": "OpenFoodFacts/openfoodfacts-server#6648",
       "time": "2022-04-19T18:29:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6648",
       "text": "fix: Fixed a typo in French translation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6652",
+      "title": "OpenFoodFacts/openfoodfacts-server#6652",
       "time": "2022-04-20T07:53:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6652",
       "text": "fix: Fixed a typo in French translation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6652",
+      "title": "OpenFoodFacts/openfoodfacts-server#6652",
       "time": "2022-04-20T13:36:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6652",
       "text": "fix: Fixed a typo in French translation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6653",
+      "title": "OpenFoodFacts/openfoodfacts-server#6653",
       "time": "2022-04-20T08:56:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6653",
       "text": "fix: Git sh.exe & Docker run (no such file or directory) error"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6653",
+      "title": "OpenFoodFacts/openfoodfacts-server#6653",
       "time": "2022-04-22T13:21:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6653",
       "text": "fix: Git sh.exe & Docker run (no such file or directory) error"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6661",
+      "title": "OpenFoodFacts/openfoodfacts-server#6661",
       "time": "2022-04-21T16:07:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6661",
       "text": "fix: URL linked to $request_ref->{world_current_link} & $world_subdomain"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6666",
+      "title": "OpenFoodFacts/openfoodfacts-server#6666",
       "time": "2022-04-22T11:07:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6666",
       "text": "fix: Untranslated string fixed and now translatable to any language "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6669",
+      "title": "OpenFoodFacts/openfoodfacts-server#6669",
       "time": "2022-04-22T14:52:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6669",
       "text": "fix: URL linked to $request_ref->{world_current_link} & $world_subdomain"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6669",
+      "title": "OpenFoodFacts/openfoodfacts-server#6669",
       "time": "2022-05-12T10:35:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6669",
       "text": "fix: URL linked to $request_ref->{world_current_link} & $world_subdomain"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6670",
+      "title": "OpenFoodFacts/openfoodfacts-server#6670",
       "time": "2022-04-22T15:02:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6670",
       "text": "fix: Untranslated string fixed and now translatable to any language #6666"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6670",
+      "title": "OpenFoodFacts/openfoodfacts-server#6670",
       "time": "2022-04-22T15:54:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6670",
       "text": "fix: Untranslated string fixed and now translatable to any language #6666"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6671",
+      "title": "OpenFoodFacts/openfoodfacts-server#6671",
       "time": "2022-04-22T15:24:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6671",
       "text": "fix: broken link to navigate to page2 in contributors"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6672",
+      "title": "OpenFoodFacts/openfoodfacts-server#6672",
       "time": "2022-04-22T15:43:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6672",
       "text": "fix: switching languages while staying on the same product"

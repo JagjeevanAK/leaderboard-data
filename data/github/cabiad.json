@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-web#352",
+      "title": "OpenFoodFacts/openfoodfacts-web#352",
       "time": "2022-12-21T19:20:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/352",
       "text": "Fix 'submited' typo across repo"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-web#352",
+      "title": "OpenFoodFacts/openfoodfacts-web#352",
       "time": "2022-12-22T08:50:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/352",
       "text": "Fix 'submited' typo across repo"

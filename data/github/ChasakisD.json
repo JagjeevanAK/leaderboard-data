@@ -3,49 +3,49 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#525",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#525",
       "time": "2017-03-15T20:02:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/525",
       "text": "Fixed Issue #523"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#525",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#525",
       "time": "2017-03-15T20:20:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/525",
       "text": "Fixed Issue #523"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#577",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#577",
       "time": "2017-04-19T13:35:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/577",
       "text": "Fixed Issue #183 (Show the barcode when adding a product)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#577",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#577",
       "time": "2017-04-21T19:02:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/577",
       "text": "Fixed Issue #183 (Show the barcode when adding a product)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#609",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#609",
       "time": "2017-05-31T23:04:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/609",
       "text": "Private product rating system"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#610",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#610",
       "time": "2017-05-31T23:27:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/610",
       "text": "Finished private rating system"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#610",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#610",
       "time": "2017-12-31T17:50:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/610",
       "text": "Finished private rating system"

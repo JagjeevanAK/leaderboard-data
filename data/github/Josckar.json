@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10143",
+      "title": "OpenFoodFacts/openfoodfacts-server#10143",
       "time": "2024-04-17T17:34:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10143",
       "text": "fix: Social media link preview missing website description (fixes #7422)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10219",
+      "title": "OpenFoodFacts/openfoodfacts-server#10219",
       "time": "2024-05-03T00:25:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10219",
       "text": "feat: Whatsapp channel link (please read question)"

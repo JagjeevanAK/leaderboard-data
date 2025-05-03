@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-go#34",
+      "title": "OpenFoodFacts/openfoodfacts-go#34",
       "time": "2021-02-01T17:19:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/34",
       "text": "Added parameter to set HTTP client timeout"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-go#34",
+      "title": "OpenFoodFacts/openfoodfacts-go#34",
       "time": "2021-02-03T18:23:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-go/pull/34",
       "text": "Added parameter to set HTTP client timeout"

@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3832",
+      "title": "OpenFoodFacts/openfoodfacts-server#3832",
       "time": "2020-07-12T04:17:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3832",
       "text": "Optimize CodeQL Action"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#3832",
+      "title": "OpenFoodFacts/openfoodfacts-server#3832",
       "time": "2020-07-12T10:42:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3832",
       "text": "Optimize CodeQL Action"

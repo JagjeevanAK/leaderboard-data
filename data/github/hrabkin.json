@@ -3,35 +3,35 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8598",
+      "title": "OpenFoodFacts/openfoodfacts-server#8598",
       "time": "2023-06-22T17:40:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8598",
       "text": "fix: \"make import_prod_data\" incorrect mapping on data folder"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8598",
+      "title": "OpenFoodFacts/openfoodfacts-server#8598",
       "time": "2023-06-27T11:49:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8598",
       "text": "fix: \"make import_prod_data\" incorrect mapping on data folder"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-swift#3",
+      "title": "OpenFoodFacts/openfoodfacts-swift#3",
       "time": "2023-10-23T18:08:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-swift/pull/3",
       "text": "Initial version Swift-OFF-SDK"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-swift#3",
+      "title": "OpenFoodFacts/openfoodfacts-swift#3",
       "time": "2024-01-25T21:44:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-swift/pull/3",
       "text": "Initial version Swift-OFF-SDK"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-swift#25",
+      "title": "OpenFoodFacts/openfoodfacts-swift#25",
       "time": "2025-01-09T09:46:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-swift/pull/25",
       "text": "General update of images upload API and making API services and related models public"

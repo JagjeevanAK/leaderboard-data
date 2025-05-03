@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#1097",
+      "title": "OpenFoodFacts/robotoff#1097",
       "time": "2023-04-18T14:59:21Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/1097",
       "text": "docs: incorrect link in README.md predictions section"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#1097",
+      "title": "OpenFoodFacts/robotoff#1097",
       "time": "2023-04-19T03:19:03Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/1097",
       "text": "docs: incorrect link in README.md predictions section"

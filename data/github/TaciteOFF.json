@@ -3,84 +3,84 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2385",
+      "title": "OpenFoodFacts/openfoodfacts-server#2385",
       "time": "2019-09-29T16:22:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2385",
       "text": "Update additives.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2385",
+      "title": "OpenFoodFacts/openfoodfacts-server#2385",
       "time": "2019-09-29T16:44:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2385",
       "text": "Update additives.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2434",
+      "title": "OpenFoodFacts/openfoodfacts-server#2434",
       "time": "2019-10-15T09:32:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2434",
       "text": "Update variable_weight_products.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2434",
+      "title": "OpenFoodFacts/openfoodfacts-server#2434",
       "time": "2019-10-20T17:29:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2434",
       "text": "Update variable_weight_products.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#2624",
+      "title": "OpenFoodFacts/openfoodfacts-server#2624",
       "time": "2019-11-19T08:37:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2624",
       "text": "Correction faute"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#2624",
+      "title": "OpenFoodFacts/openfoodfacts-server#2624",
       "time": "2019-11-19T09:37:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/2624",
       "text": "Correction faute"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3163",
+      "title": "OpenFoodFacts/openfoodfacts-server#3163",
       "time": "2020-03-30T13:43:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3163",
       "text": "Update variable_weight_products.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#3163",
+      "title": "OpenFoodFacts/openfoodfacts-server#3163",
       "time": "2020-04-02T21:43:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3163",
       "text": "Update variable_weight_products.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4447",
+      "title": "OpenFoodFacts/openfoodfacts-server#4447",
       "time": "2020-10-30T17:52:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4447",
       "text": "Update variable_weight_products.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4447",
+      "title": "OpenFoodFacts/openfoodfacts-server#4447",
       "time": "2020-11-12T13:06:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4447",
       "text": "Update variable_weight_products.txt"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5238",
+      "title": "OpenFoodFacts/openfoodfacts-server#5238",
       "time": "2021-05-19T10:25:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5238",
       "text": "Update origins.txt"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5238",
+      "title": "OpenFoodFacts/openfoodfacts-server#5238",
       "time": "2021-05-19T14:23:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5238",
       "text": "Update origins.txt"

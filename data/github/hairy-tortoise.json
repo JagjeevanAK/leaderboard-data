@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#5028",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#5028",
       "time": "2023-07-08T04:08:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/5028",
       "text": "fix: Fixed typo in german translation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#5028",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#5028",
       "time": "2023-07-31T07:55:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/5028",
       "text": "fix: Fixed typo in german translation"

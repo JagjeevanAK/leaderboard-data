@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#871",
+      "title": "OpenFoodFacts/openfoodfacts-server#871",
       "time": "2017-07-20T03:07:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/871",
       "text": " Add SVG / PNG logo images for zh-tw"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#871",
+      "title": "OpenFoodFacts/openfoodfacts-server#871",
       "time": "2017-07-20T11:10:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/871",
       "text": " Add SVG / PNG logo images for zh-tw"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#584",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#584",
       "time": "2017-04-26T04:30:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/584",
       "text": "Typo correction"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#584",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#584",
       "time": "2017-04-26T07:04:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/584",
       "text": "Typo correction"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-resources#11",
+      "title": "OpenFoodFacts/openfoodfacts-resources#11",
       "time": "2017-06-12T11:26:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-resources/pull/11",
       "text": "Add SVG / PNG logo images for zh-tw"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-resources#11",
+      "title": "OpenFoodFacts/openfoodfacts-resources#11",
       "time": "2019-09-17T20:23:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-resources/pull/11",
       "text": "Add SVG / PNG logo images for zh-tw"

@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4892",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4892",
       "time": "2022-12-16T15:49:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4892",
       "text": "Fix: Added Null Checks"

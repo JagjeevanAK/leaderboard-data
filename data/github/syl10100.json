@@ -3,84 +3,84 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1609",
+      "title": "OpenFoodFacts/openfoodfacts-server#1609",
       "time": "2019-01-08T11:48:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1609",
       "text": "correction_sort_by_product_name"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1609",
+      "title": "OpenFoodFacts/openfoodfacts-server#1609",
       "time": "2019-01-09T17:54:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1609",
       "text": "correction_sort_by_product_name"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1612",
+      "title": "OpenFoodFacts/openfoodfacts-server#1612",
       "time": "2019-01-09T18:42:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1612",
       "text": "improve aggregations perf"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1612",
+      "title": "OpenFoodFacts/openfoodfacts-server#1612",
       "time": "2019-01-31T17:24:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1612",
       "text": "improve aggregations perf"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3192",
+      "title": "OpenFoodFacts/openfoodfacts-server#3192",
       "time": "2020-04-02T14:53:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3192",
       "text": "update dev-environment-quick-start-guide.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#3192",
+      "title": "OpenFoodFacts/openfoodfacts-server#3192",
       "time": "2020-04-12T14:13:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3192",
       "text": "update dev-environment-quick-start-guide.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3242",
+      "title": "OpenFoodFacts/openfoodfacts-server#3242",
       "time": "2020-04-10T15:34:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3242",
       "text": "Use estimated_document_count for world root URL"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#3242",
+      "title": "OpenFoodFacts/openfoodfacts-server#3242",
       "time": "2020-04-12T12:45:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3242",
       "text": "Use estimated_document_count for world root URL"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3257",
+      "title": "OpenFoodFacts/openfoodfacts-server#3257",
       "time": "2020-04-13T09:59:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3257",
       "text": "Limit fields returned by MongoDB"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#3257",
+      "title": "OpenFoodFacts/openfoodfacts-server#3257",
       "time": "2020-04-15T16:51:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3257",
       "text": "Limit fields returned by MongoDB"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3310",
+      "title": "OpenFoodFacts/openfoodfacts-server#3310",
       "time": "2020-04-23T14:21:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3310",
       "text": "add pagination and limit for tags pages"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#3310",
+      "title": "OpenFoodFacts/openfoodfacts-server#3310",
       "time": "2020-04-28T13:27:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3310",
       "text": "add pagination and limit for tags pages"

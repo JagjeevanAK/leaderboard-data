@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3840",
+      "title": "OpenFoodFacts/smooth-app#3840",
       "time": "2023-04-02T14:16:28Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3840",
       "text": "fix: 3679 - reporting with a 000000000000 matomo user id"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3840",
+      "title": "OpenFoodFacts/smooth-app#3840",
       "time": "2023-04-04T17:40:03Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3840",
       "text": "fix: 3679 - reporting with a 000000000000 matomo user id"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8041",
+      "title": "OpenFoodFacts/openfoodfacts-server#8041",
       "time": "2023-01-26T23:30:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8041",
       "text": "build: When detecting MacOS then use MacOS-specific 'sysctl' command for setting CPU_COUNT"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8041",
+      "title": "OpenFoodFacts/openfoodfacts-server#8041",
       "time": "2023-01-27T15:51:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8041",
       "text": "build: When detecting MacOS then use MacOS-specific 'sysctl' command for setting CPU_COUNT"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8042",
+      "title": "OpenFoodFacts/openfoodfacts-server#8042",
       "time": "2023-01-26T23:46:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8042",
       "text": "docs: Make api.yml a valid OpenAPI-3.1.0-Spec"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8042",
+      "title": "OpenFoodFacts/openfoodfacts-server#8042",
       "time": "2023-02-07T15:29:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8042",
       "text": "docs: Make api.yml a valid OpenAPI-3.1.0-Spec"

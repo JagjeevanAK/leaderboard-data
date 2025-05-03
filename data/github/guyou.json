@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ubuntu#2",
+      "title": "OpenFoodFacts/openfoodfacts-ubuntu#2",
       "time": "2015-09-26T15:55:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ubuntu/pull/2",
       "text": "Add License"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ubuntu#2",
+      "title": "OpenFoodFacts/openfoodfacts-ubuntu#2",
       "time": "2015-09-29T16:05:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ubuntu/pull/2",
       "text": "Add License"

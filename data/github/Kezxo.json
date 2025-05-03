@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4284",
+      "title": "OpenFoodFacts/openfoodfacts-server#4284",
       "time": "2020-09-30T10:28:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4284",
       "text": "Added the Swedish word for \"cheese\" to allergens."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4284",
+      "title": "OpenFoodFacts/openfoodfacts-server#4284",
       "time": "2020-09-30T11:42:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4284",
       "text": "Added the Swedish word for \"cheese\" to allergens."

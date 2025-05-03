@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7992",
+      "title": "OpenFoodFacts/openfoodfacts-server#7992",
       "time": "2023-01-16T12:21:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7992",
       "text": "feat: adding adhesive tapes as a packaging material"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7992",
+      "title": "OpenFoodFacts/openfoodfacts-server#7992",
       "time": "2023-01-20T15:49:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7992",
       "text": "feat: adding adhesive tapes as a packaging material"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8070",
+      "title": "OpenFoodFacts/openfoodfacts-server#8070",
       "time": "2023-02-05T08:36:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8070",
       "text": "taxonomy: adding Cocamidopropyl betaine in allergens"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8070",
+      "title": "OpenFoodFacts/openfoodfacts-server#8070",
       "time": "2023-02-17T17:54:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8070",
       "text": "taxonomy: adding Cocamidopropyl betaine in allergens"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#531",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#531",
       "time": "2017-03-23T17:00:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/531",
       "text": "Added de translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#531",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#531",
       "time": "2017-03-24T12:06:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/531",
       "text": "Added de translations"

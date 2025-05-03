@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#890",
+      "title": "OpenFoodFacts/robotoff#890",
       "time": "2022-09-08T09:27:34Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/890",
       "text": "feat: Added origin extraction"

@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#4700",
+      "title": "OpenFoodFacts/smooth-app#4700",
       "time": "2023-10-06T06:14:53Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4700",
       "text": "fix: Null check operator used on a null value on Line 46 using null traverse operator"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#4704",
+      "title": "OpenFoodFacts/smooth-app#4704",
       "time": "2023-10-07T11:45:46Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4704",
       "text": "fix: 4696"

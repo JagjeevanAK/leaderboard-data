@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#233",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#233",
       "time": "2025-03-08T12:29:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/233",
       "text": "Fixed QR Scanner Box Size Not Updating on Window Resize"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#233",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#233",
       "time": "2025-03-11T23:40:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/233",
       "text": "Fixed QR Scanner Box Size Not Updating on Window Resize"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#235",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#235",
       "time": "2025-03-08T13:16:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/235",
       "text": "Replace Camera Icon with Barcode Icon for QR Scanner Button"

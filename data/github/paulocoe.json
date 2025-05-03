@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3513",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3513",
       "time": "2020-09-06T15:56:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3513",
       "text": "Implements onRefresh event at SummaryProductFragment"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3513",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3513",
       "time": "2020-09-08T09:32:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3513",
       "text": "Implements onRefresh event at SummaryProductFragment"

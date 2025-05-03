@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3706",
+      "title": "OpenFoodFacts/smooth-app#3706",
       "time": "2023-02-13T18:08:56Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3706",
       "text": "Image size compression"

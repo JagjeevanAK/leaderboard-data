@@ -3,1806 +3,1806 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6513",
+      "title": "OpenFoodFacts/openfoodfacts-server#6513",
       "time": "2022-03-26T21:24:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6513",
       "text": "outreachy uninitialized value update"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6514",
+      "title": "OpenFoodFacts/openfoodfacts-server#6514",
       "time": "2022-03-26T23:12:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6514",
       "text": "fix: outreachy uninitialized value update"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6514",
+      "title": "OpenFoodFacts/openfoodfacts-server#6514",
       "time": "2022-04-05T08:08:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6514",
       "text": "fix: outreachy uninitialized value update"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6568",
+      "title": "OpenFoodFacts/openfoodfacts-server#6568",
       "time": "2022-04-07T00:11:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6568",
       "text": "fix: skip last header line in csv"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6568",
+      "title": "OpenFoodFacts/openfoodfacts-server#6568",
       "time": "2022-04-08T12:48:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6568",
       "text": "fix: skip last header line in csv"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6613",
+      "title": "OpenFoodFacts/openfoodfacts-server#6613",
       "time": "2022-04-13T13:24:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6613",
       "text": "fix: Setting param to return scalar"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6613",
+      "title": "OpenFoodFacts/openfoodfacts-server#6613",
       "time": "2022-04-13T14:07:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6613",
       "text": "fix: Setting param to return scalar"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6633",
+      "title": "OpenFoodFacts/openfoodfacts-server#6633",
       "time": "2022-04-16T22:22:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6633",
       "text": "fix:  warning message"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6633",
+      "title": "OpenFoodFacts/openfoodfacts-server#6633",
       "time": "2022-04-17T13:59:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6633",
       "text": "fix:  warning message"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6656",
+      "title": "OpenFoodFacts/openfoodfacts-server#6656",
       "time": "2022-04-21T01:33:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6656",
       "text": "fix: undefined variable warning"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6656",
+      "title": "OpenFoodFacts/openfoodfacts-server#6656",
       "time": "2022-04-25T08:00:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6656",
       "text": "fix: undefined variable warning"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6724",
+      "title": "OpenFoodFacts/openfoodfacts-server#6724",
       "time": "2022-05-01T17:34:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6724",
       "text": "fix: tests if variable defined before use"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6724",
+      "title": "OpenFoodFacts/openfoodfacts-server#6724",
       "time": "2022-05-10T17:10:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6724",
       "text": "fix: tests if variable defined before use"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6817",
+      "title": "OpenFoodFacts/openfoodfacts-server#6817",
       "time": "2022-05-24T22:05:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6817",
       "text": "fix: defining current_link"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6817",
+      "title": "OpenFoodFacts/openfoodfacts-server#6817",
       "time": "2022-05-25T11:16:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6817",
       "text": "fix: defining current_link"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6832",
+      "title": "OpenFoodFacts/openfoodfacts-server#6832",
       "time": "2022-05-29T19:52:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6832",
       "text": "refactor: Refactor and document current_link / current_link_query"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6832",
+      "title": "OpenFoodFacts/openfoodfacts-server#6832",
       "time": "2022-06-09T15:09:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6832",
       "text": "refactor: Refactor and document current_link / current_link_query"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6877",
+      "title": "OpenFoodFacts/openfoodfacts-server#6877",
       "time": "2022-06-09T02:15:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6877",
       "text": "fix: Undefined variable in search.pl"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6877",
+      "title": "OpenFoodFacts/openfoodfacts-server#6877",
       "time": "2022-06-10T09:59:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6877",
       "text": "fix: Undefined variable in search.pl"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6890",
+      "title": "OpenFoodFacts/openfoodfacts-server#6890",
       "time": "2022-06-12T20:17:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6890",
       "text": "fix: Invalid conversion"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6890",
+      "title": "OpenFoodFacts/openfoodfacts-server#6890",
       "time": "2022-06-14T13:48:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6890",
       "text": "fix: Invalid conversion"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6899",
+      "title": "OpenFoodFacts/openfoodfacts-server#6899",
       "time": "2022-06-14T00:07:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6899",
       "text": "fix: Typo"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6899",
+      "title": "OpenFoodFacts/openfoodfacts-server#6899",
       "time": "2022-06-14T12:33:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6899",
       "text": "fix: Typo"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6912",
+      "title": "OpenFoodFacts/openfoodfacts-server#6912",
       "time": "2022-06-15T22:57:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6912",
       "text": "fix: uninitialized value"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6912",
+      "title": "OpenFoodFacts/openfoodfacts-server#6912",
       "time": "2022-06-22T08:15:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6912",
       "text": "fix: uninitialized value"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6914",
+      "title": "OpenFoodFacts/openfoodfacts-server#6914",
       "time": "2022-06-16T15:55:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6914",
       "text": "fix: $request_ref->{count} not used"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6914",
+      "title": "OpenFoodFacts/openfoodfacts-server#6914",
       "time": "2022-06-20T17:01:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6914",
       "text": "fix: $request_ref->{count} not used"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6915",
+      "title": "OpenFoodFacts/openfoodfacts-server#6915",
       "time": "2022-06-16T21:13:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6915",
       "text": "test: unit tests for display_nutriscore_calculation_details"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6915",
+      "title": "OpenFoodFacts/openfoodfacts-server#6915",
       "time": "2022-06-20T12:32:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6915",
       "text": "test: unit tests for display_nutriscore_calculation_details"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6916",
+      "title": "OpenFoodFacts/openfoodfacts-server#6916",
       "time": "2022-06-17T16:39:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6916",
       "text": "test: analyze_request unit tests"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6916",
+      "title": "OpenFoodFacts/openfoodfacts-server#6916",
       "time": "2022-06-20T12:32:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6916",
       "text": "test: analyze_request unit tests"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6917",
+      "title": "OpenFoodFacts/openfoodfacts-server#6917",
       "time": "2022-06-17T18:32:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6917",
       "text": "test: unit test for url_for_text"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6917",
+      "title": "OpenFoodFacts/openfoodfacts-server#6917",
       "time": "2022-06-21T13:38:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6917",
       "text": "test: unit test for url_for_text"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6930",
+      "title": "OpenFoodFacts/openfoodfacts-server#6930",
       "time": "2022-06-20T19:10:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6930",
       "text": "test: display_preferences_api unit tests"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6930",
+      "title": "OpenFoodFacts/openfoodfacts-server#6930",
       "time": "2022-06-22T08:14:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6930",
       "text": "test: display_preferences_api unit tests"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6934",
+      "title": "OpenFoodFacts/openfoodfacts-server#6934",
       "time": "2022-06-21T16:47:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6934",
       "text": "fix: invalid json"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6934",
+      "title": "OpenFoodFacts/openfoodfacts-server#6934",
       "time": "2022-06-22T08:14:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6934",
       "text": "fix: invalid json"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6935",
+      "title": "OpenFoodFacts/openfoodfacts-server#6935",
       "time": "2022-06-21T19:29:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6935",
       "text": "fix: syntax on display_icon"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6935",
+      "title": "OpenFoodFacts/openfoodfacts-server#6935",
       "time": "2022-06-24T10:03:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6935",
       "text": "fix: syntax on display_icon"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6936",
+      "title": "OpenFoodFacts/openfoodfacts-server#6936",
       "time": "2022-06-21T19:29:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6936",
       "text": "test: display_icon unit tests"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6938",
+      "title": "OpenFoodFacts/openfoodfacts-server#6938",
       "time": "2022-06-22T16:24:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6938",
       "text": "refactor: display_form not used"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6938",
+      "title": "OpenFoodFacts/openfoodfacts-server#6938",
       "time": "2022-06-23T08:29:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6938",
       "text": "refactor: display_form not used"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6948",
+      "title": "OpenFoodFacts/openfoodfacts-server#6948",
       "time": "2022-06-23T16:41:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6948",
       "text": "fix: display_structured_response syntax"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6948",
+      "title": "OpenFoodFacts/openfoodfacts-server#6948",
       "time": "2022-06-24T09:05:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6948",
       "text": "fix: display_structured_response syntax"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6952",
+      "title": "OpenFoodFacts/openfoodfacts-server#6952",
       "time": "2022-06-24T00:55:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6952",
       "text": "refactor: remove apply_global_params_to_all_products"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6952",
+      "title": "OpenFoodFacts/openfoodfacts-server#6952",
       "time": "2022-06-24T08:53:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6952",
       "text": "refactor: remove apply_global_params_to_all_products"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6953",
+      "title": "OpenFoodFacts/openfoodfacts-server#6953",
       "time": "2022-06-24T01:26:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6953",
       "text": "refactor: remove canonicalize_saint"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6953",
+      "title": "OpenFoodFacts/openfoodfacts-server#6953",
       "time": "2022-06-24T08:51:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6953",
       "text": "refactor: remove canonicalize_saint"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6954",
+      "title": "OpenFoodFacts/openfoodfacts-server#6954",
       "time": "2022-06-24T01:49:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6954",
       "text": "refactor: remove capitalize_tag"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6954",
+      "title": "OpenFoodFacts/openfoodfacts-server#6954",
       "time": "2022-06-24T07:37:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6954",
       "text": "refactor: remove capitalize_tag"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6960",
+      "title": "OpenFoodFacts/openfoodfacts-server#6960",
       "time": "2022-06-24T13:38:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6960",
       "text": "refactor: remove dims"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6960",
+      "title": "OpenFoodFacts/openfoodfacts-server#6960",
       "time": "2022-07-04T15:20:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6960",
       "text": "refactor: remove dims"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6962",
+      "title": "OpenFoodFacts/openfoodfacts-server#6962",
       "time": "2022-06-24T16:43:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6962",
       "text": "feat: add perltidy"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6962",
+      "title": "OpenFoodFacts/openfoodfacts-server#6962",
       "time": "2022-07-08T12:10:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6962",
       "text": "feat: add perltidy"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6963",
+      "title": "OpenFoodFacts/openfoodfacts-server#6963",
       "time": "2022-06-24T18:48:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6963",
       "text": "refactor: remove display_tags_list_orig"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6963",
+      "title": "OpenFoodFacts/openfoodfacts-server#6963",
       "time": "2022-06-27T13:09:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6963",
       "text": "refactor: remove display_tags_list_orig"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6968",
+      "title": "OpenFoodFacts/openfoodfacts-server#6968",
       "time": "2022-06-27T14:21:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6968",
       "text": "refactor: remove normalize_fr_a_de_enumeration"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6968",
+      "title": "OpenFoodFacts/openfoodfacts-server#6968",
       "time": "2022-06-27T15:13:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6968",
       "text": "refactor: remove normalize_fr_a_de_enumeration"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6970",
+      "title": "OpenFoodFacts/openfoodfacts-server#6970",
       "time": "2022-06-27T15:38:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6970",
       "text": "docs: check_password_hash documentation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6970",
+      "title": "OpenFoodFacts/openfoodfacts-server#6970",
       "time": "2022-06-28T14:09:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6970",
       "text": "docs: check_password_hash documentation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6971",
+      "title": "OpenFoodFacts/openfoodfacts-server#6971",
       "time": "2022-06-27T16:27:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6971",
       "text": "docs: create_password_hash documentation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6971",
+      "title": "OpenFoodFacts/openfoodfacts-server#6971",
       "time": "2022-06-28T14:08:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6971",
       "text": "docs: create_password_hash documentation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6972",
+      "title": "OpenFoodFacts/openfoodfacts-server#6972",
       "time": "2022-06-27T17:22:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6972",
       "text": "docs: compute_units_of_alcohol documentation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6972",
+      "title": "OpenFoodFacts/openfoodfacts-server#6972",
       "time": "2022-06-30T07:30:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6972",
       "text": "docs: compute_units_of_alcohol documentation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6973",
+      "title": "OpenFoodFacts/openfoodfacts-server#6973",
       "time": "2022-06-27T20:36:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6973",
       "text": "refactor: remove create_user"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6983",
+      "title": "OpenFoodFacts/openfoodfacts-server#6983",
       "time": "2022-06-29T20:37:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6983",
       "text": "refactor: remove decode_html_utf8"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6983",
+      "title": "OpenFoodFacts/openfoodfacts-server#6983",
       "time": "2022-06-30T07:51:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6983",
       "text": "refactor: remove decode_html_utf8"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6986",
+      "title": "OpenFoodFacts/openfoodfacts-server#6986",
       "time": "2022-06-30T15:24:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6986",
       "text": "test: search_and_display_products unit test"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6989",
+      "title": "OpenFoodFacts/openfoodfacts-server#6989",
       "time": "2022-06-30T18:33:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6989",
       "text": "refactor: remove generate_po_files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6989",
+      "title": "OpenFoodFacts/openfoodfacts-server#6989",
       "time": "2022-07-01T14:42:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6989",
       "text": "refactor: remove generate_po_files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6990",
+      "title": "OpenFoodFacts/openfoodfacts-server#6990",
       "time": "2022-06-30T19:39:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6990",
       "text": "refactor: removing unused export"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6990",
+      "title": "OpenFoodFacts/openfoodfacts-server#6990",
       "time": "2022-07-01T15:25:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6990",
       "text": "refactor: removing unused export"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6994",
+      "title": "OpenFoodFacts/openfoodfacts-server#6994",
       "time": "2022-07-01T13:32:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6994",
       "text": "refactor: remove add_users_team unused export"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6994",
+      "title": "OpenFoodFacts/openfoodfacts-server#6994",
       "time": "2022-07-04T15:19:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6994",
       "text": "refactor: remove add_users_team unused export"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6996",
+      "title": "OpenFoodFacts/openfoodfacts-server#6996",
       "time": "2022-07-01T14:23:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6996",
       "text": "refactor: display_image_form unused export"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6996",
+      "title": "OpenFoodFacts/openfoodfacts-server#6996",
       "time": "2022-07-01T14:44:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6996",
       "text": "refactor: display_image_form unused export"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6997",
+      "title": "OpenFoodFacts/openfoodfacts-server#6997",
       "time": "2022-07-01T17:19:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6997",
       "text": "fix: uninitialized value"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6997",
+      "title": "OpenFoodFacts/openfoodfacts-server#6997",
       "time": "2022-07-04T15:26:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6997",
       "text": "fix: uninitialized value"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6998",
+      "title": "OpenFoodFacts/openfoodfacts-server#6998",
       "time": "2022-07-01T18:23:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6998",
       "text": "refactor: remove kcal_to_unit"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6998",
+      "title": "OpenFoodFacts/openfoodfacts-server#6998",
       "time": "2022-07-06T12:05:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6998",
       "text": "refactor: remove kcal_to_unit"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6999",
+      "title": "OpenFoodFacts/openfoodfacts-server#6999",
       "time": "2022-07-01T19:02:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6999",
       "text": "refactor: remove remove_tags_except_links"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7000",
+      "title": "OpenFoodFacts/openfoodfacts-server#7000",
       "time": "2022-07-01T19:27:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7000",
       "text": "refactor: remove remove_tags_except_links"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7000",
+      "title": "OpenFoodFacts/openfoodfacts-server#7000",
       "time": "2022-07-04T14:17:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7000",
       "text": "refactor: remove remove_tags_except_links"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7010",
+      "title": "OpenFoodFacts/openfoodfacts-server#7010",
       "time": "2022-07-04T19:27:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7010",
       "text": "refactor: gen_feeds unused export"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7010",
+      "title": "OpenFoodFacts/openfoodfacts-server#7010",
       "time": "2022-07-05T08:04:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7010",
       "text": "refactor: gen_feeds unused export"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7011",
+      "title": "OpenFoodFacts/openfoodfacts-server#7011",
       "time": "2022-07-04T21:34:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7011",
       "text": "refactor: get_ascii_fileid unused export"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7011",
+      "title": "OpenFoodFacts/openfoodfacts-server#7011",
       "time": "2022-07-06T13:14:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7011",
       "text": "refactor: get_ascii_fileid unused export"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7014",
+      "title": "OpenFoodFacts/openfoodfacts-server#7014",
       "time": "2022-07-05T14:17:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7014",
       "text": "refactor: get_fileid_punycode unused export"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7014",
+      "title": "OpenFoodFacts/openfoodfacts-server#7014",
       "time": "2022-07-06T11:43:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7014",
       "text": "refactor: get_fileid_punycode unused export"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7015",
+      "title": "OpenFoodFacts/openfoodfacts-server#7015",
       "time": "2022-07-05T14:47:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7015",
       "text": "refactor: init_languages unused export"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7015",
+      "title": "OpenFoodFacts/openfoodfacts-server#7015",
       "time": "2022-07-06T11:43:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7015",
       "text": "refactor: init_languages unused export"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7016",
+      "title": "OpenFoodFacts/openfoodfacts-server#7016",
       "time": "2022-07-05T16:17:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7016",
       "text": "refactor: cleanup syntax"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7016",
+      "title": "OpenFoodFacts/openfoodfacts-server#7016",
       "time": "2022-07-06T11:40:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7016",
       "text": "refactor: cleanup syntax"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7017",
+      "title": "OpenFoodFacts/openfoodfacts-server#7017",
       "time": "2022-07-05T18:38:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7017",
       "text": "refactor: process_image_form unused export"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7017",
+      "title": "OpenFoodFacts/openfoodfacts-server#7017",
       "time": "2022-07-06T11:39:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7017",
       "text": "refactor: process_image_form unused export"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7018",
+      "title": "OpenFoodFacts/openfoodfacts-server#7018",
       "time": "2022-07-05T19:36:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7018",
       "text": "refactor: headers_ref unused variable"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7018",
+      "title": "OpenFoodFacts/openfoodfacts-server#7018",
       "time": "2022-07-06T11:38:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7018",
       "text": "refactor: headers_ref unused variable"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7024",
+      "title": "OpenFoodFacts/openfoodfacts-server#7024",
       "time": "2022-07-06T15:01:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7024",
       "text": "refactor: updating perlcritic"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7024",
+      "title": "OpenFoodFacts/openfoodfacts-server#7024",
       "time": "2022-07-19T10:20:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7024",
       "text": "refactor: updating perlcritic"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7025",
+      "title": "OpenFoodFacts/openfoodfacts-server#7025",
       "time": "2022-07-06T17:14:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7025",
       "text": "refactor: replace perl \"shift\" prototype in `Display.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7025",
+      "title": "OpenFoodFacts/openfoodfacts-server#7025",
       "time": "2022-07-08T10:25:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7025",
       "text": "refactor: replace perl \"shift\" prototype in `Display.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7027",
+      "title": "OpenFoodFacts/openfoodfacts-server#7027",
       "time": "2022-07-06T18:33:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7027",
       "text": "refactor: replace perl \"shift\" prototype in `Recipes.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7027",
+      "title": "OpenFoodFacts/openfoodfacts-server#7027",
       "time": "2022-07-07T10:12:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7027",
       "text": "refactor: replace perl \"shift\" prototype in `Recipes.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7032",
+      "title": "OpenFoodFacts/openfoodfacts-server#7032",
       "time": "2022-07-07T16:00:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7032",
       "text": "refactor: replace perl \"shift\" prototype in `Index.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7032",
+      "title": "OpenFoodFacts/openfoodfacts-server#7032",
       "time": "2022-07-08T10:15:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7032",
       "text": "refactor: replace perl \"shift\" prototype in `Index.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7033",
+      "title": "OpenFoodFacts/openfoodfacts-server#7033",
       "time": "2022-07-07T16:54:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7033",
       "text": "refactor: replace perl \"shift\" prototype in `ProducersFood.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7033",
+      "title": "OpenFoodFacts/openfoodfacts-server#7033",
       "time": "2022-07-08T10:15:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7033",
       "text": "refactor: replace perl \"shift\" prototype in `ProducersFood.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7034",
+      "title": "OpenFoodFacts/openfoodfacts-server#7034",
       "time": "2022-07-07T18:02:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7034",
       "text": "refactor: replace perl shift prototype in `Users.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7034",
+      "title": "OpenFoodFacts/openfoodfacts-server#7034",
       "time": "2022-07-08T10:15:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7034",
       "text": "refactor: replace perl shift prototype in `Users.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7036",
+      "title": "OpenFoodFacts/openfoodfacts-server#7036",
       "time": "2022-07-07T19:18:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7036",
       "text": "refactor: replace perl shift prototype in Test.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7036",
+      "title": "OpenFoodFacts/openfoodfacts-server#7036",
       "time": "2022-07-13T08:56:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7036",
       "text": "refactor: replace perl shift prototype in Test.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7040",
+      "title": "OpenFoodFacts/openfoodfacts-server#7040",
       "time": "2022-07-08T13:36:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7040",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7040",
+      "title": "OpenFoodFacts/openfoodfacts-server#7040",
       "time": "2022-07-21T09:01:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7040",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7042",
+      "title": "OpenFoodFacts/openfoodfacts-server#7042",
       "time": "2022-07-08T15:12:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7042",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7043",
+      "title": "OpenFoodFacts/openfoodfacts-server#7043",
       "time": "2022-07-08T16:40:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7043",
       "text": "refactor: adding perltidy to `t/lang.t`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7044",
+      "title": "OpenFoodFacts/openfoodfacts-server#7044",
       "time": "2022-07-08T17:02:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7044",
       "text": "refactor: adding perltidy to t/lang.t"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7044",
+      "title": "OpenFoodFacts/openfoodfacts-server#7044",
       "time": "2022-07-14T15:17:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7044",
       "text": "refactor: adding perltidy to t/lang.t"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7045",
+      "title": "OpenFoodFacts/openfoodfacts-server#7045",
       "time": "2022-07-08T18:57:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7045",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7051",
+      "title": "OpenFoodFacts/openfoodfacts-server#7051",
       "time": "2022-07-11T13:02:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7051",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7051",
+      "title": "OpenFoodFacts/openfoodfacts-server#7051",
       "time": "2022-07-21T09:26:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7051",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7052",
+      "title": "OpenFoodFacts/openfoodfacts-server#7052",
       "time": "2022-07-11T14:43:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7052",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7052",
+      "title": "OpenFoodFacts/openfoodfacts-server#7052",
       "time": "2022-07-13T13:32:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7052",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7055",
+      "title": "OpenFoodFacts/openfoodfacts-server#7055",
       "time": "2022-07-11T20:08:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7055",
       "text": "refactor: adding perltidy to cgi/css.pl"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7055",
+      "title": "OpenFoodFacts/openfoodfacts-server#7055",
       "time": "2022-07-13T14:15:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7055",
       "text": "refactor: adding perltidy to cgi/css.pl"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7056",
+      "title": "OpenFoodFacts/openfoodfacts-server#7056",
       "time": "2022-07-12T00:04:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7056",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7056",
+      "title": "OpenFoodFacts/openfoodfacts-server#7056",
       "time": "2022-07-13T08:44:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7056",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7060",
+      "title": "OpenFoodFacts/openfoodfacts-server#7060",
       "time": "2022-07-12T17:36:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7060",
       "text": "refactor: uncomment severity 3 & remove unused variables"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7060",
+      "title": "OpenFoodFacts/openfoodfacts-server#7060",
       "time": "2022-07-18T15:53:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7060",
       "text": "refactor: uncomment severity 3 & remove unused variables"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7066",
+      "title": "OpenFoodFacts/openfoodfacts-server#7066",
       "time": "2022-07-13T21:12:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7066",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7066",
+      "title": "OpenFoodFacts/openfoodfacts-server#7066",
       "time": "2022-07-19T15:04:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7066",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7069",
+      "title": "OpenFoodFacts/openfoodfacts-server#7069",
       "time": "2022-07-14T16:33:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7069",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7069",
+      "title": "OpenFoodFacts/openfoodfacts-server#7069",
       "time": "2022-07-21T08:37:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7069",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7070",
+      "title": "OpenFoodFacts/openfoodfacts-server#7070",
       "time": "2022-07-14T17:59:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7070",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7070",
+      "title": "OpenFoodFacts/openfoodfacts-server#7070",
       "time": "2022-07-15T12:45:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7070",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7074",
+      "title": "OpenFoodFacts/openfoodfacts-server#7074",
       "time": "2022-07-15T14:10:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7074",
       "text": "refactor: adding perltidy to files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7082",
+      "title": "OpenFoodFacts/openfoodfacts-server#7082",
       "time": "2022-07-18T19:55:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7082",
       "text": "fix: explicit return statements in `KnowledgePanels.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7082",
+      "title": "OpenFoodFacts/openfoodfacts-server#7082",
       "time": "2022-07-20T08:08:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7082",
       "text": "fix: explicit return statements in `KnowledgePanels.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7083",
+      "title": "OpenFoodFacts/openfoodfacts-server#7083",
       "time": "2022-07-18T22:01:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7083",
       "text": "fix: explicit return statements in `GS1.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7083",
+      "title": "OpenFoodFacts/openfoodfacts-server#7083",
       "time": "2022-07-20T08:32:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7083",
       "text": "fix: explicit return statements in `GS1.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7086",
+      "title": "OpenFoodFacts/openfoodfacts-server#7086",
       "time": "2022-07-19T12:42:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7086",
       "text": "fix: explicit return statements in `Attributes.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7086",
+      "title": "OpenFoodFacts/openfoodfacts-server#7086",
       "time": "2022-07-20T08:32:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7086",
       "text": "fix: explicit return statements in `Attributes.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7089",
+      "title": "OpenFoodFacts/openfoodfacts-server#7089",
       "time": "2022-07-19T15:01:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7089",
       "text": "fix: explicit return statements in `Ecoscore.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7089",
+      "title": "OpenFoodFacts/openfoodfacts-server#7089",
       "time": "2022-07-20T08:09:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7089",
       "text": "fix: explicit return statements in `Ecoscore.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7097",
+      "title": "OpenFoodFacts/openfoodfacts-server#7097",
       "time": "2022-07-19T18:55:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7097",
       "text": "fix: explicit return statements in `Ingredients.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7097",
+      "title": "OpenFoodFacts/openfoodfacts-server#7097",
       "time": "2022-07-20T08:09:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7097",
       "text": "fix: explicit return statements in `Ingredients.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7103",
+      "title": "OpenFoodFacts/openfoodfacts-server#7103",
       "time": "2022-07-20T15:13:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7103",
       "text": "fix: explicit return statements in `ForestFootprint.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7103",
+      "title": "OpenFoodFacts/openfoodfacts-server#7103",
       "time": "2022-07-21T08:40:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7103",
       "text": "fix: explicit return statements in `ForestFootprint.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7104",
+      "title": "OpenFoodFacts/openfoodfacts-server#7104",
       "time": "2022-07-20T15:45:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7104",
       "text": "fix: return statements"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7104",
+      "title": "OpenFoodFacts/openfoodfacts-server#7104",
       "time": "2022-07-21T08:57:56Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7104",
       "text": "fix: return statements"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7109",
+      "title": "OpenFoodFacts/openfoodfacts-server#7109",
       "time": "2022-07-20T22:54:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7109",
       "text": "feat: uncommenting severity 4 rules in `.perlcriticrc`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7109",
+      "title": "OpenFoodFacts/openfoodfacts-server#7109",
       "time": "2022-07-22T16:35:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7109",
       "text": "feat: uncommenting severity 4 rules in `.perlcriticrc`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7114",
+      "title": "OpenFoodFacts/openfoodfacts-server#7114",
       "time": "2022-07-21T15:24:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7114",
       "text": "refactor: require grep and map blocks"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7114",
+      "title": "OpenFoodFacts/openfoodfacts-server#7114",
       "time": "2022-07-22T07:52:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7114",
       "text": "refactor: require grep and map blocks"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7115",
+      "title": "OpenFoodFacts/openfoodfacts-server#7115",
       "time": "2022-07-21T21:10:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7115",
       "text": "fix: `Ingredients.pm` reused variables"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7115",
+      "title": "OpenFoodFacts/openfoodfacts-server#7115",
       "time": "2022-07-22T14:34:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7115",
       "text": "fix: `Ingredients.pm` reused variables"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7124",
+      "title": "OpenFoodFacts/openfoodfacts-server#7124",
       "time": "2022-07-22T16:19:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7124",
       "text": "feat: Deep nest limit 12"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7124",
+      "title": "OpenFoodFacts/openfoodfacts-server#7124",
       "time": "2022-07-25T13:43:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7124",
       "text": "feat: Deep nest limit 12"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7130",
+      "title": "OpenFoodFacts/openfoodfacts-server#7130",
       "time": "2022-07-25T15:03:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7130",
       "text": "feat: Cascading elsif limit 13"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7130",
+      "title": "OpenFoodFacts/openfoodfacts-server#7130",
       "time": "2022-07-25T17:32:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7130",
       "text": "feat: Cascading elsif limit 13"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7134",
+      "title": "OpenFoodFacts/openfoodfacts-server#7134",
       "time": "2022-07-25T19:35:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7134",
       "text": "fix: Spelling correction"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7134",
+      "title": "OpenFoodFacts/openfoodfacts-server#7134",
       "time": "2022-07-26T08:44:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7134",
       "text": "fix: Spelling correction"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7141",
+      "title": "OpenFoodFacts/openfoodfacts-server#7141",
       "time": "2022-07-26T13:41:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7141",
       "text": "fix: spelling correction"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7141",
+      "title": "OpenFoodFacts/openfoodfacts-server#7141",
       "time": "2022-07-26T17:22:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7141",
       "text": "fix: spelling correction"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7142",
+      "title": "OpenFoodFacts/openfoodfacts-server#7142",
       "time": "2022-07-26T14:42:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7142",
       "text": "feat: Documentation spelling policy"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7142",
+      "title": "OpenFoodFacts/openfoodfacts-server#7142",
       "time": "2022-07-29T17:36:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7142",
       "text": "feat: Documentation spelling policy"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7150",
+      "title": "OpenFoodFacts/openfoodfacts-server#7150",
       "time": "2022-07-27T17:58:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7150",
       "text": "refactor: Prohibit mixed boolean operators policy"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7150",
+      "title": "OpenFoodFacts/openfoodfacts-server#7150",
       "time": "2022-07-28T17:23:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7150",
       "text": "refactor: Prohibit mixed boolean operators policy"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7151",
+      "title": "OpenFoodFacts/openfoodfacts-server#7151",
       "time": "2022-07-27T20:09:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7151",
       "text": "refactor: reused variables in Ingredients.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7151",
+      "title": "OpenFoodFacts/openfoodfacts-server#7151",
       "time": "2022-07-28T08:58:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7151",
       "text": "refactor: reused variables in Ingredients.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7155",
+      "title": "OpenFoodFacts/openfoodfacts-server#7155",
       "time": "2022-07-28T18:54:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7155",
       "text": "refactor: repeated lines typo"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7155",
+      "title": "OpenFoodFacts/openfoodfacts-server#7155",
       "time": "2022-07-29T08:00:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7155",
       "text": "refactor: repeated lines typo"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7157",
+      "title": "OpenFoodFacts/openfoodfacts-server#7157",
       "time": "2022-07-29T17:56:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7157",
       "text": "refactor: new function: `apply_organization_settings_to_product()`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7166",
+      "title": "OpenFoodFacts/openfoodfacts-server#7166",
       "time": "2022-08-01T18:56:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7166",
       "text": "refactor: enable perl signatures in ImportConvert.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7166",
+      "title": "OpenFoodFacts/openfoodfacts-server#7166",
       "time": "2022-08-02T08:31:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7166",
       "text": "refactor: enable perl signatures in ImportConvert.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7171",
+      "title": "OpenFoodFacts/openfoodfacts-server#7171",
       "time": "2022-08-02T16:57:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7171",
       "text": "refactor: enable perl signature Images.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7171",
+      "title": "OpenFoodFacts/openfoodfacts-server#7171",
       "time": "2022-08-08T08:53:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7171",
       "text": "refactor: enable perl signature Images.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7174",
+      "title": "OpenFoodFacts/openfoodfacts-server#7174",
       "time": "2022-08-03T15:53:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7174",
       "text": "refactor: enable perl signatures in ForestFootprint.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7174",
+      "title": "OpenFoodFacts/openfoodfacts-server#7174",
       "time": "2022-08-18T18:43:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7174",
       "text": "refactor: enable perl signatures in ForestFootprint.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7175",
+      "title": "OpenFoodFacts/openfoodfacts-server#7175",
       "time": "2022-08-03T18:23:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7175",
       "text": "refactor: enable perl signature Ecoscore.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7175",
+      "title": "OpenFoodFacts/openfoodfacts-server#7175",
       "time": "2022-08-08T08:51:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7175",
       "text": "refactor: enable perl signature Ecoscore.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7178",
+      "title": "OpenFoodFacts/openfoodfacts-server#7178",
       "time": "2022-08-04T14:30:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7178",
       "text": "refactor: reducing nesting"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7178",
+      "title": "OpenFoodFacts/openfoodfacts-server#7178",
       "time": "2022-08-19T09:29:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7178",
       "text": "refactor: reducing nesting"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7179",
+      "title": "OpenFoodFacts/openfoodfacts-server#7179",
       "time": "2022-08-04T16:08:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7179",
       "text": "refactor: fixing typos"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7179",
+      "title": "OpenFoodFacts/openfoodfacts-server#7179",
       "time": "2022-08-19T10:07:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7179",
       "text": "refactor: fixing typos"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7180",
+      "title": "OpenFoodFacts/openfoodfacts-server#7180",
       "time": "2022-08-04T21:43:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7180",
       "text": "refactor: reduce nesting in Export.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7180",
+      "title": "OpenFoodFacts/openfoodfacts-server#7180",
       "time": "2022-08-16T12:47:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7180",
       "text": "refactor: reduce nesting in Export.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7183",
+      "title": "OpenFoodFacts/openfoodfacts-server#7183",
       "time": "2022-08-05T14:41:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7183",
       "text": "refactor: enable perl signature Export.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7183",
+      "title": "OpenFoodFacts/openfoodfacts-server#7183",
       "time": "2022-08-08T08:40:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7183",
       "text": "refactor: enable perl signature Export.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7184",
+      "title": "OpenFoodFacts/openfoodfacts-server#7184",
       "time": "2022-08-05T19:55:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7184",
       "text": "refactor: enable perl signature Import.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7184",
+      "title": "OpenFoodFacts/openfoodfacts-server#7184",
       "time": "2022-08-09T12:47:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7184",
       "text": "refactor: enable perl signature Import.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7187",
+      "title": "OpenFoodFacts/openfoodfacts-server#7187",
       "time": "2022-08-08T18:18:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7187",
       "text": "refactor: enable perl signature Product.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7187",
+      "title": "OpenFoodFacts/openfoodfacts-server#7187",
       "time": "2022-08-09T12:33:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7187",
       "text": "refactor: enable perl signature Product.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7188",
+      "title": "OpenFoodFacts/openfoodfacts-server#7188",
       "time": "2022-08-09T14:59:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7188",
       "text": "refactor: enable perl signature `Data.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7188",
+      "title": "OpenFoodFacts/openfoodfacts-server#7188",
       "time": "2022-08-22T14:00:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7188",
       "text": "refactor: enable perl signature `Data.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7191",
+      "title": "OpenFoodFacts/openfoodfacts-server#7191",
       "time": "2022-08-09T20:32:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7191",
       "text": "refactor: enable perl signatures Attributes.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7191",
+      "title": "OpenFoodFacts/openfoodfacts-server#7191",
       "time": "2022-08-16T10:34:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7191",
       "text": "refactor: enable perl signatures Attributes.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7193",
+      "title": "OpenFoodFacts/openfoodfacts-server#7193",
       "time": "2022-08-10T13:55:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7193",
       "text": "refactor: enable perl signature Missions.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7193",
+      "title": "OpenFoodFacts/openfoodfacts-server#7193",
       "time": "2022-08-16T09:56:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7193",
       "text": "refactor: enable perl signature Missions.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7194",
+      "title": "OpenFoodFacts/openfoodfacts-server#7194",
       "time": "2022-08-10T14:21:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7194",
       "text": "refactor: enable perl signature Producers.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7194",
+      "title": "OpenFoodFacts/openfoodfacts-server#7194",
       "time": "2022-08-16T10:30:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7194",
       "text": "refactor: enable perl signature Producers.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7195",
+      "title": "OpenFoodFacts/openfoodfacts-server#7195",
       "time": "2022-08-10T15:54:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7195",
       "text": "refactor: enable perl signature `Store.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7195",
+      "title": "OpenFoodFacts/openfoodfacts-server#7195",
       "time": "2022-08-22T12:53:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7195",
       "text": "refactor: enable perl signature `Store.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7196",
+      "title": "OpenFoodFacts/openfoodfacts-server#7196",
       "time": "2022-08-10T17:48:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7196",
       "text": "refactor: enable perl signature `KnowledgePanels.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7196",
+      "title": "OpenFoodFacts/openfoodfacts-server#7196",
       "time": "2022-08-16T09:56:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7196",
       "text": "refactor: enable perl signature `KnowledgePanels.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7197",
+      "title": "OpenFoodFacts/openfoodfacts-server#7197",
       "time": "2022-08-10T19:40:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7197",
       "text": "refactor: enable perl signatures `Ingredients.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7197",
+      "title": "OpenFoodFacts/openfoodfacts-server#7197",
       "time": "2022-08-18T13:09:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7197",
       "text": "refactor: enable perl signatures `Ingredients.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7201",
+      "title": "OpenFoodFacts/openfoodfacts-server#7201",
       "time": "2022-08-11T17:50:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7201",
       "text": "refactor: enable perl signature `Tags.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7201",
+      "title": "OpenFoodFacts/openfoodfacts-server#7201",
       "time": "2022-08-16T09:38:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7201",
       "text": "refactor: enable perl signature `Tags.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7202",
+      "title": "OpenFoodFacts/openfoodfacts-server#7202",
       "time": "2022-08-12T16:42:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7202",
       "text": "refactor: enable perl signature Packaging.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7202",
+      "title": "OpenFoodFacts/openfoodfacts-server#7202",
       "time": "2022-08-16T09:36:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7202",
       "text": "refactor: enable perl signature Packaging.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7208",
+      "title": "OpenFoodFacts/openfoodfacts-server#7208",
       "time": "2022-08-15T15:08:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7208",
       "text": "refactor: enable perl signature Food.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7208",
+      "title": "OpenFoodFacts/openfoodfacts-server#7208",
       "time": "2022-08-16T09:36:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7208",
       "text": "refactor: enable perl signature Food.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7212",
+      "title": "OpenFoodFacts/openfoodfacts-server#7212",
       "time": "2022-08-15T18:01:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7212",
       "text": "refactor: enable perl signature `Text.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7212",
+      "title": "OpenFoodFacts/openfoodfacts-server#7212",
       "time": "2022-08-29T14:13:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7212",
       "text": "refactor: enable perl signature `Text.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7213",
+      "title": "OpenFoodFacts/openfoodfacts-server#7213",
       "time": "2022-08-16T13:55:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7213",
       "text": "refactor: enable perl signatures `PackagerCodes.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7213",
+      "title": "OpenFoodFacts/openfoodfacts-server#7213",
       "time": "2022-08-17T14:59:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7213",
       "text": "refactor: enable perl signatures `PackagerCodes.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7215",
+      "title": "OpenFoodFacts/openfoodfacts-server#7215",
       "time": "2022-08-16T14:54:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7215",
       "text": "refactor: enable perl signature `MainCountries.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7215",
+      "title": "OpenFoodFacts/openfoodfacts-server#7215",
       "time": "2022-08-17T14:59:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7215",
       "text": "refactor: enable perl signature `MainCountries.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7217",
+      "title": "OpenFoodFacts/openfoodfacts-server#7217",
       "time": "2022-08-16T23:43:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7217",
       "text": "refactor: enable perl signature Orgs.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7217",
+      "title": "OpenFoodFacts/openfoodfacts-server#7217",
       "time": "2022-08-17T14:53:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7217",
       "text": "refactor: enable perl signature Orgs.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7218",
+      "title": "OpenFoodFacts/openfoodfacts-server#7218",
       "time": "2022-08-17T00:18:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7218",
       "text": "refactor: enable perl signature ImportConvertCarrefourFrance.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7218",
+      "title": "OpenFoodFacts/openfoodfacts-server#7218",
       "time": "2022-08-17T14:57:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7218",
       "text": "refactor: enable perl signature ImportConvertCarrefourFrance.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7220",
+      "title": "OpenFoodFacts/openfoodfacts-server#7220",
       "time": "2022-08-17T14:43:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7220",
       "text": "refactor: enable perl signature GS1.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7220",
+      "title": "OpenFoodFacts/openfoodfacts-server#7220",
       "time": "2022-08-17T15:25:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7220",
       "text": "refactor: enable perl signature GS1.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7226",
+      "title": "OpenFoodFacts/openfoodfacts-server#7226",
       "time": "2022-08-19T19:15:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7226",
       "text": "refactor: enable perl signature URL.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7226",
+      "title": "OpenFoodFacts/openfoodfacts-server#7226",
       "time": "2022-08-22T09:09:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7226",
       "text": "refactor: enable perl signature URL.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7235",
+      "title": "OpenFoodFacts/openfoodfacts-server#7235",
       "time": "2022-08-22T13:46:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7235",
       "text": "refactor: enable perl signatures GeoIP.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7235",
+      "title": "OpenFoodFacts/openfoodfacts-server#7235",
       "time": "2022-08-23T07:52:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7235",
       "text": "refactor: enable perl signatures GeoIP.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7236",
+      "title": "OpenFoodFacts/openfoodfacts-server#7236",
       "time": "2022-08-22T14:45:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7236",
       "text": "refactor: fixing typo"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7236",
+      "title": "OpenFoodFacts/openfoodfacts-server#7236",
       "time": "2022-08-23T07:53:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7236",
       "text": "refactor: fixing typo"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7238",
+      "title": "OpenFoodFacts/openfoodfacts-server#7238",
       "time": "2022-08-22T21:24:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7238",
       "text": "refactor: enable perl signature Lang.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7238",
+      "title": "OpenFoodFacts/openfoodfacts-server#7238",
       "time": "2022-08-23T18:09:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7238",
       "text": "refactor: enable perl signature Lang.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7240",
+      "title": "OpenFoodFacts/openfoodfacts-server#7240",
       "time": "2022-08-23T13:17:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7240",
       "text": "refactor: Reduce nesting processing method"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7241",
+      "title": "OpenFoodFacts/openfoodfacts-server#7241",
       "time": "2022-08-23T18:29:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7241",
       "text": "refactor: reduce nesting Display.pm"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7241",
+      "title": "OpenFoodFacts/openfoodfacts-server#7241",
       "time": "2022-08-24T12:46:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7241",
       "text": "refactor: reduce nesting Display.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7246",
+      "title": "OpenFoodFacts/openfoodfacts-server#7246",
       "time": "2022-08-24T17:08:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7246",
       "text": "refactor: reducing nesting GS1.pm"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7247",
+      "title": "OpenFoodFacts/openfoodfacts-server#7247",
       "time": "2022-08-24T18:18:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7247",
       "text": "refactor: enable perl signatures product_mulitlingual.pl"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7247",
+      "title": "OpenFoodFacts/openfoodfacts-server#7247",
       "time": "2022-08-26T08:27:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7247",
       "text": "refactor: enable perl signatures product_mulitlingual.pl"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7250",
+      "title": "OpenFoodFacts/openfoodfacts-server#7250",
       "time": "2022-08-25T11:58:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7250",
       "text": "refactor: perl signature cgi files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7250",
+      "title": "OpenFoodFacts/openfoodfacts-server#7250",
       "time": "2022-08-26T08:20:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7250",
       "text": "refactor: perl signature cgi files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7251",
+      "title": "OpenFoodFacts/openfoodfacts-server#7251",
       "time": "2022-08-25T13:52:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7251",
       "text": "refactor: reduce nesting `GS1.pm`"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7251",
+      "title": "OpenFoodFacts/openfoodfacts-server#7251",
       "time": "2022-08-26T12:58:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7251",
       "text": "refactor: reduce nesting `GS1.pm`"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7252",
+      "title": "OpenFoodFacts/openfoodfacts-server#7252",
       "time": "2022-08-25T15:51:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7252",
       "text": "refactor: perl signature cgi files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7252",
+      "title": "OpenFoodFacts/openfoodfacts-server#7252",
       "time": "2022-08-26T08:20:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7252",
       "text": "refactor: perl signature cgi files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7253",
+      "title": "OpenFoodFacts/openfoodfacts-server#7253",
       "time": "2022-08-25T16:57:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7253",
       "text": "refactor: perl signature cgi files"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7253",
+      "title": "OpenFoodFacts/openfoodfacts-server#7253",
       "time": "2022-08-26T08:19:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7253",
       "text": "refactor: perl signature cgi files"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7256",
+      "title": "OpenFoodFacts/openfoodfacts-server#7256",
       "time": "2022-08-26T11:57:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7256",
       "text": "refactor: `cgi/` perl signatures"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7256",
+      "title": "OpenFoodFacts/openfoodfacts-server#7256",
       "time": "2022-08-26T12:47:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7256",
       "text": "refactor: `cgi/` perl signatures"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7257",
+      "title": "OpenFoodFacts/openfoodfacts-server#7257",
       "time": "2022-08-26T12:59:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7257",
       "text": "refactor: `cgi/` perl signatures"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7257",
+      "title": "OpenFoodFacts/openfoodfacts-server#7257",
       "time": "2022-08-26T14:33:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7257",
       "text": "refactor: `cgi/` perl signatures"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7259",
+      "title": "OpenFoodFacts/openfoodfacts-server#7259",
       "time": "2022-08-26T14:07:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7259",
       "text": "refactor: `cgi/` perl signatures"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7259",
+      "title": "OpenFoodFacts/openfoodfacts-server#7259",
       "time": "2022-08-26T16:27:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7259",
       "text": "refactor: `cgi/` perl signatures"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7261",
+      "title": "OpenFoodFacts/openfoodfacts-server#7261",
       "time": "2022-08-26T16:23:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7261",
       "text": "refactor: `cgi/` perl signatures"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7261",
+      "title": "OpenFoodFacts/openfoodfacts-server#7261",
       "time": "2022-08-29T13:27:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7261",
       "text": "refactor: `cgi/` perl signatures"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7262",
+      "title": "OpenFoodFacts/openfoodfacts-server#7262",
       "time": "2022-08-26T17:15:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7262",
       "text": "refactor: `cgi/` perl signatures"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7262",
+      "title": "OpenFoodFacts/openfoodfacts-server#7262",
       "time": "2022-08-29T13:06:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7262",
       "text": "refactor: `cgi/` perl signatures"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7263",
+      "title": "OpenFoodFacts/openfoodfacts-server#7263",
       "time": "2022-08-26T18:48:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7263",
       "text": "refactor: `cgi/` perl signatures"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7263",
+      "title": "OpenFoodFacts/openfoodfacts-server#7263",
       "time": "2022-08-29T13:05:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7263",
       "text": "refactor: `cgi/` perl signatures"

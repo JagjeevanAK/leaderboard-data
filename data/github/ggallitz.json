@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#1538",
+      "title": "OpenFoodFacts/robotoff#1538",
       "time": "2025-04-03T17:26:04Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/1538",
       "text": "docs: clarify Robotoff intro paragraph in README"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#1538",
+      "title": "OpenFoodFacts/robotoff#1538",
       "time": "2025-04-23T14:23:04Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/1538",
       "text": "docs: clarify Robotoff intro paragraph in README"

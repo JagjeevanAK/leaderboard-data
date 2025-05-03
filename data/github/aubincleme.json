@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#332",
+      "title": "OpenFoodFacts/openfoodfacts-ios#332",
       "time": "2019-08-22T15:59:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/332",
       "text": " #60 - Display full name of additives, as a list"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#332",
+      "title": "OpenFoodFacts/openfoodfacts-ios#332",
       "time": "2019-08-29T10:14:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/332",
       "text": " #60 - Display full name of additives, as a list"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#334",
+      "title": "OpenFoodFacts/openfoodfacts-ios#334",
       "time": "2019-08-25T08:36:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/334",
       "text": " #289: Typo in string \"Login in with your account\""
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#334",
+      "title": "OpenFoodFacts/openfoodfacts-ios#334",
       "time": "2019-09-18T12:17:32Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/334",
       "text": " #289: Typo in string \"Login in with your account\""
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#338",
+      "title": "OpenFoodFacts/openfoodfacts-ios#338",
       "time": "2019-08-31T15:33:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/338",
       "text": "Add fastlane support for screenshots"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#338",
+      "title": "OpenFoodFacts/openfoodfacts-ios#338",
       "time": "2019-10-17T07:56:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/338",
       "text": "Add fastlane support for screenshots"

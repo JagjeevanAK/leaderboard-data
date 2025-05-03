@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#767",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#767",
       "time": "2018-02-15T20:39:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/767",
       "text": "Showing a toast on back button press"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#777",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#777",
       "time": "2018-02-16T23:16:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/777",
       "text": "fixed: #735, #775 toast on back pressed in home activity, sorted Allergens alphabetically"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#831",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#831",
       "time": "2018-02-20T15:13:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/831",
       "text": "Fixes #735: Showing toast warning on pressing back in home activity."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#833",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#833",
       "time": "2018-02-20T16:21:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/833",
       "text": "Fixes #829: Improved offline uploadAll button layout"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#833",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#833",
       "time": "2018-02-25T18:13:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/833",
       "text": "Fixes #829: Improved offline uploadAll button layout"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#838",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#838",
       "time": "2018-02-20T17:06:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/838",
       "text": "Fixes #832: Improved camera icon in Product addition form"

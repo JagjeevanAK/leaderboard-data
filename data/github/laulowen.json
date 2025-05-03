@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5462",
+      "title": "OpenFoodFacts/openfoodfacts-server#5462",
       "time": "2021-08-11T16:45:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5462",
       "text": "Add issue templates to support the scrum methodology"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5462",
+      "title": "OpenFoodFacts/openfoodfacts-server#5462",
       "time": "2021-08-13T13:34:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5462",
       "text": "Add issue templates to support the scrum methodology"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/.github#1",
+      "title": "OpenFoodFacts/.github#1",
       "time": "2021-08-10T12:57:33Z",
       "link": "https://github.com/openfoodfacts/.github/pull/1",
       "text": "Add default issue templates for scrum backlog management: epic, story and task"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/.github#1",
+      "title": "OpenFoodFacts/.github#1",
       "time": "2021-08-10T13:09:27Z",
       "link": "https://github.com/openfoodfacts/.github/pull/1",
       "text": "Add default issue templates for scrum backlog management: epic, story and task"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/.github#2",
+      "title": "OpenFoodFacts/.github#2",
       "time": "2021-08-10T13:38:39Z",
       "link": "https://github.com/openfoodfacts/.github/pull/2",
       "text": "fix directory structure to introduce a .github directory under the .github root"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/.github#2",
+      "title": "OpenFoodFacts/.github#2",
       "time": "2021-08-10T13:45:15Z",
       "link": "https://github.com/openfoodfacts/.github/pull/2",
       "text": "fix directory structure to introduce a .github directory under the .github root"

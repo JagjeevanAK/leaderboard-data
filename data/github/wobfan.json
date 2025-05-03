@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10721",
+      "title": "OpenFoodFacts/openfoodfacts-server#10721",
       "time": "2024-08-21T15:08:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10721",
       "text": "docs: add description to product.popularity_key + popularity_tags"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10721",
+      "title": "OpenFoodFacts/openfoodfacts-server#10721",
       "time": "2024-08-22T14:06:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10721",
       "text": "docs: add description to product.popularity_key + popularity_tags"

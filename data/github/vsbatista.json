@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#960",
+      "title": "OpenFoodFacts/openfoodfacts-ios#960",
       "time": "2022-02-14T04:52:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/960",
       "text": "Update CameraUI.strings for pt-br"

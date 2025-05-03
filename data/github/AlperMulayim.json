@@ -1,33 +1,33 @@
 {
-  "last_updated": "2025-04-11T10:51:49Z",
+  "last_updated": "2025-04-11T14:23:11Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-web#704",
-      "time": "2025-04-11T10:51:49Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/704",
-      "text": "docs: spring boot sdk github link adding to sdk list web page."
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-web#704",
-      "time": "2025-04-14T07:14:51Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/704",
-      "text": "docs: spring boot sdk github link adding to sdk list web page."
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11775",
+      "title": "OpenFoodFacts/openfoodfacts-server#11775",
       "time": "2025-04-11T14:23:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11775",
       "text": "docs: sprig boot starter sdk link added."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#11775",
+      "title": "OpenFoodFacts/openfoodfacts-server#11775",
       "time": "2025-04-11T14:35:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11775",
       "text": "docs: sprig boot starter sdk link added."
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-web#704",
+      "time": "2025-04-11T10:51:49Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/704",
+      "text": "docs: spring boot sdk github link adding to sdk list web page."
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-web#704",
+      "time": "2025-04-14T07:14:51Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/704",
+      "text": "docs: spring boot sdk github link adding to sdk list web page."
     }
   ],
   "open_prs": [],

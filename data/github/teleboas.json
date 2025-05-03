@@ -3,101 +3,101 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1323",
+      "title": "OpenFoodFacts/openfoodfacts-server#1323",
       "time": "2018-08-21T18:55:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1323",
       "text": "Mise à jour de la doc du Nutriscore"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1323",
+      "title": "OpenFoodFacts/openfoodfacts-server#1323",
       "time": "2018-08-22T17:29:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1323",
       "text": "Mise à jour de la doc du Nutriscore"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3363",
+      "title": "OpenFoodFacts/openfoodfacts-server#3363",
       "time": "2020-05-04T04:41:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3363",
       "text": "Import equadis"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#3363",
+      "title": "OpenFoodFacts/openfoodfacts-server#3363",
       "time": "2020-05-04T07:59:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3363",
       "text": "Import equadis"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10664",
+      "title": "OpenFoodFacts/openfoodfacts-server#10664",
       "time": "2024-08-09T06:18:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10664",
       "text": "fix(docs): Correct OpenAPI definition by fixing missing reference "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10664",
+      "title": "OpenFoodFacts/openfoodfacts-server#10664",
       "time": "2024-08-10T05:36:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10664",
       "text": "fix(docs): Correct OpenAPI definition by fixing missing reference "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#8",
-      "time": "2018-08-14T20:14:00Z",
-      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/8",
-      "text": "better fuzzy matching of nutrients"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/off-nutrition-table-extractor#8",
-      "time": "2018-08-31T08:15:02Z",
-      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/8",
-      "text": "better fuzzy matching of nutrients"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#9",
-      "time": "2018-08-15T12:12:42Z",
-      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/9",
-      "text": "LICENSE proposition"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/off-nutrition-table-extractor#9",
-      "time": "2018-08-20T16:04:23Z",
-      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/9",
-      "text": "LICENSE proposition"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ops#6",
-      "time": "2025-02-13T20:45:25Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-ops/pull/6",
-      "text": "Add git-crypt for secrets management and implement nullmailer with Mailjet SMTP"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ops#6",
-      "time": "2025-02-19T16:28:15Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-ops/pull/6",
-      "text": "Add git-crypt for secrets management and implement nullmailer with Mailjet SMTP"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-infrastructure#389",
+      "title": "OpenFoodFacts/openfoodfacts-infrastructure#389",
       "time": "2024-08-21T16:15:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/389",
       "text": "feat: Revamp Slack Onboarding Page with Enhanced Visuals and Content"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-infrastructure#389",
+      "title": "OpenFoodFacts/openfoodfacts-infrastructure#389",
       "time": "2024-08-21T16:32:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/389",
       "text": "feat: Revamp Slack Onboarding Page with Enhanced Visuals and Content"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#8",
+      "time": "2018-08-14T20:14:00Z",
+      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/8",
+      "text": "better fuzzy matching of nutrients"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#8",
+      "time": "2018-08-31T08:15:02Z",
+      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/8",
+      "text": "better fuzzy matching of nutrients"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#9",
+      "time": "2018-08-15T12:12:42Z",
+      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/9",
+      "text": "LICENSE proposition"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#9",
+      "time": "2018-08-20T16:04:23Z",
+      "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/9",
+      "text": "LICENSE proposition"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-ops#6",
+      "time": "2025-02-13T20:45:25Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ops/pull/6",
+      "text": "Add git-crypt for secrets management and implement nullmailer with Mailjet SMTP"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-ops#6",
+      "time": "2025-02-19T16:28:15Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-ops/pull/6",
+      "text": "Add git-crypt for secrets management and implement nullmailer with Mailjet SMTP"
     }
   ],
   "open_prs": [],

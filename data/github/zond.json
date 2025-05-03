@@ -1,121 +1,121 @@
 {
-  "last_updated": "2021-11-01T08:06:16Z",
+  "last_updated": "2021-11-10T11:19:16Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#485",
-      "time": "2021-11-01T08:06:16Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/485",
-      "text": "[Feature] Make insight annotation a vote instead of single user decision"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#485",
-      "time": "2022-02-01T15:35:13Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/485",
-      "text": "[Feature] Make insight annotation a vote instead of single user decision"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#284",
-      "time": "2021-10-27T14:30:19Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/284",
-      "text": "Added a result type for annotation requests."
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#654",
+      "title": "OpenFoodFacts/smooth-app#654",
       "time": "2021-11-10T11:19:16Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/654",
       "text": "History page refactoring"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#654",
+      "title": "OpenFoodFacts/smooth-app#654",
       "time": "2021-11-15T15:22:06Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/654",
       "text": "History page refactoring"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#680",
+      "title": "OpenFoodFacts/smooth-app#680",
       "time": "2021-11-24T14:25:53Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/680",
       "text": "Replaced OldHomePage with a new HistoryPage that only contains a prod…"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#690",
+      "title": "OpenFoodFacts/smooth-app#690",
       "time": "2021-11-25T14:31:10Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/690",
       "text": "[WIP] Making history page look more like the designs"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#712",
+      "title": "OpenFoodFacts/smooth-app#712",
       "time": "2021-12-08T13:29:25Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/712",
       "text": "Refactored the smooth product found card to match the Figma designs"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#712",
+      "title": "OpenFoodFacts/smooth-app#712",
       "time": "2021-12-09T09:52:46Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/712",
       "text": "Refactored the smooth product found card to match the Figma designs"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5374",
+      "title": "OpenFoodFacts/openfoodfacts-server#5374",
       "time": "2021-07-15T12:39:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5374",
       "text": "Added a comment about the docker group to the 'install docker' step."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5374",
+      "title": "OpenFoodFacts/openfoodfacts-server#5374",
       "time": "2021-07-16T09:48:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5374",
       "text": "Added a comment about the docker group to the 'install docker' step."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5615",
+      "title": "OpenFoodFacts/openfoodfacts-server#5615",
       "time": "2021-09-06T09:23:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5615",
       "text": "Added a solution to a docker problem."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5615",
+      "title": "OpenFoodFacts/openfoodfacts-server#5615",
       "time": "2021-09-07T08:43:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5615",
       "text": "Added a solution to a docker problem."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5626",
+      "title": "OpenFoodFacts/openfoodfacts-server#5626",
       "time": "2021-09-07T09:06:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5626",
       "text": "Added the bit of docker advice I added to the main branch."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5626",
+      "title": "OpenFoodFacts/openfoodfacts-server#5626",
       "time": "2021-09-10T12:48:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5626",
       "text": "Added the bit of docker advice I added to the main branch."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/impactestimator#7",
+      "title": "OpenFoodFacts/openfoodfacts-dart#284",
+      "time": "2021-10-27T14:30:19Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/284",
+      "text": "Added a result type for annotation requests."
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/robotoff#485",
+      "time": "2021-11-01T08:06:16Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/485",
+      "text": "[Feature] Make insight annotation a vote instead of single user decision"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/robotoff#485",
+      "time": "2022-02-01T15:35:13Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/485",
+      "text": "[Feature] Make insight annotation a vote instead of single user decision"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/impactestimator#7",
       "time": "2021-12-13T15:55:08Z",
       "link": "https://github.com/openfoodfacts/impactestimator/pull/7",
       "text": "Improved the multiprocessing usage."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/impactestimator#7",
+      "title": "OpenFoodFacts/impactestimator#7",
       "time": "2021-12-13T17:57:03Z",
       "link": "https://github.com/openfoodfacts/impactestimator/pull/7",
       "text": "Improved the multiprocessing usage."

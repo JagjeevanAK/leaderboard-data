@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#670",
+      "title": "OpenFoodFacts/robotoff#670",
       "time": "2022-03-25T05:20:07Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/670",
       "text": "api.yml updated to openAPI"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#671",
+      "title": "OpenFoodFacts/robotoff#671",
       "time": "2022-03-25T11:15:24Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/671",
       "text": "Updates"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#672",
+      "title": "OpenFoodFacts/robotoff#672",
       "time": "2022-03-25T11:40:34Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/672",
       "text": "BREAKING CHANGE : api.md updated to openAPI"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#673",
+      "title": "OpenFoodFacts/robotoff#673",
       "time": "2022-03-25T11:48:18Z",
       "link": "https://github.com/openfoodfacts/robotoff/pull/673",
       "text": "feat : api.md updated to openAPI"

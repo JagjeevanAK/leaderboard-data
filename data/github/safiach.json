@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#302",
+      "title": "OpenFoodFacts/openfoodfacts-ios#302",
       "time": "2019-05-29T13:20:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/302",
       "text": "fix The portion size is repeated on the nutrition tab"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#302",
+      "title": "OpenFoodFacts/openfoodfacts-ios#302",
       "time": "2019-06-18T16:30:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/302",
       "text": "fix The portion size is repeated on the nutrition tab"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#303",
+      "title": "OpenFoodFacts/openfoodfacts-ios#303",
       "time": "2019-05-31T09:42:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/303",
       "text": "fix Add a title for the nutrient levels"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#303",
+      "title": "OpenFoodFacts/openfoodfacts-ios#303",
       "time": "2019-06-18T16:43:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/303",
       "text": "fix Add a title for the nutrient levels"

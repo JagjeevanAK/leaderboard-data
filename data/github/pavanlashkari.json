@@ -10,24 +10,31 @@
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#1068",
+      "title": "OpenFoodFacts/smooth-app#6541",
+      "time": "2025-04-10T18:14:05Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6541",
+      "text": "refactor: migrate from iso_countries to l10n_countries"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/smooth-app#6574",
+      "time": "2025-05-02T15:55:11Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6574",
+      "text": "refactor: Apply unawaited_futures lint rule across the project"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-dart#1068",
       "time": "2025-04-22T15:55:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1068",
       "text": "feat: Add iso3Code field to OpenFoodFactsCountry enum per #1067"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#1068",
+      "title": "OpenFoodFacts/openfoodfacts-dart#1068",
       "time": "2025-04-23T07:28:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1068",
       "text": "feat: Add iso3Code field to OpenFoodFactsCountry enum per #1067"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6541",
-      "time": "2025-04-10T18:14:05Z",
-      "link": "https://github.com/openfoodfacts/smooth-app/pull/6541",
-      "text": "refactor: migrate from iso_countries to l10n_countries"
     }
   ],
   "open_prs": [],

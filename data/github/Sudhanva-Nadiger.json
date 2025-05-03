@@ -3,413 +3,413 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3528",
+      "title": "OpenFoodFacts/smooth-app#3528",
       "time": "2023-01-05T17:13:23Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3528",
       "text": "fix: 3494 pop dialog navigator properly"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3528",
+      "title": "OpenFoodFacts/smooth-app#3528",
       "time": "2023-01-06T17:19:50Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3528",
       "text": "fix: 3494 pop dialog navigator properly"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3550",
+      "title": "OpenFoodFacts/smooth-app#3550",
       "time": "2023-01-08T10:23:12Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3550",
       "text": "fix: 3447 fab appearing in start scanning page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3550",
+      "title": "OpenFoodFacts/smooth-app#3550",
       "time": "2023-01-08T11:51:51Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3550",
       "text": "fix: 3447 fab appearing in start scanning page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3552",
+      "title": "OpenFoodFacts/smooth-app#3552",
       "time": "2023-01-08T13:06:26Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3552",
       "text": "feat: 3449 Make \"Start Scanning!\" a button"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3569",
+      "title": "OpenFoodFacts/smooth-app#3569",
       "time": "2023-01-12T10:15:12Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3569",
       "text": "feat: #3449  Make \"Start Scanning\" Button"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3569",
+      "title": "OpenFoodFacts/smooth-app#3569",
       "time": "2023-01-12T12:04:35Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3569",
       "text": "feat: #3449  Make \"Start Scanning\" Button"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3582",
+      "title": "OpenFoodFacts/smooth-app#3582",
       "time": "2023-01-16T13:48:16Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3582",
       "text": "feat: add troubleshooting and flutter installation guide"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3587",
+      "title": "OpenFoodFacts/smooth-app#3587",
       "time": "2023-01-17T16:12:30Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3587",
       "text": "feat: add troubleshooting section"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3587",
+      "title": "OpenFoodFacts/smooth-app#3587",
       "time": "2023-01-18T12:37:08Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3587",
       "text": "feat: add troubleshooting section"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3593",
+      "title": "OpenFoodFacts/smooth-app#3593",
       "time": "2023-01-18T14:04:39Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3593",
       "text": "fix: String of only whitespaces considered as name"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3593",
+      "title": "OpenFoodFacts/smooth-app#3593",
       "time": "2023-01-18T14:54:36Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3593",
       "text": "fix: String of only whitespaces considered as name"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3619",
+      "title": "OpenFoodFacts/smooth-app#3619",
       "time": "2023-01-23T11:27:59Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3619",
       "text": "fix: alternate color between packaging components"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3619",
+      "title": "OpenFoodFacts/smooth-app#3619",
       "time": "2023-01-23T12:06:03Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3619",
       "text": "fix: alternate color between packaging components"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3635",
+      "title": "OpenFoodFacts/smooth-app#3635",
       "time": "2023-01-24T18:32:05Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3635",
       "text": "feat: Add undo option when product in list deleted! "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3648",
+      "title": "OpenFoodFacts/smooth-app#3648",
       "time": "2023-01-27T14:33:33Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3648",
       "text": "feat: Add undo option when product in list deleted!"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3648",
+      "title": "OpenFoodFacts/smooth-app#3648",
       "time": "2023-01-29T18:46:33Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3648",
       "text": "feat: Add undo option when product in list deleted!"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3649",
+      "title": "OpenFoodFacts/smooth-app#3649",
       "time": "2023-01-28T16:33:39Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3649",
       "text": "fix: emailsender not working properly"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3649",
+      "title": "OpenFoodFacts/smooth-app#3649",
       "time": "2023-01-29T14:02:22Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3649",
       "text": "fix: emailsender not working properly"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3651",
+      "title": "OpenFoodFacts/smooth-app#3651",
       "time": "2023-01-28T20:02:13Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3651",
       "text": "feat: add copy to clipboard button for email"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3651",
+      "title": "OpenFoodFacts/smooth-app#3651",
       "time": "2023-02-08T17:46:47Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3651",
       "text": "feat: add copy to clipboard button for email"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3692",
+      "title": "OpenFoodFacts/smooth-app#3692",
       "time": "2023-02-11T10:19:25Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3692",
       "text": "feat: format sign_up_errors to normal texts instead of HTML format"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3692",
+      "title": "OpenFoodFacts/smooth-app#3692",
       "time": "2023-02-16T16:43:16Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3692",
       "text": "feat: format sign_up_errors to normal texts instead of HTML format"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3693",
+      "title": "OpenFoodFacts/smooth-app#3693",
       "time": "2023-02-11T12:24:37Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3693",
       "text": "feat: Improve user profile UI"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3693",
+      "title": "OpenFoodFacts/smooth-app#3693",
       "time": "2023-02-16T16:36:54Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3693",
       "text": "feat: Improve user profile UI"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3698",
+      "title": "OpenFoodFacts/smooth-app#3698",
       "time": "2023-02-12T05:08:45Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3698",
       "text": "refactor: move usermanagementProvider after if check!"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3698",
+      "title": "OpenFoodFacts/smooth-app#3698",
       "time": "2023-02-16T16:40:31Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3698",
       "text": "refactor: move usermanagementProvider after if check!"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3704",
+      "title": "OpenFoodFacts/smooth-app#3704",
       "time": "2023-02-13T16:33:56Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3704",
       "text": "feat: add rate the app link and share the app link in the settings page!"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3704",
+      "title": "OpenFoodFacts/smooth-app#3704",
       "time": "2023-02-21T15:57:14Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3704",
       "text": "feat: add rate the app link and share the app link in the settings page!"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3713",
+      "title": "OpenFoodFacts/smooth-app#3713",
       "time": "2023-02-17T19:01:28Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3713",
       "text": "fix: dialogs with actions impossible to understand they are clickable"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3725",
+      "title": "OpenFoodFacts/smooth-app#3725",
       "time": "2023-02-21T14:49:00Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3725",
       "text": "fix: checkBox not showing right mark in dark theme"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3725",
+      "title": "OpenFoodFacts/smooth-app#3725",
       "time": "2023-02-21T16:24:50Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3725",
       "text": "fix: checkBox not showing right mark in dark theme"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3792",
+      "title": "OpenFoodFacts/smooth-app#3792",
       "time": "2023-03-20T18:36:21Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3792",
       "text": "feat: make nutrient search accentuation insensitive"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3792",
+      "title": "OpenFoodFacts/smooth-app#3792",
       "time": "2023-03-21T18:23:44Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3792",
       "text": "feat: make nutrient search accentuation insensitive"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3794",
+      "title": "OpenFoodFacts/smooth-app#3794",
       "time": "2023-03-22T12:44:26Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3794",
       "text": "fix: remove validation check for basic info fields"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3794",
+      "title": "OpenFoodFacts/smooth-app#3794",
       "time": "2023-04-08T13:06:09Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3794",
       "text": "fix: remove validation check for basic info fields"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3818",
+      "title": "OpenFoodFacts/smooth-app#3818",
       "time": "2023-03-26T08:12:11Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3818",
       "text": "fix: visual inconsistency in app_settings"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3818",
+      "title": "OpenFoodFacts/smooth-app#3818",
       "time": "2023-04-08T13:09:53Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3818",
       "text": "fix: visual inconsistency in app_settings"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#4714",
+      "title": "OpenFoodFacts/smooth-app#4714",
       "time": "2023-10-16T12:57:56Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4714",
       "text": "feat: Create a screen listing all attributes for a product"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#4714",
+      "title": "OpenFoodFacts/smooth-app#4714",
       "time": "2023-11-04T14:20:06Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4714",
       "text": "feat: Create a screen listing all attributes for a product"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#202",
-      "time": "2024-02-09T15:10:24Z",
-      "link": "https://github.com/openfoodfacts/open-prices/pull/202",
-      "text": "feat: add PUT endpoint to edit/update price"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/open-prices#202",
-      "time": "2024-02-23T13:03:05Z",
-      "link": "https://github.com/openfoodfacts/open-prices/pull/202",
-      "text": "feat: add PUT endpoint to edit/update price"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#220",
-      "time": "2024-02-23T05:50:55Z",
-      "link": "https://github.com/openfoodfacts/open-prices/pull/220",
-      "text": "feat: add endpoint to get prices for related proof id"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#495",
+      "title": "OpenFoodFacts/hunger-games#495",
       "time": "2023-01-27T17:40:30Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/495",
       "text": "fix: No intuitive way to close a modal on mobile "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#495",
+      "title": "OpenFoodFacts/hunger-games#495",
       "time": "2023-01-30T20:02:37Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/495",
       "text": "fix: No intuitive way to close a modal on mobile "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#498",
+      "title": "OpenFoodFacts/hunger-games#498",
       "time": "2023-01-30T10:12:13Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/498",
       "text": "feat: add loading animation before question display"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#498",
+      "title": "OpenFoodFacts/hunger-games#498",
       "time": "2023-01-31T07:45:19Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/498",
       "text": "feat: add loading animation before question display"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#504",
+      "title": "OpenFoodFacts/hunger-games#504",
       "time": "2023-01-31T13:21:58Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/504",
       "text": "fix: capitalize country names."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#522",
+      "title": "OpenFoodFacts/hunger-games#522",
       "time": "2023-02-01T03:06:17Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/522",
       "text": "fix: capitalise country name."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#522",
+      "title": "OpenFoodFacts/hunger-games#522",
       "time": "2023-02-05T10:03:07Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/522",
       "text": "fix: capitalise country name."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#530",
+      "title": "OpenFoodFacts/hunger-games#530",
       "time": "2023-02-05T13:42:38Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/530",
       "text": "fix: select all in logo game"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#530",
+      "title": "OpenFoodFacts/hunger-games#530",
       "time": "2023-02-05T15:40:00Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/530",
       "text": "fix: select all in logo game"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#535",
+      "title": "OpenFoodFacts/hunger-games#535",
       "time": "2023-02-07T08:17:14Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/535",
       "text": "feat: add links related to open food facts in settings route."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#539",
+      "title": "OpenFoodFacts/hunger-games#539",
       "time": "2023-02-12T05:46:38Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/539",
       "text": "feat: Common Footer module"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#539",
+      "title": "OpenFoodFacts/hunger-games#539",
       "time": "2023-02-13T18:33:43Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/539",
       "text": "feat: Common Footer module"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#656",
+      "title": "OpenFoodFacts/hunger-games#656",
       "time": "2023-07-04T15:05:26Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/656",
       "text": "feat: Add lazy import for different routes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/hunger-games#656",
+      "title": "OpenFoodFacts/hunger-games#656",
       "time": "2023-07-09T13:21:02Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/656",
       "text": "feat: Add lazy import for different routes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/rate-my-recipe#27",
+      "title": "OpenFoodFacts/open-prices#202",
+      "time": "2024-02-09T15:10:24Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/202",
+      "text": "feat: add PUT endpoint to edit/update price"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/open-prices#202",
+      "time": "2024-02-23T13:03:05Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/202",
+      "text": "feat: add PUT endpoint to edit/update price"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/open-prices#220",
+      "time": "2024-02-23T05:50:55Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/220",
+      "text": "feat: add endpoint to get prices for related proof id"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/rate-my-recipe#27",
       "time": "2023-06-14T03:55:48Z",
       "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/27",
       "text": "refactor and enhancement"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/rate-my-recipe#27",
+      "title": "OpenFoodFacts/rate-my-recipe#27",
       "time": "2023-06-19T12:42:36Z",
       "link": "https://github.com/openfoodfacts/rate-my-recipe/pull/27",
       "text": "refactor and enhancement"

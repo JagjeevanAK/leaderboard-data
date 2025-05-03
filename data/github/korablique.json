@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ai#365",
+      "title": "OpenFoodFacts/openfoodfacts-ai#365",
       "time": "2024-11-24T19:31:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/365",
       "text": "chore: analyze language identification models performance on short ingredient texts with precision-recall evaluation (#349)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ai#365",
+      "title": "OpenFoodFacts/openfoodfacts-ai#365",
       "time": "2024-12-12T09:07:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/365",
       "text": "chore: analyze language identification models performance on short ingredient texts with precision-recall evaluation (#349)"

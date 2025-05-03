@@ -3,112 +3,112 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1238",
+      "title": "OpenFoodFacts/smooth-app#1238",
       "time": "2022-03-17T13:21:35Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1238",
       "text": "fix: Personalize ranking  top bar color"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1238",
+      "title": "OpenFoodFacts/smooth-app#1238",
       "time": "2022-03-18T09:26:32Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1238",
       "text": "fix: Personalize ranking  top bar color"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1253",
+      "title": "OpenFoodFacts/smooth-app#1253",
       "time": "2022-03-18T12:29:38Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1253",
       "text": "CircularProgress Indicator "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1253",
+      "title": "OpenFoodFacts/smooth-app#1253",
       "time": "2022-03-19T09:35:35Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1253",
       "text": "CircularProgress Indicator "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1271",
+      "title": "OpenFoodFacts/smooth-app#1271",
       "time": "2022-03-20T04:54:19Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1271",
       "text": "Product question"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1275",
+      "title": "OpenFoodFacts/smooth-app#1275",
       "time": "2022-03-20T13:39:20Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1275",
       "text": "feat: Replaced Product Page AppBar with floating action Button"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1275",
+      "title": "OpenFoodFacts/smooth-app#1275",
       "time": "2022-03-20T17:15:48Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1275",
       "text": "feat: Replaced Product Page AppBar with floating action Button"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1290",
+      "title": "OpenFoodFacts/smooth-app#1290",
       "time": "2022-03-22T04:37:02Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1290",
       "text": "Preferences page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1290",
+      "title": "OpenFoodFacts/smooth-app#1290",
       "time": "2022-03-22T09:14:37Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1290",
       "text": "Preferences page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1310",
+      "title": "OpenFoodFacts/smooth-app#1310",
       "time": "2022-03-23T14:00:39Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1310",
       "text": "feat: Show an analytics consent UI  during onboarding"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1310",
+      "title": "OpenFoodFacts/smooth-app#1310",
       "time": "2022-03-29T13:04:20Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1310",
       "text": "feat: Show an analytics consent UI  during onboarding"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1317",
+      "title": "OpenFoodFacts/smooth-app#1317",
       "time": "2022-03-24T08:39:27Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1317",
       "text": "Missing Palm-oil.svg file added"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1328",
+      "title": "OpenFoodFacts/smooth-app#1328",
       "time": "2022-03-25T12:04:44Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1328",
       "text": "Missing Palm-oil.svg file added "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1328",
+      "title": "OpenFoodFacts/smooth-app#1328",
       "time": "2022-03-25T12:07:45Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1328",
       "text": "Missing Palm-oil.svg file added "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1330",
+      "title": "OpenFoodFacts/smooth-app#1330",
       "time": "2022-03-25T14:09:02Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1330",
       "text": "Agriculture Svg File added which was missing"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1330",
+      "title": "OpenFoodFacts/smooth-app#1330",
       "time": "2022-03-25T19:58:11Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1330",
       "text": "Agriculture Svg File added which was missing"

@@ -1,51 +1,51 @@
 {
-  "last_updated": "2018-05-13T19:16:28Z",
+  "last_updated": "2018-05-15T14:11:38Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-python#48",
-      "time": "2018-05-13T19:16:28Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/48",
-      "text": "Fix long README by creating Usage Guide"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-python#48",
-      "time": "2018-05-14T19:38:07Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/48",
-      "text": "Fix long README by creating Usage Guide"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-python#50",
-      "time": "2018-05-23T22:36:54Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/50",
-      "text": "Align image to center"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-python#50",
-      "time": "2018-05-24T07:13:53Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/50",
-      "text": "Align image to center"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#25",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#25",
       "time": "2018-05-15T14:11:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/25",
       "text": "feat(facets): add functions for the rest of the OFF facets"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#25",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#25",
       "time": "2018-05-18T17:50:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/25",
       "text": "feat(facets): add functions for the rest of the OFF facets"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-apirestpython#10",
+      "title": "OpenFoodFacts/openfoodfacts-python#48",
+      "time": "2018-05-13T19:16:28Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/48",
+      "text": "Fix long README by creating Usage Guide"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-python#48",
+      "time": "2018-05-14T19:38:07Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/48",
+      "text": "Fix long README by creating Usage Guide"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-python#50",
+      "time": "2018-05-23T22:36:54Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/50",
+      "text": "Align image to center"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/openfoodfacts-python#50",
+      "time": "2018-05-24T07:13:53Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/50",
+      "text": "Align image to center"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-apirestpython#10",
       "time": "2018-05-24T20:16:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-apirestpython/pull/10",
       "text": "Fix README"

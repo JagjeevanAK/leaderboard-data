@@ -3,56 +3,56 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7672",
+      "title": "OpenFoodFacts/openfoodfacts-server#7672",
       "time": "2022-11-09T00:25:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7672",
       "text": "style: Bunch of smallfixes of top-bar, Added back arrows mentioned in issue #7501."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7672",
+      "title": "OpenFoodFacts/openfoodfacts-server#7672",
       "time": "2022-11-09T11:45:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7672",
       "text": "style: Bunch of smallfixes of top-bar, Added back arrows mentioned in issue #7501."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7685",
+      "title": "OpenFoodFacts/openfoodfacts-server#7685",
       "time": "2022-11-10T16:03:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7685",
       "text": "style: Fixed filter bar"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7685",
+      "title": "OpenFoodFacts/openfoodfacts-server#7685",
       "time": "2022-11-14T08:54:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7685",
       "text": "style: Fixed filter bar"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7703",
+      "title": "OpenFoodFacts/openfoodfacts-server#7703",
       "time": "2022-11-15T21:31:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7703",
       "text": "fix: donation banner tweaks"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7703",
+      "title": "OpenFoodFacts/openfoodfacts-server#7703",
       "time": "2022-12-05T16:44:58Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7703",
       "text": "fix: donation banner tweaks"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8009",
+      "title": "OpenFoodFacts/openfoodfacts-server#8009",
       "time": "2023-01-19T12:55:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8009",
       "text": "style: Add styles to greeter for not-logged-in users according to Figma mockup."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8009",
+      "title": "OpenFoodFacts/openfoodfacts-server#8009",
       "time": "2023-02-03T12:38:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8009",
       "text": "style: Add styles to greeter for not-logged-in users according to Figma mockup."

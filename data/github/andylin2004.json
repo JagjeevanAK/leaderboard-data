@@ -3,42 +3,42 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6458",
+      "title": "OpenFoodFacts/smooth-app#6458",
       "time": "2025-03-17T19:20:07Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6458",
       "text": "fix: an issue where there was a contradictory instruction in the adding new product screen for English localization only"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#6458",
+      "title": "OpenFoodFacts/smooth-app#6458",
       "time": "2025-03-24T08:17:07Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6458",
       "text": "fix: an issue where there was a contradictory instruction in the adding new product screen for English localization only"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6533",
+      "title": "OpenFoodFacts/smooth-app#6533",
       "time": "2025-04-07T17:32:10Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6533",
       "text": "fix: issue where very important nutrient does not appear at all in the preview"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#6533",
+      "title": "OpenFoodFacts/smooth-app#6533",
       "time": "2025-04-10T19:13:42Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6533",
       "text": "fix: issue where very important nutrient does not appear at all in the preview"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6549",
+      "title": "OpenFoodFacts/smooth-app#6549",
       "time": "2025-04-12T20:45:50Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6549",
       "text": "feat: Adding `webcredentials` to the list of associated domains for iOS build of OpenFoodFacts so credential sharing works between the iOS app and the website"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11769",
+      "title": "OpenFoodFacts/openfoodfacts-server#11769",
       "time": "2025-04-09T18:54:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11769",
       "text": "feat: add webcredentials in off-apple-app-site-association for the iOS app"

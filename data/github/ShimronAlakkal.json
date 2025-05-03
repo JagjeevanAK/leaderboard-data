@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1468",
+      "title": "OpenFoodFacts/smooth-app#1468",
       "time": "2022-04-03T06:44:44Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1468",
       "text": "chore: Updated README.md in smooth-app"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1480",
+      "title": "OpenFoodFacts/smooth-app#1480",
       "time": "2022-04-03T16:33:23Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1480",
       "text": "chore: Update README.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1480",
+      "title": "OpenFoodFacts/smooth-app#1480",
       "time": "2022-04-03T16:48:39Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1480",
       "text": "chore: Update README.md"

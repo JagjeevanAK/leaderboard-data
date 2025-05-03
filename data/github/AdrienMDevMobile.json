@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5953",
+      "title": "OpenFoodFacts/smooth-app#5953",
       "time": "2024-11-27T15:45:24Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5953",
       "text": "feat: 5817 Product page: tab Data"

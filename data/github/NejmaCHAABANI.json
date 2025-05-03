@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#11667",
+      "title": "OpenFoodFacts/openfoodfacts-server#11667",
       "time": "2025-03-24T22:45:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11667",
       "text": "test: Implement front-end tests with automated browser"

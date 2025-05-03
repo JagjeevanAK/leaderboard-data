@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5651",
+      "title": "OpenFoodFacts/smooth-app#5651",
       "time": "2024-09-30T18:58:41Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5651",
       "text": "chore: Missing birthday cake for new products"

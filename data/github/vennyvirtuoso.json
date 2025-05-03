@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#1010",
+      "title": "OpenFoodFacts/openfoodfacts-ios#1010",
       "time": "2023-06-06T04:50:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/1010",
       "text": "docs: updates the Localizable.strings file #999"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#1010",
+      "title": "OpenFoodFacts/openfoodfacts-ios#1010",
       "time": "2023-09-05T11:21:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/1010",
       "text": "docs: updates the Localizable.strings file #999"

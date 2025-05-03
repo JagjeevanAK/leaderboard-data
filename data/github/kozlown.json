@@ -3,56 +3,56 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#2",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#2",
       "time": "2018-02-14T11:39:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/2",
       "text": "Small fix on package.json, a code style guideline and a commit guideline"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#2",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#2",
       "time": "2018-02-14T13:30:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/2",
       "text": "Small fix on package.json, a code style guideline and a commit guideline"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#3",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#3",
       "time": "2018-02-14T14:42:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/3",
       "text": "chore(contributor): add kozlown"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#3",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#3",
       "time": "2018-02-14T14:43:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/3",
       "text": "chore(contributor): add kozlown"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#16",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#16",
       "time": "2018-03-01T12:23:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/16",
       "text": "feat(country): OFF is now set to be immutable"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#16",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#16",
       "time": "2018-03-01T12:24:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/16",
       "text": "feat(country): OFF is now set to be immutable"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#17",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#17",
       "time": "2018-03-01T13:02:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/17",
       "text": "test: implement tests with mocha & chai"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#17",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#17",
       "time": "2018-03-01T13:03:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/17",
       "text": "test: implement tests with mocha & chai"

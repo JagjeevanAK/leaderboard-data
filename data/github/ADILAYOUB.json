@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#4457",
+      "title": "OpenFoodFacts/smooth-app#4457",
       "time": "2023-08-05T20:48:38Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/4457",
       "text": "fix: Revamp of the about screen #4412"

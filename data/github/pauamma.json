@@ -3,266 +3,266 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9984",
+      "title": "OpenFoodFacts/openfoodfacts-server#9984",
       "time": "2024-03-23T13:28:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9984",
       "text": "docs: Fix \"nutrition\" spelling in filename"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9984",
+      "title": "OpenFoodFacts/openfoodfacts-server#9984",
       "time": "2024-03-23T17:14:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9984",
       "text": "docs: Fix \"nutrition\" spelling in filename"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9990",
+      "title": "OpenFoodFacts/openfoodfacts-server#9990",
       "time": "2024-03-23T15:31:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9990",
       "text": "docs: light copyediting: docs/dev/explain-packaging-data.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9990",
+      "title": "OpenFoodFacts/openfoodfacts-server#9990",
       "time": "2024-03-23T16:40:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9990",
       "text": "docs: light copyediting: docs/dev/explain-packaging-data.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9994",
+      "title": "OpenFoodFacts/openfoodfacts-server#9994",
       "time": "2024-03-23T17:03:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9994",
       "text": "docs: light copyediting: docs/dev/explain-pro-dev-setup.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9994",
+      "title": "OpenFoodFacts/openfoodfacts-server#9994",
       "time": "2024-03-24T10:13:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9994",
       "text": "docs: light copyediting: docs/dev/explain-pro-dev-setup.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9995",
+      "title": "OpenFoodFacts/openfoodfacts-server#9995",
       "time": "2024-03-23T18:46:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9995",
       "text": "docs: proofreading: docs/dev/explain-taxonomy-build-cache.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9995",
+      "title": "OpenFoodFacts/openfoodfacts-server#9995",
       "time": "2024-03-24T10:14:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9995",
       "text": "docs: proofreading: docs/dev/explain-taxonomy-build-cache.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9998",
+      "title": "OpenFoodFacts/openfoodfacts-server#9998",
       "time": "2024-03-23T23:49:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9998",
       "text": "docs: track introduction of env/setenv.sh in #9854"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9998",
+      "title": "OpenFoodFacts/openfoodfacts-server#9998",
       "time": "2024-03-24T14:24:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9998",
       "text": "docs: track introduction of env/setenv.sh in #9854"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9999",
+      "title": "OpenFoodFacts/openfoodfacts-server#9999",
       "time": "2024-03-24T01:17:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9999",
       "text": "docs: fact-check docs/dev/how-to-develop-using-docker.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9999",
+      "title": "OpenFoodFacts/openfoodfacts-server#9999",
       "time": "2024-03-24T14:23:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9999",
       "text": "docs: fact-check docs/dev/how-to-develop-using-docker.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10000",
+      "title": "OpenFoodFacts/openfoodfacts-server#10000",
       "time": "2024-03-24T03:56:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10000",
       "text": "docs: update and copyedit docs/dev/how-to-quick-start-guide.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10000",
+      "title": "OpenFoodFacts/openfoodfacts-server#10000",
       "time": "2024-03-24T14:20:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10000",
       "text": "docs: update and copyedit docs/dev/how-to-quick-start-guide.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10001",
+      "title": "OpenFoodFacts/openfoodfacts-server#10001",
       "time": "2024-03-24T05:06:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10001",
       "text": "docs: copyedit docs/dev/how-to-update-agribalyse-ecoscore.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10001",
+      "title": "OpenFoodFacts/openfoodfacts-server#10001",
       "time": "2024-03-24T14:19:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10001",
       "text": "docs: copyedit docs/dev/how-to-update-agribalyse-ecoscore.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10002",
+      "title": "OpenFoodFacts/openfoodfacts-server#10002",
       "time": "2024-03-24T13:35:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10002",
       "text": "docs: copyyedit docs/dev/how-to-use-direnv.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10002",
+      "title": "OpenFoodFacts/openfoodfacts-server#10002",
       "time": "2024-03-24T14:25:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10002",
       "text": "docs: copyyedit docs/dev/how-to-use-direnv.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10003",
+      "title": "OpenFoodFacts/openfoodfacts-server#10003",
       "time": "2024-03-24T15:05:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10003",
       "text": "docs: factcheck and copyedit docs/dev/how-to-use-gitpod.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10003",
+      "title": "OpenFoodFacts/openfoodfacts-server#10003",
       "time": "2024-03-25T13:14:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10003",
       "text": "docs: factcheck and copyedit docs/dev/how-to-use-gitpod.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10005",
+      "title": "OpenFoodFacts/openfoodfacts-server#10005",
       "time": "2024-03-24T15:37:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10005",
       "text": "docs: proofread docs/dev/how-to-use-pages-from-openfoodfacts-web.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10005",
+      "title": "OpenFoodFacts/openfoodfacts-server#10005",
       "time": "2024-03-25T13:28:16Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10005",
       "text": "docs: proofread docs/dev/how-to-use-pages-from-openfoodfacts-web.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10006",
+      "title": "OpenFoodFacts/openfoodfacts-server#10006",
       "time": "2024-03-24T15:59:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10006",
       "text": "docs: copyedit docs/dev/how-to-use-repl.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10006",
+      "title": "OpenFoodFacts/openfoodfacts-server#10006",
       "time": "2024-03-25T13:17:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10006",
       "text": "docs: copyedit docs/dev/how-to-use-repl.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10009",
+      "title": "OpenFoodFacts/openfoodfacts-server#10009",
       "time": "2024-03-24T19:27:17Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10009",
       "text": "docs: copyedit docs/dev/how-to-use-vscode.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10009",
+      "title": "OpenFoodFacts/openfoodfacts-server#10009",
       "time": "2024-03-25T13:26:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10009",
       "text": "docs: copyedit docs/dev/how-to-use-vscode.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10011",
+      "title": "OpenFoodFacts/openfoodfacts-server#10011",
       "time": "2024-03-24T21:02:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10011",
       "text": "docs: copyedit docs/dev/how-to-write-and-run-tests.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10011",
+      "title": "OpenFoodFacts/openfoodfacts-server#10011",
       "time": "2024-03-25T13:24:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10011",
       "text": "docs: copyedit docs/dev/how-to-write-and-run-tests.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10097",
+      "title": "OpenFoodFacts/openfoodfacts-server#10097",
       "time": "2024-04-06T23:24:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10097",
       "text": "docs: Mention v2 API as having priority over v3."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10097",
+      "title": "OpenFoodFacts/openfoodfacts-server#10097",
       "time": "2024-04-07T16:44:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10097",
       "text": "docs: Mention v2 API as having priority over v3."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10117",
+      "title": "OpenFoodFacts/openfoodfacts-server#10117",
       "time": "2024-04-10T03:03:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10117",
       "text": "docs: add the general rule to the splitting example"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10117",
+      "title": "OpenFoodFacts/openfoodfacts-server#10117",
       "time": "2024-04-29T19:13:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10117",
       "text": "docs: add the general rule to the splitting example"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10142",
+      "title": "OpenFoodFacts/openfoodfacts-server#10142",
       "time": "2024-04-16T23:38:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10142",
       "text": "docs: better alt= for panel screenshot"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10142",
+      "title": "OpenFoodFacts/openfoodfacts-server#10142",
       "time": "2024-04-18T08:44:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10142",
       "text": "docs: better alt= for panel screenshot"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10164",
+      "title": "OpenFoodFacts/openfoodfacts-server#10164",
       "time": "2024-04-23T00:00:25Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10164",
       "text": "docs: refresh how-to-download-images.md"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10164",
+      "title": "OpenFoodFacts/openfoodfacts-server#10164",
       "time": "2024-04-24T07:36:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10164",
       "text": "docs: refresh how-to-download-images.md"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10226",
+      "title": "OpenFoodFacts/openfoodfacts-server#10226",
       "time": "2024-05-04T01:19:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10226",
       "text": "docs: docs/api/index.md: specify or correct some details"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#10226",
+      "title": "OpenFoodFacts/openfoodfacts-server#10226",
       "time": "2024-05-05T18:32:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10226",
       "text": "docs: docs/api/index.md: specify or correct some details"

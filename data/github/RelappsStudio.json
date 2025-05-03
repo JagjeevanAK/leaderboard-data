@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3577",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3577",
       "time": "2020-11-09T10:16:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3577",
       "text": "Little tweaks for strings.xml values-pl"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#3577",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#3577",
       "time": "2020-11-09T18:18:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/3577",
       "text": "Little tweaks for strings.xml values-pl"

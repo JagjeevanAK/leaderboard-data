@@ -3,259 +3,259 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4607",
+      "title": "OpenFoodFacts/openfoodfacts-server#4607",
       "time": "2020-12-09T22:32:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4607",
       "text": "Add 1 Spanish synonym"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4607",
+      "title": "OpenFoodFacts/openfoodfacts-server#4607",
       "time": "2020-12-10T08:12:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4607",
       "text": "Add 1 Spanish synonym"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4616",
+      "title": "OpenFoodFacts/openfoodfacts-server#4616",
       "time": "2020-12-11T01:32:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4616",
       "text": "Adding 2 spanish synonyms"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4616",
+      "title": "OpenFoodFacts/openfoodfacts-server#4616",
       "time": "2020-12-11T08:54:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4616",
       "text": "Adding 2 spanish synonyms"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4622",
+      "title": "OpenFoodFacts/openfoodfacts-server#4622",
       "time": "2020-12-11T22:59:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4622",
       "text": "Spanish Synonyms"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4622",
+      "title": "OpenFoodFacts/openfoodfacts-server#4622",
       "time": "2020-12-21T16:40:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4622",
       "text": "Spanish Synonyms"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4647",
+      "title": "OpenFoodFacts/openfoodfacts-server#4647",
       "time": "2020-12-19T22:54:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4647",
       "text": "Synonyms for Aloysia citrodora"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4647",
+      "title": "OpenFoodFacts/openfoodfacts-server#4647",
       "time": "2020-12-21T16:40:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4647",
       "text": "Synonyms for Aloysia citrodora"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4668",
+      "title": "OpenFoodFacts/openfoodfacts-server#4668",
       "time": "2020-12-23T20:49:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4668",
       "text": "Adding \"Sin TACC\", gluten-free label in Argentina"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4668",
+      "title": "OpenFoodFacts/openfoodfacts-server#4668",
       "time": "2020-12-24T09:56:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4668",
       "text": "Adding \"Sin TACC\", gluten-free label in Argentina"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4671",
+      "title": "OpenFoodFacts/openfoodfacts-server#4671",
       "time": "2020-12-24T16:18:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4671",
       "text": "Adding \"orgánico argentina\" organic label"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4671",
+      "title": "OpenFoodFacts/openfoodfacts-server#4671",
       "time": "2020-12-26T14:59:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4671",
       "text": "Adding \"orgánico argentina\" organic label"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4682",
+      "title": "OpenFoodFacts/openfoodfacts-server#4682",
       "time": "2020-12-29T00:51:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4682",
       "text": "Adding Spanish synonym for E120"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4682",
+      "title": "OpenFoodFacts/openfoodfacts-server#4682",
       "time": "2020-12-29T11:24:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4682",
       "text": "Adding Spanish synonym for E120"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4684",
+      "title": "OpenFoodFacts/openfoodfacts-server#4684",
       "time": "2020-12-29T19:32:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4684",
       "text": "Milk-related Spanish synonyms"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4684",
+      "title": "OpenFoodFacts/openfoodfacts-server#4684",
       "time": "2020-12-29T19:54:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4684",
       "text": "Milk-related Spanish synonyms"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4685",
+      "title": "OpenFoodFacts/openfoodfacts-server#4685",
       "time": "2020-12-29T19:58:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4685",
       "text": "Adding Spanish translation for Palm Kernel Oil"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4685",
+      "title": "OpenFoodFacts/openfoodfacts-server#4685",
       "time": "2020-12-30T17:19:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4685",
       "text": "Adding Spanish translation for Palm Kernel Oil"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4688",
+      "title": "OpenFoodFacts/openfoodfacts-server#4688",
       "time": "2020-12-30T19:43:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4688",
       "text": "Adding Yerba Mate"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4689",
+      "title": "OpenFoodFacts/openfoodfacts-server#4689",
       "time": "2020-12-30T20:03:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4689",
       "text": "Synonyms and derivates of Yerba Mate"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4689",
+      "title": "OpenFoodFacts/openfoodfacts-server#4689",
       "time": "2020-12-31T10:55:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4689",
       "text": "Synonyms and derivates of Yerba Mate"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4692",
+      "title": "OpenFoodFacts/openfoodfacts-server#4692",
       "time": "2020-12-31T17:01:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4692",
       "text": "Synonyms for citrus pectin"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4692",
+      "title": "OpenFoodFacts/openfoodfacts-server#4692",
       "time": "2021-01-01T18:40:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4692",
       "text": "Synonyms for citrus pectin"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4723",
+      "title": "OpenFoodFacts/openfoodfacts-server#4723",
       "time": "2021-01-09T00:02:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4723",
       "text": "Microbial culture changes"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4723",
+      "title": "OpenFoodFacts/openfoodfacts-server#4723",
       "time": "2021-01-12T09:23:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4723",
       "text": "Microbial culture changes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4745",
+      "title": "OpenFoodFacts/openfoodfacts-server#4745",
       "time": "2021-01-13T16:08:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4745",
       "text": "Lactic ferments synonyms in Spanish"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4745",
+      "title": "OpenFoodFacts/openfoodfacts-server#4745",
       "time": "2021-01-14T08:29:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4745",
       "text": "Lactic ferments synonyms in Spanish"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4757",
+      "title": "OpenFoodFacts/openfoodfacts-server#4757",
       "time": "2021-01-15T18:44:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4757",
       "text": "Spanish Translations for Cheeses, Adding Argentine Cheeses"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4757",
+      "title": "OpenFoodFacts/openfoodfacts-server#4757",
       "time": "2021-01-16T13:55:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4757",
       "text": "Spanish Translations for Cheeses, Adding Argentine Cheeses"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4761",
+      "title": "OpenFoodFacts/openfoodfacts-server#4761",
       "time": "2021-01-18T00:46:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4761",
       "text": "Adding Durum synonyms used in Argentina"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4761",
+      "title": "OpenFoodFacts/openfoodfacts-server#4761",
       "time": "2021-01-18T08:47:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4761",
       "text": "Adding Durum synonyms used in Argentina"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#4779",
+      "title": "OpenFoodFacts/openfoodfacts-server#4779",
       "time": "2021-01-21T19:47:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4779",
       "text": "Spanish synonyms"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#4779",
+      "title": "OpenFoodFacts/openfoodfacts-server#4779",
       "time": "2021-01-22T08:52:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/4779",
       "text": "Spanish synonyms"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#5190",
+      "title": "OpenFoodFacts/openfoodfacts-server#5190",
       "time": "2021-05-02T04:48:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5190",
       "text": "Adding Spanish MERCORSUR synonyms for additives"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#5190",
+      "title": "OpenFoodFacts/openfoodfacts-server#5190",
       "time": "2021-05-03T10:51:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/5190",
       "text": "Adding Spanish MERCORSUR synonyms for additives"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6091",
+      "title": "OpenFoodFacts/openfoodfacts-server#6091",
       "time": "2021-11-20T17:47:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6091",
       "text": "Adding 2 Spanish translations"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6091",
+      "title": "OpenFoodFacts/openfoodfacts-server#6091",
       "time": "2021-11-22T08:45:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6091",
       "text": "Adding 2 Spanish translations"

@@ -1,47 +1,54 @@
 {
-  "last_updated": "2025-03-26T06:39:58Z",
+  "last_updated": "2025-03-27T09:43:28Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/folksonomy_api#267",
-      "time": "2025-03-26T06:39:58Z",
-      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/267",
-      "text": "feat: Route to return product info as Knowledge Panels"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/folksonomy_api#270",
-      "time": "2025-04-01T21:43:53Z",
-      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/270",
-      "text": "fix: pytest error with connection leak"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/folksonomy_api#270",
-      "time": "2025-04-04T14:38:23Z",
-      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/270",
-      "text": "fix: pytest error with connection leak"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#364",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#364",
       "time": "2025-03-27T09:43:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/364",
       "text": "fix: Undefined issue was causing blank screen when launched"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#371",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#371",
       "time": "2025-03-28T04:11:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/371",
       "text": "fix: ...Undefined issue was causing blank screen when launched"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#371",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#371",
       "time": "2025-03-28T13:07:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/371",
       "text": "fix: ...Undefined issue was causing blank screen when launched"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/folksonomy_api#267",
+      "time": "2025-03-26T06:39:58Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/267",
+      "text": "feat: Route to return product info as Knowledge Panels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/folksonomy_api#270",
+      "time": "2025-04-01T21:43:53Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/270",
+      "text": "fix: pytest error with connection leak"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/folksonomy_api#270",
+      "time": "2025-04-04T14:38:23Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/270",
+      "text": "fix: pytest error with connection leak"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/folksonomy_api#278",
+      "time": "2025-05-02T18:00:08Z",
+      "link": "https://github.com/openfoodfacts/folksonomy_api/pull/278",
+      "text": "fix: Small fixes to documentation for easier setup"
     }
   ],
   "open_prs": [],

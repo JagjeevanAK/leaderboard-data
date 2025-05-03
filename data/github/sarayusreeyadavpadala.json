@@ -3,35 +3,35 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#128",
+      "title": "OpenFoodFacts/facets-knowledge-panels#128",
       "time": "2023-09-07T11:15:27Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/128",
       "text": "test: separate files for different test cases"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#129",
+      "title": "OpenFoodFacts/facets-knowledge-panels#129",
       "time": "2023-09-29T16:48:41Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/129",
       "text": "Of"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#130",
+      "title": "OpenFoodFacts/facets-knowledge-panels#130",
       "time": "2023-10-08T15:35:05Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/130",
       "text": "test: Separate files for different test cases."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/facets-knowledge-panels#131",
+      "title": "OpenFoodFacts/facets-knowledge-panels#131",
       "time": "2023-10-21T05:46:24Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/131",
       "text": "test: Separate files for different test cases."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/facets-knowledge-panels#131",
+      "title": "OpenFoodFacts/facets-knowledge-panels#131",
       "time": "2023-10-25T05:27:21Z",
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/pull/131",
       "text": "test: Separate files for different test cases."

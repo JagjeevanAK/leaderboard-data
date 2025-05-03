@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3439",
+      "title": "OpenFoodFacts/smooth-app#3439",
       "time": "2022-12-13T10:27:44Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3439",
       "text": "feat: improved app rating flow"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3439",
+      "title": "OpenFoodFacts/smooth-app#3439",
       "time": "2022-12-25T13:19:43Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3439",
       "text": "feat: improved app rating flow"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3487",
+      "title": "OpenFoodFacts/smooth-app#3487",
       "time": "2022-12-28T17:21:16Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3487",
       "text": "feat: added feedback form links"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3487",
+      "title": "OpenFoodFacts/smooth-app#3487",
       "time": "2023-01-14T15:40:04Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3487",
       "text": "feat: added feedback form links"

@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7177",
+      "title": "OpenFoodFacts/openfoodfacts-server#7177",
       "time": "2022-08-04T10:24:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7177",
       "text": "fix: Social media link preview shows old logo Fixes #7059"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7177",
+      "title": "OpenFoodFacts/openfoodfacts-server#7177",
       "time": "2022-08-24T07:56:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7177",
       "text": "fix: Social media link preview shows old logo Fixes #7059"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7589",
+      "title": "OpenFoodFacts/openfoodfacts-server#7589",
       "time": "2022-10-23T06:18:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7589",
       "text": "fix: added missing template data reference which prevented passing on of d…"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7595",
+      "title": "OpenFoodFacts/openfoodfacts-server#7595",
       "time": "2022-10-24T07:03:00Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7595",
       "text": "fix: added url check function to make sure link had https prefix, adds the…"

@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6462",
+      "title": "OpenFoodFacts/smooth-app#6462",
       "time": "2025-03-19T01:49:50Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6462",
       "text": "fix: Resolve navbar reordering issue in modal sheet Fixes #6451"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6464",
+      "title": "OpenFoodFacts/smooth-app#6464",
       "time": "2025-03-20T20:46:36Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6464",
       "text": "docs: Add FVM instructions in README"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6482",
+      "title": "OpenFoodFacts/smooth-app#6482",
       "time": "2025-03-27T10:53:36Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6482",
       "text": "fix: Add staticContent to SmoothModalSheet and constrain navbar reord…"

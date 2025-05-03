@@ -3,126 +3,126 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#1",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#1",
       "time": "2018-06-30T14:19:41Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/1",
       "text": "added detection and crop to table"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-nutrition-table-extractor#1",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#1",
       "time": "2018-06-30T14:19:49Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/1",
       "text": "added detection and crop to table"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#2",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#2",
       "time": "2018-06-30T19:34:15Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/2",
       "text": "Integrated the pipeline till the initial results of OCR"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-nutrition-table-extractor#2",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#2",
       "time": "2018-06-30T19:34:25Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/2",
       "text": "Integrated the pipeline till the initial results of OCR"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#3",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#3",
       "time": "2018-07-07T23:05:35Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/3",
       "text": "Added the code to manipulate the raw data from OCR'd images"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-nutrition-table-extractor#3",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#3",
       "time": "2018-07-08T11:50:02Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/3",
       "text": "Added the code to manipulate the raw data from OCR'd images"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#4",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#4",
       "time": "2018-08-01T15:33:17Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/4",
       "text": "Added the stemming algo"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-nutrition-table-extractor#4",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#4",
       "time": "2018-08-01T18:12:58Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/4",
       "text": "Added the stemming algo"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#5",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#5",
       "time": "2018-08-08T18:58:11Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/5",
       "text": "Developed the spacial mapping function for detecting results from non standard tables."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-nutrition-table-extractor#5",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#5",
       "time": "2018-08-08T18:58:24Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/5",
       "text": "Developed the spacial mapping function for detecting results from non standard tables."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#6",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#6",
       "time": "2018-08-12T18:00:29Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/6",
       "text": "Completed documentation for the project and removed some redundant code"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-nutrition-table-extractor#6",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#6",
       "time": "2018-08-12T18:00:51Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/6",
       "text": "Completed documentation for the project and removed some redundant code"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#7",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#7",
       "time": "2018-08-12T18:33:41Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/7",
       "text": "corrected a misprint in readme file."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-nutrition-table-extractor#7",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#7",
       "time": "2018-08-12T18:33:52Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/7",
       "text": "corrected a misprint in readme file."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#17",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#17",
       "time": "2018-09-01T06:59:32Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/17",
       "text": "Merge pull request #1 from openfoodfacts/master"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-nutrition-table-extractor#17",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#17",
       "time": "2018-09-01T06:59:48Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/17",
       "text": "Merge pull request #1 from openfoodfacts/master"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ai#35",
+      "title": "OpenFoodFacts/openfoodfacts-ai#35",
       "time": "2018-05-06T16:10:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/35",
       "text": "Added the PoC algo of image segmentation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ai#35",
+      "title": "OpenFoodFacts/openfoodfacts-ai#35",
       "time": "2018-06-07T11:16:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/35",
       "text": "Added the PoC algo of image segmentation"

@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6463",
+      "title": "OpenFoodFacts/smooth-app#6463",
       "time": "2025-03-20T17:14:18Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6463",
       "text": "refactor: Setting Defragmentation solve.(en)"

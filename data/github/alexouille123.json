@@ -1,47 +1,47 @@
 {
-  "last_updated": "2020-06-25T12:16:43Z",
+  "last_updated": "2020-06-22T13:42:39Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/robotoff#207",
-      "time": "2020-06-25T12:16:43Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/207",
-      "text": "Add typo"
-    },
-    {
-      "type": "pr_merged",
-      "title": "openfoodfacts/robotoff#207",
-      "time": "2020-06-25T12:41:39Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/207",
-      "text": "Add typo"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3707",
+      "title": "OpenFoodFacts/openfoodfacts-server#3707",
       "time": "2020-06-22T13:42:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3707",
       "text": "nterdit --> interdit"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3739",
+      "title": "OpenFoodFacts/openfoodfacts-server#3739",
       "time": "2020-06-25T13:17:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3739",
       "text": "chore: Synonyms updates for the Labels taxonomy"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#3740",
+      "title": "OpenFoodFacts/openfoodfacts-server#3740",
       "time": "2020-06-25T13:25:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3740",
       "text": "Update states.txt (Fr-->À?)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#3740",
+      "title": "OpenFoodFacts/openfoodfacts-server#3740",
       "time": "2020-06-26T06:25:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/3740",
       "text": "Update states.txt (Fr-->À?)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/robotoff#207",
+      "time": "2020-06-25T12:16:43Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/207",
+      "text": "Add typo"
+    },
+    {
+      "type": "pr_merged",
+      "title": "OpenFoodFacts/robotoff#207",
+      "time": "2020-06-25T12:41:39Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/207",
+      "text": "Add typo"
     }
   ],
   "open_prs": [],

@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#8709",
+      "title": "OpenFoodFacts/openfoodfacts-server#8709",
       "time": "2023-07-19T17:04:57Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8709",
       "text": "taxonomy: added ru E150c"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#8709",
+      "title": "OpenFoodFacts/openfoodfacts-server#8709",
       "time": "2023-07-25T07:38:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/8709",
       "text": "taxonomy: added ru E150c"

@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smoothielanding#46",
+      "title": "OpenFoodFacts/smoothielanding#46",
       "time": "2023-08-13T11:00:08Z",
       "link": "https://github.com/openfoodfacts/smoothielanding/pull/46",
       "text": "docs: Typo"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smoothielanding#46",
+      "title": "OpenFoodFacts/smoothielanding#46",
       "time": "2024-05-11T10:45:52Z",
       "link": "https://github.com/openfoodfacts/smoothielanding/pull/46",
       "text": "docs: Typo"

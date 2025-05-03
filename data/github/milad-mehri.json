@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-nodejs#611",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#611",
       "time": "2025-04-07T07:15:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/611",
       "text": "feat: add support for custom host in OpenFoodFacts constructor"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#611",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#611",
       "time": "2025-04-23T20:35:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/611",
       "text": "feat: add support for custom host in OpenFoodFacts constructor"

@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9989",
+      "title": "OpenFoodFacts/openfoodfacts-server#9989",
       "time": "2024-03-23T15:25:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9989",
       "text": "test: POC for running the unit test suite with Test2::Harness"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9989",
+      "title": "OpenFoodFacts/openfoodfacts-server#9989",
       "time": "2024-03-29T11:07:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9989",
       "text": "test: POC for running the unit test suite with Test2::Harness"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#10007",
+      "title": "OpenFoodFacts/openfoodfacts-server#10007",
       "time": "2024-03-24T16:14:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10007",
       "text": "refactor: Moosify ProductOpener::Nutriscore.pm"

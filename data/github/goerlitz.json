@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#929",
+      "title": "OpenFoodFacts/openfoodfacts-dart#929",
       "time": "2024-05-15T11:34:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/929",
       "text": "feat: add localized additives and allergens"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#929",
+      "title": "OpenFoodFacts/openfoodfacts-dart#929",
       "time": "2024-05-15T17:45:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/929",
       "text": "feat: add localized additives and allergens"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#1054",
+      "title": "OpenFoodFacts/openfoodfacts-dart#1054",
       "time": "2025-03-29T20:38:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1054",
       "text": "feat: added is_in_taxonomy field to ingredient"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#1054",
+      "title": "OpenFoodFacts/openfoodfacts-dart#1054",
       "time": "2025-03-30T07:48:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1054",
       "text": "feat: added is_in_taxonomy field to ingredient"

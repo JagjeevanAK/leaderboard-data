@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#1248",
+      "title": "OpenFoodFacts/smooth-app#1248",
       "time": "2022-03-17T17:04:45Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1248",
       "text": "Username validation hint only appears when username is incorrect"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#1248",
+      "title": "OpenFoodFacts/smooth-app#1248",
       "time": "2022-03-17T17:30:19Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/1248",
       "text": "Username validation hint only appears when username is incorrect"

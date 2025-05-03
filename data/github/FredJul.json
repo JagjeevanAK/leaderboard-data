@@ -3,63 +3,63 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#57",
+      "title": "OpenFoodFacts/openfoodfacts-dart#57",
       "time": "2020-11-25T21:07:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/57",
       "text": "added field ecoscore_grade to product"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#57",
+      "title": "OpenFoodFacts/openfoodfacts-dart#57",
       "time": "2020-12-22T18:32:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/57",
       "text": "added field ecoscore_grade to product"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#63",
+      "title": "OpenFoodFacts/openfoodfacts-dart#63",
       "time": "2020-12-29T22:27:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/63",
       "text": "added field ecoscore_score and ecoscore_data to product"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#63",
+      "title": "OpenFoodFacts/openfoodfacts-dart#63",
       "time": "2021-01-01T15:13:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/63",
       "text": "added field ecoscore_score and ecoscore_data to product"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#64",
+      "title": "OpenFoodFacts/openfoodfacts-dart#64",
       "time": "2021-01-02T21:44:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/64",
       "text": "fix 'match' attribute parsing"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#160",
+      "title": "OpenFoodFacts/openfoodfacts-dart#160",
       "time": "2021-05-31T16:21:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/160",
       "text": "feat: add agribalyse score to EcoscoreData"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#160",
+      "title": "OpenFoodFacts/openfoodfacts-dart#160",
       "time": "2021-05-31T21:22:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/160",
       "text": "feat: add agribalyse score to EcoscoreData"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#161",
+      "title": "OpenFoodFacts/openfoodfacts-dart#161",
       "time": "2021-06-03T21:39:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/161",
       "text": "feat: add EcoscoreData.missingDataWarning field support"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#161",
+      "title": "OpenFoodFacts/openfoodfacts-dart#161",
       "time": "2021-06-05T08:27:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/161",
       "text": "feat: add EcoscoreData.missingDataWarning field support"

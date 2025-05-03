@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/hunger-games#1056",
+      "title": "OpenFoodFacts/hunger-games#1056",
       "time": "2024-10-12T17:52:22Z",
       "link": "https://github.com/openfoodfacts/hunger-games/pull/1056",
       "text": "Update z.json"

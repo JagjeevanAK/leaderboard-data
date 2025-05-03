@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#6210",
+      "title": "OpenFoodFacts/openfoodfacts-server#6210",
       "time": "2021-12-17T19:05:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6210",
       "text": "Fix typo in vegan cheese category (german)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#6210",
+      "title": "OpenFoodFacts/openfoodfacts-server#6210",
       "time": "2021-12-30T15:02:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/6210",
       "text": "Fix typo in vegan cheese category (german)"

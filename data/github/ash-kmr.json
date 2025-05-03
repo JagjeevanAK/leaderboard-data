@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#15",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#15",
       "time": "2018-08-31T07:47:32Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/15",
       "text": "Created API for nutrition table extraction"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/off-nutrition-table-extractor#16",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#16",
       "time": "2018-08-31T09:57:33Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/16",
       "text": " Created API for nutrition table extraction "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/off-nutrition-table-extractor#16",
+      "title": "OpenFoodFacts/off-nutrition-table-extractor#16",
       "time": "2018-09-01T06:56:47Z",
       "link": "https://github.com/openfoodfacts/off-nutrition-table-extractor/pull/16",
       "text": " Created API for nutrition table extraction "
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ai#33",
+      "title": "OpenFoodFacts/openfoodfacts-ai#33",
       "time": "2018-03-24T09:18:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ai/pull/33",
       "text": "Added rotation correction"

@@ -3,49 +3,49 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6343",
+      "title": "OpenFoodFacts/smooth-app#6343",
       "time": "2025-02-05T02:12:33Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6343",
       "text": "feat: Add Mastodon, TikTok, and BlueSky social media accounts to links and update assets"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#6343",
+      "title": "OpenFoodFacts/smooth-app#6343",
       "time": "2025-02-09T09:09:52Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6343",
       "text": "feat: Add Mastodon, TikTok, and BlueSky social media accounts to links and update assets"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6402",
+      "title": "OpenFoodFacts/smooth-app#6402",
       "time": "2025-02-27T20:43:31Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6402",
       "text": "fix: resolve layout overflow in first-time price privacy dialog"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#6402",
+      "title": "OpenFoodFacts/smooth-app#6402",
       "time": "2025-03-11T19:20:32Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6402",
       "text": "fix: resolve layout overflow in first-time price privacy dialog"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6403",
+      "title": "OpenFoodFacts/smooth-app#6403",
       "time": "2025-02-28T02:09:32Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6403",
       "text": "fix: make collapsible sections functional"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#6465",
+      "title": "OpenFoodFacts/smooth-app#6465",
       "time": "2025-03-21T02:39:25Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6465",
       "text": "fix: Center loading indicator in \"My proofs\" screen issue"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#6465",
+      "title": "OpenFoodFacts/smooth-app#6465",
       "time": "2025-03-21T08:33:41Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6465",
       "text": "fix: Center loading indicator in \"My proofs\" screen issue"

@@ -3,70 +3,70 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#9439",
+      "title": "OpenFoodFacts/openfoodfacts-server#9439",
       "time": "2023-11-30T13:33:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9439",
       "text": "fix: ingredient additions to norwegian bokmål"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#9439",
+      "title": "OpenFoodFacts/openfoodfacts-server#9439",
       "time": "2023-12-01T09:13:13Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9439",
       "text": "fix: ingredient additions to norwegian bokmål"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#543",
+      "title": "OpenFoodFacts/open-prices-frontend#543",
       "time": "2024-04-16T18:59:54Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/543",
       "text": "refactor: Simplified category filtering script and added candies category"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#543",
+      "title": "OpenFoodFacts/open-prices-frontend#543",
       "time": "2024-04-19T07:15:54Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/543",
       "text": "refactor: Simplified category filtering script and added candies category"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#584",
+      "title": "OpenFoodFacts/open-prices-frontend#584",
       "time": "2024-05-23T16:10:43Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/584",
       "text": "feat(proof): fetch and insert proof data to 'add single price' page when using 'add the price' button"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#584",
+      "title": "OpenFoodFacts/open-prices-frontend#584",
       "time": "2024-06-05T13:52:41Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/584",
       "text": "feat(proof): fetch and insert proof data to 'add single price' page when using 'add the price' button"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#589",
+      "title": "OpenFoodFacts/open-prices-frontend#589",
       "time": "2024-05-26T15:45:46Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/589",
       "text": "feat(proof): recent proof dialog: add load more button, filter list depending on receipt or price tag"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/open-prices-frontend#589",
+      "title": "OpenFoodFacts/open-prices-frontend#589",
       "time": "2024-05-27T15:02:48Z",
       "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/589",
       "text": "feat(proof): recent proof dialog: add load more button, filter list depending on receipt or price tag"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-infrastructure#343",
+      "title": "OpenFoodFacts/openfoodfacts-infrastructure#343",
       "time": "2024-05-12T18:48:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/343",
       "text": "fix: Update src URL for 502.jpg to root folder"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-infrastructure#343",
+      "title": "OpenFoodFacts/openfoodfacts-infrastructure#343",
       "time": "2024-05-13T09:24:31Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/343",
       "text": "fix: Update src URL for 502.jpg to root folder"

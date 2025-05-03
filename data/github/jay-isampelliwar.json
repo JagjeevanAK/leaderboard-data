@@ -3,28 +3,28 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5089",
+      "title": "OpenFoodFacts/smooth-app#5089",
       "time": "2024-02-28T10:51:39Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5089",
       "text": "fix: Light on light issue in light mode on dark mode device"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5091",
+      "title": "OpenFoodFacts/smooth-app#5091",
       "time": "2024-02-28T17:44:54Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5091",
       "text": "fix: Light on the light issue in light mode on dark mode device"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#5093",
+      "title": "OpenFoodFacts/smooth-app#5093",
       "time": "2024-02-28T18:54:16Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5093",
       "text": "fix: Light on the light issue in light mode on dark mode device "
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#5093",
+      "title": "OpenFoodFacts/smooth-app#5093",
       "time": "2024-02-29T11:27:10Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/5093",
       "text": "fix: Light on the light issue in light mode on dark mode device "

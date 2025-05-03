@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#7432",
+      "title": "OpenFoodFacts/openfoodfacts-server#7432",
       "time": "2022-10-03T00:50:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7432",
       "text": "feat: Pagination link color changed to black"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#7432",
+      "title": "OpenFoodFacts/openfoodfacts-server#7432",
       "time": "2022-10-04T13:21:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7432",
       "text": "feat: Pagination link color changed to black"

@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#602",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#602",
       "time": "2017-05-14T23:01:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/602",
       "text": "Fixing concatenated string lint error"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1427",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1427",
       "time": "2018-04-09T08:01:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1427",
       "text": "Closes #1342: Add Fastlane support (WIP)"

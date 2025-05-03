@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/folksonomy_api#237",
+      "title": "OpenFoodFacts/folksonomy_api#237",
       "time": "2025-03-04T14:57:32Z",
       "link": "https://github.com/openfoodfacts/folksonomy_api/pull/237",
       "text": "refactor: Refactored api.py into routes. Fixes #232"

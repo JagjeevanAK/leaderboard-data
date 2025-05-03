@@ -3,56 +3,56 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1749",
+      "title": "OpenFoodFacts/openfoodfacts-server#1749",
       "time": "2019-05-01T06:28:48Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1749",
       "text": "Broken link to products to be completed fixed"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1749",
+      "title": "OpenFoodFacts/openfoodfacts-server#1749",
       "time": "2019-05-07T07:49:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1749",
       "text": "Broken link to products to be completed fixed"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1750",
+      "title": "OpenFoodFacts/openfoodfacts-server#1750",
       "time": "2019-05-01T06:49:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1750",
       "text": "Added comma after particular"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1750",
+      "title": "OpenFoodFacts/openfoodfacts-server#1750",
       "time": "2019-05-07T07:49:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1750",
       "text": "Added comma after particular"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1751",
+      "title": "OpenFoodFacts/openfoodfacts-server#1751",
       "time": "2019-05-01T07:26:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1751",
       "text": "Change (non including stores to (not including stores"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1751",
+      "title": "OpenFoodFacts/openfoodfacts-server#1751",
       "time": "2019-05-07T07:50:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1751",
       "text": "Change (non including stores to (not including stores"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1760",
+      "title": "OpenFoodFacts/openfoodfacts-server#1760",
       "time": "2019-05-09T16:51:26Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1760",
       "text": "Add a product doc draft 1"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1760",
+      "title": "OpenFoodFacts/openfoodfacts-server#1760",
       "time": "2019-05-25T15:21:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1760",
       "text": "Add a product doc draft 1"

@@ -3,7 +3,7 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-web#463",
+      "title": "OpenFoodFacts/openfoodfacts-web#463",
       "time": "2023-09-11T10:49:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/463",
       "text": "feat: Added margin-bottom to small button #437"

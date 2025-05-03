@@ -3,217 +3,217 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#664",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#664",
       "time": "2017-12-18T18:57:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/664",
       "text": "Issue #656"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#664",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#664",
       "time": "2018-01-08T11:29:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/664",
       "text": "Issue #656"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#665",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#665",
       "time": "2017-12-27T13:33:42Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/665",
       "text": "Issue fixes"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#670",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#670",
       "time": "2018-01-01T16:27:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/670",
       "text": "Fix 666 add allergen button"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#670",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#670",
       "time": "2018-01-08T11:29:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/670",
       "text": "Fix 666 add allergen button"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#671",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#671",
       "time": "2018-01-05T14:19:52Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/671",
       "text": "Change camera icon to white barcode, Fix button action in ProductActivity.java"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#671",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#671",
       "time": "2018-01-05T15:09:08Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/671",
       "text": "Change camera icon to white barcode, Fix button action in ProductActivity.java"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#683",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#683",
       "time": "2018-01-27T14:27:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/683",
       "text": "Move Ingredients above Nutrition for a new product."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#683",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#683",
       "time": "2018-01-28T10:21:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/683",
       "text": "Move Ingredients above Nutrition for a new product."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#684",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#684",
       "time": "2018-01-29T14:17:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/684",
       "text": "Hotfix for PR #404 merge."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#684",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#684",
       "time": "2018-02-02T14:01:05Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/684",
       "text": "Hotfix for PR #404 merge."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1245",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1245",
       "time": "2018-03-14T17:19:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1245",
       "text": "Allergens refactor and document"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1245",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1245",
       "time": "2018-03-14T23:55:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1245",
       "text": "Allergens refactor and document"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1406",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1406",
       "time": "2018-04-06T13:40:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1406",
       "text": "Fix #1343 OBF crash on startup"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1406",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1406",
       "time": "2018-04-06T15:38:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1406",
       "text": "Fix #1343 OBF crash on startup"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1474",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1474",
       "time": "2018-04-20T18:25:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1474",
       "text": "Add holloway.allergenChecker.jar"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1476",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1476",
       "time": "2018-04-21T17:21:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1476",
       "text": "Fixed #304 : Notification to propose sending offline products that need to be sent (rebased)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1476",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1476",
       "time": "2018-04-21T19:14:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1476",
       "text": "Fixed #304 : Notification to propose sending offline products that need to be sent (rebased)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1546",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1546",
       "time": "2018-05-01T12:22:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1546",
       "text": "Fix #1513 #1490 allergens crash"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1546",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1546",
       "time": "2018-05-01T14:26:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1546",
       "text": "Fix #1513 #1490 allergens crash"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1569",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1569",
       "time": "2018-05-09T12:33:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1569",
       "text": "Update android constraint layout to 1.1.0 ."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1569",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1569",
       "time": "2018-05-09T16:30:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1569",
       "text": "Update android constraint layout to 1.1.0 ."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1715",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1715",
       "time": "2018-06-16T15:08:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1715",
       "text": "Implement MainActivity.changeFragment()"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1715",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1715",
       "time": "2018-06-17T18:11:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1715",
       "text": "Implement MainActivity.changeFragment()"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1729",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1729",
       "time": "2018-06-18T12:22:33Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1729",
       "text": "Removed Wifi intent"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1729",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1729",
       "time": "2018-06-18T12:47:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1729",
       "text": "Removed Wifi intent"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1731",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1731",
       "time": "2018-06-18T16:04:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1731",
       "text": "Notification issues [Needs runtime testing]"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1731",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1731",
       "time": "2018-06-20T14:36:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1731",
       "text": "Notification issues [Needs runtime testing]"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1732",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1732",
       "time": "2018-06-18T18:54:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1732",
       "text": "Hotfix"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1732",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1732",
       "time": "2018-06-18T19:00:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1732",
       "text": "Hotfix"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#1740",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#1740",
       "time": "2018-06-19T14:32:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/1740",
       "text": "Closes: #633: WIP Multi-user allergen experience"

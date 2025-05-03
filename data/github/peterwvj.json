@@ -3,385 +3,385 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#33",
+      "title": "OpenFoodFacts/openfoodfacts-dart#33",
       "time": "2020-07-07T17:22:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/33",
       "text": "Fix the tests"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#33",
+      "title": "OpenFoodFacts/openfoodfacts-dart#33",
       "time": "2020-07-10T16:39:20Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/33",
       "text": "Fix the tests"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#38",
+      "title": "OpenFoodFacts/openfoodfacts-dart#38",
       "time": "2020-07-12T17:23:04Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/38",
       "text": "Fix test instructions in the README"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#38",
+      "title": "OpenFoodFacts/openfoodfacts-dart#38",
       "time": "2020-07-12T17:28:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/38",
       "text": "Fix test instructions in the README"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#49",
+      "title": "OpenFoodFacts/openfoodfacts-dart#49",
       "time": "2020-09-09T18:51:22Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/49",
       "text": "Fix saveProduct"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#51",
+      "title": "OpenFoodFacts/openfoodfacts-dart#51",
       "time": "2020-09-15T17:11:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/51",
       "text": "Fix OpenFoodAPIClient.addProductImage"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#51",
+      "title": "OpenFoodFacts/openfoodfacts-dart#51",
       "time": "2020-09-17T23:01:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/51",
       "text": "Fix OpenFoodAPIClient.addProductImage"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#52",
+      "title": "OpenFoodFacts/openfoodfacts-dart#52",
       "time": "2020-09-27T15:28:07Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/52",
       "text": "Fix parsing of imageId"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#52",
+      "title": "OpenFoodFacts/openfoodfacts-dart#52",
       "time": "2020-09-27T16:07:14Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/52",
       "text": "Fix parsing of imageId"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#71",
+      "title": "OpenFoodFacts/openfoodfacts-dart#71",
       "time": "2021-01-23T15:54:01Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/71",
       "text": "fix: product JSON generation (EcoscoreData related)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#71",
+      "title": "OpenFoodFacts/openfoodfacts-dart#71",
       "time": "2021-01-26T13:14:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/71",
       "text": "fix: product JSON generation (EcoscoreData related)"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#88",
+      "title": "OpenFoodFacts/openfoodfacts-dart#88",
       "time": "2021-02-05T15:26:39Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/88",
       "text": "Improve test output"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#88",
+      "title": "OpenFoodFacts/openfoodfacts-dart#88",
       "time": "2021-02-05T16:12:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/88",
       "text": "Improve test output"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#89",
+      "title": "OpenFoodFacts/openfoodfacts-dart#89",
       "time": "2021-02-05T15:33:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/89",
       "text": "Update authors"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#89",
+      "title": "OpenFoodFacts/openfoodfacts-dart#89",
       "time": "2021-02-05T15:42:55Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/89",
       "text": "Update authors"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#91",
+      "title": "OpenFoodFacts/openfoodfacts-dart#91",
       "time": "2021-02-05T17:42:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/91",
       "text": "Add Github action for testing the SDK"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#91",
+      "title": "OpenFoodFacts/openfoodfacts-dart#91",
       "time": "2021-02-05T18:07:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/91",
       "text": "Add Github action for testing the SDK"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#96",
+      "title": "OpenFoodFacts/openfoodfacts-dart#96",
       "time": "2021-02-08T19:12:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/96",
       "text": "Fix EcoScoreData JSON generation"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#96",
+      "title": "OpenFoodFacts/openfoodfacts-dart#96",
       "time": "2021-02-08T19:47:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/96",
       "text": "Fix EcoScoreData JSON generation"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#97",
+      "title": "OpenFoodFacts/openfoodfacts-dart#97",
       "time": "2021-02-08T20:10:40Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/97",
       "text": "Prepare release of version 0.3.15+2"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#97",
+      "title": "OpenFoodFacts/openfoodfacts-dart#97",
       "time": "2021-02-08T20:21:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/97",
       "text": "Prepare release of version 0.3.15+2"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#114",
+      "title": "OpenFoodFacts/openfoodfacts-dart#114",
       "time": "2021-03-05T20:07:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/114",
       "text": "Dependency cleanup"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#114",
+      "title": "OpenFoodFacts/openfoodfacts-dart#114",
       "time": "2021-03-05T20:16:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/114",
       "text": "Dependency cleanup"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#117",
+      "title": "OpenFoodFacts/openfoodfacts-dart#117",
       "time": "2021-03-06T17:26:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/117",
       "text": "Fix analysis errors"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#117",
+      "title": "OpenFoodFacts/openfoodfacts-dart#117",
       "time": "2021-03-06T18:14:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/117",
       "text": "Fix analysis errors"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#119",
+      "title": "OpenFoodFacts/openfoodfacts-dart#119",
       "time": "2021-03-07T15:32:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/119",
       "text": "Migrate to null safety"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#119",
+      "title": "OpenFoodFacts/openfoodfacts-dart#119",
       "time": "2021-03-07T19:06:43Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/119",
       "text": "Migrate to null safety"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#121",
+      "title": "OpenFoodFacts/openfoodfacts-dart#121",
       "time": "2021-03-07T19:24:27Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/121",
       "text": "Prepare release of version 1.0.0 of the SDK"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#121",
+      "title": "OpenFoodFacts/openfoodfacts-dart#121",
       "time": "2021-03-07T20:35:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/121",
       "text": "Prepare release of version 1.0.0 of the SDK"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#122",
+      "title": "OpenFoodFacts/openfoodfacts-dart#122",
       "time": "2021-03-08T16:01:03Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/122",
       "text": "API should not require a user being passed when searching products"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#122",
+      "title": "OpenFoodFacts/openfoodfacts-dart#122",
       "time": "2021-03-08T16:05:35Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/122",
       "text": "API should not require a user being passed when searching products"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#156",
+      "title": "OpenFoodFacts/openfoodfacts-dart#156",
       "time": "2021-05-02T15:00:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/156",
       "text": "fix: update expected test results."
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#156",
+      "title": "OpenFoodFacts/openfoodfacts-dart#156",
       "time": "2021-05-02T15:30:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/156",
       "text": "fix: update expected test results."
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#176",
+      "title": "OpenFoodFacts/openfoodfacts-dart#176",
       "time": "2021-07-08T18:17:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/176",
       "text": "docs: prepare release of version 1.2.0 of the SDK"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#176",
+      "title": "OpenFoodFacts/openfoodfacts-dart#176",
       "time": "2021-07-09T14:41:36Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/176",
       "text": "docs: prepare release of version 1.2.0 of the SDK"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#226",
+      "title": "OpenFoodFacts/openfoodfacts-dart#226",
       "time": "2021-09-13T18:28:44Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/226",
       "text": "Fix write API for nutrient fields"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#226",
+      "title": "OpenFoodFacts/openfoodfacts-dart#226",
       "time": "2021-09-14T06:03:34Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/226",
       "text": "Fix write API for nutrient fields"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#227",
+      "title": "OpenFoodFacts/openfoodfacts-dart#227",
       "time": "2021-09-14T18:24:51Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/227",
       "text": "Release 1.3.3"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#227",
+      "title": "OpenFoodFacts/openfoodfacts-dart#227",
       "time": "2021-09-15T19:52:49Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/227",
       "text": "Release 1.3.3"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#235",
+      "title": "OpenFoodFacts/openfoodfacts-dart#235",
       "time": "2021-09-16T18:16:24Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/235",
       "text": "fix: test assertions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#235",
+      "title": "OpenFoodFacts/openfoodfacts-dart#235",
       "time": "2021-09-17T15:00:38Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/235",
       "text": "fix: test assertions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#248",
+      "title": "OpenFoodFacts/openfoodfacts-dart#248",
       "time": "2021-09-25T15:37:54Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/248",
       "text": "Improve error message when saving products using invalid user"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#248",
+      "title": "OpenFoodFacts/openfoodfacts-dart#248",
       "time": "2021-09-26T17:51:46Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/248",
       "text": "Improve error message when saving products using invalid user"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#249",
+      "title": "OpenFoodFacts/openfoodfacts-dart#249",
       "time": "2021-09-26T18:24:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/249",
       "text": "Prepare release of 1.3.5"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#249",
+      "title": "OpenFoodFacts/openfoodfacts-dart#249",
       "time": "2021-09-27T16:13:15Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/249",
       "text": "Prepare release of 1.3.5"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#266",
+      "title": "OpenFoodFacts/openfoodfacts-dart#266",
       "time": "2021-10-10T13:29:10Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/266",
       "text": "fix: relax and correct test assertions"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#266",
+      "title": "OpenFoodFacts/openfoodfacts-dart#266",
       "time": "2021-10-10T13:55:47Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/266",
       "text": "fix: relax and correct test assertions"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#267",
+      "title": "OpenFoodFacts/openfoodfacts-dart#267",
       "time": "2021-10-10T15:32:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/267",
       "text": "fix: Nutriments JSON conversion bug related to micro gram unit"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#267",
+      "title": "OpenFoodFacts/openfoodfacts-dart#267",
       "time": "2021-10-10T16:38:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/267",
       "text": "fix: Nutriments JSON conversion bug related to micro gram unit"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#268",
+      "title": "OpenFoodFacts/openfoodfacts-dart#268",
       "time": "2021-10-10T16:49:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/268",
       "text": "Prepare release of version 1.3.6 of the SDK"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#268",
+      "title": "OpenFoodFacts/openfoodfacts-dart#268",
       "time": "2021-10-10T17:02:23Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/268",
       "text": "Prepare release of version 1.3.6 of the SDK"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#762",
+      "title": "OpenFoodFacts/openfoodfacts-dart#762",
       "time": "2023-07-17T20:10:59Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/762",
       "text": "fix: issue with JSON conversion of packagings data"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#762",
+      "title": "OpenFoodFacts/openfoodfacts-dart#762",
       "time": "2023-07-19T06:09:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/762",
       "text": "fix: issue with JSON conversion of packagings data"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#766",
+      "title": "OpenFoodFacts/openfoodfacts-dart#766",
       "time": "2023-07-20T11:22:29Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/766",
       "text": "fix: issue with converting LocalizedTags to JSON"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#766",
+      "title": "OpenFoodFacts/openfoodfacts-dart#766",
       "time": "2023-07-20T16:16:30Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/766",
       "text": "fix: issue with converting LocalizedTags to JSON"

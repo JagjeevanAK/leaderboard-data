@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1216",
+      "title": "OpenFoodFacts/openfoodfacts-server#1216",
       "time": "2018-05-27T14:09:28Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1216",
       "text": "Update CONTRIBUTING.md by the correction of words"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-server#1218",
+      "title": "OpenFoodFacts/openfoodfacts-server#1218",
       "time": "2018-05-27T20:55:19Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1218",
       "text": " Committer: Jie SONG <jiesong@pcjsong5.user.resel.fr>"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-server#1218",
+      "title": "OpenFoodFacts/openfoodfacts-server#1218",
       "time": "2018-05-28T09:34:50Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/1218",
       "text": " Committer: Jie SONG <jiesong@pcjsong5.user.resel.fr>"

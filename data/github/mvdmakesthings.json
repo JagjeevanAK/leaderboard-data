@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-ios#375",
+      "title": "OpenFoodFacts/openfoodfacts-ios#375",
       "time": "2019-10-15T02:11:09Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/375",
       "text": "Set font family to apple default for webviews"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-ios#375",
+      "title": "OpenFoodFacts/openfoodfacts-ios#375",
       "time": "2019-10-15T09:08:41Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-ios/pull/375",
       "text": "Set font family to apple default for webviews"

@@ -1,33 +1,33 @@
 {
-  "last_updated": "2025-03-12T17:29:18Z",
+  "last_updated": "2025-03-24T20:14:27Z",
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#273",
+      "title": "OpenFoodFacts/open-prices-frontend#1474",
+      "time": "2025-03-24T20:14:27Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1474",
+      "text": "feat: location not found detailed message"
+    },
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#273",
       "time": "2025-03-12T17:29:18Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/273",
       "text": "migrate: run & page import"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-explorer#273",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#273",
       "time": "2025-03-16T16:44:53Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/273",
       "text": "migrate: run & page import"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-explorer#481",
+      "title": "OpenFoodFacts/openfoodfacts-explorer#481",
       "time": "2025-04-16T03:41:02Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/481",
       "text": "feat: mobile UI update"
-    },
-    {
-      "type": "pr_opened",
-      "title": "openfoodfacts/open-prices-frontend#1474",
-      "time": "2025-03-24T20:14:27Z",
-      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1474",
-      "text": "feat: location not found detailed message"
     }
   ],
   "open_prs": [],

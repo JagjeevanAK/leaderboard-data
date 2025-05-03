@@ -3,210 +3,210 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2660",
+      "title": "OpenFoodFacts/smooth-app#2660",
       "time": "2022-07-26T07:49:36Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2660",
       "text": "fix: Rounded the load more products in search button #1900"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2663",
+      "title": "OpenFoodFacts/smooth-app#2663",
       "time": "2022-07-27T06:45:48Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2663",
       "text": "fix: Rounded the load more products in search button #1900"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#2663",
+      "title": "OpenFoodFacts/smooth-app#2663",
       "time": "2022-07-27T12:23:02Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2663",
       "text": "fix: Rounded the load more products in search button #1900"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2664",
+      "title": "OpenFoodFacts/smooth-app#2664",
       "time": "2022-07-27T08:25:58Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2664",
       "text": "fix: Login button width center #2059"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2668",
+      "title": "OpenFoodFacts/smooth-app#2668",
       "time": "2022-07-27T15:30:58Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2668",
       "text": "fix: Login button whole width centre"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#2668",
+      "title": "OpenFoodFacts/smooth-app#2668",
       "time": "2022-07-28T14:59:47Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2668",
       "text": "fix: Login button whole width centre"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2685",
+      "title": "OpenFoodFacts/smooth-app#2685",
       "time": "2022-07-31T13:02:16Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2685",
       "text": "fix: Small padding in country/language selection in settings"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2689",
+      "title": "OpenFoodFacts/smooth-app#2689",
       "time": "2022-07-31T14:59:06Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2689",
       "text": "fix: Padding in language section"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2690",
+      "title": "OpenFoodFacts/smooth-app#2690",
       "time": "2022-07-31T15:07:10Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2690",
       "text": "fix: Padding in language section"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#2690",
+      "title": "OpenFoodFacts/smooth-app#2690",
       "time": "2022-08-01T08:40:08Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2690",
       "text": "fix: Padding in language section"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#2711",
+      "title": "OpenFoodFacts/smooth-app#2711",
       "time": "2022-08-01T18:45:47Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/2711",
       "text": "fix: Add extra space on the left of the back button - Change the colour of the arrow to be the same as the text"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3068",
+      "title": "OpenFoodFacts/smooth-app#3068",
       "time": "2022-09-27T14:22:24Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3068",
       "text": "fix: hunger games link added"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3068",
+      "title": "OpenFoodFacts/smooth-app#3068",
       "time": "2022-09-28T09:39:31Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3068",
       "text": "fix: hunger games link added"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3113",
+      "title": "OpenFoodFacts/smooth-app#3113",
       "time": "2022-10-10T08:27:49Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3113",
       "text": "fix: Template card size"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3113",
+      "title": "OpenFoodFacts/smooth-app#3113",
       "time": "2022-10-11T13:12:04Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3113",
       "text": "fix: Template card size"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3124",
+      "title": "OpenFoodFacts/smooth-app#3124",
       "time": "2022-10-11T13:33:35Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3124",
       "text": "fix: Pull to refresh exception"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3124",
+      "title": "OpenFoodFacts/smooth-app#3124",
       "time": "2022-10-11T16:00:25Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3124",
       "text": "fix: Pull to refresh exception"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3219",
+      "title": "OpenFoodFacts/smooth-app#3219",
       "time": "2022-10-26T03:18:29Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3219",
       "text": "fix: Finish button replaced with FAB"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3219",
+      "title": "OpenFoodFacts/smooth-app#3219",
       "time": "2022-10-28T17:24:26Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3219",
       "text": "fix: Finish button replaced with FAB"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3267",
+      "title": "OpenFoodFacts/smooth-app#3267",
       "time": "2022-11-05T02:50:33Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3267",
       "text": "feat: adding contribution count"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3267",
+      "title": "OpenFoodFacts/smooth-app#3267",
       "time": "2022-11-07T17:01:35Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3267",
       "text": "feat: adding contribution count"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3344",
+      "title": "OpenFoodFacts/smooth-app#3344",
       "time": "2022-11-23T18:07:02Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3344",
       "text": "fix: fast scroll in back to top"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3344",
+      "title": "OpenFoodFacts/smooth-app#3344",
       "time": "2022-11-26T12:59:10Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3344",
       "text": "fix: fast scroll in back to top"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3549",
+      "title": "OpenFoodFacts/smooth-app#3549",
       "time": "2023-01-08T05:04:53Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3549",
       "text": "fix: moved robotoff questions on product page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3549",
+      "title": "OpenFoodFacts/smooth-app#3549",
       "time": "2023-03-21T17:36:59Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3549",
       "text": "fix: moved robotoff questions on product page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3631",
+      "title": "OpenFoodFacts/smooth-app#3631",
       "time": "2023-01-24T05:43:31Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3631",
       "text": "fix: added some padding to back button"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3631",
+      "title": "OpenFoodFacts/smooth-app#3631",
       "time": "2023-01-24T13:18:05Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3631",
       "text": "fix: added some padding to back button"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3647",
+      "title": "OpenFoodFacts/smooth-app#3647",
       "time": "2023-01-27T04:52:53Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3647",
       "text": "feat: Wrap list names on product page"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/smooth-app#3647",
+      "title": "OpenFoodFacts/smooth-app#3647",
       "time": "2023-02-04T17:40:10Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3647",
       "text": "feat: Wrap list names on product page"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/smooth-app#3745",
+      "title": "OpenFoodFacts/smooth-app#3745",
       "time": "2023-02-28T04:34:27Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/3745",
       "text": "fix: Hungergames user null exception"

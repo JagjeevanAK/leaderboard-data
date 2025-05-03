@@ -3,21 +3,21 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#46",
+      "title": "OpenFoodFacts/openfoodfacts-dart#46",
       "time": "2020-08-18T11:10:11Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/46",
       "text": "Extend the list of supported micronutrients and units in nutriments"
     },
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-dart#47",
+      "title": "OpenFoodFacts/openfoodfacts-dart#47",
       "time": "2020-08-18T12:49:06Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/47",
       "text": "Extended micronutrients support"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-dart#47",
+      "title": "OpenFoodFacts/openfoodfacts-dart#47",
       "time": "2020-11-20T08:16:21Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/47",
       "text": "Extended micronutrients support"

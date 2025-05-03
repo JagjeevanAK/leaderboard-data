@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-05-02T11:28:46Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/openfoodfacts-server#11849",
+      "time": "2025-05-02T11:28:46Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11849",
+      "text": "feat: adding button to report image on view image page"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

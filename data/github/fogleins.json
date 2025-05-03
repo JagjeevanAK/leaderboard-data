@@ -3,14 +3,14 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4871",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4871",
       "time": "2022-10-30T21:45:45Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4871",
       "text": "feat: Use new SplashScreen API on Android 12 and newer (API level 31 and up)"
     },
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-androidapp#4871",
+      "title": "OpenFoodFacts/openfoodfacts-androidapp#4871",
       "time": "2022-11-08T21:08:12Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/pull/4871",
       "text": "feat: Use new SplashScreen API on Android 12 and newer (API level 31 and up)"
