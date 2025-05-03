@@ -13785,7 +13785,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6544",
       "title": "\"Soygate\", or should we warn the user when prices change",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": [
         ":star: top issue",
         "Prices",
@@ -13795,7 +13795,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6543",
       "title": "Confusion about IMPORTANT and VERY_IMPORTANT levels",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": [
         "⚙️🥗 Food preferences"
       ]
@@ -13803,7 +13803,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11745",
       "title": "/cgi/search.pl: no image for ingredients, nutrition and packaging",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": [
         "🖼️ Images"
       ]
@@ -13817,7 +13817,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1053",
       "title": "Edit \"allergenic substances\"",
-      "stale_for": 34,
+      "stale_for": 35,
       "labels": []
     },
     {
@@ -13850,7 +13850,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1306",
       "title": "Use store specific advertisement",
-      "stale_for": 101,
+      "stale_for": 102,
       "labels": []
     },
     {
@@ -13890,7 +13890,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5982",
       "title": "Support \"online\" stores for Prices",
-      "stale_for": 152,
+      "stale_for": 153,
       "labels": [
         "Prices"
       ]
@@ -13978,7 +13978,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5046",
       "title": "Autocomplete: new Elastic Search or old tag type?",
-      "stale_for": 182,
+      "stale_for": 183,
       "labels": [
         "discussion",
         "🔎 Search",
@@ -14005,7 +14005,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/4889",
       "title": "Display square simplified nutriscore/green-score widgets on product page",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": [
         "🥫 Product page",
         "🚥 Nutri-Score",

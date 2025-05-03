@@ -1,5 +1,5 @@
 {
-  "last_updated": "2022-03-28T10:45:05Z",
+  "last_updated": "2025-05-03T10:28:26.000Z",
   "activity": [
     {
       "type": "pr_reviewed",
@@ -3620,7 +3620,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/178",
       "title": "Integrate Nutri-Patrol, our new moderation tool https://github.com/openfoodfacts/nutripatrol",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": [
         "👮 Nutri-Patrol"
       ]
@@ -3663,7 +3663,7 @@
     {
       "link": "https://github.com/openfoodfacts/hunger-games/issues/616",
       "title": "Consider using the openfoodfacts-nodejs SDK",
-      "stale_for": 63,
+      "stale_for": 64,
       "labels": [
         "Refactoring"
       ]
@@ -3671,7 +3671,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/7465",
       "title": "docs: write documentation for the /cgi/auth.pl endpoint",
-      "stale_for": 203,
+      "stale_for": 204,
       "labels": [
         "📚 Documentation",
         "🔐 API auth",
@@ -3692,7 +3692,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/2172",
       "title": "The personal ranking search button jumps when scrolling",
-      "stale_for": 182,
+      "stale_for": 183,
       "labels": [
         "personal search",
         "🎨 UI / UX",
@@ -3723,7 +3723,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/3756",
       "title": "RFC: Migrate from greenDAO to ObjectBox",
-      "stale_for": 1355,
+      "stale_for": 1356,
       "labels": [
         "sql",
         "local database",
@@ -3733,7 +3733,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/3755",
       "title": "Implement MaterialTheme",
-      "stale_for": 1363,
+      "stale_for": 1364,
       "labels": [
         "refactoring",
         "ui",

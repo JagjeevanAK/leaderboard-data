@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-31T08:50:05Z",
+  "last_updated": "2025-05-03T12:04:13.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "OpenFoodFacts/smooth-app#6576",
+      "time": "2025-05-03T12:04:11Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6576",
+      "text": "fix: dark mode issue in feedback page"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/smooth-app#6501",
@@ -56,13 +63,6 @@
       "time": "2025-04-21T19:36:27Z",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6561",
       "text": "feat: Add infinite scrolling to the various Open Prices ListViews."
-    },
-    {
-      "type": "pr_opened",
-      "title": "OpenFoodFacts/smooth-app#6576",
-      "time": "2025-05-03T12:04:11Z",
-      "link": "https://github.com/openfoodfacts/smooth-app/pull/6576",
-      "text": "fix: dark mode issue in feedback page"
     },
     {
       "type": "pr_opened",

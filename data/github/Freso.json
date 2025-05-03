@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-07-22T08:33:02Z",
+  "last_updated": "2025-05-03T14:23:16.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11852",
+      "time": "2025-05-03T14:23:16.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11852",
+      "text": "fix: Lacto-ovo-vegetarianism taxonomy"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-server#10573",
@@ -723,6 +730,57 @@
       "text": "feat: Handle label/ingredient conflicts"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11798",
+      "title": "Category `en: Pickles` is both pickled cucumbers and pickled vegetables more generally",
+      "stale_for": 15,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1498",
+      "title": "Link products to country site of shop location",
+      "stale_for": 22,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11685",
+      "title": "Display currently served version of the taxonomies and website on pages",
+      "stale_for": 33,
+      "labels": [
+        "👩‍💻 DevOps"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11572",
+      "title": "Unrecognised ingredient (sv): “Rainforest Alliance-certifierad fettreducerat kakaopulver”",
+      "stale_for": 42,
+      "labels": [
+        "labels",
+        "🥗 Ingredients"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10678",
+      "title": "Allergen markup in ingredients lists breaks identification of compound words",
+      "stale_for": 197,
+      "labels": [
+        "🥗🔍 Ingredients analysis"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11830",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11831"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11707",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11687"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11707",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11726"
+    }
+  ]
 }

@@ -1,6 +1,49 @@
 {
-  "last_updated": "2025-05-03T12:57:42.000Z",
+  "last_updated": "2025-05-03T16:38:30.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11367",
+      "time": "2025-05-03T16:38:30.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11367",
+      "text": "taxonomy: Translations for the nutrient levels taxonomy",
+      "turnaround_time": 6933276
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-03T13:46:07.000Z",
+      "title": "openfoodfacts/hunger-games#1105",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/1105#pullrequestreview-2813237069",
+      "text": "WIP graph explorer"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-03T13:43:40.000Z",
+      "title": "openfoodfacts/hunger-games#1106",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/1106#pullrequestreview-2813236602",
+      "text": "test first UI for spell check"
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/smooth-app#6494",
+      "time": "2025-05-03T13:37:58.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6494",
+      "text": "Issues in bulk"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#3420",
+      "time": "2025-05-03T13:35:05.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/3420#issuecomment-2848631624",
+      "text": "same thing here @g123k \n- related to #3870 "
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#3870",
+      "time": "2025-05-03T13:30:12.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/3870#issuecomment-2848629683",
+      "text": "@g123k I believe you have fixed this ?"
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-server#11851",
@@ -104,7 +147,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/issues/127",
       "title": "We don't write the portion size in Robotoff extraction",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "Nutrition editing"
       ]
@@ -302,7 +345,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6545",
       "title": "Tabs for the product page",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": [
         "🥫 Product page"
       ]

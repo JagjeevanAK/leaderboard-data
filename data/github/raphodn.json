@@ -3,8 +3,8 @@
   "activity": [
     {
       "type": "pr_opened",
-      "title": "openfoodfacts/open-prices#829",
-      "time": "2025-05-03T08:53:28.000Z",
+      "title": "OpenFoodFacts/open-prices#829",
+      "time": "2025-05-03T08:53:27Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/829",
       "text": "feat(Prices): script to set missing product_name from PriceTag & ReceiptItem"
     },
@@ -3927,13 +3927,6 @@
       "time": "2025-04-29T12:48:23Z",
       "link": "https://github.com/openfoodfacts/open-prices/pull/823",
       "text": "refactor(Challenges): set the price's proof tag on price create (if the price belongs to an ongoing challenge)"
-    },
-    {
-      "type": "pr_opened",
-      "title": "OpenFoodFacts/open-prices#829",
-      "time": "2025-05-03T08:53:27Z",
-      "link": "https://github.com/openfoodfacts/open-prices/pull/829",
-      "text": "feat(Prices): script to set missing product_name from PriceTag & ReceiptItem"
     },
     {
       "type": "pr_opened",
@@ -11072,7 +11065,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/796",
       "title": "API: new price filter by product_name & osm_name__like",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": []
     },
     {
@@ -11156,7 +11149,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1393",
       "title": "Product card: display a price (latest ? average ? cheapest ?)",
-      "stale_for": 68,
+      "stale_for": 69,
       "labels": []
     },
     {
@@ -11172,7 +11165,7 @@
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/277",
       "title": "Return the product's `product_quantity` field",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "frontend"
       ]
@@ -11199,7 +11192,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1310",
       "title": "New Contribution page to list & explain the ways to contribute",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": [
         ":star: top issue"
       ]
@@ -11215,7 +11208,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1235",
       "title": "Barcode scanner (manual): allow search with wildcards with the help of search-a-licious ?",
-      "stale_for": 117,
+      "stale_for": 118,
       "labels": []
     },
     {
@@ -11255,7 +11248,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/637",
       "title": "Automatically match new prices with their PriceTag prediction counterpart",
-      "stale_for": 93,
+      "stale_for": 94,
       "labels": [
         "price tag"
       ]
@@ -11283,7 +11276,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/620",
       "title": "Product sync: use OFF's Redis stream to get live updates",
-      "stale_for": 86,
+      "stale_for": 87,
       "labels": [
         "Product data sync"
       ]

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2022-10-25T18:53:36Z",
+  "last_updated": "2025-05-03T15:12:00.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-03T15:12:00.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#11816",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11816#pullrequestreview-2813250870",
+      "text": "taxonomy: move all vitamins under en:vitamins"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/hunger-games#325",
@@ -3047,6 +3054,76 @@
       "text": "feat: add all flavors for local"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11815",
+      "title": "CIQUAL to cover processing",
+      "stale_for": 9,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/292",
+      "title": "api.facet.get returns single page",
+      "stale_for": 59,
+      "labels": [
+        "Facets"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9616",
+      "title": "bug: traces are not correctly parsed",
+      "stale_for": 197,
+      "labels": [
+        "🥗  Ingredients",
+        "ingredients analysis",
+        "🥗 Ingredients"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11531",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11536"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9623",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9624"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/181",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/192"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8958",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10124"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8958",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10264"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8958",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10318"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8958",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10351"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8958",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10388"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8958",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10485"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8958",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10533"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8958",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10570"
+    }
+  ]
 }

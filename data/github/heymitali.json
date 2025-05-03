@@ -1,13 +1,12 @@
 {
-  "last_updated": "2025-03-23T10:36:35Z",
+  "last_updated": "2025-05-03T10:28:38.000Z",
   "activity": [
     {
       "type": "pr_merged",
-      "title": "openfoodfacts/openfoodfacts-nodejs#623",
-      "time": "2025-05-03T10:28:38.000Z",
+      "title": "OpenFoodFacts/openfoodfacts-nodejs#623",
+      "time": "2025-05-03T10:28:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/623",
-      "text": "feat: Added error handling for Folksonomy Write APIs",
-      "turnaround_time": 1134396
+      "text": "feat: Added error handling for Folksonomy Write APIs"
     },
     {
       "type": "pr_opened",
@@ -118,13 +117,6 @@
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-nodejs#623",
       "time": "2025-04-20T07:21:50Z",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/623",
-      "text": "feat: Added error handling for Folksonomy Write APIs"
-    },
-    {
-      "type": "pr_merged",
-      "title": "OpenFoodFacts/openfoodfacts-nodejs#623",
-      "time": "2025-05-03T10:28:37Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/623",
       "text": "feat: Added error handling for Folksonomy Write APIs"
     },
