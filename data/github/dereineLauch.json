@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-05-03T19:07:00.000Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11853",
+      "time": "2025-05-03T19:07:00.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11853",
+      "text": "taxonomy: Update ingredients.txt - peach puree"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

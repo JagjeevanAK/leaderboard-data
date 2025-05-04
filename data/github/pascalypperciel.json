@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-27T09:43:28Z",
+  "last_updated": "2025-05-03T20:12:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11812",
+      "time": "2025-05-03T20:12:54.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11812#issuecomment-2848788410",
+      "text": "Hello! \n\nI was curious about this bug so I started looking around the code base and the problem seems to be that this edge case doesn't seem to be supported in the code [Ingredients.pm](https://github.com/openfoodfacts/openfoodfacts-server/blob/main/lib/ProductOpener/Ingredients.pm).\n\nWould adding an `else if` statement at line ~1200 in `parse_specific_ingredients_from_text` to include this edge case be a good way to fix it? This is a really big code file and I want to be certain that my plan is good before I proceed! 😄 "
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-explorer#364",
@@ -51,6 +58,18 @@
       "text": "fix: Small fixes to documentation for easier setup"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/folksonomy_api/issues/271",
+      "title": "Modifications to Documentation for Developers",
+      "stale_for": 1,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/folksonomy_api/issues/269",
+      "pr_link": "https://github.com/openfoodfacts/folksonomy_api/pull/270"
+    }
+  ]
 }

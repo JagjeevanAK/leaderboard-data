@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-03T16:38:30.000Z",
+  "last_updated": "2025-05-03T20:18:48.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/smooth-app#6577",
+      "time": "2025-05-03T20:18:48.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6577",
+      "text": "Robotoff questions in editing (part 2) for packaging"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/hunger-games#1174",
+      "time": "2025-05-03T19:56:48.000Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/1174#issuecomment-2848783106",
+      "text": "It's the GitHub security LLM. We can probably silence it @alexfauquette "
+    },
     {
       "type": "pr_merged",
       "title": "openfoodfacts/openfoodfacts-server#11367",
@@ -145,6 +159,14 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6577",
+      "title": "Robotoff questions in editing (part 2) for packaging",
+      "stale_for": 0,
+      "labels": [
+        "🤖 Robotoff"
+      ]
+    },
+    {
       "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/issues/127",
       "title": "We don't write the portion size in Robotoff extraction",
       "stale_for": 2,
@@ -253,7 +275,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/490",
       "title": "Implement structured packaging editing",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "✏️ Editing",
         "📦 Packaging"
@@ -286,7 +308,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/486",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
@@ -298,7 +320,7 @@
     {
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/issues/180",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": []
     },
     {
@@ -340,14 +362,6 @@
       "labels": [
         "matomo",
         "Web components"
-      ]
-    },
-    {
-      "link": "https://github.com/openfoodfacts/smooth-app/issues/6545",
-      "title": "Tabs for the product page",
-      "stale_for": 22,
-      "labels": [
-        "🥫 Product page"
       ]
     }
   ],

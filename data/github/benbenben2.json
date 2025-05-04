@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-03T15:12:00.000Z",
+  "last_updated": "2025-05-03T20:42:04.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#1189",
+      "time": "2025-05-03T20:42:04.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1189#issuecomment-2848800737",
+      "text": "is it fixed?"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#4876",
+      "time": "2025-05-03T20:38:44.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/4876#issuecomment-2848799498",
+      "text": "is it fixed?"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-03T15:12:00.000Z",

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-03T12:04:13.000Z",
+  "last_updated": "2025-05-03T21:54:30.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6576",
+      "time": "2025-05-03T21:54:30.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6576#issuecomment-2848825710",
+      "text": "@monsieurtanuki, Changed the code accrodingly\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-03T21:09:49.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2848809894",
+      "text": "> Hi @AshutoshKhadse23! Very interesting PR, isn't it? I found a lot of inspiration reading your code. For the better I hope.\r\n\r\n@monsieurtanuki, I’m also finding this PR really interesting! It’s been a great way to learn more about the codebase."
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/smooth-app#6576",

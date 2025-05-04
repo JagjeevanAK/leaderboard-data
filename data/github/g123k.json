@@ -1,6 +1,13 @@
 {
-  "last_updated": "2022-04-02T11:32:00Z",
+  "last_updated": "2025-05-03T20:00:49.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/smooth-app#3870",
+      "time": "2025-05-03T20:00:49.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/3870",
+      "text": "We should improve the \"review\" dialog"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/smooth-app#1458",
@@ -11433,6 +11440,277 @@
       "text": "Migrate to flutter_lints 4.0 and Flutter 3.24.x"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6523",
+      "title": "`iso_countries` plugin must be replaced",
+      "stale_for": 27,
+      "labels": [
+        "good first issue"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11672",
+      "title": "Most scanned product homepage is broken",
+      "stale_for": 31,
+      "labels": [
+        "scan statistics"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6474",
+      "title": "Personal (compatibility) score in user lists",
+      "stale_for": 34,
+      "labels": [
+        "good first issue",
+        "food preferences",
+        "User lists"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6459",
+      "title": "New UI for the food preferences",
+      "stale_for": 40,
+      "labels": [
+        "good first issue",
+        "⚙️🥗 Food preferences"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6457",
+      "title": "Create a Compatibility Score explainer",
+      "stale_for": 43,
+      "labels": [
+        "good first issue",
+        "⚙️🥗 Food preferences"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6456",
+      "title": "Revamp the \"user not connected\" popup",
+      "stale_for": 45,
+      "labels": [
+        "good first issue",
+        "👥 User management"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6368",
+      "title": "Enable Predictive back gesture on Android",
+      "stale_for": 82,
+      "labels": [
+        "Android",
+        "blocked on flutter"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1038",
+      "title": "TypeError: type 'int' is not a subtype of type 'String?' in type cast",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11322",
+      "title": "If the serving size is incorrect, the KP should provide a better explanation",
+      "stale_for": 5,
+      "labels": [
+        "🎯 P1",
+        "📖 Knowledge Panels",
+        "🛣️ Road to scores",
+        "serving size",
+        "🚦 Nutri-Score"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1346",
+      "title": "Error with HEIC files",
+      "stale_for": 20,
+      "labels": [
+        "📷 Proofs"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6292",
+      "title": "\"Slow\" background tasks never start",
+      "stale_for": 92,
+      "labels": [
+        "background tasks"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6247",
+      "title": "My proofs: Client Exception",
+      "stale_for": 32,
+      "labels": [
+        "Prices",
+        "Prices - Proofs"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6223",
+      "title": "The \"Bleu Blanc Coeur\" SVG is not supported by `flutter_svg`",
+      "stale_for": 103,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6164",
+      "title": "GoRouter is in maintenance mode",
+      "stale_for": 108,
+      "labels": [
+        "dependencies"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6159",
+      "title": "Monolingual product?",
+      "stale_for": 93,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6150",
+      "title": "Store locator: really hard to find some places",
+      "stale_for": 115,
+      "labels": [
+        "Prices"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6145",
+      "title": "Revamp 'About the app' dialog -> Screen",
+      "stale_for": 116,
+      "labels": [
+        "⚙️ Settings",
+        "About this app"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6083",
+      "title": "NutriScore v2 positive/negative points are barely readable",
+      "stale_for": 117,
+      "labels": [
+        "📖 Knowledge panels",
+        "🚥 Nutri-Score",
+        "blocked on server"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6050",
+      "title": "Gallery: allow to change the default language of a product",
+      "stale_for": 31,
+      "labels": [
+        "🎯 P1",
+        "🖼️ Photos - Photo manager",
+        ":star: top issue"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1015",
+      "title": "Implement the API to change the default language of a product",
+      "stale_for": 120,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5990",
+      "title": "Remove unused translations",
+      "stale_for": 149,
+      "labels": [
+        "translations"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5937",
+      "title": "Backup on Android : I need your help!",
+      "stale_for": 158,
+      "labels": [
+        "Database backup"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11045",
+      "title": "Rotation issue with some images?",
+      "stale_for": 59,
+      "labels": [
+        "✏️ Editing - image edition",
+        "Photo rotation"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11044",
+      "title": "Crash when deleted images are selected  / cropped",
+      "stale_for": 31,
+      "labels": [
+        "🖼️ Image upload",
+        "🤳🥫 blocking mobile apps"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5927",
+      "title": "Product addition wizard: implement the new design",
+      "stale_for": 29,
+      "labels": [
+        "Product addition",
+        "🎨 Mockup required",
+        "✨ 2024 the big redesign"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5868",
+      "title": "Not enough contrast for dialogs in dark mode",
+      "stale_for": 167,
+      "labels": [
+        "darkmode",
+        "modals"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5820",
+      "title": "Edit mode: highlight incomplete fields",
+      "stale_for": 39,
+      "labels": [
+        "✏️ Editing"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5819",
+      "title": "New UI for \"Profile\"",
+      "stale_for": 32,
+      "labels": [
+        "⚙️ Settings",
+        "✨ 2024 the big redesign"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5817",
+      "title": "Revamp the search results",
+      "stale_for": 22,
+      "labels": [
+        "🎯 P1",
+        "🔎 Search",
+        "✨ 2024 the big redesign"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5814",
+      "title": "Product page: tab \"Data\"",
+      "stale_for": 42,
+      "labels": [
+        "🥫 Product page",
+        "✨ 2024 the big redesign"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1031",
+      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/6313"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/6148",
+      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/6147"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/5975",
+      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/5978"
+    }
+  ]
 }

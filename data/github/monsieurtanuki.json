@@ -13768,7 +13768,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6566",
       "title": "Enforce unawaited_futures rule",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         ":star: top issue"
       ]
@@ -13776,7 +13776,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1062",
       "title": "Implement Prices Challenges",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "🏄‍♀️ good first issue",
         "💸 Prices"
@@ -13865,7 +13865,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/626",
       "title": "Successful upload of proof image with invalid bearer token",
-      "stale_for": 55,
+      "stale_for": 56,
       "labels": [
         "Proofs",
         "🔐 Auth"
@@ -13874,7 +13874,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6043",
       "title": "Price tags input from picture",
-      "stale_for": 87,
+      "stale_for": 88,
       "labels": [
         "Prices"
       ]
