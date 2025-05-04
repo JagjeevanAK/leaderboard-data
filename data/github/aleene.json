@@ -1,6 +1,13 @@
 {
-  "last_updated": "2018-11-10T13:52:30Z",
+  "last_updated": "2025-05-04T06:32:09.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11853",
+      "time": "2025-05-04T06:32:09.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11853#issuecomment-2849037429",
+      "text": "Thanks for your additions. Good you found this entry. Not sure why it is still in ingredients at all. Any ingredient that is the result of processing (usually with a processing adjective) should not be there.\n\nHave a look at ingredients_processing.txt(?). There you will find purée (any translations missing?) as well. If so the ingredient can be deleted.\n\nThis approach implies that we do not have to add to many translations."
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-server#1479",
@@ -6113,6 +6120,289 @@
       "text": "Update Localizable.strings"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11467",
+      "title": "Countries field should not be free format",
+      "stale_for": 63,
+      "labels": [
+        "🧬 Taxonomies",
+        "🧽 Data quality"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11330",
+      "title": "Facet mixes food and beauty / products of wrong product type in MongoDB collection",
+      "stale_for": 28,
+      "labels": [
+        "🧴 Open Beauty Facts",
+        "OxF"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11308",
+      "title": "Vegan/Gluten free does not take into account labels",
+      "stale_for": 92,
+      "labels": [
+        "🌾 gluten",
+        "🌱 Vegan"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1322",
+      "title": "Wrong invalid barcode warning",
+      "stale_for": 98,
+      "labels": [
+        "Products without barcodes"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11233",
+      "title": "Revamp store/location support",
+      "stale_for": 37,
+      "labels": [
+        "📍 location",
+        "🏪 Stores"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11125",
+      "title": "Add ingredients_tags to CSV search output",
+      "stale_for": 137,
+      "labels": [
+        "🔎 Advanced Search",
+        "CSV exports",
+        "🔎 Search"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11077",
+      "title": "Turn Folksonomy Reports of Data Quality issues into visual warnings in the Data Quality knowledge panel",
+      "stale_for": 145,
+      "labels": [
+        "🧽 Data quality",
+        "🎨 Design",
+        "🏷️ Folksonomy Project",
+        "🎨 Needs design"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11071",
+      "title": "parsing ingredients - \"peanut and/or canola and/or cottonseed oil\"",
+      "stale_for": 145,
+      "labels": [
+        "🥗🔍 Ingredients analysis"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11049",
+      "title": "Further exploitation of images",
+      "stale_for": 159,
+      "labels": [
+        "hunger games",
+        "🤖 Robotoff"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11040",
+      "title": "Nutri-Score graphing colours should match the official Nutri-Score colors",
+      "stale_for": 124,
+      "labels": [
+        "📊 graphs",
+        "🚦 Nutri-Score"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11034",
+      "title": "Hunger game subcategories",
+      "stale_for": 162,
+      "labels": [
+        "hunger games",
+        "🤖 Robotoff"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11026",
+      "title": "Pine nuts as Nutriscore nut",
+      "stale_for": 45,
+      "labels": [
+        "🚦Nutri-Score",
+        "🧽  Data quality - Nutrition"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11006",
+      "title": "Outlier detection",
+      "stale_for": 107,
+      "labels": [
+        "✨ Feature",
+        "averages by categories",
+        "🧽 Data quality"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10997",
+      "title": "Quality error: language mismatch",
+      "stale_for": 171,
+      "labels": [
+        "🌍 Multilingual products",
+        "🧽 Data quality",
+        "🧽 Data Quality - Products stored in French"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10990",
+      "title": "Improved Nutri-Score if amount of fiber is missing",
+      "stale_for": 159,
+      "labels": [
+        "averages by categories",
+        "🚦 Nutri-Score"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10986",
+      "title": "Nutri-Score misses fruits etc.",
+      "stale_for": 171,
+      "labels": [
+        "averages by categories",
+        "fruits vegetables nuts estimate",
+        "Fruits & Vegetables"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10985",
+      "title": "Suggest category based on ingredients",
+      "stale_for": 177,
+      "labels": [
+        "🤖 Robotoff"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10876",
+      "title": "The output is incomplete in the Search CSV export (nutrient modifiers removed)",
+      "stale_for": 197,
+      "labels": [
+        "Data export",
+        "CSV exports",
+        "🔎 Search"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10856",
+      "title": "Graphics improvement",
+      "stale_for": 171,
+      "labels": [
+        "averages by categories",
+        "📊 graphs"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10855",
+      "title": "Improve the statistics on the product page (tracker)",
+      "stale_for": 124,
+      "labels": [
+        "averages by categories"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10854",
+      "title": "Extend language support stopgap",
+      "stale_for": 198,
+      "labels": [
+        "🌐 i18n"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10841",
+      "title": "Measure categorisation quality",
+      "stale_for": 203,
+      "labels": [
+        "categories",
+        "🧽 Data quality"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10169",
+      "title": "Add the vegan status of minerals and vitamins",
+      "stale_for": 198,
+      "labels": [
+        "🧬 Taxonomies",
+        "🌱 Vegan"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10060",
+      "title": "Lithuanian ingredients OCR",
+      "stale_for": 198,
+      "labels": [
+        "OCR",
+        "🇱🇹 Lithuania"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10045",
+      "title": "Language selector does not keep the current page but goes to the root of the website",
+      "stale_for": 198,
+      "labels": [
+        "language switcher"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9777",
+      "title": "Monitoring data changes",
+      "stale_for": 198,
+      "labels": [
+        "🧽 Data quality",
+        "Checked products"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9174",
+      "title": "Add the Folksonomy Engine to product edit mode",
+      "stale_for": 198,
+      "labels": [
+        "✏️ Editing",
+        "P2",
+        "📸 Open Products Facts",
+        "🏷️ Folksonomy Project"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9155",
+      "title": "Add support for phenylaniline",
+      "stale_for": 187,
+      "labels": [
+        "🥜 Allergens"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8439",
+      "title": "The olive oil Nutri-Score correction is not applied to all olive oils.",
+      "stale_for": 198,
+      "labels": [
+        "⏰ Stale",
+        "🚦 Nutri-Score"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8344",
+      "title": "Japanese additives parsing",
+      "stale_for": 124,
+      "labels": [
+        "🧪 additives",
+        "⏰ Stale",
+        "🇯🇵 Japan"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8396",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9569"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8395",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9569"
+    }
+  ]
 }

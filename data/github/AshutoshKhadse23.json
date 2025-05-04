@@ -1,6 +1,35 @@
 {
-  "last_updated": "2025-05-03T21:54:30.000Z",
+  "last_updated": "2025-05-04T07:50:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6576",
+      "time": "2025-05-04T07:50:59.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6576#issuecomment-2849065357",
+      "text": "Glad it worked out! Thanks @monsieurtanuki for the review and merge. Will keep the final approach in mind for consistency in future components too."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6576",
+      "time": "2025-05-04T07:12:06.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6576",
+      "text": "fix: dark mode issue in feedback page",
+      "turnaround_time": 68860
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6576",
+      "time": "2025-05-04T06:56:40.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6576#issuecomment-2849046021",
+      "text": "> Hi @AshutoshKhadse23!\r\n> \r\n> I didn't realize that there were _two_ impacted colors: for the `ShapeDecoration` and for the `Icon`. Could you please attach a screenshot?\r\n> \r\n> Instead of repeating values I would have created two finals, but that's another story:\r\n> \r\n> ```dart\r\n> final Color background = lightTheme ? colors.primaryBlack : colors.primaryLight;\r\n> final Color foreground = lightTheme ? Colors.white : colors.primaryDark;\r\n> ```\r\n\r\nBut the color combination of each foreground and background is different somewhere, like:\r\n```\r\nbackgroundColor:\r\n             lightTheme ? colors.primaryBlack : colors.primaryLight,\r\nforegroundColor:\r\n             lightTheme ? Colors.white : colors.primaryDark,\r\n```\r\nAND\r\n```\r\nbackgroundColor:\r\n             lightTheme ? colors.primaryLight : colors.primaryDark,\r\nforegroundColor:\r\n             lightTheme ? colors.primaryDark : colors.primaryLight,\r\n```"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6576",
+      "time": "2025-05-04T06:50:48.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6576#issuecomment-2849043837",
+      "text": "@monsieurtanukil\r\nScreenshot:\r\n<img width=\"361\" alt=\"Screenshot 2025-05-04 at 12 19 24 PM\" src=\"https://github.com/user-attachments/assets/3f243238-6ebe-4572-a692-e6ddc78e29ea\" />\r\n\r\n"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6576",

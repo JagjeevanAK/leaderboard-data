@@ -3072,7 +3072,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11815",
       "title": "CIQUAL to cover processing",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
     },
     {
@@ -3086,7 +3086,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9616",
       "title": "bug: traces are not correctly parsed",
-      "stale_for": 197,
+      "stale_for": 198,
       "labels": [
         "🥗  Ingredients",
         "ingredients analysis",
