@@ -1528,13 +1528,14 @@
     "link": "https://github.com/openfoodfacts/search-a-licious/discussions/286",
     "isAnswered": false,
     "time": "2025-04-07T10:08:00Z",
-    "updateTime": "2025-04-25T11:44:52Z",
+    "updateTime": "2025-05-04T11:11:13Z",
     "category": {
       "name": "Q&A",
       "emoji": "🙏"
     },
     "participants": [
-      "RickWong"
+      "RickWong",
+      "JagjeevanAK"
     ],
     "repository": "search-a-licious"
   },
@@ -1777,5 +1778,24 @@
       "synryn"
     ],
     "repository": ".github"
+  },
+  {
+    "source": "github",
+    "title": "[Feedback requested] Reorg. of the code",
+    "text": "Hi everyone!\r\n\r\nThe code of the project mixes many different concepts: data, transformation, ui, app stuff…\r\nViewing the hierarchy doesn't help to easily and quickly find things:\r\n\r\n![Artboard](https://github.com/user-attachments/assets/17f05592-8707-4bd6-b2f3-64b86d328f25)\r\n\r\nIn red: data-related (DB, transformation, background tasks, queries…)\r\nIn blue: UI-related (mainly screens + widgets)\r\nIn green: app-related (entrypoints + main)\r\n\r\nBefore proposing any change, I would like to know if I'm the only one in the situation of always wondering \"where should I put this, or that?\".\r\nAnd if true, do you have any suggestions to improve this?",
+    "author": "g123k",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/6578",
+    "isAnswered": null,
+    "time": "2024-08-17T00:24:30Z",
+    "updateTime": "2025-05-04T13:07:59Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "teolemon",
+      "M123-dev"
+    ],
+    "repository": "smooth-app"
   }
 ]

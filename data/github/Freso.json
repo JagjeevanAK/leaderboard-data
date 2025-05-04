@@ -747,7 +747,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1498",
       "title": "Link products to country site of shop location",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": []
     },
     {
@@ -761,7 +761,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11572",
       "title": "Unrecognised ingredient (sv): “Rainforest Alliance-certifierad fettreducerat kakaopulver”",
-      "stale_for": 42,
+      "stale_for": 43,
       "labels": [
         "labels",
         "🥗 Ingredients"

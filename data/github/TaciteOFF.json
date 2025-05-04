@@ -109,7 +109,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/797",
       "title": "GDPR import doc improvement",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": []
     },
     {
@@ -152,7 +152,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/issues/30",
       "title": "Stuck in registration (iOS)",
-      "stale_for": 181,
+      "stale_for": 182,
       "labels": [
         "bug",
         "iOS",
@@ -162,7 +162,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-cordova-app/issues/29",
       "title": "Some pictures are rotated 90° (i.e first Nutella result), using the website they're not. (iOS)",
-      "stale_for": 181,
+      "stale_for": 182,
       "labels": [
         "bug",
         "iOS"
@@ -190,7 +190,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/170",
       "title": "Prevention - Limit the number of new product pages without barcodes per IP",
-      "stale_for": 204,
+      "stale_for": 205,
       "labels": [
         "🧽 Data quality",
         "product addition",
@@ -211,7 +211,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/138",
       "title": "Create RSS feeds",
-      "stale_for": 123,
+      "stale_for": 124,
       "labels": [
         "API",
         "export",

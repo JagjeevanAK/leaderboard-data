@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-14T06:38:17Z",
+  "last_updated": "2025-05-04T13:27:08.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11847",
+      "time": "2025-05-04T13:27:08.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11847#issuecomment-2849219909",
+      "text": "Keep in mind that, I have removed some `.DS_Store` files form codebase you will see some unexpected changes in some of the file which I have no intend to change."
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/smooth-app#6551",
@@ -275,6 +282,13 @@
       "text": "fix: Forked repo is some what  outdated need's to be in sync with the original one."
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11770",
+      "title": "Image of Schema of the ingredients flow in get-ingredient-related-analysis.md is missing",
+      "stale_for": 24,
+      "labels": []
+    }
+  ],
   "authored_issue_and_pr": []
 }

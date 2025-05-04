@@ -6133,7 +6133,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11330",
       "title": "Facet mixes food and beauty / products of wrong product type in MongoDB collection",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": [
         "🧴 Open Beauty Facts",
         "OxF"
@@ -6168,7 +6168,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11125",
       "title": "Add ingredients_tags to CSV search output",
-      "stale_for": 137,
+      "stale_for": 138,
       "labels": [
         "🔎 Advanced Search",
         "CSV exports",
@@ -6197,7 +6197,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11049",
       "title": "Further exploitation of images",
-      "stale_for": 159,
+      "stale_for": 160,
       "labels": [
         "hunger games",
         "🤖 Robotoff"
@@ -6233,7 +6233,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11006",
       "title": "Outlier detection",
-      "stale_for": 107,
+      "stale_for": 108,
       "labels": [
         "✨ Feature",
         "averages by categories",
@@ -6253,7 +6253,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10990",
       "title": "Improved Nutri-Score if amount of fiber is missing",
-      "stale_for": 159,
+      "stale_for": 160,
       "labels": [
         "averages by categories",
         "🚦 Nutri-Score"
@@ -6272,7 +6272,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10985",
       "title": "Suggest category based on ingredients",
-      "stale_for": 177,
+      "stale_for": 178,
       "labels": [
         "🤖 Robotoff"
       ]
@@ -6299,7 +6299,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10855",
       "title": "Improve the statistics on the product page (tracker)",
-      "stale_for": 124,
+      "stale_for": 125,
       "labels": [
         "averages by categories"
       ]
@@ -6315,7 +6315,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10841",
       "title": "Measure categorisation quality",
-      "stale_for": 203,
+      "stale_for": 204,
       "labels": [
         "categories",
         "🧽 Data quality"
@@ -6370,7 +6370,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9155",
       "title": "Add support for phenylaniline",
-      "stale_for": 187,
+      "stale_for": 188,
       "labels": [
         "🥜 Allergens"
       ]

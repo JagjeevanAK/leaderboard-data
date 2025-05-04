@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-04T07:50:59.000Z",
+  "last_updated": "2025-05-04T13:44:55.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-04T13:44:55.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2849228456",
+      "text": "@monsieurtanuki,\r\nYou are right !! \r\nSo changed the code according to the concept of OPP Java"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6576",
@@ -133,7 +140,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6575",
       "title": "Search Results Not Updating After Changing Country Without App Restart",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "🔎 Search"
       ]

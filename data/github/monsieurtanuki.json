@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-04T07:12:07.000Z",
+  "last_updated": "2025-05-04T16:05:16.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-03T12:02:02.000Z",
+      "title": "openfoodfacts/smooth-app#6561",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#pullrequestreview-2813210835",
+      "text": "feat: Add infinite scrolling to the various Open Prices ListViews."
+    },
     {
       "type": "issue_closed",
       "title": "openfoodfacts/smooth-app#6571",
@@ -14,13 +21,6 @@
       "title": "openfoodfacts/smooth-app#6576",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6576#pullrequestreview-2813232118",
       "text": "fix: dark mode issue in feedback page"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-05-03T12:02:02.000Z",
-      "title": "openfoodfacts/smooth-app#6561",
-      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#pullrequestreview-2813210835",
-      "text": "feat: Add infinite scrolling to the various Open Prices ListViews."
     },
     {
       "type": "comment_created",
@@ -13792,7 +13792,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6544",
       "title": "\"Soygate\", or should we warn the user when prices change",
-      "stale_for": 21,
+      "stale_for": 22,
       "labels": [
         ":star: top issue",
         "Prices",
@@ -13802,7 +13802,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6543",
       "title": "Confusion about IMPORTANT and VERY_IMPORTANT levels",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": [
         "⚙️🥗 Food preferences"
       ]
@@ -13810,7 +13810,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11745",
       "title": "/cgi/search.pl: no image for ingredients, nutrition and packaging",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": [
         "🖼️ Images"
       ]
@@ -13824,21 +13824,21 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1053",
       "title": "Edit \"allergenic substances\"",
-      "stale_for": 35,
+      "stale_for": 36,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6490",
       "title": "Exotic and inconsistent language selection",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": [
         "🎨 UI / UX"
       ]
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6487",
-      "title": "Last list items not visible on Android",
-      "stale_for": 36,
+      "title": "Prices screen: Last list items not visible on Android",
+      "stale_for": 0,
       "labels": [
         "good first issue",
         "🎨 UI / UX",
@@ -13857,7 +13857,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1306",
       "title": "Use store specific advertisement",
-      "stale_for": 102,
+      "stale_for": 103,
       "labels": []
     },
     {
@@ -13897,7 +13897,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5982",
       "title": "Support \"online\" stores for Prices",
-      "stale_for": 153,
+      "stale_for": 154,
       "labels": [
         "Prices"
       ]
@@ -13913,7 +13913,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5861",
       "title": "Folksonomy + refresh, offline, background tasks",
-      "stale_for": 119,
+      "stale_for": 120,
       "labels": [
         "folksonomy engine",
         "P2",
@@ -13951,7 +13951,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/906",
       "title": "Know when to suggest \"% DV\" and \"IU\" as unit",
-      "stale_for": 203,
+      "stale_for": 204,
       "labels": [
         "✏️ Editing - Nutrition input"
       ]
@@ -13959,7 +13959,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/905",
       "title": "Add \"% DV\" and \"IU\" as unit",
-      "stale_for": 203,
+      "stale_for": 204,
       "labels": [
         "✏️ Editing - Nutrition input"
       ]
@@ -13985,7 +13985,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5046",
       "title": "Autocomplete: new Elastic Search or old tag type?",
-      "stale_for": 183,
+      "stale_for": 184,
       "labels": [
         "discussion",
         "🔎 Search",
@@ -13995,7 +13995,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/862",
       "title": "Missing nutrients (e.g. Polyols)",
-      "stale_for": 203,
+      "stale_for": 204,
       "labels": [
         "nutrients"
       ]
@@ -14012,7 +14012,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/4889",
       "title": "Display square simplified nutriscore/green-score widgets on product page",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "🥫 Product page",
         "🚥 Nutri-Score",
@@ -14022,7 +14022,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/4888",
       "title": "Add step for selecting KP before reordering them",
-      "stale_for": 188,
+      "stale_for": 189,
       "labels": [
         "📖 Knowledge panels",
         "📖 Knowledge panels - Local overrides"

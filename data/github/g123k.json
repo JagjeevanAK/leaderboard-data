@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-05-03T20:00:49.000Z",
+  "last_updated": "2025-05-04T15:40:48.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-04T15:40:48.000Z",
+      "title": "openfoodfacts/smooth-app#6509",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6509#pullrequestreview-2813499378",
+      "text": "fix : UI padding for better layout"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6579",
+      "time": "2025-05-04T15:17:18.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6579",
+      "text": "feat: Improvements for Robotoff questions in Edit mode "
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/smooth-app#3420",
+      "time": "2025-05-04T12:05:42.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/3420",
+      "text": "Refine the App rating flow"
+    },
     {
       "type": "issue_closed",
       "title": "openfoodfacts/smooth-app#3870",
@@ -11460,7 +11481,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6474",
       "title": "Personal (compatibility) score in user lists",
-      "stale_for": 34,
+      "stale_for": 35,
       "labels": [
         "good first issue",
         "food preferences",
@@ -11497,7 +11518,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6368",
       "title": "Enable Predictive back gesture on Android",
-      "stale_for": 82,
+      "stale_for": 83,
       "labels": [
         "Android",
         "blocked on flutter"
@@ -11512,7 +11533,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11322",
       "title": "If the serving size is incorrect, the KP should provide a better explanation",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "🎯 P1",
         "📖 Knowledge Panels",
@@ -11524,7 +11545,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1346",
       "title": "Error with HEIC files",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": [
         "📷 Proofs"
       ]
@@ -11563,7 +11584,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6159",
       "title": "Monolingual product?",
-      "stale_for": 93,
+      "stale_for": 94,
       "labels": []
     },
     {
@@ -11577,7 +11598,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6145",
       "title": "Revamp 'About the app' dialog -> Screen",
-      "stale_for": 116,
+      "stale_for": 117,
       "labels": [
         "⚙️ Settings",
         "About this app"
@@ -11586,7 +11607,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6083",
       "title": "NutriScore v2 positive/negative points are barely readable",
-      "stale_for": 117,
+      "stale_for": 118,
       "labels": [
         "📖 Knowledge panels",
         "🚥 Nutri-Score",
@@ -11606,7 +11627,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1015",
       "title": "Implement the API to change the default language of a product",
-      "stale_for": 120,
+      "stale_for": 121,
       "labels": []
     },
     {
@@ -11628,7 +11649,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11045",
       "title": "Rotation issue with some images?",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": [
         "✏️ Editing - image edition",
         "Photo rotation"
@@ -11637,7 +11658,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11044",
       "title": "Crash when deleted images are selected  / cropped",
-      "stale_for": 31,
+      "stale_for": 32,
       "labels": [
         "🖼️ Image upload",
         "🤳🥫 blocking mobile apps"
@@ -11646,7 +11667,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5927",
       "title": "Product addition wizard: implement the new design",
-      "stale_for": 29,
+      "stale_for": 30,
       "labels": [
         "Product addition",
         "🎨 Mockup required",
@@ -11656,7 +11677,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5868",
       "title": "Not enough contrast for dialogs in dark mode",
-      "stale_for": 167,
+      "stale_for": 168,
       "labels": [
         "darkmode",
         "modals"
@@ -11665,7 +11686,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5820",
       "title": "Edit mode: highlight incomplete fields",
-      "stale_for": 39,
+      "stale_for": 40,
       "labels": [
         "✏️ Editing"
       ]
@@ -11682,7 +11703,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5817",
       "title": "Revamp the search results",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": [
         "🎯 P1",
         "🔎 Search",
@@ -11692,7 +11713,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5814",
       "title": "Product page: tab \"Data\"",
-      "stale_for": 42,
+      "stale_for": 43,
       "labels": [
         "🥫 Product page",
         "✨ 2024 the big redesign"
