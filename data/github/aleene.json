@@ -6206,7 +6206,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11040",
       "title": "Nutri-Score graphing colours should match the official Nutri-Score colors",
-      "stale_for": 124,
+      "stale_for": 125,
       "labels": [
         "📊 graphs",
         "🚦 Nutri-Score"
@@ -6215,7 +6215,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11034",
       "title": "Hunger game subcategories",
-      "stale_for": 162,
+      "stale_for": 163,
       "labels": [
         "hunger games",
         "🤖 Robotoff"
@@ -6387,7 +6387,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8344",
       "title": "Japanese additives parsing",
-      "stale_for": 124,
+      "stale_for": 125,
       "labels": [
         "🧪 additives",
         "⏰ Stale",

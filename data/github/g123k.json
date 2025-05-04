@@ -11444,7 +11444,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6523",
       "title": "`iso_countries` plugin must be replaced",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": [
         "good first issue"
       ]
@@ -11452,7 +11452,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11672",
       "title": "Most scanned product homepage is broken",
-      "stale_for": 31,
+      "stale_for": 32,
       "labels": [
         "scan statistics"
       ]

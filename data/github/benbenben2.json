@@ -3078,7 +3078,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/292",
       "title": "api.facet.get returns single page",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": [
         "Facets"
       ]

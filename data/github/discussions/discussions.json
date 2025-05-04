@@ -17,5 +17,1765 @@
       "CloCkWeRX"
     ],
     "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Robotoff for the Folksonomy Engine",
+    "text": "### Potential Use-Cases\r\n- Predicting folksonomy engine properties that exist based on product data\r\n- Proposing folksonomy engine properties that do not exist yet, based on product data\r\n- Generate documentation for the property, have the user validate it, and after validation, create the property in the wiki if it does not exist",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-ai/discussions/369",
+    "isAnswered": false,
+    "time": "2024-12-28T09:07:50Z",
+    "updateTime": "2024-12-28T10:01:45Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "baslia"
+    ],
+    "repository": "openfoodfacts-ai"
+  },
+  {
+    "source": "github",
+    "title": "GSoC 2025 Proposal – Enhancing Price Features in the Mobile App",
+    "text": "Hi Open Food Facts community,\n\nI’m Dayyan Chaudhri, and I’ve submitted a proposal for Google Summer of Code 2025 focused on porting and enhancing the Open Prices features in the Open Food Facts mobile app. While the current app supports basic price contributions, my goal is to expand this into a more user-friendly, trustworthy, and impactful feature that benefits shoppers in real time.\n\nKey features I hope to implement include:\n\t•\tPrice contribution improvements (price validation, image uploading, location-based store recommendations)\n\t•\tVisual price graphs and multi-store comparisons\n\t•\tCredibility tools like price flagging, voting, and consistency checks\n\t•\tOffline syncing for smoother contribution workflows\n\nI believe this project can significantly improve accessibility to pricing data, especially in communities where the price of an item can significantly impact a whole family. If you have any feedback or ideas, I would love to hear from you. I am all about making the best contributions I can!\n\nWhile this is what I have proposed, I am more than open to shifting and adapting my approach.\n\nBest,\nDayyan Chaudhri",
+    "author": "Dayyanmc",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/6539",
+    "isAnswered": null,
+    "time": "2025-04-09T17:44:47Z",
+    "updateTime": "2025-04-09T17:55:55Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "How about adding shortcut to add editing sections as options that you can add to the navbar ?",
+    "text": "How about adding shortcut to add editing sections as options that you can add to the navbar ?\r\n- basic info, photos, ingredients, categories, nutrition, labels, packaging, stores, origins, traceability codes, countries\r\n\r\nWDYT ?",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/6529",
+    "isAnswered": false,
+    "time": "2025-04-07T11:57:22Z",
+    "updateTime": "2025-04-07T11:57:23Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Planning for the next release",
+    "text": "Hi everyone!\r\n\r\nWe plan to release a new version of the application at the end of next week.\r\n\r\n🚀 Mandatory features for the next release:\r\n- #6449 \r\n- #6412 \r\n\r\n😏 Nice to have:\r\n- #6356 \r\n- #5814 \r\n\r\nPlease comment if you think that some features should also land in this release.\r\n\r\ncc @openfoodfacts/open-food-facts-mobile-team ",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/6450",
+    "isAnswered": null,
+    "time": "2025-03-14T15:06:34Z",
+    "updateTime": "2025-03-14T15:48:14Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "monsieurtanuki"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Next release: 4.19.0",
+    "text": "Hi everyone!\r\n\r\nWe plan to release a new version of the application at the end of next week (12 -> 14/02).\r\n\r\n🚀 Mandatory features for the next release:\r\n- Implementation of the attributes icons for the product page/food preferences/lists (🙋‍♂️ @g123k)\r\n- Revamp the first two screens of the product addition (🙋‍♂️ @g123k)\r\n- Bring back the app review on the homepage (🙋‍♂️ @g123k)\r\n- Nutripatrol for pictures (🙋‍♂️ @Valimp)\r\n\r\n😏 Nice to have:\r\n- Import/export of lists (🙋‍♂️ @PrimaelQuemerais)\r\n\r\nPlease comment if you think that some features should also land in this release.\r\n\r\ncc @openfoodfacts/open-food-facts-mobile-team ",
+    "author": "g123k",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/6330",
+    "isAnswered": null,
+    "time": "2025-02-03T14:55:09Z",
+    "updateTime": "2025-02-11T19:07:36Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "teolemon",
+      "g123k"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "📢 User feedback",
+    "text": "In addition to the ❤️ [Love Letters](https://github.com/openfoodfacts/smooth-app/discussions/3457), here's a thread for more nuanced User Feedbacks",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/5583",
+    "isAnswered": null,
+    "time": "2024-09-11T08:26:30Z",
+    "updateTime": "2025-01-29T06:04:42Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "teolemon",
+      "teolemon",
+      "github-throwaway",
+      "github-throwaway",
+      "github-throwaway",
+      "github-throwaway"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Food icons in the app",
+    "text": "In the app, we will add icons to better understand food preferences (e.g.: allergens, salt, additives…). \r\nIf you have a few minutes, please fill out this form to share your thoughts on each icon.\r\n\r\nhttps://forms.gle/j9WvMyizfZaRDYhdA\r\n\r\n@openfoodfacts/open-food-facts-mobile-team ",
+    "author": "g123k",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/6254",
+    "isAnswered": null,
+    "time": "2025-01-20T14:44:49Z",
+    "updateTime": "2025-02-03T14:48:16Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Roadmap for the upcoming weeks (november/december 2024)",
+    "text": "Hi everyone!\r\n\r\nHere are the next releases we plan for the app.\r\n\r\n## 4.17.0 \r\n🚀 Release date: [04/12/2024](https://github.com/openfoodfacts/smooth-app/releases/tag/v4.17.0) + [a fix](https://github.com/openfoodfacts/smooth-app/compare/v4.17.0...v4.17.1)\r\n\r\n## 4.18.0 \r\n📅 Release date: delayed to January\r\n\r\n🧑‍🏭 Features in development:\r\n- Minor UI improvements \r\n\r\n## 4.19.0 \r\n📅 Release date: -\r\n\r\n🧑‍🏭 Features:\r\n- Improvements in product addition\n- Homepage from the POC\r\n- Onboarding from the POC (maybe delayed due to Apple)\r\n- New system for food preferences (boolean)\r\n- Tabs on the product page\r\n- Simplified health/environment KPs\r\n- Nutripatrol in the app (flag products & images)\r\n\r\n(cc @monsieurtanuki @teolemon @Valimp)",
+    "author": "g123k",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/5853",
+    "isAnswered": null,
+    "time": "2024-11-14T08:28:11Z",
+    "updateTime": "2025-01-18T23:36:05Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "g123k",
+      "g123k"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Happy new year 🎉",
+    "text": "Happy new year everyone 🎉 \r\nWishing you all the best for 2025 @openfoodfacts/open-food-facts-mobile-team :-)\r\n\r\nhttps://github.com/user-attachments/assets/7235beae-624f-418b-9f54-55e2141fdc88\r\n\r\n",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/6099",
+    "isAnswered": null,
+    "time": "2025-01-01T17:06:47Z",
+    "updateTime": "2025-01-01T17:07:22Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "24 days of Features",
+    "text": "🎉 Day 1️⃣ of the Open Food Facts Feature Calendar: Open Products Facts 🎁\r\n\r\nDiscover the world of products beyond food with Open Products Facts, the app that helps you make circular choices at every step of the life of your products. 🔎\r\n\r\n#OpenFoodFacts #OpenProductsFacts\r\n\r\n<img src=\"https://github.com/user-attachments/assets/b2cf8531-8e50-402b-8158-ca3f41d83f29\" height=\"400px\"> \r\n<img src=\"https://github.com/user-attachments/assets/1eb5f097-21a6-40e3-9541-decf7dc846e1\" height=\"400px\"> \r\n<img src=\"https://github.com/user-attachments/assets/a73e4b61-9cc6-4caf-af75-dc49574e02c9\" height=\"400px\"> \r\n<img src=\"https://github.com/user-attachments/assets/c2363d23-7124-41e7-a3e8-0ad72cc9ae81\" height=\"400px\"> \r\n",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/6052",
+    "isAnswered": null,
+    "time": "2024-12-14T09:22:49Z",
+    "updateTime": "2024-12-28T10:18:17Z",
+    "category": {
+      "name": "Show and tell",
+      "emoji": "🙌"
+    },
+    "participants": [
+      "teolemon"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Towards a \"Follow us on social media\" page ?",
+    "text": "Given the balkanisation of social media those days, let's add our Mastodon/Threads/Bluesky/Youtube accounts, and create a separate \"Follow us on social media\" page that we'll turn into a Guide-like page in the future\r\nWDYT ?",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/5989",
+    "isAnswered": false,
+    "time": "2024-12-01T16:00:08Z",
+    "updateTime": "2024-12-01T16:00:09Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "We can probably remove the OxF promo or repurpose them.",
+    "text": "- We can probably remove the OxF promo or repurpose them. \r\n\r\n### Possibilities\r\n- It could be related to the onboardings we will add for each project\r\n- We could for instance replace to links to the coordination wikipage of the website. If we do that, we could add the Open Food Facts icon to put it on equal footing\r\n- Something else ?\r\n\r\n\r\n\r\n![Image](https://github.com/user-attachments/assets/4b9bff8c-75aa-438e-ade6-8e4eda4fdaa5)\r\n",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/5985",
+    "isAnswered": false,
+    "time": "2024-12-01T13:50:11Z",
+    "updateTime": "2024-12-01T13:50:12Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Using notifications for relevant things",
+    "text": "A few ideas (more or less good, heuristics, and landing need to be precised and mockedup)\r\n- [ ] Send an in-app notification on signup from app with no scan (with landing on an in-app content page)\r\n- [ ] Send an in-app notification on signup from app with no edition (with landing on an in-app content page)\r\n- [ ] Send an in-app notification on signup from app with no addition (with landing on an in-app content page)\r\n- [ ] Send an in-app notification on signup from app with cosmetic scans/petfood scans/other scans (with landing on an in-app content page)\r\n- [ ] Send an in-app notification on signup from app with cosmetic scans/petfood scans/other additions (with landing on an in-app content page)\r\n- [ ] Send an in-app notification on donation campaign start (with landing on an in-app content page/donation form)\r\n- [ ] Send an in-app notification on a New donation, saying thank you\r\n- [ ] Send an  in-app notification on a New recurring donation, saying thank you in various ways based on the month or the year\r\n- [ ] Send an in-app notification to Users who have contributed at least twice in the last month\r\n- [ ] Send an in-app notification to Users who are part of teams (on weekly/monthly team meetings)\r\n- [ ] Send an in-app notification to Users who are not part of teams (with an option to join a team)\r\n- [ ] Send an in-app notification to Users who scanned a product without Nutri-Score or NOVA or Ingredient status without doing anything ( with landing on an in-app content page, explaining the collaborative nature of OFF, and the 2 min promise for scores)\r\n- [ ] Send an in-app notification to users who scanned a product that now has a grade (landing on the product, with some animation/sparkles)\r\n- [ ] ",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/5692",
+    "isAnswered": false,
+    "time": "2024-10-12T11:23:48Z",
+    "updateTime": "2024-10-12T11:23:48Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Preview of Open Products Facts from DEV mode",
+    "text": "@monsieurtanuki @g123k @M123-dev @AshAman999 \r\nPreview of Open Products Facts from DEV mode, you need to enable dev URL, and then new.openproductsfacts.org as root URL.\r\nYou have a Carbon footprint, and a 2nd hand panel (experimental, we added 2 options with loads of inventory from https://wiki.openfoodfacts.org/Object_donation_websites to make the demo convincing)\r\n![image](https://github.com/user-attachments/assets/f77c550b-cb99-49c1-9cbd-f3bc275bb331)\r\n",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/5571",
+    "isAnswered": null,
+    "time": "2024-09-06T16:58:54Z",
+    "updateTime": "2024-10-07T16:36:03Z",
+    "category": {
+      "name": "Show and tell",
+      "emoji": "🙌"
+    },
+    "participants": [
+      "teolemon"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "(Proposal) Compatibility with Open Beauty Facts and others",
+    "text": "### What\r\nThis is an early proposal to establish compatibility with Open Beauty Facts and others, at the most minimal cost possible.\r\n\r\n#### Phase 0: establishing a feedback loop by deploying clones to internal\r\n- [ ] #3923\r\n- [ ] Add icons and visuals for all variants to the source code\r\n\r\n#### Phase 0.5: ensuring the Dart package behaves well\r\n- Ensure that when the base URL is on openproductsfacts.org we don't crash on lacking nutrition, ingredients… (that shouldn't actually be an issue)\r\n\r\n#### Phase 1: tweaking core behaviours based on a forced project type\r\n- [ ] Add a DEV mode switch to return a force project type for all products for testing/development purposes ( \"off\", \"obf\", \"opf\" and \"opff\")\r\n- [ ] Override Open Food Facts mentions by Open X Facts based on project type\r\n- [ ] Change the base URL based on the DEV mode project type\r\n\r\n#### Phase 2: tweaking the UI to handle multiple project type at the same time\r\n- [ ] Database migration to add a project type to all current products in the local database (\"off\")\r\n- [ ] Add a project switcher to history (based on project type \"off\", \"obf\", \"opf\" and \"opff\")\r\n- [ ] Add a project switcher to search (and store the type on each product opened \"off\", \"obf\", \"opf\" and \"opff\", and for any search we store locally)\r\n- [ ] Add a project switcher to scan (and store the type on each product scanned \"off\", \"obf\", \"opf\" and \"opff\")\r\n- [ ] Add a project switcher to Food Settings (we might want to disable customization completely for other projects, since there's no much value to bring to the users, and to save time)\r\n- [ ] We probably do not need to add anything to lists (as they can potentially contain items from any project)\r\n- [ ] Search results / ListView\r\n  - [ ] Disable Eco-Score and Nutri-Score display if project != off\r\n\r\n- [ ] Make local Open Food Facts specific behavior conditional to the product type\r\n  - [ ] This can be done over time\r\n- [ ] Strings\r\n  - [ ] Add overrides to strings (let's avoid editing existing strings to avoid loosing translations)\r\n- https://github.com/openfoodfacts/smooth-app/issues/4540\r\n\r\n  - [ ] Compare to category should invoke the right search type, in line with the product type\r\n  - [ ] Links to promotional content or to the user's profile should not be changed. Not enough value, and we can potentially add shortcut or additional paragraphs on the web-side\r\n  - [ ] Add Period after Opening support for obf\r\n\r\n### Mockup \r\n![image](https://user-images.githubusercontent.com/1689815/178763126-6713a6bf-d2e8-4a2d-b979-270f4dca1566.png)\r\n",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/1378",
+    "isAnswered": false,
+    "time": "2022-03-29T08:04:46Z",
+    "updateTime": "2024-09-03T07:32:09Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "VaiTon",
+      "teolemon",
+      "monsieurtanuki",
+      "teolemon"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "\"Need To improve flow and layout of some Pages\" (Frontend Improvement)",
+    "text": "Here are some suggestions to improve the user experience based on the identified frontend bugs:\r\n\r\n### **1) Aligning Icons and Text:  (This are minute details but important)**\r\n\r\n- Some icons are not properly cantered with respect to text.\r\n\r\n![image](https://github.com/user-attachments/assets/302d75c8-ab96-4af8-b289-5e888931188a)\r\n_See Create Button and + icon alignment_ \r\n\r\n### **2) Improving Page Flow: (Current layout is bit confusing)**\r\n\r\n- We should maintain a clear and logical separation of different sections on the item details page to make it more user-friendly and easier to navigate. Important info should be highlighted at the starting of the section which are useful for normal user.\r\n\r\n![image](https://github.com/user-attachments/assets/5464117a-8e0f-4d04-b8c6-688c3f7226fb)\r\n_This page has too much information in small section which will confuse the user and led to less screen time._\r\n\r\n### **3) Enhancing Home Page:**\r\n\r\n- Consider removing the automatic opening of the scanner, which currently occupies half of the screen on the front page. This can make the front page more engaging.\r\n- Instead we can integrate a scanner button within the search bar, allowing users to click and open the scanner only when needed. (Just like google has image search).\r\nSo that in this remaining space we can display previous searches by the user or some top searches.\r\n\r\n![image](https://github.com/user-attachments/assets/6a3b24af-0d64-4796-bd09-26a15184e631)\r\n\r\n\r\n\r\n  ",
+    "author": "Utsav-patell",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/5517",
+    "isAnswered": null,
+    "time": "2024-07-31T14:34:19Z",
+    "updateTime": "2024-08-16T16:49:11Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "M123-dev"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Slow performance getting data from server",
+    "text": "Hi, I hope I'm in the right position here for my question concering poor app performance getting data from the server.\r\nI just scanned a code finding a new product and adding it. It worked as expected. After finishing I wanted to scan another code, but getting the data from the server was just impossible. After scanning and seeing the code on the screen, but it stuck loading ending in the message \"information about this product could not be loaded cause of network error\" (freely translated from German).\r\nI had the same problem some weeks ago, there just end using the app in this moment cause indefinitly waiting for an anwer (and not getting one) is just frustrating.\r\nSo what's the problem? Is it a server/API thing? Or network? Or device? Personally I think its more the first or second cause every other app just works as expected while switch and check.\r\nMy version 4.13.1 on Android 12",
+    "author": "Showmaster3000",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/5439",
+    "isAnswered": false,
+    "time": "2024-06-24T12:11:29Z",
+    "updateTime": "2024-07-29T07:27:51Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "M123-dev"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "A nice little media surprise in the few days",
+    "text": "@monsieurtanuki @M123-dev @g123k just a little teaser/xmas present: the app is going to be featured in a major TV outlet (NOT French) in a few days :-)\r\n",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/4932",
+    "isAnswered": null,
+    "time": "2023-12-29T08:03:16Z",
+    "updateTime": "2024-10-07T16:59:14Z",
+    "category": {
+      "name": "Show and tell",
+      "emoji": "🙌"
+    },
+    "participants": [
+      "teolemon"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Agenda for Thursday's Weekly Meeting",
+    "text": "[Weekly Agenda](https://docs.google.com/document/d/1MGQqMV7M4JTjFcRsiRvMZ8bnmd9vJWdSyRR3wJHUBMk/edit): please add the Agenda items as early as you can. Make sure to check the Agenda items in advance of the meeting, so that we have the most informed discussions possible, leading to argumented decisions.\r\nThe meeting will handle Agenda items first, and if time permits, collaborative bug triage.\r\nWe strive to timebox the core of the meeting (decision making) to 30 minutes, with an optional free discussion/live debugging afterwards.\r\nWe take comprehensive notes in the Weekly Agenda of agenda item discussions and of decisions taken.\r\nWe e-meet Thursdays at 17:30 Paris Time (16:30 London Time, 22:00 IST, 08:30 AM PT)\r\nVideo call link: https://meet.google.com/gnp-frks-esc\r\nJoin by phone: https://tel.meet/gnp-frks-esc?pin=1110549945262\r\nAdd the Event to your Calendar by [adding the Open Food Facts community calendar to your calendar](https://wiki.openfoodfacts.org/Events)",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/3391",
+    "isAnswered": null,
+    "time": "2022-11-30T19:34:07Z",
+    "updateTime": "2024-10-07T16:58:29Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "teolemon"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Define the scope of offline data",
+    "text": "### What\r\n\r\n- On the old iOS version, we stored: product name, brand, nutriscore, nova, ecoscore for every product we have in the db.\r\n- Define the scope of offline data for the new version, keeping in mind that we should probably let the user decide, with a sane default\r\n\r\n\r\nPer @AshAman999 's computation in #2447\r\n### All 2,4M barcodes\r\n```\r\nMy estimates were kinda same here as well(17mb) I thought of,\r\nBesides https://fr.openfoodfacts.org/api/v2/search?fields=code&page_size=100 I\r\n```\r\n\r\n- [ ] Create a server side solution to dump all barcodes\r\n\r\n### Products (everything including KP, compressed)\r\n```\r\nAround 7 kb for each product\r\n75Mb for 10k products\r\n750 Mb for 100k products\r\n```\r\n### Images\r\n```\r\nhttps://images.openfoodfacts.org/images/products/335/003/014/4593/front_fr.24.100.jpg\r\nhttps://images.openfoodfacts.org/images/products/335/003/014/4593/front_fr.24.full.jpg\r\n```\r\n107MB for 10k (front image)\r\nhttps://squoosh.app/editor\r\n\r\n\r\n### Part of\r\n- #2446 ",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/5492",
+    "isAnswered": false,
+    "time": "2022-06-30T20:00:10Z",
+    "updateTime": "2024-07-19T11:54:58Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "monsieurtanuki",
+      "monsieurtanuki",
+      "teolemon",
+      "monsieurtanuki",
+      "teolemon"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Personal Ranking",
+    "text": "Let's make the personal ranking the flagship feature of Smoothie.\r\n\r\nOne way to emphasize it would be to create a catchy mechanics specific to Smoothie. For instance a two finger swipe down on any list screen could show the personal ranking while a two fingers swipe up dismisses it.\r\n\r\nIn terms of usability of the current implementation, the only concern is the navigation tabs to scroll between sections. This could be replaced by a floating navigation button on the right side of the screen that is more accessible in a one handed scenario.\r\n\r\nDiscussion :\r\n- Is the Personal Ranking feature ready to be placed as the flagship? Accuracy wise\r\n- How to emphasize the feature?",
+    "author": "PrimaelQuemerais",
+    "link": "https://github.com/openfoodfacts/smooth-app/discussions/396",
+    "isAnswered": null,
+    "time": "2021-05-25T10:28:05Z",
+    "updateTime": "2025-03-17T10:44:17Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "M123-dev"
+    ],
+    "repository": "smooth-app"
+  },
+  {
+    "source": "github",
+    "title": "Integrate the MCP protocol to get Open Food Facts ready for the agentic era of LLMs",
+    "text": "- Integrate the MCP protocol to get Open Food Facts ready for the agentic era of LLMs\r\n- https://x.com/sundarpichai/status/1906484930957193255\r\n- https://modelcontextprotocol.io/introduction",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions/11725",
+    "isAnswered": null,
+    "time": "2025-04-01T18:06:37Z",
+    "updateTime": "2025-04-28T17:41:57Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "JagjeevanAK"
+    ],
+    "repository": "openfoodfacts-server"
+  },
+  {
+    "source": "github",
+    "title": "How to manage contents with a CMS and get translations done",
+    "text": "We want contents on Open Food Facts to be updated more quickly and to be more attractive.\r\nFor that we need a tool that enables content creators to do it easily. We still need contents to be massively translated.\r\n\r\n@4nt0ineB [has done a work to have contents for open food facts in wordpress](https://github.com/openfoodfacts/openfoodfacts-server/pull/10992).\r\nThe plan was to use WPML with Crowdin to translate the contents.\r\nBut as we tested it, it does not fit our needs:\r\n- it creates completely new file on each article modification\r\n- it does not handle already translated items, and partial translations…\r\n\r\nWe want to explore further more what to do.\r\n\r\nPossible ideas:\r\n* don't use crowdin, and use wordpress for translations, managing users and so on (wikimedia does this)\r\n* use a static site generator, and handle translations with github / crowdin\r\n* dump html contents from wordpress and handle translations with github / crowdin",
+    "author": "alexgarel",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions/11194",
+    "isAnswered": null,
+    "time": "2025-01-06T11:10:25Z",
+    "updateTime": "2025-04-17T12:41:25Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "alexgarel",
+      "CharlesNepote",
+      "alexgarel",
+      "rpowis",
+      "alexgarel",
+      "rpowis"
+    ],
+    "repository": "openfoodfacts-server"
+  },
+  {
+    "source": "github",
+    "title": "GSoC 2025: Smart Dashboard & Tagging System – First Working UI (Draft PR)",
+    "text": "Hi mentors ,\r\n\r\nAs part of my GSoC 2025 proposal: **\"Smart Dashboard & Tagging System\"**, I’ve implemented a basic UI to search food items using the Open Food Facts API.\r\nFeatures:\r\n- Search form with input\r\n- Displays product name, brand, category, and image\r\n- Shows top 5 matching results\r\n\r\n🔗 Draft PR: [#1 – Add working UI to search food items](https://github.com/22404sonalmishra/open-food-facts-explorer/pull/1)\r\n\r\nFeedback, suggestions, and improvements are very welcome! \r\n\r\nThanks,  \r\nSonal Mishra\r\n",
+    "author": "22404sonalmishra",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions/11777",
+    "isAnswered": null,
+    "time": "2025-04-12T07:40:19Z",
+    "updateTime": "2025-04-12T07:40:20Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [],
+    "repository": "openfoodfacts-server"
+  },
+  {
+    "source": "github",
+    "title": "Authentication process uses a browser alert",
+    "text": "While trying to add an automated test use case for logging into the \"https://fr.openfoodfacts.net\" website, I encountered an issue with authentication. The selector element (id) is not accessible because the authentication process uses a browser alert (native popup).\r\n\r\nTo properly automate the login process, it would be better to replace this alert with a web-based authentication form. This would allow automated tests to interact with the login fields and perform validations more easily.\r\n\r\nThank you in advance for your feedback on this suggestion.",
+    "author": "NejmaCHAABANI",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions/11676",
+    "isAnswered": false,
+    "time": "2025-03-26T10:00:05Z",
+    "updateTime": "2025-03-26T13:38:37Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "hangy"
+    ],
+    "repository": "openfoodfacts-server"
+  },
+  {
+    "source": "github",
+    "title": "Add a user mail / notifications / messages system",
+    "text": "\nIt would be very useful to have an internal user notification and/or messenging system, that we could use to:\n\n### Why \n1. welcome users\n2. send automated messages (e.g. to thank them when they complete a mission, when someone edits a product they are watching etc.)\n3. possibly for admins to message users individually\n4. and also possibly to allow users to message one another (which would open a new can of worms, but at least we could consider the technical feasibility even if we don't enable it at first).\n\nI actually need this feature for the platform for producers, so that they can get notified when an import they are doing is finished, or when someone corrects data that they supplied.\n\nI'm guessing there are hundreds of notification systems that we could use and plug into instead of recoding a new one in Perl. ;) Any suggestions?\n\nIdeally users would be able to select their preferences to get updates by email, see them on the site, via mobile notification etc. \n### Related to\n- https://github.com/openfoodfacts/smooth-app/discussions/5692\n### Part of\n- #5516\n- #5730",
+    "author": "stephanegigandet",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions/11634",
+    "isAnswered": null,
+    "time": "2019-11-05T14:27:37Z",
+    "updateTime": "2025-03-18T16:39:55Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "CharlesNepote",
+      "M123-dev",
+      "manon-corneille",
+      "alexgarel",
+      "JagjeevanAK"
+    ],
+    "repository": "openfoodfacts-server"
+  },
+  {
+    "source": "github",
+    "title": "Do we need to build JS assets to lint a taxonomy ?",
+    "text": "- Can we make the build process more modular, notably:\r\n### Not rebuilding zxing and tar from scratch\r\n#13 1.003 + cmake --build zxing-cpp.release -j8\r\n#13 1.062 Scanning dependencies of target ZXing\r\n#13 1.078 [  1%] Building CXX object core/CMakeFiles/ZXing.dir/src/BitMatrixIO.cpp.o\r\n#13 1.084 [  2%] Building CXX object core/CMakeFiles/ZXing.dir/src/BitArray.cpp.o\r\n\r\n### Not compiling CSS and JS assets\r\n\r\n### Installing gnumeric-common\r\n(Probably useful for the platform and for Desktop gnumeric users, but not so much to lint a taxonomy)\r\n\r\n### Dispensing with repeated error msgs\r\n#18 130.8 /bin/tar: Ignoring unknown extended header keyword 'LIBARCHIVE.xattr.com.apple.provenance' ",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions/11405",
+    "isAnswered": false,
+    "time": "2025-02-13T19:38:27Z",
+    "updateTime": "2025-02-26T17:13:29Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "alexgarel"
+    ],
+    "repository": "openfoodfacts-server"
+  },
+  {
+    "source": "github",
+    "title": "What should we do of the in-context translation system ?",
+    "text": "What should we do of the in-context translation system ?\r\n- Recommit to it, and do manually (or automatically each week) PRs ?\r\n- Make it use Taxonomy Editor API ?\r\n![image](https://github.com/user-attachments/assets/4d360e3c-34db-417e-b2ea-a9e19dfed6a3)\r\n\r\nhttps://world-de.openfoodfacts.org/labels?translate=add\r\n\r\ncc @alexgarel ",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions/10642",
+    "isAnswered": false,
+    "time": "2024-08-05T10:37:25Z",
+    "updateTime": "2024-08-08T10:51:20Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "alexgarel"
+    ],
+    "repository": "openfoodfacts-server"
+  },
+  {
+    "source": "github",
+    "title": "Mastodon account for this project",
+    "text": "Would a Mastodon account for this project be possible?",
+    "author": "linux-lukas",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions/6027",
+    "isAnswered": null,
+    "time": "2021-10-22T09:18:28Z",
+    "updateTime": "2024-06-20T07:54:14Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "VaiTon"
+    ],
+    "repository": "openfoodfacts-server"
+  },
+  {
+    "source": "github",
+    "title": "The Taxonomy MegaThread",
+    "text": "Thread to dump issues we should fix about taxonomies",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions/10468",
+    "isAnswered": null,
+    "time": "2024-06-20T07:46:29Z",
+    "updateTime": "2024-06-20T07:47:43Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "teolemon"
+    ],
+    "repository": "openfoodfacts-server"
+  },
+  {
+    "source": "github",
+    "title": "Programming best practices",
+    "text": "After fixing a number of bugs in the Product Opener server code, I have been exposed to much of the Perl code base.  I have enjoyed the opportunity to get to know the team and to write code to contribute to the project.  However, I see a number of issues with the code as it exists now.\r\n\r\nHere is a list of the some the things I have noticed:\r\n- Functions are too large and complex.  Methods are often hundreds of lines of code in length and have large cyclomatic complexity with deeply nested conditional statements.  This makes code difficult to read and understand, increases the risk of bugs, lessens code reuse, limits testing and makes debugging difficult.  A good rule of thumb for method size is 15 lines.\r\n- Object Oriented programming is not used.  Although there is a library of Perl .pm ’modules’ in the ProductOpener namespace, they only contain procedural functions.  There are a great many advantages to OO code, I won’t go into them all here.\r\nA good book to get your feet wet on OO would be: \r\n[Head First Object-Oriented Analysis and Design](https://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678)\r\nThe classic text on OO which is always worth reading is:\r\n[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/)\r\n\r\nPerl 5 has had OO support for a while, but it is a fairly weak implementation.  It looks like the [Moose](https://metacpan.org/release/Moose) extension is the current standard for object oriented Perl, see more below.\r\n- HTML  and Javascript are directly generated in Perl code.  This makes maintenance difficult for both server and client code.  There are a number of ways to address this, e.g. templating as in [HTML::Template](https://metacpan.org/pod/HTML::Template)\r\n- As APIs become more popular with patterns like micro services, consider building business logic first as JSON REST services.  This will automatically provide APIs for users and then you can further decouple your front end and business logic by using a pure JavaScript front end like Angular, React, TypeScript to consume those same services.\r\n- Code documentation is lacking, both exportable at the class and method level and inline within the code.  See issue #2203\r\n\r\n- The advantages to implementing the above:\r\n  - Reduced risk of occurrence of new or regression bugs.\r\n  - Easier debugging of problems.\r\n  - Quicker development time\r\n  - Improved testability\r\n  - Code reusability\r\n  - Improved performance\r\n  - Lower cylomatic complexity\r\n\r\nWays to implement these changes:\r\n- Perl code should be written as object oriented with the Moose project.  This will immediately realize all of the advantages listed above.  Moose improves upon standard Perl OO by introducing type checking, custom types, and many other features.  While I have not used Moose myself it looks like it is the latest preferred approach to OO Perl.\r\n- Document code, e.g. with [Perl POD](https://perldoc.perl.org/perlpod.html) as you go along while coding. Perl POD can be automatically converted to HTML and put online.\r\n- Write tests for all code.  The test coverage in OFF is decent ( better than many projects I have worked on) but it should be a priority.\r\n- Consider a new architecture: micro-service with pure JS front ends, etc.\r\n- Consider a more modern language.  Java, Node, Python etc. would be options if we started this project today.\r\n\r\nI understand the OFF is a large legacy project that was started long ago when many of these technologies did not exist and Perl was the best choice for web applications.  With the upcoming development of the self-service platform by Stephane, now might be a good time to consider implementing some of these ideas to secure a healthy future for OFF.",
+    "author": "zigouras",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-server/discussions/10459",
+    "isAnswered": null,
+    "time": "2019-09-21T05:19:44Z",
+    "updateTime": "2024-06-18T15:46:29Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "aleene",
+      "teolemon",
+      "stephanegigandet",
+      "CharlesNepote",
+      "zigouras",
+      "hangy",
+      "zigouras",
+      "github-actions"
+    ],
+    "repository": "openfoodfacts-server"
+  },
+  {
+    "source": "github",
+    "title": "what would relevant Hunger Games notifications look like ?",
+    "text": "### Problem\r\n- People forget about Hunger Games\r\n- As we embark on relevant notifications across Open Food Facts, what would relevant Hunger Games notifications look like ? Assume that we can leverage Robotoff, and various Events, possibly data about contributor edits (like favorite categories where the user validated insights) but no personal data\r\n",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/hunger-games/discussions/1058",
+    "isAnswered": false,
+    "time": "2024-10-14T08:09:12Z",
+    "updateTime": "2024-10-14T08:12:16Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "teolemon",
+      "alexfauquette"
+    ],
+    "repository": "hunger-games"
+  },
+  {
+    "source": "github",
+    "title": "Does  docker/dev.yml  is useful?",
+    "text": "while setup project with docker locally, I didnot see anything mention about dev.yml in documentation and else where in Makefile.\r\nDoes it useful?",
+    "author": "BhuwanPandey",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/816",
+    "isAnswered": null,
+    "time": "2025-04-28T07:35:06Z",
+    "updateTime": "2025-04-29T01:54:16Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Data source: locations with OpenStreetMap (OSM)",
+    "text": "## Currently\r\n\r\nWe currently link each Price to a Location.\r\n\r\n### Backend\r\n\r\nThe data is fetched in the backend from [Nominatim](https://nominatim.openstreetmap.org/ui/search.html).\r\n\r\nIt is defined by a unique set of `osm_id` & `osm_type`.\r\n\r\n### Frontend\r\n\r\nThere is currently 2 ways to find a location (OSM POI)\r\n- full-text search using [Photon Komoot](https://photon.komoot.io/)\r\n- ID search using Nominatim\r\n\r\n## Idea\r\n\r\nWe're looking at returning POIs given GPS coordinates (latitude & longitude). Nominatim and Photon Komoot both do NOT support this. So we'll most likely use [Overpass](https://overpass-api.de/).\r\n\r\nIs there a unique location search engine that would allow us to search on all 3 ?\r\n- by keyworkds/adress\r\n- by OSM ID\r\n- by GPS coordinates (return all shops in a radius of X meters)\r\n\r\n## Linked issues\r\n\r\n- #13\r\n- https://github.com/openfoodfacts/open-prices-frontend/issues/61\r\n- https://github.com/openfoodfacts/open-prices-frontend/issues/37",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/335",
+    "isAnswered": null,
+    "time": "2024-06-19T13:03:30Z",
+    "updateTime": "2025-04-14T00:36:05Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "CloCkWeRX"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Evaluate ONDC protocols for aggregating pricing; *or* presenting data.",
+    "text": "Sort of #311 ; but different.\r\n\r\nhttps://ondc.org/ appears to be a set of open protocols for buyers/sellers across a number of domains, including grocery. Focus on Indian market.\r\n\r\nSeller API example:\r\nhttps://github.com/ONDC-Official/seller-app-protocol - Discovery via `search`\r\nhttps://github.com/ONDC-Official/seller-app-protocol/blob/master/webserver/main/request_models/retail/schema.py#L1060 < Item model, inclusive pricing. \r\n\r\nhttps://www.postman.com/speeding-zodiac-426048/ondc/collection/juqvu9i/ondc\r\n\r\nThe data might not be ODBL, but its implied much more heavily that the sellers want to be indexed.\r\n\r\nList of participants:\r\nhttps://ondc.org/network-participants/",
+    "author": "CloCkWeRX",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/793",
+    "isAnswered": null,
+    "time": "2025-04-06T01:54:00Z",
+    "updateTime": "2025-04-06T07:37:17Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "CloCkWeRX"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Other price databases",
+    "text": "A list of other price databases\r\n\r\n|Name|Link|Description|Additional info|\r\n|---|---|---|---|\r\n|Tous Anti Inflation|https://play.google.com/store/apps/details?id=com.simeonov.tousantiinflation|French mobile app to compare food prices||\r\n|Qui est le moins cher ?|https://www.quiestlemoinscher.leclerc/|E.Leclerc price comparison||\r\n|Heisse Preise|https://heisse-preise.io/|Austrian-German food tracker||\r\n|Reprice|https://reprice-app.fr/|French mobile app to compare food prices||\r\n|Idealo|https://www.idealo.fr/|Online price tracker||\r\n|Keepa|https://keepa.com/|Amazon price tracker||\r\n|Kiprix|https://kiprix.com/|Comparateur Martinique vs Métropole||\r\n|pingprice|https://www.pingprice.be/en/|Belgium comparator||\r\n|lebondrive|https://lebondrive.fr/|Compare prices from french drives online shops||\r\n|circl|https://www.circl.app/|French app working with extraction||\r\n|PriceCatcher|https://pricecatcher.kpdn.gov.my/|Malaisian food tracker app seemingly promoted by the government||\r\n|Prixing|(closed)|[Youtube video](https://youtu.be/MrvuE0TFjU8)||\r\n|||||\r\n\r\n### Related discussions\r\n\r\n- #311 ",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/450",
+    "isAnswered": null,
+    "time": "2024-09-15T13:20:46Z",
+    "updateTime": "2025-04-06T07:33:49Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "serpico"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Community: known reuses",
+    "text": "### List\r\n\r\n- wiki: https://wiki.openfoodfacts.org/Project:Open-Prices#Known_re-uses\r\n- on the website: https://prices.openfoodfacts.org/community\r\n\r\n### Know a reuse ?\r\n\r\nShare it here.\r\nOr better, make a PR by editing the [reuses.json](https://github.com/openfoodfacts/open-prices-frontend/blob/master/src/data/reuses.json)\r\n\r\n### Template\r\n\r\n```\r\n- name: \r\n- description: \r\n- background_image_url:\r\n- url: \r\n- code_url: \r\n- date: \r\n- author: \r\n- display: true/false\r\n```\r\n\r\n### Related issues\r\n\r\n- https://github.com/openfoodfacts/open-prices/issues/532\r\n- https://github.com/openfoodfacts/open-prices-frontend/pull/1032",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/562",
+    "isAnswered": null,
+    "time": "2024-11-12T21:50:02Z",
+    "updateTime": "2025-04-05T12:10:07Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "raphodn",
+      "raphodn",
+      "raphodn",
+      "raphodn",
+      "raphodn",
+      "raphodn",
+      "TTalex"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "User Insights Dashboard",
+    "text": "From the Open Food Facts Days in October 2024, we generated an interesting list of insights for potential inclusion in a User Insights Dashboard (details on Raphael O's Miro board + Pierre's Figma board).  This answered the question: what's in it for me to contribute to Open Prices / Open Food Facts?\r\n\r\nAfterwards, we talked about a potential hackathon with students (or each other?) to visualize some/all of those potential insights for the dashboard. \r\n\r\nFor some user-centered Dashboard next steps, we can consider:\r\n- currently available datapoints for use in the dashboard (list)\r\n- potential other / new datapoints for use in the dashboard (list)\r\n- simple visualization session, hackathon, or both? \r\n- attendees: is there a school, event, and/or group on which we want to focus? (or more than 1?)\r\n- virtual, in-person, hybrid?\r\n- when?\r\n- context / personas / challenge statement\r\n- volunteer leads\r\n- brief creation",
+    "author": "etherworlds",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/571",
+    "isAnswered": null,
+    "time": "2024-11-19T07:35:11Z",
+    "updateTime": "2025-03-23T20:46:04Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "etherworlds",
+      "etherworlds",
+      "raphodn",
+      "serpico"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Roadmap: Q1 2025",
+    "text": "Creating a dedicated discussion on what's been done & what's coming in Open Prices in 2025 :)\r\n\r\nPast roadmap here: https://github.com/openfoodfacts/open-prices/issues/541\r\n\r\n## Done recently\r\n\r\n- new workflow to allow bulk proof addition & bulk price validation (using AI)\r\n- the first community challenge\r\n- better manage price discounts\r\n- improve the proof/price form web UI\r\n- more stats, more settings\r\n\r\n## Coming soon\r\n\r\n- experiments: Receipts x GenAI",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/756",
+    "isAnswered": null,
+    "time": "2025-03-09T15:17:56Z",
+    "updateTime": "2025-03-09T15:53:51Z",
+    "category": {
+      "name": "Announcements",
+      "emoji": "📣"
+    },
+    "participants": [
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Community challenges",
+    "text": "# Idea\r\n\r\nThe idea of periodic challenges emerged during the OFF Days 2024.\r\n\r\nThese kinds of challenges find good success in the OpenStreetMap community, with either [MapRoulette](https://maproulette.org/) or the [monthly projects (link in french)](https://www.openstreetmap.fr/category/contribute/projet-du-mois/) organized by OSM France.\r\n\r\nIn order to inform contributors and to track progress, we could imagine a dedicated page.\r\n\r\n## Examples\r\n\r\nsee below\r\n\r\n## Reuse-driven\r\n\r\nFind ideas that will nudge some users to reuse the data, or help an NGO gather data.\r\n\r\n## Related issues\r\n\r\n- https://github.com/openfoodfacts/open-prices-frontend/issues/934",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/509",
+    "isAnswered": null,
+    "time": "2024-10-09T13:05:50Z",
+    "updateTime": "2025-03-05T13:32:41Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "raphodn",
+      "raphodn",
+      "raphodn",
+      "serpico",
+      "raphodn",
+      "raphodn",
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Price promotions (discounts)",
+    "text": "This discussion will help gather information on price promotions.\r\nAnd find a quick way to better manage them in the backend & frontend.\r\n\r\n# List of promotion types\r\n\r\n|Name|Example|Details|Status|\r\n|---|---|---|---|\r\n|Discount on a product||||\r\n|Seasonal discount|e.g. clothing|||\r\n|Discount on a product because expiring soon||||\r\n|Loyalty card||Discount only if you are a member. Can be immediate, or money saved in your loyalty account||\r\n|Buy X get Y free (BOGO)|Buy 2 get 1 free|||\r\n|Discount above X quantity|Buy 1 get the 2nd at 50%|||\r\n|Pick it yourself|- 5% discount on books<br>- Discount if picked at the farm||\r\n|Second hand|e.g. books, clothing||\r\n|||||\r\n\r\n# Related issues\r\n\r\n- https://github.com/openfoodfacts/open-prices/issues/76 (current implementation)\r\n- https://github.com/openfoodfacts/open-prices/issues/495\r\n- https://github.com/openfoodfacts/open-prices-frontend/issues/537\r\n- https://github.com/openfoodfacts/open-prices-frontend/issues/840\r\n- https://github.com/openfoodfacts/open-prices/issues/472\r\n\r\n# Implementations\r\n\r\n## v1\r\n\r\n3 fields: \r\n- `price`\r\n- `price_is_discounted` (boolean)\r\n- `price_without_discount`\r\n\r\n## v2\r\n\r\na 4th field was added:\r\n- `discount_type`: quantity, sale, seasonal, loyalty program, expires soon, pick it yourself, other",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/508",
+    "isAnswered": null,
+    "time": "2024-10-09T12:50:00Z",
+    "updateTime": "2025-02-23T13:46:23Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "serpico",
+      "serpico",
+      "tradmangh",
+      "serpico",
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Data quality: rules & ideas",
+    "text": "We're starting to see new github issues related to data quality, and users asking for more flexibility on price addition.\r\n\r\nSo I was thinking we should start a list of possible rules that can be used in the future by moderators (nutripatrol) or automated (robotoff) to help flag errors or low quality prices ",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/319",
+    "isAnswered": null,
+    "time": "2024-06-12T13:21:53Z",
+    "updateTime": "2025-02-10T20:54:42Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "raphodn",
+      "serpico",
+      "baslia",
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Data quality: moderation",
+    "text": "### Moderation\r\n\r\n[Nutripatrol](https://github.com/openfoodfacts/nutripatrol): existing OFF moderation tool\r\n\r\n### How ?\r\n\r\n|Option|Details|\r\n|---|---|\r\n|Admin interface||\r\n|Actions in the web app||\r\n\r\n### Related issues\r\n\r\n- admin interface : #188 \r\n- in the web app : https://github.com/openfoodfacts/open-prices-frontend/issues/629\r\n- automated rules : #319\r\n- https://github.com/openfoodfacts/open-prices/issues/608\r\n\r\n",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/321",
+    "isAnswered": null,
+    "time": "2024-06-14T07:42:27Z",
+    "updateTime": "2025-02-02T21:36:31Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Use case : up to date personal database of objects to lend",
+    "text": "Example : I have in my storage a brand new NGK B9ES spark plug ( 087295126110 ), not yet entered into OPF, I don't own the bike it was intended for, so no chance I'd be using it in the foreseeable future. \r\n\r\nI wouldn't mind making it available to lend so one person trying to troubleshoot his/her ( suspected case of foul spark plug - restarting the bike after deep storage/mothballing it ) can do so without buying a whole collection of brand new parts.\r\n\r\nI'd need a service to build a personal list/database of stuffs I own and am willing to lend so people can search and and build their own list they're willing to lend, they look for borrowing, so they can source them from different lenders around their domicile. \r\n\r\nFavor/promote soft mobilty and location obfuscation/privacy when looking for matches by searching based on isochrone xx' of walking, yy' of bike riding using postcode.\r\n\r\nCould encourage co-owning of rather expansive tools not often used by linking/connecting several users looking for the same objects ( wish list ).",
+    "author": "serpico",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/682",
+    "isAnswered": null,
+    "time": "2025-01-19T09:25:03Z",
+    "updateTime": "2025-01-27T20:52:47Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Help with authentication for local development",
+    "text": "Hi there!\r\n\r\nThanks for all the amazing work you've put into OpenFoodFacts and Open Prices!\r\n\r\nI wanted to dig into the app locally but I cannot do much if I'm not logged in. How do you authenticate within the app when developing locally? I didn't see instructions in `INSTALL.md`, so maybe I am missing something.\r\n\r\nThank you in advance!\r\n\r\nDani",
+    "author": "dgruano",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/686",
+    "isAnswered": true,
+    "time": "2025-01-19T22:52:17Z",
+    "updateTime": "2025-01-22T16:51:41Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Extract data from proof images using AI",
+    "text": "There is lots of interesting info in the proof images : \r\n- price tag : price, barcode\r\n- receipt : multiple prices, no barcodes nor EAN but a \"product name\", date, location\r\n- exif data : date & location ?\r\n\r\nWhat if the server was able to do some image recognition, and return to the frontend all of that info ? :star_struck: \r\n\r\n### How ?\r\n\r\n#### Using GenAI\r\n\r\n- [x] extract data from price tags (using Google's Gemini) (#557)\r\n\r\n@TTalex has built a prototype, using Google's Gemini API.\r\n\r\n#### Using an external library\r\n\r\n- [ ] #670\r\n\r\n#### Our own trained model\r\n\r\n- [x] Proof classification : integrated into Robotoff (not yet into OP) (#394)\r\n- [x] Google Cloud vision : we call the API on each new image : useful for moderation (e.g. detect inappropriate images) (#320)\r\n- [x] Extract price tags (bounding boxes) from Proof images : #611\r\n- [x] extract data from price tags\r\n\r\n@raphael0202 is working on building a long-term solution based on training data.\r\n\r\n### Challenges\r\n\r\n#### Price tag\r\n\r\n#### Receipt\r\n\r\nWithout the product EAN or barcode, how to link to the exact product in the OFF database ? \r\n\r\n### Related discussions\r\n\r\n- #523\r\n- https://github.com/openfoodfacts/open-prices/discussions/526#discussioncomment-11323772\r\n\r\n### Related issues\r\n\r\n- #320\r\n- #394\r\n- #308\r\n- #511\r\n- #569\r\n- #611\r\n\r\n",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/560",
+    "isAnswered": null,
+    "time": "2023-12-27T14:55:50Z",
+    "updateTime": "2025-01-14T19:17:20Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "teolemon",
+      "raphodn",
+      "teolemon",
+      "teolemon",
+      "alexfauquette",
+      "teolemon",
+      "teolemon",
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Ability to attach an extra picture showing additionnal infos to the price",
+    "text": "Use case : I encountered some very tasty clémentines, as luck would have it, I was able to snap a picture of the 10kg cardboard box they were shipped in, before being sold by weight.\r\n\r\n I'd like to be able to link that picture mentioning infos about the grower, the importer, with the price ( maybe using the detail  page ) etc so I can come back to it at a later date. \r\n\r\n![P_20241228_165557](https://github.com/user-attachments/assets/8380869a-2062-4110-95a3-af7e08822ce0)\r\n",
+    "author": "serpico",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/672",
+    "isAnswered": null,
+    "time": "2025-01-08T10:11:49Z",
+    "updateTime": "2025-01-08T10:47:08Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Speed up proof & price addition",
+    "text": "### Currently\r\n\r\n@serpico (extracted from https://github.com/openfoodfacts/open-prices/discussions/523)\r\n\r\n> In the same spirit/related, I was adding prices yesterday based on price tag's pictures I took the same day, for reference I timed myself doing it, for 16 prices it took me 54'( with a some back and forth between OFF and Open Price webapp to create products which didn't exist, but I believe that's not the bulk of the time spent ) so it took 3'40\" per price, although I'm willing to admit my workflow could be enhanced, I do use a text file from which I copy/paste the EAN for the products I track, saving some time I think.\r\nI noticed that for a session like that, the type of proof, the location, the date and currency would be the same and the user would save time if those were once entered at the beginning of the so-called \"session\" and \"locked\", some kind of streamlined interface without all those field after initially being entered, ideally making use of the keyboard's Tab key to jump from one field to the next...maybe that's mostly what we have for the receipt mode. An additional \"lockable\" parameter would be EAN as opposed to category - ideally jumping straight the the EAN input box to paste the relevant EAN.\r\nAfter checking what the receipt mode UI looks like it would be a variant of it, if it's deemed worth exploring I'll expand in a specific issue and share screenshot of my vision of the UI, based on the current receipt mode.\r\nNow the question is how many user engage ( percentage of prices coming from this opposed to receipt ) in this, how much time do we save ( here's I'm thinking a stopwatch feature could be useful although it might scare away user when they realize how much time they spend for so few prices - so maybe make it bonus interface ) and is it worth the time coding this specific interface.\r\n\r\n### Related issues\r\n\r\n- https://github.com/openfoodfacts/open-prices-frontend/issues/961\r\n- https://github.com/openfoodfacts/open-prices-frontend/issues/983\r\n- https://github.com/openfoodfacts/open-prices/issues/387#issuecomment-2386059566\r\n- https://github.com/openfoodfacts/open-prices/discussions/523",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/526",
+    "isAnswered": null,
+    "time": "2024-10-18T12:37:17Z",
+    "updateTime": "2024-12-18T15:24:58Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "raphodn",
+      "serpico",
+      "TTalex",
+      "raphodn",
+      "serpico"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Products sync",
+    "text": "[Raphael] Every afternoon we run a script to sync the OFF database (food, product, beauty, pet food + obsolete) with OP products.\r\n\r\n### Code\r\n\r\nhttps://github.com/openfoodfacts/open-prices/blob/main/open_prices/common/tasks.py\r\n\r\n### Stats\r\n\r\n|Date|OFF + obsolete|OPF|OBF|OPFF|_unknown_|\r\n|---|---|---|---|---|---|\r\n|2024-12-04|3624143|15741|31463|9955|5484|\r\n\r\n### Related issues\r\n\r\n- https://github.com/openfoodfacts/open-prices/issues/114\r\n- https://github.com/openfoodfacts/open-prices/issues/281\r\n- https://github.com/openfoodfacts/open-prices/issues/243 & https://github.com/openfoodfacts/open-prices/issues/243 & https://github.com/openfoodfacts/open-prices/issues/465 & https://github.com/openfoodfacts/open-prices/issues/551\r\n- https://github.com/openfoodfacts/open-prices/issues/620",
+    "author": "serpico",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/460",
+    "isAnswered": null,
+    "time": "2024-09-23T11:36:30Z",
+    "updateTime": "2024-12-12T16:43:15Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "raphodn",
+      "raphodn",
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Community campaign: hazelnut spreads",
+    "text": "### What\r\n\r\nFirst \"test\" campaign. Shared \"internally\" (Open Food Facts community).\r\n\r\n### Why\r\n\r\n### How\r\n\r\n- a dedicated landing page\r\n  - similar to https://github.com/openfoodfacts/open-prices-frontend/issues/934 ?\r\n- should we allow anonymous proof addition ? no for now\r\n- newbies: multiple proof uploader\r\n- experts: orient towards existing workflows\r\n- needs tutorials (at least examples)\r\n  - https://openfoodfacts.github.io/open-prices\r\n\r\n### Post-contribution analysis\r\n\r\n?",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/617",
+    "isAnswered": null,
+    "time": "2024-12-11T13:31:41Z",
+    "updateTime": "2024-12-11T13:37:47Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Gamification",
+    "text": "### Existing\r\n\r\n- list of top contributors : https://prices.openfoodfacts.org/app/users\r\n\r\n### Ideas\r\n\r\n#### App wide (home page ?)\r\n\r\nSome stats for the ongoing week (week number ?)\r\n- top 3 users (podium)\r\n- number of new prices\r\n- number of new products\r\n- number of new locations\r\n\r\nStats app + AllTimeStats model + MonthlyStats model + WeeklyStats model\r\n\r\n#### Per user\r\n\r\n|Category|Description||\r\n|---|---|---|\r\n|Prices|Top 10 contributor badge||\r\n|Product|Unlock : user was the first to add a price|new ` first_price_added_by`  field. or ` user_first_price` |\r\n|Product|Mayor : user has added the most prices for this product||\r\n|Brand|Mayor : user has added the most prices for this brand||\r\n|Location|Unlock : user was the first to add a price|new ` first_price_added_by`  field|\r\n|Location|Mayor : user has added the most prices for this location||\r\n\r\nShow a popup if new location or product ?\r\n\r\n",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/399",
+    "isAnswered": null,
+    "time": "2024-08-27T08:47:16Z",
+    "updateTime": "2024-12-11T05:49:38Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "serpico"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Community: use case ideas",
+    "text": "### A list of use case ideas\r\n\r\nSee below\r\n\r\n### Additional info\r\n\r\n- known reuses: https://prices.openfoodfacts.org/community\r\n- https://github.com/openfoodfacts/open-prices/discussions/562",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/590",
+    "isAnswered": null,
+    "time": "2024-12-03T09:52:04Z",
+    "updateTime": "2024-12-04T14:11:44Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "raphodn",
+      "raphodn",
+      "serpico",
+      "serpico"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Quick compare rendering which could be exported and posted on social media",
+    "text": "A page where user can easily enter 2 ( or more ) EAN and generate/export a picture + links to highlight an interesting product comparison ( ex: similar products but significant difference in price/kg ) to be posted on mastodon, social media,etc... \r\n\r\n### Related issues\r\n\r\n- https://github.com/openfoodfacts/open-prices-frontend/issues/860",
+    "author": "serpico",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/589",
+    "isAnswered": null,
+    "time": "2024-11-30T06:59:35Z",
+    "updateTime": "2024-12-02T23:26:56Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Build a dedicated mobile app ?",
+    "text": "Current mobile app: https://github.com/openfoodfacts/smooth-app\r\n\r\n### Why ?\r\n\r\n- better barcode scanner (than in the web app)\r\n- dedicated pages to visualize price data\r\n- dedicated workflows to contribute data\r\n- user personal dashboard, basket price tracking, basket Nutriscore/CO2 impact...\r\n- get new users outside of the OFF community",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/570",
+    "isAnswered": null,
+    "time": "2024-11-18T11:40:15Z",
+    "updateTime": "2024-11-27T20:29:54Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "serpico",
+      "raphael0202",
+      "TTalex"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Leverage Hunger Games to crowdsource price addition (from price tag images)",
+    "text": "### What\r\n\r\nWhat if we allowed any contributor to add prices from images sent over by other users ?\r\n\r\nThis would only apply to \"Price tag\" images, the ones taken in supermarkets or shops, where we can clearly see the EAN & the price (and ideally the product, though sometimes they are not stored at their correct place).\r\n\r\nThe image author should send the location & date. Or make it mandatory to have images with EXIF/Geoloc data ?\r\n\r\n### How\r\n\r\n- a new dedicated section in Open Prices web app\r\n- a new \"challenge\" section in https://hunger.openfoodfacts.org\r\n\r\n### Why\r\n\r\nLong-term vision : \r\n- price tag images would only be crowdsourced (the \"owner\" isn't important, it's cumbersome to add these prices, we could put in some OCR/ML to speed up the price & EAN extraction)\r\n- users would keep ownership of prices coming from receipts & GDPR requests\r\n\r\n### Related Issues\r\n\r\n- #308\r\n- #320\r\n- #568\r\n- https://github.com/openfoodfacts/open-prices/discussions/526",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/523",
+    "isAnswered": null,
+    "time": "2024-10-17T08:42:01Z",
+    "updateTime": "2024-11-20T14:39:10Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "alexfauquette",
+      "TTalex",
+      "raphodn",
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Data source: GDPR requests ✅",
+    "text": "One of the possible price proof source is a GDPR request to the shop, leveraging the fidelity card history.\r\n\r\nMore info here : https://wiki.openfoodfacts.org/GDPR_request",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/313",
+    "isAnswered": null,
+    "time": "2024-06-05T12:24:10Z",
+    "updateTime": "2024-11-13T21:46:49Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Django in prod ! a quick todo of upcoming features",
+    "text": "Now that #355 is done :rocket: \r\n\r\n## Need to fix\r\n\r\n- [x] #407\r\n- [x] #465\r\n\r\n## Next/priority issues\r\n\r\nSpeed up\r\n- [x] #340\r\n\r\nStats\r\n- [x] #419\r\n- [x] #420\r\n- [x] #445\r\n- [x] #463\r\n\r\nOnboarding, search, visualizations\r\n- [x] https://github.com/openfoodfacts/open-prices-frontend/issues/364\r\n- [x] https://github.com/openfoodfacts/open-prices-frontend/issues/843\r\n- [x] https://github.com/openfoodfacts/open-prices-frontend/issues/878\r\n- [ ] #414\r\n- [ ] https://github.com/openfoodfacts/open-prices-frontend/issues/302\r\n\r\nPrice addition\r\n- [x] #317 & #388\r\n- [x] #387\r\n- [ ] #394 & #320\r\n- [x] #396\r\n- [ ] #258",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/421",
+    "isAnswered": null,
+    "time": "2024-09-04T15:02:19Z",
+    "updateTime": "2024-11-09T16:56:02Z",
+    "category": {
+      "name": "Announcements",
+      "emoji": "📣"
+    },
+    "participants": [
+      "raphodn",
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Road to filters",
+    "text": "Beside [#839](https://github.com/openfoodfacts/open-prices-frontend/issues/839), a place to list ideas about things some of us would like to see in terms of filters to display/hide products in the front end. @raphodn feel free to change the wording.\r\n\r\nUse case : I'd like to be able to display the price per kg for a wide variety of cheeses.\r\nthere's [cheeses](https://prices.openfoodfacts.org/categories/en:cheeses)  then\r\n\r\n-  I'd like to filter out some categories like grated cheese, appetizer, cheese spreads, sliced cheeses, etc.... \r\n- a filter on the country ( only include products sold in a particular country )\r\n-  asc/desc ordering based on price per quantity ( at first glance, rather than price )\r\n- display/hide based on packaging size ( being able to focus the display on big quantity )\r\n\r\nIdeally the last price and price per kilo would be displayed in each product card to allow quick comparison by user",
+    "author": "serpico",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/536",
+    "isAnswered": null,
+    "time": "2024-10-25T09:40:42Z",
+    "updateTime": "2024-11-01T15:41:44Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "serpico"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Production (.org) vs Staging (.net)",
+    "text": "I just noticed that the .org website is the \"official\" one, right? So what about the .net one? And I suppose there isn't yet a way to move .net prices to .org, right?\r\nI initially thought they were the same, but then I noticed prices and my profile were different\r\n\r\n.org: https://prices.openfoodfacts.org/app/\r\n.net: https://prices.openfoodfacts.net/app/\r\n\r\n### Related issues\r\n\r\n- https://github.com/openfoodfacts/open-prices-frontend/issues/876",
+    "author": "TechShooter",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/408",
+    "isAnswered": true,
+    "time": "2024-08-30T16:42:06Z",
+    "updateTime": "2025-03-31T22:08:17Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Brainstorm on Notifications",
+    "text": "- What would interesting and useful web browser notifications for Open Prices look like ?\r\n- A ping when someone adds a price in your favorite store ? A reminder to complete your receipts ? Something else ?\r\n",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/521",
+    "isAnswered": false,
+    "time": "2024-10-14T08:01:08Z",
+    "updateTime": "2024-10-14T08:01:08Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "How do we distinguish different sellers in a fresh produce market ?",
+    "text": "Picked up from the weekly meeting minutes.\r\n\r\nIdeas :\r\n\r\n- Some OSM contributors have a knack, specific skills in indoor mapping ( think shopping mall, train station ) It could help to give ideas about that specific case.\r\n\r\n- Maybe cities have data since they're probably the one granting the authorization/license for a market's seller to set up on a specific spot they surely have map ( albeit rudimentary ) I'd imagine that's even a high stake issue when a spot is freed, best spots must be highly thought after, so they must have a process .\r\n         \r\n- For those with contacts in the OSM community, float the idea of a \"projet du mois\", at least to think about the process, good practices, to make it less time consuming for those wishing to work on this in order to use it in Open Price.",
+    "author": "serpico",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/510",
+    "isAnswered": null,
+    "time": "2024-10-10T07:15:27Z",
+    "updateTime": "2024-10-10T07:15:28Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Collecting prices in supermarkets: legal or not ?",
+    "text": "# Funny story that happened while collecting proofs for open prices\r\n\r\nI was in a supermarket earlier today and while taking pictures of price tags for OP a security guard came up to me and asked why I was taking pictures like this. I was a little taken aback so I said it was for my personal use he then said you're not allowed to, if you want to do it you have to ask and obtain permission from the management, I asked if he could show what that policy was based on, I demanded that he show at least a piece of paper to back what he was saying, he said he was gonna see with management and he left.\r\n\r\nI went on with my shopping/snapping session and after checking out at the till I went to see him at the entrance to ask what was the verdict. He explained that it came from his colleague manning the video cameras and that 2 weeks prior a guy was in the supermarket snapping pictures here and there, said it was a different case and I had the right to do it  `¯\\_(ツ)_/¯` ",
+    "author": "serpico",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/506",
+    "isAnswered": null,
+    "time": "2024-10-08T10:41:03Z",
+    "updateTime": "2024-10-08T11:17:52Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Data model: store extra data on the Proof model (location, date, currency, Google Cloud Vision ?)",
+    "text": "## Idea\r\n\r\nCurrently we ask users to provide data each time they upload a price, such as its `location`, `date` & `currency`.\r\nBut this data is common for all prices for a given proof (at least for `PRICE_TAG` & `RECEIPT` proofs).\r\n\r\nIf we start storing this data on the proof directly, we can think about speeding-up price addition for the users.\r\n\r\nAnd have data quality checks to verify that the proof prices share common data.\r\n\r\n## Questions\r\n\r\n- we'll have duplicate data between a proof and its price(s). good idea ? what to do in the long run ?\r\n\r\n## Related issues\r\n\r\n- #322 \r\n- #336 \r\n- #323 \r\n- #320 \r\n- #387\r\n- #319",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/339",
+    "isAnswered": null,
+    "time": "2024-06-23T10:15:54Z",
+    "updateTime": "2024-09-22T08:12:03Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "raphodn",
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Stats & graphs",
+    "text": "## Ideas\r\n\r\n|model|detail|example|\r\n|---|---|---|\r\n|Product|Number of prices<br>Number of locations/countries<br>Map of locations (with prices)||\r\n|Product|Evolution of price||\r\n|Category|min, max, median price||\r\n|Product|Evolution of price per location/store chain||\r\n|Location|Number of prices<br>Number of different products<br>Number of different users||\r\n|Location : city|Number of cities with at least 1 price<br>Cities with the most locations<br>Cities with the most prices||\r\n|Location : country|Number of countries with at least 1 price<br>Countries with the most locations<br>Countries with the most prices||\r\n|Location : type|Number of types with at least 1 price<br>Number of prices per type|`|\r\n|Location : name|Number of prices per store name/chain||\r\n|User|Number of prices<br>Number of different products<br>Number of different locations||\r\n|Proof|Number of prices per type||\r\n\r\nfilters on date, location store, location country, user, category...\r\n\r\n## Related issues\r\n\r\n- #254 \r\n\r\n## Related discussions\r\n\r\n- #399",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/334",
+    "isAnswered": null,
+    "time": "2024-06-19T12:23:48Z",
+    "updateTime": "2024-09-20T11:44:38Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "serpico",
+      "serpico",
+      "serpico"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Send data to Open Food Facts",
+    "text": "Some data stored in Open Prices could be interesting in Open Food Facts\r\n\r\n## Store data\r\n\r\nin OFF there is a `store` field to know where the product can be found (Carrefour, ...)\r\n\r\n## Country data\r\n\r\nin OFF there is a `country` field to know where the product is sold (France, ...)\r\n\r\nSee #263\r\n\r\n## Proof data\r\n\r\nImporting proofs from Open Food Facts ? Allowing to set an Open Food Facts image as proof ?\r\n\r\n- What should we do for those products ?\r\n- Importing proofs from Open Food Facts ?\r\n- Allowing to set an Open Food Facts image as proof ?\r\n- Couldn't it be an easy target for automation as well ?\r\n- Can we add a [Power User Script button](https://github.com/openfoodfacts/power-user-script/pulls) to transfer it ?\r\n\r\nhttps://fr.openfoodfacts.org/produit/2212401019354/mousse-pur-canard\r\n\r\n### Screenshot \r\n![image](https://github.com/openfoodfacts/open-prices/assets/1689815/32653bb8-72ea-4589-acce-f3337ba49031)\r\n",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/223",
+    "isAnswered": false,
+    "time": "2024-02-23T09:36:27Z",
+    "updateTime": "2024-06-12T14:10:07Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Data source: grocery flyers❓",
+    "text": "Does grocery flyers count for prices? Can I upload them as proof?",
+    "author": "TechShooter",
+    "link": "https://github.com/openfoodfacts/open-prices/discussions/312",
+    "isAnswered": false,
+    "time": "2024-05-29T11:49:58Z",
+    "updateTime": "2024-06-05T13:32:45Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "raphodn"
+    ],
+    "repository": "open-prices"
+  },
+  {
+    "source": "github",
+    "title": "Consistent User Management UI Across Open Food Facts Tools",
+    "text": "## **Consistent User Management UI Across Open Food Facts Tools**\r\n\r\nGoal: provide a consistent user interface (UI) and user experience (UX) for getting a “Road to KeyCloak” and managing App-specific user settings across various Open Food Facts platforms (Website with Foundation, Flutter App, React Tools like Hunger Games, Open Prices, openfoodfacts-explorer), like favorite stores, currency, dev mode settings for off-explorer…\r\n\r\nIt should try to leverage our Web Component strategy and assumes Keycloak is the central Identity Provider.\r\n\r\n**Core Principles:**\r\n\r\n1. **Centralized Identity & Core Data:** Keycloak is the source of truth for authentication, authorization, and core identity attributes (email, password management, sessions).  \r\n2. **Centralized Extended Profile & Settings API:** A dedicated Open Food Facts backend API service manages user profile data *beyond* core identity (e.g., contribution stats, general preferences) and *tool-specific* settings (e.g., Open Prices currency, favorite stores). This API interacts with Keycloak and Specific tools or backends where necessary.  \r\n3. **Web Component Library for Web UIs:** A library of customizable Lit Web Components provides the standard UI elements for user management on all web platforms (eg Account switcher, access to the page or modal containing app specific settings).  \r\n4. **Shared Design System:** A well-defined design system dictates the visual appearance and interaction patterns, ensuring consistency even for native implementations (Flutter).  \r\n5. **Consistent Customization:** Tool-specific settings are managed by the tools themselves but integrated visually within the structure provided by the core components.\r\n\r\n**Implementation Details:**\r\n\r\n1. **Backend User Profile API:**  \r\n   * **Responsibilities:** CRUD operations for extended OFF profile data and tool-specific settings (stored appropriately, perhaps namespaced by tool). Potentially provides a endpoint for fetching combined user data (core from Keycloak \\+ extended from the tool). Consistency across tools.  \r\n2. **openfoodfacts-webcomponents** (Lit Library):  \r\n   * **Components:** Create components like:  \r\n     * \\<off-profile-switcher\\>: Shows user icon/switcher/logout for navigation bar. Inputs: link to keycloak, link to local settings, user id (to get user photo and user name)  \r\n     * \\<off-settings-layout\\>: A container component providing consistent structure/navigation for settings pages.  \r\n     * *(Other components ? Avoid stepping on KeyCloak)*  \r\n   * **Customization via Slots:** The key to tool-specific settings.  \r\n     * Example: \\<off-settings-layout\\> could have a designated \\<slot name=\"tool-specific\"\\>\\</slot\\>.  \r\n     * Open Prices (whether built in React or using Lit itself) would then render its own settings component (e.g., \\<openprices-preferences\\>) inside that slot:  \r\n       \\<off-settings-layout\\>  \r\n         \\<off-profile-form slot=\"general\"\\>\\</off-profile-form\\>  \r\n         \\<off-account-security slot=\"security\"\\>\\</off-account-security\\>  \r\n         \\<openprices-preferences slot=\"tool-specific\"\\>\\</openprices-preferences\\>  \r\n       \\</off-settings-layout\\>\r\n\r\n     * The openprices-preferences component is responsible for its own UI *and* for interacting with the Backend User Profile API to save its specific settings (currency, stores).  \r\n3. **Platform Integration:**  \r\n   * **Web Tools:** Web component  \r\n   * **Flutter App:**  \r\n     * **Native Implementation:** Build the non keycloak user management screens *natively* in Flutter. **Crucially**, this native UI must strictly adhere to the **Shared Design System**. It interacts directly with the **Backend User Profile API**. Tool-specific settings needed in the app are also built natively.  \r\n     * **Question of the keycloak part, the webview solution is kind of disappointing**  \r\n4. **Shared Design System**",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-auth/discussions/175",
+    "isAnswered": false,
+    "time": "2025-04-02T09:39:13Z",
+    "updateTime": "2025-04-02T09:39:14Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [],
+    "repository": "openfoodfacts-auth"
+  },
+  {
+    "source": "github",
+    "title": "Providing username suggestions",
+    "text": "Could we provide available  username suggestions ?\r\nAsynchronous-Antilope-75 or https://www.geeksforgeeks.org/how-to-generate-a-unique-username-using-python/ ?\r\nIt was reported during the Open Prices call as a blocker for signup (people lacking imagination, and the username being already taken)\r\n@hangy @raphael0202 @stephanegigandet ",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-auth/discussions/116",
+    "isAnswered": true,
+    "time": "2024-11-13T15:27:13Z",
+    "updateTime": "2024-11-21T09:09:05Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "hangy"
+    ],
+    "repository": "openfoodfacts-auth"
+  },
+  {
+    "source": "github",
+    "title": "See discussions in the open-prices repo",
+    "text": "If you want to open a discussion on the project, look first in the `open-prices` backend project and open it there !\r\n(except if it specifically a frontend discussion :)\r\n\r\nhttps://github.com/openfoodfacts/open-prices/discussions",
+    "author": "raphodn",
+    "link": "https://github.com/openfoodfacts/open-prices-frontend/discussions/606",
+    "isAnswered": null,
+    "time": "2024-06-05T12:28:07Z",
+    "updateTime": "2024-06-05T12:28:08Z",
+    "category": {
+      "name": "Announcements",
+      "emoji": "📣"
+    },
+    "participants": [],
+    "repository": "open-prices-frontend"
+  },
+  {
+    "source": "github",
+    "title": "Onboarding to Slack",
+    "text": "Hi, I want to join your slack forum to discuss about the gsoc project proposals. I tried joining via the link on the repos, but I'm not able to  sign in to the slack channel. Could you help me with this?",
+    "author": "thetsajeet",
+    "link": "https://github.com/openfoodfacts/facets-knowledge-panels/discussions/168",
+    "isAnswered": false,
+    "time": "2025-03-14T03:00:20Z",
+    "updateTime": "2025-03-14T03:00:21Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [],
+    "repository": "facets-knowledge-panels"
+  },
+  {
+    "source": "github",
+    "title": "Experiment with web notifications to send a reminder in case of unmerged/uncreated PR",
+    "text": "### Problem\n- People forget about Taxonomy Editor, and about their PRs\n- As we embark on relevant notifications across Open Food Facts, experiment with web notifications to send a reminder in case of unmerged/uncreated PR\n",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/taxonomy-editor/discussions/552",
+    "isAnswered": false,
+    "time": "2024-10-14T08:06:19Z",
+    "updateTime": "2024-10-14T08:06:39Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [],
+    "repository": "taxonomy-editor"
+  },
+  {
+    "source": "github",
+    "title": "GSoC 2025 Proposal: Smart Dashboard & Tagging System Draft Implementation",
+    "text": "Hi, I'm Sonal Mishra, an applicant for GSoC 2025. I've started working on a draft implementation of the Smart Dashboard & Tagging System idea. I'd love to get feedback or discuss how best to align this with project goals.\n\nHere's my draft repository: [https://github.com/22404sonalmishra/open-food-facts-explorer](https://github.com/22404sonalmishra/open-food-facts-explorer)\n\nLooking forward to your insights!\n",
+    "author": "22404sonalmishra",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/discussions/466",
+    "isAnswered": null,
+    "time": "2025-04-11T07:12:10Z",
+    "updateTime": "2025-04-13T08:52:46Z",
+    "category": {
+      "name": "Show and tell",
+      "emoji": "🙌"
+    },
+    "participants": [
+      "22404sonalmishra",
+      "VaiTon",
+      "22404sonalmishra"
+    ],
+    "repository": "openfoodfacts-explorer"
+  },
+  {
+    "source": "github",
+    "title": "Footer is becoming too cluttered. How to keep clean?",
+    "text": "![image](https://github.com/user-attachments/assets/abbe3743-5426-4e4c-af34-482e61a5b03c)\n\n\nWe have a bunch of redundant information in the current footer. I would aim to keep it as clean as possible. What do we really need there? Thoughts?\n\nDetails like x icon and \" ..(en)\" breaks the consistency as well. \n\nBadges will be added soon as well:\n\nhttps://github.com/openfoodfacts/openfoodfacts-explorer/pull/357",
+    "author": "github-throwaway",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/discussions/362",
+    "isAnswered": true,
+    "time": "2025-03-27T06:29:27Z",
+    "updateTime": "2025-04-11T09:07:24Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "swastikCommits",
+      "swastikCommits",
+      "Bhavishya2601",
+      "Bhavishya2601",
+      "github-throwaway",
+      "github-throwaway",
+      "Bhavishya2601",
+      "heymitali",
+      "swastikCommits",
+      "Bhavishya2601"
+    ],
+    "repository": "openfoodfacts-explorer"
+  },
+  {
+    "source": "github",
+    "title": "Welcome to openfoodfacts-explorer Discussions!",
+    "text": "<!--\r\n    ✏️ Optional: Customize the content below to let your community know what you intend to use Discussions for.\r\n-->\r\n## 👋 Welcome!\r\n  We’re using Discussions as a place to connect with other members of our community. We hope that you:\r\n  * Ask questions you’re wondering about.\r\n  * Share ideas.\r\n  * Engage with other community members.\r\n  * Welcome others and are open-minded. Remember that this is a community we build together 💪.\r\n  \r\n \r\n\r\n  To get started, comment below with an introduction of yourself and tell us about what you do with this community.\r\n  \r\nYou can also join the #off-explorer channel on the Open Food Facts Slack: https://slack.openfoodfacts.org/\r\n\r\n<!--\r\n  For the maintainers, here are some tips 💡 for getting started with Discussions. We'll leave these in Markdown comments for now, but feel free to take out the comments for all maintainers to see.\r\n\r\n  📢 **Announce to your community** that Discussions is available! Go ahead and send that tweet, post, or link it from the website to drive traffic here.\r\n\r\n  🔗 If you use issue templates, **link any relevant issue templates** such as questions and community conversations to Discussions. Declutter your issues by driving community content to where they belong in Discussions. If you need help, here's a [link to the documentation](https://docs.github.com/github/building-a-strong-community/configuring-issue-templates-for-your-repository#configuring-the-template-chooser).\r\n\r\n  ➡️ You can **convert issues to discussions** either individually or bulk by labels. Looking at you, issues labeled “question” or “discussion”.\r\n-->\r\n",
+    "author": "VaiTon",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/discussions/193",
+    "isAnswered": null,
+    "time": "2025-03-03T00:17:52Z",
+    "updateTime": "2025-04-03T12:16:30Z",
+    "category": {
+      "name": "Announcements",
+      "emoji": "📣"
+    },
+    "participants": [
+      "teolemon"
+    ],
+    "repository": "openfoodfacts-explorer"
+  },
+  {
+    "source": "github",
+    "title": "What is the direction for this project?",
+    "text": "What is the overall goal for this project? Are we just cloning everything from the main website without thinking about it? Sometimes it feels like it to me. \n\nMaybe it is worth it, to stop for a second and really ask ourselves what do we want this thing to be. \n\nSome key characteristics that I would consider important:\n- focused!\n- fast\n- minimal\n- opinionated\n- stellar DevX\n\nThoughts?",
+    "author": "github-throwaway",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/discussions/385",
+    "isAnswered": null,
+    "time": "2025-03-28T16:38:38Z",
+    "updateTime": "2025-04-03T00:40:58Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "Bhavishya2601"
+    ],
+    "repository": "openfoodfacts-explorer"
+  },
+  {
+    "source": "github",
+    "title": "Performance metrics via CI/CD",
+    "text": "I think it might be valuable to add a performance check to our CI/CD pipeline. \n\nSomething like this comes to mind:\n\nhttps://www.sitespeed.io/documentation/sitespeed.io/continuous-integration/#github-actions",
+    "author": "github-throwaway",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/discussions/390",
+    "isAnswered": null,
+    "time": "2025-03-29T10:45:04Z",
+    "updateTime": "2025-03-29T10:45:04Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [],
+    "repository": "openfoodfacts-explorer"
+  },
+  {
+    "source": "github",
+    "title": "Deploying openfoodfacts-explorer at a subdomain compatible with SEO ?",
+    "text": "How about deploying openfoodfacts-explorer at a subdomain compatible with SEO, where we could mention to crawler that it's same as the original (and avoid crawling, and avoid penalties for duplicate content) ?\r\nSomething like:\r\nnew.openfoodfacts.org/product/12346788\r\n\r\nWe could then have a way for users to opt-in to the new experience.\r\njust thoughts at this point. cc @alexgarel \r\n",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/discussions/302",
+    "isAnswered": false,
+    "time": "2025-03-17T18:20:36Z",
+    "updateTime": "2025-03-26T12:11:16Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "VaiTon"
+    ],
+    "repository": "openfoodfacts-explorer"
+  },
+  {
+    "source": "github",
+    "title": "Potential GSOC applicants (repost from Slack)",
+    "text": "Potential GSOC applicants, just a comment:\r\n- jumping on requesting assignment on any new issue is not a very good indication of focus.\r\n- It’s not a race either. We have enough interesting issues for everyone.\r\n- I’d rather have someone take on a more significant issue, and be able to deal with ambiguity, and document/mockup/discuss their way out of ambiguity rather than creating issues with limited or no tangible impact.\r\n- You can go through the backlog, and find issues that are additive in terms of User Experience, and are well documented. If they are not, a good thing is to propose analysis, mockups and solutions. It’s as valuable as rushing to code something. We will evaluate of many criteria, code is only one of them.\r\n- You can of course ask precise questions with enough context. “Please guide me” is too wide a question. We want to see your autonomy. “This is the API that seems the right one. Can you confirm it ?” or “Where’s the API to display XYZ ?” are valid questions\r\n- Issue assignment is not a land grab, only one assignment at any given time. We value mergeability, craftsmanship, rather than having issues “vampirised” and having to un-assign weeks later. We will ask for updates, and un-assign the issues if no draft PR or progress update is available within a week",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/discussions/319",
+    "isAnswered": null,
+    "time": "2025-03-19T10:24:37Z",
+    "updateTime": "2025-03-19T10:24:37Z",
+    "category": {
+      "name": "Announcements",
+      "emoji": "📣"
+    },
+    "participants": [],
+    "repository": "openfoodfacts-explorer"
+  },
+  {
+    "source": "github",
+    "title": "Update checks to deploy PRs into a staging environment?",
+    "text": "Currently all PR check fail by default since permission is required to deploy them. Should we deploy every PR into its on environment on vercel? Might make testing easier?",
+    "author": "github-throwaway",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/discussions/210",
+    "isAnswered": null,
+    "time": "2025-03-04T22:38:03Z",
+    "updateTime": "2025-03-26T13:09:40Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "VaiTon"
+    ],
+    "repository": "openfoodfacts-explorer"
+  },
+  {
+    "source": "github",
+    "title": "Best way to deal with ansible and git based configuration",
+    "text": "I'm working Hetzner configuration with ansible (see [PR](https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/475)).\r\n\r\nI added a git_based_config role to checkout the -infrastructure repository on the server.\r\n\r\nNow I'm working on sanoid configuration role. While I want to create service ans timers with ansible, as always, I want the sanoid / syncoid configurations to be symlinks to /opt/openfoodfacts-infrastructure/confs/<machine-name>/sanoid/{sanoid.conf,syncoid-args.conf}\r\n\r\nI want this because it have the big advantage that we can make quick modifications on the servers and commit them.\r\n\r\nBut now at ansible creation time I'm faced with a small issue: I have the config files yet on my branch, while I need them on the server clone to be able to symlink them and test.\r\n\r\nI envision this solution to this:\r\n* as I run ansible playbook on a branch, I switch to this branch on the server clone\r\n* I have to first commit and push my config files before running ansible-playbook, so that the server can get them\r\n\r\n* maybe to avoid pitfalls, I might ensure:\r\n  * that my branch is up to date with \"develop\" at least on the confs/my-machine folder, or break asking for an update\r\n  * that distant server is not on yet another branch than this one or develop (work on two branches at the same time)\r\n\r\nThe only drawback is that at the end of operations, the server is left with its infrastructure clone pointing at this branch instead of develop.\r\n\r\nMaybe it could be solved with a workflow at merge time but:\r\n* It will need to understand which server to target based on file changes (feasible) \r\n* I'm really reluctant to give github workflow access to our proxmox hosts or full secrets in term of security\r\n\r\nUseful pointer: https://openfoodfacts.github.io/openfoodfacts-infrastructure/explain-server-config-in-git/",
+    "author": "alexgarel",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/discussions/478",
+    "isAnswered": null,
+    "time": "2025-04-24T10:28:19Z",
+    "updateTime": "2025-04-24T16:32:44Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "alexgarel",
+      "stephanegigandet"
+    ],
+    "repository": "openfoodfacts-infrastructure"
+  },
+  {
+    "source": "github",
+    "title": "Create few good practices for our infrastucture",
+    "text": "I created this page as a start: https://github.com/openfoodfacts/openfoodfacts-infrastructure/wiki\r\n\r\nEverything can be discussed.\r\n\r\nHere are some practices we could talk about:\r\n\r\n0. Few and simple rules have a better chance to be followed.\r\nWe could prioritise as W3C use to, with keywords “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL”.\r\n\r\n1. Disable password authentication in favour of SSH keys\r\nUsing SSH key IS really simpler, I can write a quick documentation for beginners.\r\n\r\n2. Disable root login over SSH\r\n\r\n3. Working with root or not\r\n\r\n4. Taking care of production resources: always using \"nice\" for scripts manually launched\r\nStéphane's tip: just use `nice ./mycommand -arg1 foo -arg2 bar` (`nice` default to lower the priority).\r\n\r\n5. When possible, use techs that the majority of people knows\r\nOur infrastructure is not so big. Low techs ensure it will be maintainable.\r\nExample: good old scripts vs Ansible.\r\n\r\n6. Standardize some core tools\r\nExample: our standard distro is Linux Debian (well suited with point 5).\r\n\r\n6. Basic tools to install on each machine\r\nExample: htop, goaccess...\r\n\r\n7. Log every sys action on /root/changelog.log\r\n\r\n8. Add important commands beeing played to /root/changelog.log\r\nSo everybody knows what you have done concretly.\r\n\r\n9. Backups?\r\n\r\n10. Monitoring?\r\n\r\n",
+    "author": "CharlesNepote",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/discussions/375",
+    "isAnswered": null,
+    "time": "2020-11-26T12:25:12Z",
+    "updateTime": "2024-08-03T07:39:24Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [],
+    "repository": "openfoodfacts-infrastructure"
+  },
+  {
+    "source": "github",
+    "title": "Shouldn't we make Search-A-Licious compatible with MCP ?",
+    "text": "Shouldn't we make Search-A-Licious compatible with MCP ? \r\nhttps://www.elastic.co/search-labs/blog/model-context-protocol-elasticsearch",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/search-a-licious/discussions/286",
+    "isAnswered": false,
+    "time": "2025-04-07T10:08:00Z",
+    "updateTime": "2025-04-25T11:44:52Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "RickWong"
+    ],
+    "repository": "search-a-licious"
+  },
+  {
+    "source": "github",
+    "title": "Idea: Adding StoryBook to Web Components",
+    "text": "> Write stories once, reuse everywhere\r\n\r\nHi Team,\r\nI am proposing to use [Storybook](https://storybook.js.org/) for developing and showcasing our web components.\r\n\r\nWhy Storybook?\r\n- Streamlined Development: Build and test components in isolation, ensuring high quality before integration.\r\n- Improved Collaboration: Provides a visual catalog, making it easier for all stakeholders to understand and contribute.\r\n- Reusable Stories: Saves variations of components, which can be reused for documentation and testing.\r\n- [Storybook keeps track of every story](https://storybook.js.org/docs/get-started/why-storybook#storybook-keeps-track-of-every-story)\r\n- Rich Add-ons: Access tools for accessibility checks, performance insights, and more.\r\n\r\nRead more here on their official website: https://storybook.js.org/docs/get-started/why-storybook\r\n\r\nStorybook is an industry wide standard for showcasing the components. And there is a separate section on the Storybook official website showcasing StoryBook from all popular companies: https://storybook.js.org/showcase \r\n\r\nThis tool aligns perfectly with our goals of efficiency and clarity across multiple projects. I believe integrating Storybook will enhance our workflow and make component reuse more seamless.\r\n\r\nLet me know your thoughts!\r\n\r\ncc: @Kout95 , @alexgarel , @teolemon \r\n\r\nExample StoryBook:\r\n\r\n<img width=\"1346\" alt=\"Screenshot 2025-04-10 at 7 55 06 PM\" src=\"https://github.com/user-attachments/assets/07d0e36b-2044-47d0-8a3d-574ac7fd460c\" />",
+    "author": "heymitali",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/discussions/106",
+    "isAnswered": null,
+    "time": "2025-04-10T14:29:23Z",
+    "updateTime": "2025-04-11T13:42:09Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "heymitali",
+      "heymitali"
+    ],
+    "repository": "openfoodfacts-webcomponents"
+  },
+  {
+    "source": "github",
+    "title": "Create a collection of folksonomy web component",
+    "text": "Currently folksonomy is displayed in product opener using a js script.\r\n\r\nWe would like to move to webcomponents to be able to integrate it in various applications.\r\n\r\nThere are various questions to be answered:\r\n1. do we develop it in this repository or in folkosnomy_api repository\r\n2. what is the organisation in web-components (avoid being too monolithic)\r\n3. what is the roadmap",
+    "author": "alexgarel",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/discussions/32",
+    "isAnswered": null,
+    "time": "2025-03-14T09:41:04Z",
+    "updateTime": "2025-03-19T12:05:11Z",
+    "category": {
+      "name": "Announcements",
+      "emoji": "📣"
+    },
+    "participants": [
+      "alexgarel",
+      "ekas-7",
+      "ekas-7",
+      "ekas-7",
+      "alexgarel",
+      "Sunhao86",
+      "Sunhao86",
+      "alexgarel"
+    ],
+    "repository": "openfoodfacts-webcomponents"
+  },
+  {
+    "source": "github",
+    "title": "Integrating OpenFoodFacts Android Team",
+    "text": "Hello,\r\nI am Nejma CHAABANI from Astek company.\r\nI can help you on two topics: automated testing and Android kotlin JetpackCompose. Regarding the latter, I had discussions about it in September 2022. Do you think it is still relevant to work on it? And which Android kotlin project can I work on it?",
+    "author": "NejmaCHAABANI",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/discussions/5350",
+    "isAnswered": null,
+    "time": "2025-02-24T10:24:05Z",
+    "updateTime": "2025-02-24T10:24:06Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [],
+    "repository": "openfoodfacts-androidapp"
+  },
+  {
+    "source": "github",
+    "title": "Google Play OBF app version",
+    "text": "Google Play Market still offers version 2.7.0 of Open Beauty Facts application, and latest comment there says app wasn't working well. Update on current 3.2.9 version would definitely improve app rating there.\r\n\r\nAdditionally OBF app (fresh version, compiled from source code) tries to load page \"https://ssl-api.openbeautyfacts.org/data/invalid-barcodes.json\" on launch, but its code is 404 and app shows wrong Toast about missing Internet connection (however, adding items to database works). App expects to see JSON there, maybe uploading an empty one (or the one from OpenFoodFacts from similar link) on the server could fix the issue.\r\n![Screenshot_2020-04-14-22-45-49-682_openfoodfacts github scrachx openbeauty](https://user-images.githubusercontent.com/11160215/79272629-001e2a00-7ea2-11ea-9418-39d951c4a159.png)\r\n",
+    "author": "sashabrava",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/discussions/3964",
+    "isAnswered": false,
+    "time": "2020-04-14T20:49:10Z",
+    "updateTime": "2024-05-15T21:01:38Z",
+    "category": {
+      "name": "Q&A",
+      "emoji": "🙏"
+    },
+    "participants": [
+      "teolemon",
+      "teolemon",
+      "sashabrava"
+    ],
+    "repository": "openfoodfacts-androidapp"
+  },
+  {
+    "source": "github",
+    "title": "WearOS (formerly Android Wear) support",
+    "text": "NB: This is a feature to implement later\r\n\r\nSmartwatches don't have a camera to scan a barcode. \r\nTo enable product lookup, we should reuse the search by barcode views (typing the barcode, digit by digit)\r\nThe product view also needs to be simplified and stretched down.\r\nIt would probably make sense to implement a complete calorie tracking system before thinking of that feature.",
+    "author": "teolemon",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/discussions/3962",
+    "isAnswered": null,
+    "time": "2016-11-14T09:37:21Z",
+    "updateTime": "2024-07-27T10:45:49Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "teolemon",
+      "teolemon",
+      "teolemon"
+    ],
+    "repository": "openfoodfacts-androidapp"
+  },
+  {
+    "source": "github",
+    "title": "Export data on a daily basis",
+    "text": "## Case 1: public exports\r\nSome usages need a data export instead of using the API:\r\n* as a reuser, when you want to understand what have been already collected\r\n* as a reuser, when your use case does not need realtime API calls\r\n* as a developer, when you want to test your code with real data\r\n\r\nThe export should allow:\r\n* to read or manipulate the data with common tools\r\n* to easily import these data into the dev environment\r\n\r\nThe export would be triggered once a day, with a cron job, not by the API.\r\n\r\n## Case 2: private exports\r\nFolksonomy Engine also offers the possibility to store private data (currently only through the API). Users could also want to export their own private data.\r\n\r\n## Implementation\r\n\r\nI think we should start by public exports, which are the most common need. \r\n\r\nAs a start, we could export the data into CSV, which remains the easiest way to import data into many tools such as LibreOffice, Excel, etc. We should also provide the data model, to let people reuse the data into common data tools or databases. We should also provide a script allowing to import these data into a dev environment.\r\nWe could also provide a PostgreSQL dump to ease the import into the dev environment (but this one should not contain private data).\r\n\r\nOn a second step, which is not very urgent, we could:\r\n* either export the data into other formats, such as Parquet or JSONL\r\n* either provide scripts allowing to generate this formats locally\r\n\r\n",
+    "author": "CharlesNepote",
+    "link": "https://github.com/openfoodfacts/folksonomy_api/discussions/262",
+    "isAnswered": null,
+    "time": "2025-03-18T13:04:25Z",
+    "updateTime": "2025-04-13T18:07:02Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "kirtanchandak",
+      "VaiTon"
+    ],
+    "repository": "folksonomy_api"
+  },
+  {
+    "source": "github",
+    "title": "Conventions and UIs for grouped properties-values",
+    "text": "## Use cases\r\n\r\n### Properties related to revisions\r\nSometimes we need to tag some versions of a product. For example, we would like to express that there is [a data issue on the revision 310 of a product](https://world.openfoodfacts.org/product/3017620422003/nutella-ferrero?rev=310), and this issue is now fixed.\r\n\r\n### Reusing a group of property with different values\r\nSometimes we need to give context to some properties. For example we could want to monitor recalled products. But a product can be recalled more than one time. Having [`recalled_product=yes`](https://world.openfoodfacts.org/property/recalled_product) does not have much context: is it finished? when? For a given recall, we would like to know many more information related to this particular recall.\r\n\r\n## Suggestion 1\r\nWe can multiply the properties like this:\r\n* `data_issue_rev_310=Wrong serving size`\r\n* `data_issue_rev_310=Fixed`\r\n* `data_issue_rev_421=Non existing country`\r\n* `product_recall_date_1=2020-06-01`\r\n* `product_recall_country_1=France`\r\n* `product_recall_date_2=2023-12-01`\r\n* `product_recall_country_2=Italy`\r\n\r\n## Suggestion 2\r\nWe can store the revision in the database.\r\n`3749372783457:310` => `data_issue=Wrong serving size`\r\n\r\nBut we need to modify both the database and the interfaces. And this solution does not solve the problem when properties are reused.\r\n\r\n## Suggestion 3\r\nWe can use the namespaces:\r\n* `data_issue:rev_310=Wrong serving size`\r\n* `data_issue:rev_310=Fixed`\r\n* `product_recall:date:1=2020-06-01`\r\n* `product_recall:country:1=France`\r\n* `product_recall:date:2=2023-12-01`\r\n* `product_recall:country:2=Italy`\r\n\r\nWe can even use the namespace to tag more things on a specific revision. Eg.\r\n* `data_issue:rev_310:1=Wrong serving size`\r\n* `data_issue:rev_310:2=Non existing countries`\r\n* `data_issue:rev_310:1=Fixed`\r\n\r\nWith suggestion 3, we would only need to modify interfaces: we should be able to list all the data_issues, and not just the ones corresponding to `data_issue:rev_310`.\r\n",
+    "author": "CharlesNepote",
+    "link": "https://github.com/openfoodfacts/folksonomy_api/discussions/189",
+    "isAnswered": null,
+    "time": "2024-01-03T18:05:12Z",
+    "updateTime": "2025-03-09T05:28:59Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "alexgarel",
+      "alexgarel",
+      "suchithh"
+    ],
+    "repository": "folksonomy_api"
+  },
+  {
+    "source": "github",
+    "title": "Is this project still active/relevant?",
+    "text": "Hello folks, \r\n\r\nI was considering contributing to the project, but I'm wondering if the project is still active or relevant. There's also the [Flutter/Dart mobile app](https://github.com/openfoodfacts/smooth-app/), which says it's for both Android and iOS, which makes it look like it replaces this project.\r\n\r\nThere's some recent activity, but most of that is work in configuration files, with the last real code contribution made in January 2024, as opposed to the other project, which is seeing some great activity.\r\n\r\nAny update you can provide regarding this?",
+    "author": "SpacyRicochet",
+    "link": "https://github.com/openfoodfacts/openfoodfacts-swift/discussions/24",
+    "isAnswered": null,
+    "time": "2024-10-04T18:04:43Z",
+    "updateTime": "2024-10-05T14:37:15Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [
+      "teolemon"
+    ],
+    "repository": "openfoodfacts-swift"
+  },
+  {
+    "source": "github",
+    "title": "where to buy?",
+    "text": "It would be nice to also see the markets and places to buy a product.",
+    "author": "Clemens-Ratte-Polle",
+    "link": "https://github.com/orgs/openfoodfacts/discussions/46",
+    "isAnswered": null,
+    "time": "2025-04-06T22:25:34Z",
+    "updateTime": "2025-04-06T22:25:35Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [],
+    "repository": ".github"
+  },
+  {
+    "source": "github",
+    "title": "Open Food Facts Days 2024 - Videos 🍿",
+    "text": "Hi everyone!\r\n\r\nIf you missed our annual event with the community (Open Food Facts Days 2024), all sessions are now available on our YouTube channel: https://www.youtube.com/watch?v=5D--XJL2OzI&list=PLjAH-USadsF1iZsIFOhYicWLkwA2Zfj5l\r\n\r\n<img width=\"1190\" alt=\"Screenshot 2024-09-25 at 09 13 05\" src=\"https://github.com/user-attachments/assets/7cbb171d-aa5d-4f30-a31a-853cb8f1f872\">\r\n",
+    "author": "g123k",
+    "link": "https://github.com/orgs/openfoodfacts/discussions/36",
+    "isAnswered": null,
+    "time": "2024-09-25T07:13:25Z",
+    "updateTime": "2025-03-20T07:26:24Z",
+    "category": {
+      "name": "General",
+      "emoji": "💬"
+    },
+    "participants": [],
+    "repository": ".github"
+  },
+  {
+    "source": "github",
+    "title": "Add country of origin to products?",
+    "text": "Hey, how difficult would it be to add the country of origin to the product overview?",
+    "author": "KayleeTheMech",
+    "link": "https://github.com/orgs/openfoodfacts/discussions/43",
+    "isAnswered": null,
+    "time": "2025-03-11T10:55:22Z",
+    "updateTime": "2025-03-11T10:55:24Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [],
+    "repository": ".github"
+  },
+  {
+    "source": "github",
+    "title": "Find and Compare Products to find alternatives",
+    "text": "Something that is really missing in my opinion is the possibility to compare products and possibly find alternatives. For example, if I scan a product and see that it contains maltitol or collagen, it would be great to find a comparable product from the same category (e.g. a protein bar that doesn't contain maltitol or collagen). What do you think? ",
+    "author": "Michi01",
+    "link": "https://github.com/orgs/openfoodfacts/discussions/42",
+    "isAnswered": null,
+    "time": "2025-02-14T10:49:40Z",
+    "updateTime": "2025-02-14T10:49:41Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [],
+    "repository": ".github"
+  },
+  {
+    "source": "github",
+    "title": "Add FODMAP filters to all apps and content",
+    "text": "### Problem\r\n\r\nPeople with IBS do not have a good open source and free way of alleviating their condition. OpenFoodFacts could help these people with their disability and finding foods that do not flare up their disability.\r\n",
+    "author": "synryn",
+    "link": "https://github.com/orgs/openfoodfacts/discussions/33",
+    "isAnswered": null,
+    "time": "2024-08-24T23:50:14Z",
+    "updateTime": "2024-08-26T21:10:55Z",
+    "category": {
+      "name": "Ideas",
+      "emoji": "💡"
+    },
+    "participants": [
+      "teolemon",
+      "synryn"
+    ],
+    "repository": ".github"
   }
 ]

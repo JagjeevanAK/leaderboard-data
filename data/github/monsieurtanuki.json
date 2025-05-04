@@ -13848,7 +13848,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6428",
       "title": "Starting August 20, 2025, no more Amazon Appstore on your Android device",
-      "stale_for": 51,
+      "stale_for": 52,
       "labels": [
         "distribution",
         "Amazon AppStore"
@@ -13863,7 +13863,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6069",
       "title": "Share an image as a proof with Smoothie",
-      "stale_for": 124,
+      "stale_for": 125,
       "labels": [
         "Prices",
         "Share to Open Food Facts"
@@ -13889,7 +13889,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1011",
       "title": "New Prices features: create location, get products",
-      "stale_for": 148,
+      "stale_for": 149,
       "labels": [
         "💸 Prices"
       ]
