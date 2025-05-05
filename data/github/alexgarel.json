@@ -10261,37 +10261,37 @@
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/1557",
       "title": "Ubuntu 20.04 retired from Github CI while generate-docs.yml depends on it",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-exports/issues/35",
       "title": "JSONL not imported correctly in duckdb",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/taxonomy-editor/issues/575",
       "title": "See if there is a problem with commas",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/taxonomy-editor/issues/574",
       "title": "Refactor code to use a label and a path for taxonomies",
-      "stale_for": 9,
+      "stale_for": 10,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/nutripatrol/issues/88",
       "title": "Nutripatrol should be available on every flavors domain name",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/288",
       "title": "Raise or at least warn if using an unknown field in a query (should catch labels_tags:en:fair-trade)",
-      "stale_for": 24,
+      "stale_for": 25,
       "labels": []
     },
     {
@@ -10303,7 +10303,7 @@
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/1539",
       "title": "Add bounding box to nutrition extraction",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": [
         "🎯 P1",
         "nutrition prediction"
@@ -10312,7 +10312,7 @@
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/1533",
       "title": "Make an insight from ingredients crop detection",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": [
         "🎯 P1"
       ]
@@ -10320,7 +10320,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/issues/37",
       "title": "Create a web-components to validate ingredients crops",
-      "stale_for": 40,
+      "stale_for": 41,
       "labels": [
         "ingredients"
       ]
@@ -10328,7 +10328,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/issues/31",
       "title": "Create a webcomponent to display knowledge panels",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": [
         "📖 Knowledge Panels"
       ]
@@ -10336,7 +10336,7 @@
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/282",
       "title": "Change Searchbar to be a search-a-licious gobal component, and make a simple search-bar component",
-      "stale_for": 58,
+      "stale_for": 59,
       "labels": [
         "frontend"
       ]
@@ -10344,19 +10344,19 @@
     {
       "link": "https://github.com/openfoodfacts/hunger-games/issues/1151",
       "title": "Enable fixing logo if they are wrong",
-      "stale_for": 58,
+      "stale_for": 59,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/1527",
       "title": "Time out problem on logo knn search in elasticsearcf",
-      "stale_for": 65,
+      "stale_for": 66,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6392",
       "title": "Continue the work on using straight \"test\" server when provided and not \"type.Food\" instance",
-      "stale_for": 54,
+      "stale_for": 55,
       "labels": [
         "🎯 P1",
         "OxF"
@@ -10365,7 +10365,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/315",
       "title": "Add support for Folksonomy engine into the Python SDK",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": [
         "Folksonomy Engine"
       ]
@@ -10373,7 +10373,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11371",
       "title": "Eventually restore the nutrients stats per categories",
-      "stale_for": 81,
+      "stale_for": 82,
       "labels": [
         "averages by categories"
       ]
@@ -10387,13 +10387,13 @@
     {
       "link": "https://github.com/openfoodfacts/nutripatrol/issues/78",
       "title": "Add filters on the ticket list",
-      "stale_for": 103,
+      "stale_for": 104,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/455",
       "title": "Make a small script (or tool) to analyze nginx logs latency",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": [
         "NGINX"
       ]
@@ -10401,7 +10401,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/454",
       "title": "Serve images from ovh3 and ks1",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": [
         "🖼️ Images",
         "ovh3",
@@ -10411,13 +10411,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/453",
       "title": "Study activation of http2 in nginx to speed up static assets + small images loading",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/452",
       "title": "Minion is not running for obf, opf and opff",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": [
         "🐾 Open Pet Food Facts",
         "🧴 Open Beauty Facts",
@@ -10427,7 +10427,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11224",
       "title": "Simplify the logging configuration by using variables",
-      "stale_for": 114,
+      "stale_for": 115,
       "labels": [
         "infrastructure"
       ]
@@ -10435,7 +10435,7 @@
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/273",
       "title": "Change redis queue name for open food facts and filter by object type",
-      "stale_for": 115,
+      "stale_for": 116,
       "labels": [
         "🎯 P0"
       ]
@@ -10443,13 +10443,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11221",
       "title": "taxonomies and langs should be assets published with revisions",
-      "stale_for": 115,
+      "stale_for": 116,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/449",
       "title": "Cleanup containers mount points for opf / obf / opff / off",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": [
         "container",
         "🐾 Open Pet Food Facts",
@@ -10462,13 +10462,13 @@
     {
       "link": "https://github.com/openfoodfacts/taxonomy-editor/issues/558",
       "title": "Make search results sortable",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11139",
       "title": "Ensure json are correctly re-created on build taxonomies",
-      "stale_for": 138,
+      "stale_for": 139,
       "labels": [
         "🧬 Taxonomies - Rebuild"
       ]
@@ -10476,7 +10476,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-exports/issues/21",
       "title": "Generate Parquet and CSV delta",
-      "stale_for": 23,
+      "stale_for": 24,
       "labels": []
     }
   ],

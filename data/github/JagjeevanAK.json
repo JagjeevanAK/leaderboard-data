@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-05-05T01:19:57.000Z",
+  "last_updated": "2025-05-05T14:25:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11847",
+      "time": "2025-05-05T14:25:20.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11847#issuecomment-2851186686",
+      "text": "Hey @stephanegigandet,\r\ncan you help to understand why unit test's are failing here ? as I have not touched the perl code. \r\nI think using `/update_test` will not be good in this senario."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/robotoff#1558",
+      "time": "2025-05-05T14:15:40.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1558#issuecomment-2851154388",
+      "text": "This PR is ready to merge. solve the issue by updating the h5py verison."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/robotoff#1558",
+      "time": "2025-05-05T13:42:46.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1558#issuecomment-2851057537",
+      "text": "Hey @alexgarel, I have updated the few changes and removed the matrix strategy form the action.\r\n\r\nbut the thing is that when python version is 3.12 then things are breaking, main issue is with HDF5 lib.\r\n\r\nerror logs :\r\n\r\n```typescript\r\n304 | error: Unable to load dependency HDF5, make sure HDF5 is installed properly\r\n305 | error: libhdf5.so: cannot open shared object file: No such file or directory\r\n```"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/robotoff#1558",
@@ -300,7 +321,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11770",
       "title": "Image of Schema of the ingredients flow in get-ingredient-related-analysis.md is missing",
-      "stale_for": 24,
+      "stale_for": 25,
       "labels": []
     }
   ],

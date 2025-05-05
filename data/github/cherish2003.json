@@ -1,6 +1,35 @@
 {
-  "last_updated": "2025-05-04T23:05:53.000Z",
+  "last_updated": "2025-05-05T14:06:12.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6488",
+      "time": "2025-05-05T14:06:12.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6488#issuecomment-2851126536",
+      "text": "@g123k can you kindly review this pr as well and let know any further changes required 🙂"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6515",
+      "time": "2025-05-05T13:44:34.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6515#issuecomment-2851062647",
+      "text": "@g123k i have requested changes as said by the @teolemon can you kindly review the pr"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6452",
+      "time": "2025-05-05T13:07:41.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6452",
+      "text": "feat: add packaging photo access in packaging components screen",
+      "turnaround_time": 4284635
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6452",
+      "time": "2025-05-05T12:23:28.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6452#issuecomment-2850825072",
+      "text": "@g123k @teolemon  i have made the required change long ago can you kindly look into it  "
+    },
     {
       "type": "pr_merged",
       "title": "openfoodfacts/smooth-app#6505",

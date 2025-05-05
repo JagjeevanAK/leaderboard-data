@@ -1,6 +1,13 @@
 {
-  "last_updated": "2022-04-09T15:55:40Z",
+  "last_updated": "2025-05-05T13:22:59.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/taxonomy-editor#579",
+      "time": "2025-05-05T13:22:59.000Z",
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/pull/579#issuecomment-2850998568",
+      "text": "@alexgarel Do any of the [sample JSON files](https://github.com/openfoodfacts/taxonomy-editor/tree/fix-stopwords/backend/sample) need changes? Is it still being used?"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-server#6578",
@@ -744,6 +751,68 @@
       "text": "fix: \"Barcode limit: 13 digits or more?\""
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/issues/205",
+      "title": "Properties not shown after adding them while editing",
+      "stale_for": 198,
+      "labels": [
+        "frontend"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/issues/194",
+      "title": "Languages shown multiple times while editing",
+      "stale_for": 198,
+      "labels": [
+        "frontend"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/taxonomy-editor/issues/108",
+      "title": "Support for addition of synonyms and stopwords in frontend",
+      "stale_for": 198,
+      "labels": [
+        "frontend"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/taxonomy-editor/issues/75",
+      "pr_link": "https://github.com/openfoodfacts/taxonomy-editor/pull/76"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/taxonomy-editor/issues/40",
+      "pr_link": "https://github.com/openfoodfacts/taxonomy-editor/pull/35"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/taxonomy-editor/issues/38",
+      "pr_link": "https://github.com/openfoodfacts/taxonomy-editor/pull/76"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/taxonomy-editor/issues/34",
+      "pr_link": "https://github.com/openfoodfacts/taxonomy-editor/pull/41"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/taxonomy-editor/issues/33",
+      "pr_link": "https://github.com/openfoodfacts/taxonomy-editor/pull/35"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/taxonomy-editor/issues/25",
+      "pr_link": "https://github.com/openfoodfacts/taxonomy-editor/pull/26"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/taxonomy-editor/issues/24",
+      "pr_link": "https://github.com/openfoodfacts/taxonomy-editor/pull/26"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/97",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/99"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/95",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-python/pull/102"
+    }
+  ]
 }

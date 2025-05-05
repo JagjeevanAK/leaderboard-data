@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-08T07:02:16Z",
+  "last_updated": "2025-05-05T11:44:18.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#330",
+      "time": "2025-05-05T11:44:18.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/330#issuecomment-2850732475",
+      "text": "@VaiTon  Can you review this PR, and let me know if you need any changes"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-explorer#231",
@@ -373,6 +380,123 @@
       "text": "feat: implemented function to check if given barcode is EAN13 code or not"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/519",
+      "title": "Move rotate functionality to when the image is in full screen",
+      "stale_for": 3,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/513",
+      "title": "Image upload functionality",
+      "stale_for": 4,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/402",
+      "title": "user can edit the product details even when he's not logged in",
+      "stale_for": 32,
+      "labels": [
+        "User management",
+        "✏️ Editing"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/398",
+      "title": "Alignment issue while rotating product image",
+      "stale_for": 22,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/309",
+      "title": "Delete language in product edit page",
+      "stale_for": 37,
+      "labels": [
+        "✏️ Editing"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/308",
+      "title": "Feature to Add new Products",
+      "stale_for": 46,
+      "labels": [
+        "Product addition"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/512",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/515"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/501",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/502"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/498",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/506"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/496",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/497"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/494",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/495"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/487",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/488"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/458",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/460"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/452",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/453"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/446",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/455"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/440",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/455"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/282",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/293"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/256",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/261"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/247",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/263"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/237",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/289"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/236",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/241"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/230",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/242"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/228",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/248"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/219",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/244"
+    }
+  ]
 }

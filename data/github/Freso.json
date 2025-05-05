@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-04T21:38:02.000Z",
+  "last_updated": "2025-05-05T09:06:04.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11852",
+      "time": "2025-05-05T09:06:04.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11852#issuecomment-2850361932",
+      "text": "@stephanegigandet Is it possible to have `incompatible_with:en: ingredients:en:dairy` and match that against labels with `ingredients:en: en:dairy` (ideally as well as children of `ingredients:en:dairy`)? This PR was split out of my vegan label tightening, where I’ve also marked `en: Contains milk` as a child of `en: Non-vegan`, which will, in turn, cause all of the milk labels to get marked as not vegan due to the label override code, even if they have no ingredients listed or all (non-vegan) ingredients are unknown. I _could_ mark all the milk labels with `< en:Non-vegan` directly, but this felt like a better approach.\r\n\r\n(I also realise that this would all be better once we store derived and actually entered items separately, but I’m not sure how far off in the future that is, ie., whether to wait for this to manifest.)"
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-server#11855",
@@ -754,7 +761,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1498",
       "title": "Link products to country site of shop location",
-      "stale_for": 23,
+      "stale_for": 24,
       "labels": []
     },
     {
@@ -768,7 +775,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11572",
       "title": "Unrecognised ingredient (sv): “Rainforest Alliance-certifierad fettreducerat kakaopulver”",
-      "stale_for": 43,
+      "stale_for": 44,
       "labels": [
         "labels",
         "🥗 Ingredients"

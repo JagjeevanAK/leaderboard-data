@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-05-03T20:42:04.000Z",
+  "last_updated": "2025-05-05T08:46:11.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11850",
+      "time": "2025-05-05T08:46:11.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11850",
+      "text": "taxonomy: Taxonomy/improve taxonomies for croatia",
+      "turnaround_time": 244165
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-server#1189",
@@ -3072,13 +3080,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11815",
       "title": "CIQUAL to cover processing",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/292",
       "title": "api.facet.get returns single page",
-      "stale_for": 60,
+      "stale_for": 61,
       "labels": [
         "Facets"
       ]
@@ -3086,7 +3094,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9616",
       "title": "bug: traces are not correctly parsed",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "🥗  Ingredients",
         "ingredients analysis",

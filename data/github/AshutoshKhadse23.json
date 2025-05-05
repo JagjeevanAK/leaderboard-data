@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-04T13:44:55.000Z",
+  "last_updated": "2025-05-05T10:18:39.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-05T10:18:39.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2850545798",
+      "text": "> Hi @AshutoshKhadse23! I cannot comment everything, but on your way to OOP you experienced some confusion (like casually returning empty `SizedBox()`) and \"just-in-case\"ism (like a `refresh` method that is NEVER used).\r\n\r\nI am extremely embarrassed by it."
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6561",
@@ -136,6 +143,15 @@
       "text": "feat: challenge list and retrive"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6575",
+      "title": "Search Results Not Updating After Changing Country Without App Restart",
+      "stale_for": 2,
+      "labels": [
+        "🔎 Search"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

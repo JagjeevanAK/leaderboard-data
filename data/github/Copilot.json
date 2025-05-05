@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-04T20:15:44.000Z",
+  "last_updated": "2025-05-05T09:49:39.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-05T09:49:39.000Z",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#125",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/125#pullrequestreview-2814317528",
+      "text": "feat: start to add news-feed by @teolemon"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-05T09:18:19.000Z",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#117",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/117#pullrequestreview-2814249478",
+      "text": "feat: Folksonomy Editor Advanced Features"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-04T20:15:44.000Z",
