@@ -3381,7 +3381,7 @@
     {
       "link": "https://github.com/openfoodfacts/hunger-games/issues/1102",
       "title": "Nutrition: Adapt values to units",
-      "stale_for": 139,
+      "stale_for": 140,
       "labels": [
         "Nutrition game"
       ]
@@ -3409,7 +3409,7 @@
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/1339",
       "title": "Logo search does not support the `taxonomy_value` field",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "logos & labels"
       ]
@@ -3435,7 +3435,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9156",
       "title": "Search request returns an empty array when done on world",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "timeouts"
       ]
@@ -3476,7 +3476,7 @@
     {
       "link": "https://github.com/openfoodfacts/hunger-games/issues/195",
       "title": "Add integration with openfoodfacts-events to display your user stats",
-      "stale_for": 962,
+      "stale_for": 963,
       "labels": [
         "on hold"
       ]
@@ -3510,7 +3510,7 @@
     {
       "link": "https://github.com/openfoodfacts/hunger-games/issues/70",
       "title": "Nutrition Game (Tracker)",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": [
         "🎯 P1",
         "Nutrition game"

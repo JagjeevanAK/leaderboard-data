@@ -9,17 +9,6 @@
       "text": "@stephanegigandet Here's one:\n\nhttps://world.openfoodfacts.org/product/6416453015432/milk-chocolate-dumle-fazer\n\n- Old revision works fine: https://world.openfoodfacts.org/product/6416453015432/milk-chocolate-dumle-fazer?rev=21\n- Current is busted: https://world.openfoodfacts.org/product/6416453015432/milk-chocolate-dumle-fazer?rev=22\n\nOn the edit screen it looks fine right now, I bet editing it would unbreak it but I'll let you try and reproduce the error first.\n\n\n"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/5230",
-      "title": "Inconsistencies with the \"Green Dot\" label/packaging code",
-      "stale_for": 198,
-      "labels": [
-        "📦 Packaging",
-        "labels",
-        "⏰ Stale"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }

@@ -11571,7 +11571,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6457",
       "title": "Create a Compatibility Score explainer",
-      "stale_for": 44,
+      "stale_for": 45,
       "labels": [
         "good first issue",
         "⚙️🥗 Food preferences"
@@ -11580,7 +11580,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6456",
       "title": "Revamp the \"user not connected\" popup",
-      "stale_for": 46,
+      "stale_for": 47,
       "labels": [
         "good first issue",
         "👥 User management"
@@ -11598,7 +11598,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1038",
       "title": "TypeError: type 'int' is not a subtype of type 'String?' in type cast",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
@@ -11624,7 +11624,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6292",
       "title": "\"Slow\" background tasks never start",
-      "stale_for": 93,
+      "stale_for": 94,
       "labels": [
         "background tasks"
       ]
@@ -11632,7 +11632,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6247",
       "title": "My proofs: Client Exception",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": [
         "Prices",
         "Prices - Proofs"
@@ -11641,7 +11641,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6223",
       "title": "The \"Bleu Blanc Coeur\" SVG is not supported by `flutter_svg`",
-      "stale_for": 104,
+      "stale_for": 105,
       "labels": []
     },
     {
@@ -11688,7 +11688,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6050",
       "title": "Gallery: allow to change the default language of a product",
-      "stale_for": 32,
+      "stale_for": 33,
       "labels": [
         "🎯 P1",
         "🖼️ Photos - Photo manager",
@@ -11712,7 +11712,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5937",
       "title": "Backup on Android : I need your help!",
-      "stale_for": 159,
+      "stale_for": 160,
       "labels": [
         "Database backup"
       ]
@@ -11765,7 +11765,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5819",
       "title": "New UI for \"Profile\"",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": [
         "⚙️ Settings",
         "✨ 2024 the big redesign"

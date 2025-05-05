@@ -257,7 +257,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-events/issues/306",
       "title": "events.openfoodfacts.net is BAD GATEWAY",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
@@ -281,7 +281,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/722",
       "title": "Update the Images for Numbers in the Press Page",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "🗞️ Press",
         "🗞️ Press - numbers-selected"
@@ -290,7 +290,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-marketing/issues/36",
       "title": "answer to reviews on Play Stores",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     },
     {
@@ -305,19 +305,19 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-marketing/issues/34",
       "title": "Create a \"Digital Public Good\" include in the press page",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/721",
       "title": "Migrate the Google Podcast icon to YouTube Podcast icon",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/719",
       "title": "TODO in lang/en/texts/nutriscore/nutriscore-new-formula-presskit.html",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "🚥 Nutri-Score",
         "Nutri-Score v2"

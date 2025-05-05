@@ -104,7 +104,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/830",
       "title": "Incorrect product name in jsonL dump",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -116,7 +116,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/446",
       "title": "Disappearing images",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "🖼️ Image upload"
       ]
@@ -124,7 +124,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/302",
       "title": "Allow to rank/filter the products by # of photos",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "🔎  Search",
         "✏️ Editing",
@@ -145,7 +145,7 @@
     {
       "link": "https://github.com/openfoodfacts/openbeautyfacts/issues/7",
       "title": "Fix the Data download page on Open Beauty Facts",
-      "stale_for": 360,
+      "stale_for": 361,
       "labels": [
         "OBF-ification"
       ]
@@ -172,7 +172,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/182",
       "title": "Picture not uploaded through \"add a product\" when the page already exists",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "🖼️ Image upload",
         "P3"
@@ -181,7 +181,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/179",
       "title": "Text formatting for allergens doesn't work properly",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "🧬 Taxonomies",
         "🥜 Allergens",
@@ -202,7 +202,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/169",
       "title": "Searching by packager code doesn't work in the Advanced Search",
-      "stale_for": 198,
+      "stale_for": 199,
       "labels": [
         "🔎  Search",
         "📍🏭 Packager codes",

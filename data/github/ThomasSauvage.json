@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-04-17T15:46:59Z",
+  "last_updated": "2025-05-05T08:29:12.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#474",
+      "time": "2025-05-05T08:29:12.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/474#issuecomment-2850268376",
+      "text": "Yes, that's fixed. I lost more time on this typo that I will admit 😅"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-infrastructure#474",

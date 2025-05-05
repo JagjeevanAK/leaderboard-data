@@ -136,15 +136,6 @@
       "text": "feat: challenge list and retrive"
     }
   ],
-  "open_prs": [
-    {
-      "link": "https://github.com/openfoodfacts/smooth-app/issues/6575",
-      "title": "Search Results Not Updating After Changing Country Without App Restart",
-      "stale_for": 1,
-      "labels": [
-        "🔎 Search"
-      ]
-    }
-  ],
+  "open_prs": [],
   "authored_issue_and_pr": []
 }
