@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-04T10:43:10.000Z",
+  "last_updated": "2025-05-04T22:44:57.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/hunger-games#1175",
+      "time": "2025-05-04T22:44:57.000Z",
+      "link": "https://github.com/openfoodfacts/hunger-games/pull/1175",
+      "text": "[WIP] New project structure"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/hunger-games#1105",

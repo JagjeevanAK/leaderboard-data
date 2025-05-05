@@ -1,12 +1,83 @@
 {
-  "last_updated": "2025-05-04T15:40:48.000Z",
+  "last_updated": "2025-05-05T02:33:55.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6504",
+      "time": "2025-05-05T02:33:55.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6504#issuecomment-2849764904",
+      "text": "Before implementing this, we should instead have a reliable autofill mechanism.\r\nThe [Credential Manager](https://djsmk123.github.io/flutter_credential_manager_compose/#/) is a first step, and I'm not fully sure, but maybe a mandatory step for credential sharing."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-04T23:25:19.000Z",
+      "title": "openfoodfacts/smooth-app#6475",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6475#pullrequestreview-2813601772",
+      "text": "feat: Create a compatibility score explainer"
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/smooth-app#6514",
+      "time": "2025-05-04T23:05:53.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6514",
+      "text": "Integrate the Folksonomy Engine's add a property with the navigation bar (hidden behind the Folksonomy Engine dev mode toggle for now"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "openfoodfacts/smooth-app#6505",
+      "time": "2025-05-04T23:05:53.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6505",
+      "text": "feat: add properties (Folksonomy Engine) button to navbar ",
+      "collaborated_with": [
+        "cherish2003",
+        "g123k"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6505",
+      "time": "2025-05-04T23:05:45.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6505#issuecomment-2849487147",
+      "text": "Thanks for your PR @cherish2003.\r\nI've updated your code to support a custom icon.\r\n\r\n![IMG_2508](https://github.com/user-attachments/assets/7931bf0e-f90d-41f9-9ad8-388c82e1fc21)\r\n![IMG_2509](https://github.com/user-attachments/assets/de541b49-ba0e-42d3-8166-36a6253f371e)\r\n![IMG_2510](https://github.com/user-attachments/assets/63fcc338-4eb4-4661-a524-8168b3004f25)\r\n\r\n\r\n@teolemon If you prefer, I have this alternative icon (on the left), but I find it too similar to \"Add to a list\":\r\n<img width=\"278\" alt=\"Screenshot 2025-05-05 at 01 04 09\" src=\"https://github.com/user-attachments/assets/d9ac9750-908a-4032-b784-d0b71668fa87\" />\r\n\r\n"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-04T23:02:23.000Z",
+      "title": "openfoodfacts/smooth-app#6505",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6505#pullrequestreview-2813599184",
+      "text": "feat: add properties (Folksonomy Engine) button to navbar "
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/smooth-app#6487",
+      "time": "2025-05-04T21:45:46.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6487",
+      "text": "Prices screen: Last list items not visible on Android"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "openfoodfacts/smooth-app#6509",
+      "time": "2025-05-04T21:45:46.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6509",
+      "text": "fix: UI padding for better layout",
+      "collaborated_with": [
+        "vinay769",
+        "g123k"
+      ]
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-04T15:40:48.000Z",
       "title": "openfoodfacts/smooth-app#6509",
       "link": "https://github.com/openfoodfacts/smooth-app/pull/6509#pullrequestreview-2813499378",
       "text": "fix : UI padding for better layout"
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/smooth-app#5358",
+      "time": "2025-05-04T21:17:31.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5358",
+      "text": "Enhancements for Tagline V3"
     },
     {
       "type": "pr_opened",
@@ -11491,7 +11562,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6459",
       "title": "New UI for the food preferences",
-      "stale_for": 40,
+      "stale_for": 41,
       "labels": [
         "good first issue",
         "⚙️🥗 Food preferences"
@@ -11576,7 +11647,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6164",
       "title": "GoRouter is in maintenance mode",
-      "stale_for": 108,
+      "stale_for": 109,
       "labels": [
         "dependencies"
       ]
@@ -11590,7 +11661,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6150",
       "title": "Store locator: really hard to find some places",
-      "stale_for": 115,
+      "stale_for": 116,
       "labels": [
         "Prices"
       ]
@@ -11633,7 +11704,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5990",
       "title": "Remove unused translations",
-      "stale_for": 149,
+      "stale_for": 150,
       "labels": [
         "translations"
       ]

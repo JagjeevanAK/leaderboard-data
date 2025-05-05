@@ -1,0 +1,14 @@
+{
+  "last_updated": "2025-05-04T20:15:44.000Z",
+  "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-04T20:15:44.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#9251",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9251#pullrequestreview-2813557448",
+      "text": "feat: Implement OIDC sign-in"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

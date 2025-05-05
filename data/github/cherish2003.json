@@ -1,6 +1,25 @@
 {
-  "last_updated": "2025-03-16T22:56:53Z",
+  "last_updated": "2025-05-04T23:05:53.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6505",
+      "time": "2025-05-04T23:05:53.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6505",
+      "text": "feat: add properties (Folksonomy Engine) button to navbar ",
+      "turnaround_time": 2946232
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "openfoodfacts/smooth-app#6505",
+      "time": "2025-05-04T23:05:53.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6505",
+      "text": "feat: add properties (Folksonomy Engine) button to navbar ",
+      "collaborated_with": [
+        "cherish2003",
+        "g123k"
+      ]
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/smooth-app#6452",

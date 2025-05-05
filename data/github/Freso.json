@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-03T21:59:36.000Z",
+  "last_updated": "2025-05-04T21:38:02.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11855",
+      "time": "2025-05-04T21:38:02.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11855",
+      "text": "feat: Add weight % for single-item packaging"
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-server#11854",
@@ -741,7 +748,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11798",
       "title": "Category `en: Pickles` is both pickled cucumbers and pickled vegetables more generally",
-      "stale_for": 16,
+      "stale_for": 17,
       "labels": []
     },
     {
@@ -753,7 +760,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11685",
       "title": "Display currently served version of the taxonomies and website on pages",
-      "stale_for": 34,
+      "stale_for": 35,
       "labels": [
         "👩‍💻 DevOps"
       ]

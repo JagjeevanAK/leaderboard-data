@@ -691,13 +691,13 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/827",
       "title": "Allow price filtering on product_name",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1526",
       "title": "ReceiptAssistant: allow filtering on product_name",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
@@ -709,7 +709,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/792",
       "title": "Testing Gen AI results over time",
-      "stale_for": 30,
+      "stale_for": 31,
       "labels": [
         ":star: top issue"
       ]
@@ -725,7 +725,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/760",
       "title": "Prices API: allow filtering using list of values (in, overlap)",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "API"
       ]

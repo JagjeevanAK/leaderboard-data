@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-12-16T02:50:05Z",
+  "last_updated": "2025-05-05T01:35:14.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1559",
+      "time": "2025-05-05T01:35:14.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1559",
+      "text": "clean up docs"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-server#11128",
@@ -359,6 +366,34 @@
       "text": "fix(ci): resolve Docker image push permission issues in GitHub Actions"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/123",
+      "title": "Docker CI workflow fails with 403 Forbidden error when pushing images from PRs",
+      "stale_for": 48,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11723",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11743"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11723",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11785"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/folksonomy_api/issues/264",
+      "pr_link": "https://github.com/openfoodfacts/folksonomy_api/pull/265"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/folksonomy_api/issues/256",
+      "pr_link": "https://github.com/openfoodfacts/folksonomy_api/pull/247"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/folksonomy_api/issues/256",
+      "pr_link": "https://github.com/openfoodfacts/folksonomy_api/pull/258"
+    }
+  ]
 }

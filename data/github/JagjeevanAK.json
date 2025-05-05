@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-04T13:27:08.000Z",
+  "last_updated": "2025-05-05T01:19:57.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/robotoff#1558",
+      "time": "2025-05-05T01:19:57.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1558#issuecomment-2849689682",
+      "text": "now deployment should be smooth as-usual."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1558",
+      "time": "2025-05-05T01:05:53.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1558",
+      "text": "chore:updated ubuntu version pinning and some minor errors related to deployment"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-server#11847",

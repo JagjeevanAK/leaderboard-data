@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-05-04T22:15:41.000Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/smooth-app#6580",
+      "time": "2025-05-04T22:15:41.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6580",
+      "text": "Broken Link on partners page"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6580",
+      "title": "Broken Link on partners page",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

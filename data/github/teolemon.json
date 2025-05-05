@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-04T15:28:01.000Z",
+  "last_updated": "2025-05-04T23:16:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6580",
+      "time": "2025-05-04T23:16:26.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6580#issuecomment-2849491235",
+      "text": "It seems that the whole Sante publique France website is having issues right now"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-04T15:28:01.000Z",
@@ -217,7 +224,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6577",
       "title": "Robotoff questions in editing (part 2) for packaging",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "🤖 Robotoff"
       ]
@@ -328,7 +335,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/490",
       "title": "Implement structured packaging editing",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         "✏️ Editing",
         "📦 Packaging"
@@ -364,7 +371,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/486",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": []
     },
     {
@@ -376,7 +383,7 @@
     {
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/issues/180",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": []
     },
     {

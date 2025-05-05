@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-03-24T19:19:38Z",
+  "last_updated": "2025-05-05T00:24:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6475",
+      "time": "2025-05-05T00:24:16.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6475#issuecomment-2849614365",
+      "text": "Thanks for reviewing @monsieurtanuki , Working on the changes right away 👍"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/smooth-app#6475",

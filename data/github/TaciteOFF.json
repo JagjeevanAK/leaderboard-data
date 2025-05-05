@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-04T08:35:25.000Z",
+  "last_updated": "2025-05-04T20:07:47.000Z",
   "activity": [
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/openfoodfacts-exports#33",
+      "time": "2025-05-04T20:07:47.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-exports/issues/33",
+      "text": "missing photographers data"
+    },
     {
       "type": "issue_opened",
       "title": "openfoodfacts/open-prices#830",
@@ -101,12 +108,6 @@
       "labels": []
     },
     {
-      "link": "https://github.com/openfoodfacts/openfoodfacts-exports/issues/33",
-      "title": "missing photographers data",
-      "stale_for": 11,
-      "labels": []
-    },
-    {
       "link": "https://github.com/openfoodfacts/open-prices/issues/797",
       "title": "GDPR import doc improvement",
       "stale_for": 17,
@@ -135,7 +136,7 @@
     {
       "link": "https://github.com/openfoodfacts/openbeautyfacts/issues/42",
       "title": "\"Ingredients\" Ingredient loop.",
-      "stale_for": 3366,
+      "stale_for": 3367,
       "labels": [
         "bug",
         "ingredients"
@@ -221,7 +222,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/58",
       "title": "Warn visitors when the product page they're viewing is older than 18 months",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": [
         "Product Page",
         "🧽 Data quality",

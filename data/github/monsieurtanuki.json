@@ -13775,7 +13775,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6566",
       "title": "Enforce unawaited_futures rule",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         ":star: top issue"
       ]
@@ -13783,7 +13783,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1062",
       "title": "Implement Prices Challenges",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "🏄‍♀️ good first issue",
         "💸 Prices"
@@ -13836,16 +13836,6 @@
       ]
     },
     {
-      "link": "https://github.com/openfoodfacts/smooth-app/issues/6487",
-      "title": "Prices screen: Last list items not visible on Android",
-      "stale_for": 0,
-      "labels": [
-        "good first issue",
-        "🎨 UI / UX",
-        "Prices"
-      ]
-    },
-    {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6428",
       "title": "Starting August 20, 2025, no more Amazon Appstore on your Android device",
       "stale_for": 52,
@@ -13872,7 +13862,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/626",
       "title": "Successful upload of proof image with invalid bearer token",
-      "stale_for": 56,
+      "stale_for": 57,
       "labels": [
         "Proofs",
         "🔐 Auth"
@@ -13881,7 +13871,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6043",
       "title": "Price tags input from picture",
-      "stale_for": 88,
+      "stale_for": 89,
       "labels": [
         "Prices"
       ]
@@ -14027,6 +14017,16 @@
         "📖 Knowledge panels",
         "📖 Knowledge panels - Local overrides"
       ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9503",
+      "title": "PATCH requests don't accept non-ASCII passwords",
+      "stale_for": 198,
+      "labels": [
+        "API",
+        "🔐 API auth",
+        "🔐 Password"
+      ]
     }
   ],
   "authored_issue_and_pr": [
@@ -14081,10 +14081,6 @@
     {
       "issue_link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/986",
       "pr_link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/987"
-    },
-    {
-      "issue_link": "https://github.com/openfoodfacts/smooth-app/issues/5693",
-      "pr_link": "https://github.com/openfoodfacts/smooth-app/pull/5694"
     }
   ]
 }

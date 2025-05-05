@@ -1,6 +1,32 @@
 {
-  "last_updated": "2025-03-06T20:16:30Z",
+  "last_updated": "2025-05-04T21:45:46.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6509",
+      "time": "2025-05-04T21:45:46.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6509",
+      "text": "fix: UI padding for better layout",
+      "turnaround_time": 2857323
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "openfoodfacts/smooth-app#6509",
+      "time": "2025-05-04T21:45:46.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6509",
+      "text": "fix: UI padding for better layout",
+      "collaborated_with": [
+        "vinay769",
+        "g123k"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6509",
+      "time": "2025-05-04T19:12:56.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6509#issuecomment-2849372942",
+      "text": "> Could you change your code to pass the padding to the ListView?\r\n\r\nThank you for the review, @g123k . I believe these changes address the issue, but I’m open to further feedback if needed."
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/smooth-app#6421",
