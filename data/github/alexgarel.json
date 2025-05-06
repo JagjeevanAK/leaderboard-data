@@ -10340,7 +10340,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/470",
       "title": "Replicate off mongodb and off-query postgres (to use them to create dashboards/metrics)",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": []
     },
     {
@@ -10424,7 +10424,7 @@
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/275",
       "title": "Investigate separating state from components in the web-components",
-      "stale_for": 42,
+      "stale_for": 43,
       "labels": []
     },
     {

@@ -3611,7 +3611,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/270",
       "title": "Move server API to openfoodfacts-nodejs",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": [
         "Network calls"
       ]
@@ -3642,7 +3642,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/175",
       "title": "Allow unselecting images from a product",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": [
         "🖼️ Images",
         "✏️ Editing - Images"
@@ -3651,7 +3651,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/174",
       "title": "Allow extracting ingredients from the ingredients image",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": [
         "✏️ Editing",
         "✏️ Editing - Ingredients"
@@ -3757,7 +3757,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/4603",
       "title": "Android app deep link conflicting URLs",
-      "stale_for": 199,
+      "stale_for": 200,
       "labels": [
         "🤳🥫 blocking mobile apps",
         "⏰ Stale"
@@ -3775,7 +3775,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/2703",
       "title": "Normalize taxonomy directory structure",
-      "stale_for": 199,
+      "stale_for": 200,
       "labels": [
         "🧬 Taxonomies",
         "P2",

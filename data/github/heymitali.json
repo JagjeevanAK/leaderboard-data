@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-03T10:28:38.000Z",
+  "last_updated": "2025-05-06T03:52:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#117",
+      "time": "2025-05-06T03:52:26.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/117#issuecomment-2853200369",
+      "text": "@Kout95 Thanks a lot for making me a collaborator. I am working on resolving the review comments."
+    },
     {
       "type": "pr_merged",
       "title": "OpenFoodFacts/openfoodfacts-nodejs#623",
@@ -377,19 +384,19 @@
     {
       "link": "https://github.com/openfoodfacts/folksonomy_api/issues/276",
       "title": "Search query for /keys API is not working",
-      "stale_for": 6,
+      "stale_for": 9,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/802",
       "title": "Type of set_cookie in auth API is incorrectly getting generated",
-      "stale_for": 13,
+      "stale_for": 16,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/801",
       "title": "Login cookie from Open Prices API not persisting across page reloads",
-      "stale_for": 13,
+      "stale_for": 16,
       "labels": []
     }
   ],

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-05T13:26:31.000Z",
+  "last_updated": "2025-05-06T07:20:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6577",
+      "time": "2025-05-06T07:20:54.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6577#issuecomment-2853523667",
+      "text": "> Discuss together about the awkward moment between save and background task fulfillment/product refresh (warning message, change in bg tasks ? mocking the value ?)\n\n@teolemon Generally speaking about background tasks:\n* The value is immediately mocked locally.\n* Then the changes are sent to the server.\n* Then the product is refreshed from the server.\n* Therefore the value in Smoothie reflects the actual value on the server (replacing the mocked value)"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-03T12:02:02.000Z",
@@ -13775,7 +13782,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6566",
       "title": "Enforce unawaited_futures rule",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": [
         ":star: top issue"
       ]
@@ -13783,7 +13790,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1062",
       "title": "Implement Prices Challenges",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "🏄‍♀️ good first issue",
         "💸 Prices"
@@ -13818,7 +13825,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1055",
       "title": "Add flexibility to Product according to api version",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": []
     },
     {
@@ -13862,7 +13869,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/626",
       "title": "Successful upload of proof image with invalid bearer token",
-      "stale_for": 57,
+      "stale_for": 58,
       "labels": [
         "Proofs",
         "🔐 Auth"
@@ -13871,7 +13878,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6043",
       "title": "Price tags input from picture",
-      "stale_for": 89,
+      "stale_for": 90,
       "labels": [
         "Prices"
       ]
@@ -13895,7 +13902,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11069",
       "title": "Duplicate food records with/without product type",
-      "stale_for": 146,
+      "stale_for": 147,
       "labels": [
         "🏭 Producers Platform"
       ]
@@ -13913,7 +13920,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5417",
       "title": "Add prices: displaying a \"text recap\" like an actual receipt, possibly with the total amount",
-      "stale_for": 199,
+      "stale_for": 200,
       "labels": [
         "good first issue",
         "Prices"
@@ -13922,7 +13929,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10403",
       "title": "TEST env (.net): Cannot write to '/mnt/podata/logs/ratelimiter_log4perl.log'",
-      "stale_for": 199,
+      "stale_for": 200,
       "labels": [
         "preprod",
         "logs"
@@ -13931,7 +13938,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5276",
       "title": "Consider introducing GPS for nearby shop search",
-      "stale_for": 68,
+      "stale_for": 69,
       "labels": [
         "permissions",
         "Prices",
@@ -13957,7 +13964,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5127",
       "title": "no Best Before date on mobile",
-      "stale_for": 115,
+      "stale_for": 116,
       "labels": [
         "✏️ Editing",
         "🎨 Mockup required"
@@ -13966,7 +13973,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/889",
       "title": "Exclude items from autosuggestions",
-      "stale_for": 101,
+      "stale_for": 102,
       "labels": [
         "🏄‍♀️ good first issue",
         "autocomplete"
@@ -13993,7 +14000,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/4941",
       "title": "We need to sort out the refresh scenario.",
-      "stale_for": 199,
+      "stale_for": 200,
       "labels": [
         "🎯 P1",
         "data refresh"

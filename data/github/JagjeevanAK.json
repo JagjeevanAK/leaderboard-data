@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-05-05T19:17:00.000Z",
+  "last_updated": "2025-05-06T01:02:09.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/robotoff#1533",
+      "time": "2025-05-06T01:02:09.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/issues/1533#issuecomment-2852876225",
+      "text": "and update here @Kout95 ?"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/robotoff#1548",
+      "time": "2025-05-06T00:55:35.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/issues/1548#issuecomment-2852869391",
+      "text": "intrested in this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/robotoff#1381",
+      "time": "2025-05-06T00:53:01.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/issues/1381#issuecomment-2852866716",
+      "text": "According, to me we should just fork this action, bump some dependency and update the node version. Also we can update the code to make it compatible to node 22 or the current version, if there are some issues also, I can see is that workflow code base is small as of now."
+    },
     {
       "type": "pr_merged",
       "title": "openfoodfacts/robotoff#1558",

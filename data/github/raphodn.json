@@ -1,6 +1,44 @@
 {
-  "last_updated": "2025-05-05T21:24:36.000Z",
+  "last_updated": "2025-05-05T22:50:33.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices-frontend#1543",
+      "time": "2025-05-05T22:50:33.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1543",
+      "text": "refactor(Proof detail): add display toggle. allow displaying prices by list or table",
+      "turnaround_time": 266409
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices-frontend#1547",
+      "time": "2025-05-05T22:27:49.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1547",
+      "text": "refactor(Products): new ProductDetails component",
+      "turnaround_time": 45
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices-frontend#1547",
+      "time": "2025-05-05T22:26:55.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1547",
+      "text": "refactor(Products): new ProductDetails component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices#829",
+      "time": "2025-05-05T21:35:54.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/829",
+      "text": "feat(Prices): script to set missing product_name from PriceTag & ReceiptItem",
+      "turnaround_time": 218537
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-05T21:30:36.000Z",
+      "title": "openfoodfacts/open-prices-frontend#1545",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1545#pullrequestreview-2816155116",
+      "text": "feat(Barcode Scanner): use openfoodfacts webcomponents (and allow user to switch back to html5-qrcode)"
+    },
     {
       "type": "pr_merged",
       "title": "openfoodfacts/open-prices-frontend#1542",
@@ -11111,7 +11149,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1461",
       "title": "Revamp again the personal dashboard page (consumption vs community data)",
-      "stale_for": 24,
+      "stale_for": 25,
       "labels": [
         ":star: top issue",
         "User dashboard",
@@ -11163,7 +11201,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/721",
       "title": "New ML model to detect products on PRICE_TAG proofs",
-      "stale_for": 57,
+      "stale_for": 58,
       "labels": [
         "Proofs",
         "🎯 P0",
