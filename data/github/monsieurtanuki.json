@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-05-06T07:20:54.000Z",
+  "last_updated": "2025-05-06T09:47:04.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6573",
+      "time": "2025-05-06T09:47:04.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6573#issuecomment-2853930059",
+      "text": "Thank you @teolemon for your review!"
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/smooth-app#6560",
+      "time": "2025-05-06T09:46:39.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6560",
+      "text": "Bulk upload proofs are not available for validation because the ready_for_price_tag_validation parameter is false by default"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6573",
+      "time": "2025-05-06T09:46:38.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6573",
+      "text": "fix: 6560 - explicit readyForPriceTagValidation parameter for proof upload",
+      "turnaround_time": 345834
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6577",
@@ -13799,7 +13821,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6544",
       "title": "\"Soygate\", or should we warn the user when prices change",
-      "stale_for": 23,
+      "stale_for": 24,
       "labels": [
         ":star: top issue",
         "Prices",
@@ -13809,7 +13831,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6543",
       "title": "Confusion about IMPORTANT and VERY_IMPORTANT levels",
-      "stale_for": 24,
+      "stale_for": 25,
       "labels": [
         "⚙️🥗 Food preferences"
       ]
@@ -13817,7 +13839,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11745",
       "title": "/cgi/search.pl: no image for ingredients, nutrition and packaging",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": [
         "🖼️ Images"
       ]
@@ -13831,13 +13853,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1053",
       "title": "Edit \"allergenic substances\"",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6490",
       "title": "Exotic and inconsistent language selection",
-      "stale_for": 24,
+      "stale_for": 25,
       "labels": [
         "🎨 UI / UX"
       ]
@@ -13845,7 +13867,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6428",
       "title": "Starting August 20, 2025, no more Amazon Appstore on your Android device",
-      "stale_for": 53,
+      "stale_for": 54,
       "labels": [
         "distribution",
         "Amazon AppStore"
@@ -13854,13 +13876,13 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1306",
       "title": "Use store specific advertisement",
-      "stale_for": 104,
+      "stale_for": 105,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6069",
       "title": "Share an image as a proof with Smoothie",
-      "stale_for": 126,
+      "stale_for": 127,
       "labels": [
         "Prices",
         "Share to Open Food Facts"
@@ -13886,7 +13908,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1011",
       "title": "New Prices features: create location, get products",
-      "stale_for": 150,
+      "stale_for": 151,
       "labels": [
         "💸 Prices"
       ]
@@ -13894,7 +13916,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5982",
       "title": "Support \"online\" stores for Prices",
-      "stale_for": 155,
+      "stale_for": 156,
       "labels": [
         "Prices"
       ]
@@ -13910,7 +13932,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5861",
       "title": "Folksonomy + refresh, offline, background tasks",
-      "stale_for": 121,
+      "stale_for": 122,
       "labels": [
         "folksonomy engine",
         "P2",
@@ -13948,7 +13970,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/906",
       "title": "Know when to suggest \"% DV\" and \"IU\" as unit",
-      "stale_for": 205,
+      "stale_for": 206,
       "labels": [
         "✏️ Editing - Nutrition input"
       ]
@@ -13956,7 +13978,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/905",
       "title": "Add \"% DV\" and \"IU\" as unit",
-      "stale_for": 205,
+      "stale_for": 206,
       "labels": [
         "✏️ Editing - Nutrition input"
       ]
@@ -13982,7 +14004,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5046",
       "title": "Autocomplete: new Elastic Search or old tag type?",
-      "stale_for": 185,
+      "stale_for": 186,
       "labels": [
         "discussion",
         "🔎 Search",
@@ -13992,7 +14014,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/862",
       "title": "Missing nutrients (e.g. Polyols)",
-      "stale_for": 205,
+      "stale_for": 206,
       "labels": [
         "nutrients"
       ]
@@ -14009,7 +14031,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/4889",
       "title": "Display square simplified nutriscore/green-score widgets on product page",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": [
         "🥫 Product page",
         "🚥 Nutri-Score",
@@ -14019,7 +14041,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/4888",
       "title": "Add step for selecting KP before reordering them",
-      "stale_for": 190,
+      "stale_for": 191,
       "labels": [
         "📖 Knowledge panels",
         "📖 Knowledge panels - Local overrides"
@@ -14028,7 +14050,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9503",
       "title": "PATCH requests don't accept non-ASCII passwords",
-      "stale_for": 199,
+      "stale_for": 200,
       "labels": [
         "API",
         "🔐 API auth",

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-05T19:08:23.000Z",
+  "last_updated": "2025-05-06T09:36:16.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#5817",
+      "time": "2025-05-06T09:36:16.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5817#issuecomment-2853894665",
+      "text": "Hi @g123k , is this issue currently unassigned? If so, I’d like to give it a try\n"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#4170",

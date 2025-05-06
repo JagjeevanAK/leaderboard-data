@@ -1,6 +1,51 @@
 {
-  "last_updated": "2025-05-04T17:19:11.000Z",
+  "last_updated": "2025-05-06T11:20:27.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-query#126",
+      "time": "2025-05-06T11:20:27.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-query/pull/126",
+      "text": "refactor: Migrate to Python",
+      "turnaround_time": 3369332
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#9251",
+      "time": "2025-05-06T11:16:30.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9251#issuecomment-2854189778",
+      "text": "/update_tests_results"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-auth#192",
+      "time": "2025-05-06T10:35:25.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/192",
+      "text": "fix: Styling after reverting to Keycloak 26.0.5",
+      "turnaround_time": 1478
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-auth#192",
+      "time": "2025-05-06T10:13:43.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/192#issuecomment-2854022021",
+      "text": "/update-screenshots"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-auth#192",
+      "time": "2025-05-06T10:10:34.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/192",
+      "text": "fix: Styling after reverting to Keycloak 26.0.5"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-auth#190",
+      "time": "2025-05-06T09:53:09.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/190",
+      "text": "fix: Revert to Keycloak 26.0.5 to see if this fixes the build issues",
+      "turnaround_time": 64701
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-auth#189",
@@ -1294,25 +1339,25 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/issues/7",
       "title": "Add a shared PostgreSQL database",
-      "stale_for": 16,
+      "stale_for": 18,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/114",
       "title": "Load Scan events",
-      "stale_for": 38,
+      "stale_for": 39,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/157",
       "title": "Remove producer from general user creation flow and support separate flow for producers",
-      "stale_for": 36,
+      "stale_for": 38,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11082",
       "title": "Set up Minion and Redis Listener services for all product flavours",
-      "stale_for": 146,
+      "stale_for": 148,
       "labels": [
         "🎯 P1",
         "🧴 Open Beauty Facts",
@@ -1326,7 +1371,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/132",
       "title": "Authenticator setup doesn't work",
-      "stale_for": 159,
+      "stale_for": 160,
       "labels": [
         "2FA"
       ]
@@ -1334,7 +1379,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/129",
       "title": "Issue creating a new user: invalid_grant",
-      "stale_for": 116,
+      "stale_for": 118,
       "labels": [
         "User creation"
       ]
@@ -1342,7 +1387,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/120",
       "title": "User import issues that need to be reviewed",
-      "stale_for": 135,
+      "stale_for": 136,
       "labels": [
         "User import"
       ]
@@ -1350,7 +1395,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/119",
       "title": "Keycloak process was killed when using realm-batch user import",
-      "stale_for": 160,
+      "stale_for": 162,
       "labels": [
         "Deployment",
         "User import"
@@ -1359,7 +1404,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/118",
       "title": "Need to add oidc_options to different flavour config files",
-      "stale_for": 161,
+      "stale_for": 163,
       "labels": [
         "Deployment"
       ]
@@ -1367,7 +1412,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/102",
       "title": "More documentation on how it works and troubleshooting",
-      "stale_for": 187,
+      "stale_for": 189,
       "labels": [
         "📚 Documentation"
       ]
@@ -1375,7 +1420,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/100",
       "title": "Store products for other product types (OBF, OPF and OPPF)",
-      "stale_for": 30,
+      "stale_for": 32,
       "labels": [
         "📸 Open Products Facts",
         "🧴Open Beauty Facts",
@@ -1385,7 +1430,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/99",
       "title": "Ensure that pro-platform events are not added to the main product history",
-      "stale_for": 187,
+      "stale_for": 189,
       "labels": [
         "🏭 Producer's Platform"
       ]
@@ -1393,7 +1438,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/98",
       "title": "Stopped processing events and did not restart",
-      "stale_for": 187,
+      "stale_for": 189,
       "labels": [
         "REDIS"
       ]
@@ -1401,7 +1446,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/89",
       "title": "Deploy for Open Pet Food Facts and test",
-      "stale_for": 192,
+      "stale_for": 194,
       "labels": [
         "🐾 Open Pet Food Facts"
       ]
@@ -1409,7 +1454,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/issues/4",
       "title": "Redis crashes when processing lots of big messages",
-      "stale_for": 274,
+      "stale_for": 276,
       "labels": [
         "🐛 bug"
       ]
@@ -1417,13 +1462,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/35",
       "title": "Work out how to refresh staging from production",
-      "stale_for": 201,
+      "stale_for": 202,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/34",
       "title": "Hardening for production",
-      "stale_for": 201,
+      "stale_for": 202,
       "labels": [
         "Deployment",
         "Security"
@@ -1432,7 +1477,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/31",
       "title": "Complete theming on all screens",
-      "stale_for": 197,
+      "stale_for": 199,
       "labels": [
         "🎨 Mockup required"
       ]
@@ -1440,7 +1485,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9052",
       "title": "Add support for Agribalyse version 3.1.1",
-      "stale_for": 205,
+      "stale_for": 207,
       "labels": [
         "🌱 Green-Score",
         "Agribalyse"
@@ -1449,13 +1494,17 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8620",
       "title": "Consider moving to a relational data model, like Postgres",
-      "stale_for": 26,
+      "stale_for": 28,
       "labels": [
         "refactor"
       ]
     }
   ],
   "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11858",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11859"
+    },
     {
       "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11751",
       "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11753"

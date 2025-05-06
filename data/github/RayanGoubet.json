@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-02T11:28:46Z",
+  "last_updated": "2025-05-06T08:47:33.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11856",
+      "time": "2025-05-06T08:47:33.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11856",
+      "text": "fix: remove 250 and more for search size"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-server#11849",

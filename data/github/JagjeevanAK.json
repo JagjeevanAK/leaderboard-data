@@ -369,7 +369,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11770",
       "title": "Image of Schema of the ingredients flow in get-ingredient-related-analysis.md is missing",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": []
     }
   ],

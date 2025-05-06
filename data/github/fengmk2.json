@@ -12,18 +12,6 @@
         "o",
         "fengmk2"
       ]
-    },
-    {
-      "type": "pr_collaborated",
-      "title": "openfoodfacts/robotoff#1558",
-      "time": "2025-05-05T19:17:00.000Z",
-      "link": "https://github.com/openfoodfacts/robotoff/pull/1558",
-      "text": "chore: updated ubuntu version pinning and some minor errors related to deployment",
-      "collaborated_with": [
-        "JagjeevanAK",
-        "o",
-        "l"
-      ]
     }
   ],
   "open_prs": [],
