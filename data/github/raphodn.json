@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-05-03T08:53:28.000Z",
+  "last_updated": "2025-05-05T21:24:36.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices-frontend#1542",
+      "time": "2025-05-05T21:24:36.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1542",
+      "text": "refactor(Receipt Assistant): show price count & price total below table",
+      "turnaround_time": 266857
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/open-prices#829",
@@ -11045,13 +11053,13 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/828",
       "title": "Price currency choices: add cryptocurrencies",
-      "stale_for": 2,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/806",
       "title": "New Price & Proof 'tags' field to unlock features and simplify queries",
-      "stale_for": 4,
+      "stale_for": 7,
       "labels": [
         "🧽 Data quality"
       ]
@@ -11059,25 +11067,25 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1512",
       "title": "Integrate openfoodfacts-webcomponents (barcode scanner for instance)",
-      "stale_for": 6,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/796",
       "title": "API: new price filter by product_name & osm_name__like",
-      "stale_for": 17,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1511",
       "title": "Display prices in a table",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1507",
       "title": "AI-powered receipt addition workflow (Receipt Assistant experiment)",
-      "stale_for": 0,
+      "stale_for": 3,
       "labels": [
         "GenAI",
         "Experiment"
@@ -11086,7 +11094,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1497",
       "title": "Revamp again the landing page",
-      "stale_for": 22,
+      "stale_for": 24,
       "labels": [
         "Home page"
       ]
@@ -11094,7 +11102,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1496",
       "title": "Add Terms of Service",
-      "stale_for": 22,
+      "stale_for": 24,
       "labels": [
         "P1",
         "Privacy"
@@ -11103,7 +11111,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1461",
       "title": "Revamp again the personal dashboard page (consumption vs community data)",
-      "stale_for": 22,
+      "stale_for": 24,
       "labels": [
         ":star: top issue",
         "User dashboard",
@@ -11113,7 +11121,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/764",
       "title": "Product price estimate (average ? or last ? or range ?)",
-      "stale_for": 31,
+      "stale_for": 33,
       "labels": [
         ":bar_chart: Stats",
         "Products"
@@ -11122,7 +11130,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1456",
       "title": "Form fields: if the input field has a suffix, always show it",
-      "stale_for": 43,
+      "stale_for": 46,
       "labels": [
         "UI",
         "Price addition"
@@ -11131,7 +11139,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/745",
       "title": "Are we doing product syncs correctly?",
-      "stale_for": 55,
+      "stale_for": 58,
       "labels": [
         "Product data sync",
         "🎯 P0"
@@ -11140,7 +11148,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/727",
       "title": "Continue separating community vs consumption data",
-      "stale_for": 40,
+      "stale_for": 43,
       "labels": [
         "🎯 P0",
         "Personal data"
@@ -11149,13 +11157,13 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1393",
       "title": "Product card: display a price (latest ? average ? cheapest ?)",
-      "stale_for": 69,
+      "stale_for": 71,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/721",
       "title": "New ML model to detect products on PRICE_TAG proofs",
-      "stale_for": 55,
+      "stale_for": 57,
       "labels": [
         "Proofs",
         "🎯 P0",
@@ -11165,7 +11173,7 @@
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/277",
       "title": "Return the product's `product_quantity` field",
-      "stale_for": 9,
+      "stale_for": 11,
       "labels": [
         "frontend"
       ]
@@ -11173,7 +11181,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/688",
       "title": "Price tags: levels of difficulty (ex: AI found an existing product or category)",
-      "stale_for": 55,
+      "stale_for": 58,
       "labels": [
         "🎯 P0",
         "Price Validation"
@@ -11182,7 +11190,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1336",
       "title": "A page to create missing products",
-      "stale_for": 41,
+      "stale_for": 44,
       "labels": [
         ":star: top issue",
         "P1",
@@ -11192,7 +11200,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1310",
       "title": "New Contribution page to list & explain the ways to contribute",
-      "stale_for": 10,
+      "stale_for": 12,
       "labels": [
         ":star: top issue"
       ]
@@ -11200,7 +11208,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1267",
       "title": "Theme: get closer to Open Food Facts look & feel",
-      "stale_for": 107,
+      "stale_for": 110,
       "labels": [
         "UI"
       ]
@@ -11208,19 +11216,19 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1235",
       "title": "Barcode scanner (manual): allow search with wildcards with the help of search-a-licious ?",
-      "stale_for": 118,
+      "stale_for": 120,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/272",
       "title": "Allow searching on all flavors (OPF, OBF, OPFF)",
-      "stale_for": 61,
+      "stale_for": 63,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/670",
       "title": "Proof image / Price tags: barcode scanner library to extract the EAN",
-      "stale_for": 55,
+      "stale_for": 58,
       "labels": [
         "Proofs",
         "🎯 P0",
@@ -11231,7 +11239,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/665",
       "title": "Ensure Proof images are properly rotated",
-      "stale_for": 59,
+      "stale_for": 61,
       "labels": [
         "Proofs",
         "Editing"
@@ -11240,7 +11248,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1183",
       "title": "Improve release-please config",
-      "stale_for": 123,
+      "stale_for": 125,
       "labels": [
         "DevOps"
       ]
@@ -11248,7 +11256,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/637",
       "title": "Automatically match new prices with their PriceTag prediction counterpart",
-      "stale_for": 94,
+      "stale_for": 96,
       "labels": [
         "price tag"
       ]
@@ -11256,7 +11264,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1148",
       "title": "Move to Vue 3 composition (instead of options)",
-      "stale_for": 123,
+      "stale_for": 125,
       "labels": [
         "DevOps"
       ]
@@ -11264,7 +11272,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1137",
       "title": "New price validation assistant page (extracted and predicted from owned proofs)",
-      "stale_for": 55,
+      "stale_for": 58,
       "labels": [
         "🎯 P0",
         "Price addition",
@@ -11276,7 +11284,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/620",
       "title": "Product sync: use OFF's Redis stream to get live updates",
-      "stale_for": 87,
+      "stale_for": 89,
       "labels": [
         "Product data sync"
       ]
@@ -11284,7 +11292,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1107",
       "title": "Favorite locations",
-      "stale_for": 123,
+      "stale_for": 125,
       "labels": [
         ":star: top issue"
       ]

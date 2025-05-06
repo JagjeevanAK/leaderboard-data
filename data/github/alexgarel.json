@@ -1,6 +1,55 @@
 {
-  "last_updated": "2025-05-05T08:12:59.000Z",
+  "last_updated": "2025-05-05T20:28:28.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-05T20:28:28.000Z",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#125",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/125#pullrequestreview-2815364579",
+      "text": "feat: start to add news-feed by @teolemon"
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#480",
+      "time": "2025-05-05T20:10:03.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/480",
+      "text": "FDN DNS are no more available"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#480",
+      "time": "2025-05-05T20:10:00.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/480#issuecomment-2852216592",
+      "text": "Switched to https://www.dns0.eu/fr by editing /etc/resolv.conf"
+    },
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#480",
+      "time": "2025-05-05T19:57:10.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/480",
+      "text": "FDN DNS are no more available"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-05T19:32:03.000Z",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#126",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/126#pullrequestreview-2811510795",
+      "text": "feat: update robotoff nutrients"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/robotoff#1545",
+      "time": "2025-05-05T19:18:43.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1545#issuecomment-2852090099",
+      "text": "@abderhman487 so sorry, I only see this PR now, I will try to review it soon !"
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/robotoff#1557",
+      "time": "2025-05-05T19:17:01.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/issues/1557",
+      "text": "Ubuntu 20.04 retired from Github CI while generate-docs.yml depends on it"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-05T08:12:58.000Z",
@@ -10259,12 +10308,6 @@
   ],
   "open_prs": [
     {
-      "link": "https://github.com/openfoodfacts/robotoff/issues/1557",
-      "title": "Ubuntu 20.04 retired from Github CI while generate-docs.yml depends on it",
-      "stale_for": 5,
-      "labels": []
-    },
-    {
       "link": "https://github.com/openfoodfacts/openfoodfacts-exports/issues/35",
       "title": "JSONL not imported correctly in duckdb",
       "stale_for": 5,
@@ -10312,7 +10355,7 @@
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/1533",
       "title": "Make an insight from ingredients crop detection",
-      "stale_for": 28,
+      "stale_for": 0,
       "labels": [
         "🎯 P1"
       ]
@@ -10477,6 +10520,12 @@
       "link": "https://github.com/openfoodfacts/openfoodfacts-exports/issues/21",
       "title": "Generate Parquet and CSV delta",
       "stale_for": 24,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-exports/issues/20",
+      "title": "Add obsolete products in parquet file",
+      "stale_for": 139,
       "labels": []
     }
   ],

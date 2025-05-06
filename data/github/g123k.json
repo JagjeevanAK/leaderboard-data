@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-05-05T13:58:34.000Z",
+  "last_updated": "2025-05-05T17:26:48.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6488",
+      "time": "2025-05-05T17:26:48.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6488#issuecomment-2851735459",
+      "text": "According to your video, there are still some visual issues:\r\n<img width=\"1870\" alt=\"Screenshot 2025-05-05 at 19 20 01\" src=\"https://github.com/user-attachments/assets/54203f04-a9d6-4e3a-a22a-6e6aeaed55dd\" />\r\n\r\nYou also have a merge conflict"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6579",
+      "time": "2025-05-05T17:23:02.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6579",
+      "text": "feat: Improvements for Robotoff questions in Edit mode ",
+      "turnaround_time": 93932
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6579",
+      "time": "2025-05-05T17:18:49.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6579#issuecomment-2851706881",
+      "text": "> @g123k ok to merge ?\r\n\r\n👍"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6515",
@@ -11597,7 +11619,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6459",
       "title": "New UI for the food preferences",
-      "stale_for": 41,
+      "stale_for": 42,
       "labels": [
         "good first issue",
         "⚙️🥗 Food preferences"
@@ -11682,7 +11704,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6164",
       "title": "GoRouter is in maintenance mode",
-      "stale_for": 109,
+      "stale_for": 110,
       "labels": [
         "dependencies"
       ]
@@ -11696,7 +11718,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6150",
       "title": "Store locator: really hard to find some places",
-      "stale_for": 116,
+      "stale_for": 117,
       "labels": [
         "Prices"
       ]
@@ -11739,7 +11761,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5990",
       "title": "Remove unused translations",
-      "stale_for": 150,
+      "stale_for": 151,
       "labels": [
         "translations"
       ]

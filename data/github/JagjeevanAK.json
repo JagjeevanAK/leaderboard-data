@@ -1,6 +1,33 @@
 {
-  "last_updated": "2025-05-05T14:25:20.000Z",
+  "last_updated": "2025-05-05T19:17:00.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#1558",
+      "time": "2025-05-05T19:17:00.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1558",
+      "text": "chore: updated ubuntu version pinning and some minor errors related to deployment",
+      "turnaround_time": 65458
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "openfoodfacts/robotoff#1558",
+      "time": "2025-05-05T19:17:00.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1558",
+      "text": "chore: updated ubuntu version pinning and some minor errors related to deployment",
+      "collaborated_with": [
+        "JagjeevanAK",
+        "o",
+        "l"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/robotoff#1381",
+      "time": "2025-05-05T17:13:52.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/issues/1381#issuecomment-2851695490",
+      "text": "Will start working on this issue."
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-server#11847",

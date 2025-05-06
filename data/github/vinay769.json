@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-04T21:45:46.000Z",
+  "last_updated": "2025-05-05T19:08:23.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#4170",
+      "time": "2025-05-05T19:08:23.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/4170#issuecomment-2852066065",
+      "text": "Hola @teolemon,\nCould you please check if this solution addresses the issue you mentioned?\n\n<img src=\"https://github.com/user-attachments/assets/8418478a-7687-4762-abf6-ade6b59ca2f4\" alt=\"Preview\" width=\"400\"/>\nLet me know if any adjustments are needed  —>  I am open for your feedback"
+    },
     {
       "type": "pr_merged",
       "title": "openfoodfacts/smooth-app#6509",
