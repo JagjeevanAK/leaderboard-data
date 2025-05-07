@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-05-04T16:20:18.000Z",
+  "last_updated": "2025-05-06T20:36:08.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices-frontend#1545",
+      "time": "2025-05-06T20:36:08.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1545",
+      "text": "feat(Barcode Scanner): use openfoodfacts-webcomponents (and allow user to switch back to html5-qrcode)",
+      "turnaround_time": 188140
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/open-prices-frontend#1545",
@@ -681,6 +689,82 @@
       "text": "refactor(Challenge): use new tags api param"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/827",
+      "title": "Allow price filtering on product_name",
+      "stale_for": 4,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1526",
+      "title": "ReceiptAssistant: allow filtering on product_name",
+      "stale_for": 10,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1505",
+      "title": "Personal dashboard: Stats on quality of contributions",
+      "stale_for": 23,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/792",
+      "title": "Testing Gen AI results over time",
+      "stale_for": 33,
+      "labels": [
+        ":star: top issue"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/791",
+      "title": "Avoid sending receipts to gemini, unless ReceiptAssistant is used",
+      "stale_for": 27,
+      "labels": [
+        "Receipts"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/760",
+      "title": "Prices API: allow filtering using list of values (in, overlap)",
+      "stale_for": 18,
+      "labels": [
+        "API"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1333",
+      "title": "Add a way to gather user feedback",
+      "stale_for": 83,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/674",
+      "title": "Price stats API: Allow stats to be grouped by specific field",
+      "stale_for": 115,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/673",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/935"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices/issues/673",
+      "pr_link": "https://github.com/openfoodfacts/open-prices/pull/676"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices-frontend/issues/934",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/935"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices-frontend/issues/934",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1284"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/open-prices-frontend/issues/841",
+      "pr_link": "https://github.com/openfoodfacts/open-prices-frontend/pull/844"
+    }
+  ]
 }

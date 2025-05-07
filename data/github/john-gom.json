@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-06T16:21:11.000Z",
+  "last_updated": "2025-05-06T18:19:21.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-06T18:19:21.000Z",
+      "title": "openfoodfacts/openfoodfacts-auth#191",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-auth/pull/191#pullrequestreview-2819228488",
+      "text": "l10n: New Crowdin translations to review and merge"
+    },
     {
       "type": "issue_closed",
       "title": "openfoodfacts/openfoodfacts-server#11858",

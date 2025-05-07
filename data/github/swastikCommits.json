@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-03-28T02:17:46Z",
+  "last_updated": "2025-05-06T16:56:36.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-nodejs#616",
+      "time": "2025-05-06T16:56:36.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/pull/616",
+      "text": "feat: integration of OBF, OPF and OPFF",
+      "turnaround_time": 1606877
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-nodejs#608",
@@ -591,5 +599,66 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/492",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/493"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/489",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/491"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/462",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/463"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/331",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/345"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/329",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/483"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/306",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/307"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/300",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/303"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/300",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/366"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/297",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/299"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/268",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/275"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/260",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/288"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/258",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/259"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/253",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/257"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/251",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/252"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/249",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/250"
+    }
+  ]
 }
