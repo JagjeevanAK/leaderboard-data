@@ -1,6 +1,13 @@
 {
-  "last_updated": "2024-05-15T11:34:18Z",
+  "last_updated": "2025-05-06T22:54:02.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-dart#1079",
+      "time": "2025-05-06T22:54:02.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1079",
+      "text": "feat: 1072 - Add Nutri-Score details"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-dart#929",
@@ -30,6 +37,34 @@
       "text": "feat: added is_in_taxonomy field to ingredient"
     }
   ],
-  "open_prs": [],
-  "authored_issue_and_pr": []
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1072",
+      "title": "Add Nutri-Score Details",
+      "stale_for": 7,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1069",
+      "title": "Fix error handling of API calls",
+      "stale_for": 8,
+      "labels": [
+        "🏄‍♀️ good first issue"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10283",
+      "title": "Fix search with Umlauts in German vs. English language",
+      "stale_for": 201,
+      "labels": [
+        "🔎 Search"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/928",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/929"
+    }
+  ]
 }

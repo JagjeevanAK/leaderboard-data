@@ -1375,7 +1375,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/issues/7",
       "title": "Add a shared PostgreSQL database",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": []
     },
     {
@@ -1387,13 +1387,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/157",
       "title": "Remove producer from general user creation flow and support separate flow for producers",
-      "stale_for": 38,
+      "stale_for": 39,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11082",
       "title": "Set up Minion and Redis Listener services for all product flavours",
-      "stale_for": 148,
+      "stale_for": 149,
       "labels": [
         "🎯 P1",
         "🧴 Open Beauty Facts",
@@ -1415,7 +1415,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/129",
       "title": "Issue creating a new user: invalid_grant",
-      "stale_for": 118,
+      "stale_for": 119,
       "labels": [
         "User creation"
       ]
@@ -1431,7 +1431,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/119",
       "title": "Keycloak process was killed when using realm-batch user import",
-      "stale_for": 162,
+      "stale_for": 163,
       "labels": [
         "Deployment",
         "User import"
@@ -1440,7 +1440,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/118",
       "title": "Need to add oidc_options to different flavour config files",
-      "stale_for": 163,
+      "stale_for": 164,
       "labels": [
         "Deployment"
       ]
@@ -1448,7 +1448,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/102",
       "title": "More documentation on how it works and troubleshooting",
-      "stale_for": 189,
+      "stale_for": 190,
       "labels": [
         "📚 Documentation"
       ]
@@ -1456,7 +1456,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/100",
       "title": "Store products for other product types (OBF, OPF and OPPF)",
-      "stale_for": 32,
+      "stale_for": 33,
       "labels": [
         "📸 Open Products Facts",
         "🧴Open Beauty Facts",
@@ -1466,7 +1466,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/99",
       "title": "Ensure that pro-platform events are not added to the main product history",
-      "stale_for": 189,
+      "stale_for": 190,
       "labels": [
         "🏭 Producer's Platform"
       ]
@@ -1474,7 +1474,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/98",
       "title": "Stopped processing events and did not restart",
-      "stale_for": 189,
+      "stale_for": 190,
       "labels": [
         "REDIS"
       ]
@@ -1482,7 +1482,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/89",
       "title": "Deploy for Open Pet Food Facts and test",
-      "stale_for": 194,
+      "stale_for": 195,
       "labels": [
         "🐾 Open Pet Food Facts"
       ]
@@ -1490,7 +1490,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/issues/4",
       "title": "Redis crashes when processing lots of big messages",
-      "stale_for": 276,
+      "stale_for": 277,
       "labels": [
         "🐛 bug"
       ]
@@ -1513,7 +1513,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/31",
       "title": "Complete theming on all screens",
-      "stale_for": 199,
+      "stale_for": 200,
       "labels": [
         "🎨 Mockup required"
       ]
@@ -1521,7 +1521,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9052",
       "title": "Add support for Agribalyse version 3.1.1",
-      "stale_for": 207,
+      "stale_for": 208,
       "labels": [
         "🌱 Green-Score",
         "Agribalyse"
@@ -1530,7 +1530,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8620",
       "title": "Consider moving to a relational data model, like Postgres",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": [
         "refactor"
       ]

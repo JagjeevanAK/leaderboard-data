@@ -1,6 +1,13 @@
 {
-  "last_updated": "2022-07-19T14:55:34Z",
+  "last_updated": "2025-05-07T07:04:25.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11860",
+      "time": "2025-05-07T07:04:25.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11860",
+      "text": "Clicking on owner name redirects to same product page instead of owner product list"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-server#7088",
@@ -135,6 +142,267 @@
       "text": "feat: update producers_resources_list.tt.html"
     }
   ],
-  "open_prs": [],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11860",
+      "title": "Clicking on owner name redirects to same product page instead of owner product list",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/community/issues/23",
+      "title": "Host a video call with contributors from your country",
+      "stale_for": 19,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/community/issues/22",
+      "title": "Organise a local scan party!",
+      "stale_for": 19,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/community/issues/21",
+      "title": "Help complete products with Hunger Games",
+      "stale_for": 19,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/community/issues/20",
+      "title": "Translate 1 blog article",
+      "stale_for": 19,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/community/issues/19",
+      "title": "Improve the taxonomy in your language",
+      "stale_for": 19,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/community/issues/18",
+      "title": "Test Open Food Facts in your language",
+      "stale_for": 19,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/community/issues/17",
+      "title": "Review/test the Crowdin documentation",
+      "stale_for": 19,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11720",
+      "title": "Permissions: the possibility of a read-only pro account",
+      "stale_for": 35,
+      "labels": [
+        "🏭 Producers Platform"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11470",
+      "title": "Matomo is broken for the Pro platform",
+      "stale_for": 72,
+      "labels": [
+        "🏭 Producers Platform",
+        "matomo"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11340",
+      "title": "Make the \"Display org table\" downloadable",
+      "stale_for": 67,
+      "labels": [
+        "🏭 Producers Platform",
+        "🏭 Producers Platform - admin tools"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10773",
+      "title": "Avoid repeating the quantity in the product name ",
+      "stale_for": 19,
+      "labels": [
+        "⚖️ Quantity",
+        "Product name"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/robotoff/issues/1369",
+      "title": "Better track the number of products updated via the Pro platform, via Robotoff ",
+      "stale_for": 201,
+      "labels": [
+        "🏭 Producers Platform"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10564",
+      "title": "Allow user to download xls/csv of the opportunities for improvement ",
+      "stale_for": 90,
+      "labels": [
+        "🏭 Producers Platform",
+        "Producers - Product Enhancement Suggestions",
+        "Producer platform - improvement opportunities"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10107",
+      "title": "Send an automatic quality error report to producers",
+      "stale_for": 207,
+      "labels": [
+        "🧽 Data quality",
+        "📨 Emails",
+        "🏭 Producers Platform - reengagement",
+        "🔔 Notifications"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10076",
+      "title": "Add a \"quick mode\" in the Pro platform to ease the uploading process for small producers",
+      "stale_for": 205,
+      "labels": [
+        "🎨 Mockup available",
+        "🏭 Producers Platform"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9742",
+      "title": "Add a banner to encourage manufacturers to reply to the satisfaction questionnaire ",
+      "stale_for": 201,
+      "labels": [
+        "🏭 Producers Platform",
+        "user feedback"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9741",
+      "title": "Show the number of scans to food manufacturers in the Pro platform ",
+      "stale_for": 61,
+      "labels": [
+        "scan statistics",
+        "🏭 Producers Platform",
+        ":star: top issue"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9739",
+      "title": "Enable editing of ingredients and categories not recognised via facets ",
+      "stale_for": 208,
+      "labels": [
+        "✏️ Editing",
+        "facets",
+        "🧽 Data quality",
+        "🧽 Data quality - Measure - Quality facets",
+        "🏭 Producers Platform",
+        "✏️ Editing - Ingredients"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9737",
+      "title": "Create an admin dashboard for the Pro platform ",
+      "stale_for": 201,
+      "labels": [
+        "🎨 Mockup available",
+        "🏭 Producers Platform",
+        "🏭 Producers Platform - admin tools"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9736",
+      "title": "Improve the user interface of the Pro platform to encourage manufacturers to click on opportunities for improvement",
+      "stale_for": 208,
+      "labels": [
+        "🎨 Mockup available",
+        "🏭 Producers Platform",
+        "🏭 Producers Platform - acquisition",
+        "Producer platform - improvement opportunities"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9734",
+      "title": "Trigger a message in Slack in the private channel #plateforme-pro-priv when a producer imports / updates products (for admins)",
+      "stale_for": 19,
+      "labels": [
+        "🏭 Producers Platform",
+        "🏭 Producers Platform - admin tools"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9733",
+      "title": "Retrieve the \"obsolete status\" from GS1",
+      "stale_for": 201,
+      "labels": [
+        "🗄 Obsolete products",
+        "GS1"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9580",
+      "title": "Multi Products Edition Mode on the Pro platform ",
+      "stale_for": 76,
+      "labels": [
+        "Duplicate ?",
+        "🏭 Producers Platform",
+        "🏭 Producers Platform - data imports"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9577",
+      "title": "In the organisation profile, add a section about \"Commitments\" ",
+      "stale_for": 19,
+      "labels": [
+        "labels",
+        "🏭 Producers Platform",
+        "🏭 Producers Platform - acquisition"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9574",
+      "title": "Deploy the new landing page for Producers",
+      "stale_for": 72,
+      "labels": [
+        "🎨 Mockup available",
+        "🏭 Producers Platform",
+        "🏭 Producers Platform - onboarding",
+        "🏭 Producers Platform - acquisition"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9248",
+      "title": "Update the link to the new Press kit ",
+      "stale_for": 201,
+      "labels": [
+        "static content",
+        "📢 Marketing"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/712",
+      "title": "Hunger Games Logos Search is not working anymore ",
+      "stale_for": 200,
+      "labels": [
+        "🖼️ Logo game",
+        "🖼️🔎 Logos - Search"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8519",
+      "title": "Connect to the API of Nestlé Germany to import the data they want to share with us",
+      "stale_for": 205,
+      "labels": [
+        "⏰ Stale",
+        "🎯 P0",
+        "✅ Task",
+        "🏭 Producers Platform - data imports"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/7449",
+      "title": "Highlight the products of a specific brand in a different color  ",
+      "stale_for": 201,
+      "labels": [
+        "📊 graphs"
+      ]
+    }
+  ],
   "authored_issue_and_pr": []
 }

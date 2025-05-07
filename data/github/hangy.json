@@ -4731,7 +4731,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11160",
       "title": "build: Clean up and reorganize `backend` container build",
-      "stale_for": 126,
+      "stale_for": 127,
       "labels": [
         "🐋 Docker",
         "👩‍💻 DevOps",
@@ -4759,7 +4759,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/52",
       "title": "Move moderator role to Keycloak",
-      "stale_for": 162,
+      "stale_for": 163,
       "labels": [
         "Priviledged users"
       ]
@@ -4767,13 +4767,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/51",
       "title": "Allow application developers to manage their own Clients",
-      "stale_for": 199,
+      "stale_for": 200,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/50",
       "title": "Support passkeys",
-      "stale_for": 199,
+      "stale_for": 200,
       "labels": [
         "Passkeys"
       ]
@@ -4781,7 +4781,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/49",
       "title": "Support social login providers",
-      "stale_for": 199,
+      "stale_for": 200,
       "labels": [
         "Social login"
       ]
@@ -4789,7 +4789,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10048",
       "title": "Incorrect canonical redirect?",
-      "stale_for": 207,
+      "stale_for": 208,
       "labels": [
         "redirect"
       ]
@@ -4806,7 +4806,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5131",
       "title": "🌅 GS1 \"Sunrise 2027\" - 2D Barcodes, GS1 Element String, and GS1 Digital Link URI support",
-      "stale_for": 127,
+      "stale_for": 128,
       "labels": [
         "🎯 P1",
         "🤳🥫 Scan"
@@ -4856,7 +4856,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/2672",
       "title": "Reduce or remove generated JavaScript",
-      "stale_for": 200,
+      "stale_for": 201,
       "labels": [
         "frontend",
         "accessibility ♿",
@@ -4870,7 +4870,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/2622",
       "title": "Remove app specific stuff from the config",
-      "stale_for": 207,
+      "stale_for": 208,
       "labels": [
         "🌐 i18n",
         "P2",
@@ -4889,7 +4889,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1769",
       "title": "&quot; escaped double quotes in JSON/CSV",
-      "stale_for": 126,
+      "stale_for": 127,
       "labels": [
         "API",
         "Data export",
@@ -4922,7 +4922,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1665",
       "title": "change unit_to_g() to unit_to_default_unit() ?",
-      "stale_for": 39,
+      "stale_for": 40,
       "labels": [
         "question",
         "refactor"
@@ -4942,7 +4942,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1640",
       "title": "Refactor taxonomy unit tests",
-      "stale_for": 83,
+      "stale_for": 84,
       "labels": [
         "🧬 Taxonomies",
         "🧪 tests",
@@ -4952,7 +4952,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1597",
       "title": "Consider creating an API for moving products with history",
-      "stale_for": 207,
+      "stale_for": 208,
       "labels": [
         "API WRITE"
       ]
@@ -4960,7 +4960,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1596",
       "title": "Implement a central User Service for auth - keycloak",
-      "stale_for": 207,
+      "stale_for": 208,
       "labels": [
         "API",
         "🔐 API auth"
@@ -4978,7 +4978,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1459",
       "title": "Repair the GraphViz feature",
-      "stale_for": 127,
+      "stale_for": 128,
       "labels": [
         "🧬 Taxonomies",
         "📊 graphs",
@@ -4989,7 +4989,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1458",
       "title": "Review the use of the graph drawing library SigmaJS",
-      "stale_for": 83,
+      "stale_for": 84,
       "labels": [
         "📊 graphs",
         "JavaScript"
@@ -4998,7 +4998,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1395",
       "title": "Consider splitting data directories",
-      "stale_for": 83,
+      "stale_for": 84,
       "labels": [
         "environment",
         "refactor"
@@ -5007,7 +5007,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1375",
       "title": "Consider removing large files from Git",
-      "stale_for": 207,
+      "stale_for": 208,
       "labels": [
         "static content"
       ]

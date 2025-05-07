@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-05-06T20:46:55.000Z",
+  "last_updated": "2025-05-07T07:13:29.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/open-prices-frontend#1503",
+      "time": "2025-05-07T07:13:29.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1503#issuecomment-2857379665",
+      "text": "Hi ! A user reported this on Slack as well.\nI did a quick fix in this commit: https://github.com/openfoodfacts/open-prices-frontend/commit/1d46c56ac248f8ab420b6e8ef2bcff0a378ef4c8\n(checks that the currency is filled before trying to generate the price per unit, thus avoiding the error)"
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/open-prices-frontend#1503",
+      "time": "2025-05-07T07:13:27.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1503",
+      "text": "Add single: Price input throws an exception"
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/open-prices-frontend#1511",
+      "time": "2025-05-07T07:11:09.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1511",
+      "text": "Display prices in a table"
+    },
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/open-prices#831",
+      "time": "2025-05-07T07:01:17.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/issues/831",
+      "text": "Track modification history of prices (and proofs)"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/nutripatrol#76",
+      "time": "2025-05-07T06:29:44.000Z",
+      "link": "https://github.com/openfoodfacts/nutripatrol/issues/76#issuecomment-2857263664",
+      "text": "From the meeting minutes of the 14th of April \n\nChanges required to integrate OP\n- type: add ‘price’\n- source: add ‘openprices-web’\n- new platform field (openfoodfacts, openprices)\n- barcode? Flexible, ok to send a category_tag\n- reason? Flexible, add price-specific reasons such as ‘Wrong price’, ‘Wrong location’\n\n![Image](https://github.com/user-attachments/assets/4fdd2e95-4194-4042-beab-01455c231c5a)"
+    },
     {
       "type": "issue_closed",
       "title": "openfoodfacts/open-prices-frontend#1544",
@@ -11144,7 +11179,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/828",
       "title": "Price currency choices: add cryptocurrencies",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": []
     },
     {
@@ -11164,7 +11199,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/796",
       "title": "API: new price filter by product_name & osm_name__like",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": []
     },
     {
@@ -11179,7 +11214,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1497",
       "title": "Revamp again the landing page",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": [
         "Home page"
       ]
@@ -11187,7 +11222,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1496",
       "title": "Add Terms of Service",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": [
         "P1",
         "Privacy"
@@ -11206,7 +11241,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/764",
       "title": "Product price estimate (average ? or last ? or range ?)",
-      "stale_for": 34,
+      "stale_for": 35,
       "labels": [
         ":bar_chart: Stats",
         "Products"
@@ -11242,7 +11277,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1393",
       "title": "Product card: display a price (latest ? average ? cheapest ?)",
-      "stale_for": 72,
+      "stale_for": 73,
       "labels": []
     },
     {
@@ -11258,7 +11293,7 @@
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/277",
       "title": "Return the product's `product_quantity` field",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "frontend"
       ]
@@ -11285,7 +11320,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1310",
       "title": "New Contribution page to list & explain the ways to contribute",
-      "stale_for": 13,
+      "stale_for": 14,
       "labels": [
         ":star: top issue"
       ]
@@ -11301,13 +11336,13 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1235",
       "title": "Barcode scanner (manual): allow search with wildcards with the help of search-a-licious ?",
-      "stale_for": 121,
+      "stale_for": 122,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/272",
       "title": "Allow searching on all flavors (OPF, OBF, OPFF)",
-      "stale_for": 64,
+      "stale_for": 65,
       "labels": []
     },
     {
@@ -11324,7 +11359,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/665",
       "title": "Ensure Proof images are properly rotated",
-      "stale_for": 62,
+      "stale_for": 63,
       "labels": [
         "Proofs",
         "Editing"
@@ -11333,7 +11368,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1183",
       "title": "Improve release-please config",
-      "stale_for": 126,
+      "stale_for": 127,
       "labels": [
         "DevOps"
       ]
@@ -11341,7 +11376,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/637",
       "title": "Automatically match new prices with their PriceTag prediction counterpart",
-      "stale_for": 97,
+      "stale_for": 98,
       "labels": [
         "price tag"
       ]
@@ -11349,7 +11384,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1148",
       "title": "Move to Vue 3 composition (instead of options)",
-      "stale_for": 126,
+      "stale_for": 127,
       "labels": [
         "DevOps"
       ]
@@ -11369,7 +11404,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/620",
       "title": "Product sync: use OFF's Redis stream to get live updates",
-      "stale_for": 90,
+      "stale_for": 91,
       "labels": [
         "Product data sync"
       ]
@@ -11377,7 +11412,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1107",
       "title": "Favorite locations",
-      "stale_for": 126,
+      "stale_for": 127,
       "labels": [
         ":star: top issue"
       ]

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-05T08:29:12.000Z",
+  "last_updated": "2025-05-06T21:41:58.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#474",
+      "time": "2025-05-06T21:41:58.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/474#issuecomment-2856123396",
+      "text": "Hello!\r\n\r\nTo generate the https certs (with certbot), I decided to use the OVH DNS Challenge (that I guess we already use on `off2`?). Could anyone with access commit the necessary token inside [ansible/roles/reverse-proxy/defaults/main/ovh-api-secrets.yml](https://github.com/openfoodfacts/openfoodfacts-infrastructure/blob/feat-setup-monitoring/ansible/roles/reverse-proxy/defaults/main/ovh-api-secrets.yml)?\r\n\r\nThe procedure is detailed in [docs/nginx-reverse-proxy.md#How-to-add-wildcard-certificates](https://github.com/openfoodfacts/openfoodfacts-infrastructure/blob/feat-setup-monitoring/docs/nginx-reverse-proxy.md#How-to-add-wildcard-certificates).\r\n\r\nThis token could be just for `openfoodfacts.org`. But I believe it would be useful to have one token that does both `openfoodfacts.org` and `openfoodfacts.net` (and other domains we possess?), if we plan on having a reverse proxy on a host that does both `openfoodfacts.org` and `openfoodfacts.net`."
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-infrastructure#474",
