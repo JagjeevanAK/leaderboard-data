@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-03T06:43:29.000Z",
+  "last_updated": "2025-05-06T13:00:24.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6504",
+      "time": "2025-05-06T13:00:24.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6504#issuecomment-2854489102",
+      "text": "If everything is properly setup, then google password manager will pop-up if there is a saved credential for that site\r\nFrom there its a matter of just clicking that pop-up to auto fill and this is very reliable according to me."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6504",
+      "time": "2025-05-06T12:15:11.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6504#issuecomment-2854355127",
+      "text": "Yeah, I will have a look into this\r\n"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6525",

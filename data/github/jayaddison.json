@@ -1,6 +1,13 @@
 {
-  "last_updated": "2022-09-06T17:15:54Z",
+  "last_updated": "2025-05-06T16:19:55.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-06T15:44:05.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#11859",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11859#pullrequestreview-2818770582",
+      "text": "fix: Pin Test2::Harness at <2"
+    },
     {
       "type": "pr_opened",
       "title": "OpenFoodFacts/openfoodfacts-server#7311",
@@ -227,5 +234,42 @@
     }
   ],
   "open_prs": [],
-  "authored_issue_and_pr": []
+  "authored_issue_and_pr": [
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11832",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11833"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11765",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11771"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11764",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11801"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11721",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11722"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11646",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11724"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11646",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11641"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9531",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11641"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/7315",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7311"
+    },
+    {
+      "issue_link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/7315",
+      "pr_link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/7975"
+    }
+  ]
 }

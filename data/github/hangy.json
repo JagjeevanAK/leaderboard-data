@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-06T10:35:24.000Z",
+  "last_updated": "2025-05-06T15:47:16.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-06T15:38:14.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#11859",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11859#pullrequestreview-2818753571",
+      "text": "fix: Pin Test2::Harness at <2"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#481",
+      "time": "2025-05-06T15:39:20.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/481#issuecomment-2855060766",
+      "text": "Could a newer peer-to-peer VPN like netmaker, tailscale/headscale be interesting?"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-06T10:35:24.000Z",
@@ -4727,7 +4741,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/117",
       "title": "Consider running Playwright as Docker container",
-      "stale_for": 173,
+      "stale_for": 174,
       "labels": [
         "🧪 Tests"
       ]
@@ -4775,7 +4789,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10048",
       "title": "Incorrect canonical redirect?",
-      "stale_for": 206,
+      "stale_for": 207,
       "labels": [
         "redirect"
       ]
@@ -4869,7 +4883,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames-react/issues/28",
       "title": "Get new insights after toggling selection",
-      "stale_for": 2140,
+      "stale_for": 2141,
       "labels": []
     },
     {
@@ -4885,7 +4899,7 @@
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/22",
       "title": "Expiration date format",
-      "stale_for": 50,
+      "stale_for": 51,
       "labels": [
         "best-before-dates",
         "regex-based detection",

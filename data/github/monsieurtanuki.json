@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-06T09:47:04.000Z",
+  "last_updated": "2025-05-06T12:02:03.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6552",
+      "time": "2025-05-06T12:02:03.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6552#issuecomment-2854315406",
+      "text": "@teolemon ping"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-03T12:02:02.000Z",
+      "title": "openfoodfacts/smooth-app#6561",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#pullrequestreview-2813210835",
+      "text": "feat: Add infinite scrolling to the various Open Prices ListViews."
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6573",
@@ -29,13 +43,6 @@
       "time": "2025-05-06T07:20:54.000Z",
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6577#issuecomment-2853523667",
       "text": "> Discuss together about the awkward moment between save and background task fulfillment/product refresh (warning message, change in bg tasks ? mocking the value ?)\n\n@teolemon Generally speaking about background tasks:\n* The value is immediately mocked locally.\n* Then the changes are sent to the server.\n* Then the product is refreshed from the server.\n* Therefore the value in Smoothie reflects the actual value on the server (replacing the mocked value)"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-05-03T12:02:02.000Z",
-      "title": "openfoodfacts/smooth-app#6561",
-      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#pullrequestreview-2813210835",
-      "text": "feat: Add infinite scrolling to the various Open Prices ListViews."
     },
     {
       "type": "issue_closed",
@@ -13804,7 +13811,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6566",
       "title": "Enforce unawaited_futures rule",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         ":star: top issue"
       ]
@@ -13812,7 +13819,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1062",
       "title": "Implement Prices Challenges",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "🏄‍♀️ good first issue",
         "💸 Prices"
@@ -13891,7 +13898,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/626",
       "title": "Successful upload of proof image with invalid bearer token",
-      "stale_for": 58,
+      "stale_for": 59,
       "labels": [
         "Proofs",
         "🔐 Auth"
@@ -13900,7 +13907,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6043",
       "title": "Price tags input from picture",
-      "stale_for": 90,
+      "stale_for": 91,
       "labels": [
         "Prices"
       ]

@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-05-06T10:13:13.000Z",
+  "last_updated": "2025-05-06T15:10:28.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-web#743",
+      "time": "2025-05-06T15:10:28.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/743",
+      "text": "feat: Update open-food-facts-mobile-app.html",
+      "turnaround_time": -1
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-web#743",
+      "time": "2025-05-06T15:10:19.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/pull/743",
+      "text": "feat: Update open-food-facts-mobile-app.html"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-server#9098",
@@ -400,7 +415,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/490",
       "title": "Implement structured packaging editing",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "✏️ Editing",
         "📦 Packaging"
@@ -421,7 +436,7 @@
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/1548",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -436,7 +451,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/486",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": []
     },
     {
@@ -448,7 +463,7 @@
     {
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/issues/180",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 17,
+      "stale_for": 18,
       "labels": []
     },
     {

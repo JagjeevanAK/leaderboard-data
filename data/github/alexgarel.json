@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-05T20:28:28.000Z",
+  "last_updated": "2025-05-06T16:28:03.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#482",
+      "time": "2025-05-06T16:28:03.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/482",
+      "text": "Setup hetzner proxmox cluster"
+    },
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#481",
+      "time": "2025-05-06T12:26:28.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/481",
+      "text": "Study how to have a VPN between all our server"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-05T20:28:28.000Z",
@@ -10361,7 +10375,7 @@
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/1533",
       "title": "Make an insight from ingredients crop detection",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "🎯 P1"
       ]
