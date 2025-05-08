@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-05-06T16:28:03.000Z",
+  "last_updated": "2025-05-07T10:50:05.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/robotoff#1561",
+      "time": "2025-05-07T10:50:05.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1561",
+      "text": "test: fix test annotate + test nutrients JSON",
+      "turnaround_time": 4785
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-07T10:41:17.000Z",
+      "title": "openfoodfacts/openfoodfacts-webcomponents#129",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/129#pullrequestreview-2821168698",
+      "text": "feat: Add robotoff-contribution-message"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/robotoff#1561",
+      "time": "2025-05-07T09:30:14.000Z",
+      "link": "https://github.com/openfoodfacts/robotoff/pull/1561",
+      "text": "test: fix test annotate + test nutrients JSON"
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-infrastructure#482",
@@ -10375,7 +10397,7 @@
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/1533",
       "title": "Make an insight from ingredients crop detection",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "🎯 P1"
       ]

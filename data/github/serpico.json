@@ -1,0 +1,259 @@
+{
+  "last_updated": "2025-05-07T07:44:00.000Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/open-prices-frontend#1550",
+      "time": "2025-05-07T07:44:00.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1550",
+      "text": "Display prices in a table won't display more than 10 rows"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1550",
+      "title": "Display prices in a table won't display more than 10 rows",
+      "stale_for": 0,
+      "labels": [
+        ":star: top issue"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6444",
+      "title": "Apk available for download are still >250MB",
+      "stale_for": 43,
+      "labels": [
+        "📝 story",
+        "distribution"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1400",
+      "title": "Weird behavior with \"My Proofs\" I don't really understand it yet...",
+      "stale_for": 70,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1376",
+      "title": "parameter allowing community validation and community AI extraction should also be on user's settings and encompass/apply to all user's contribs",
+      "stale_for": 82,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1375",
+      "title": "Non sensical behavior with experiment multiple proof upload and validate, has it been reported ?",
+      "stale_for": 81,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6198",
+      "title": "Is the upload from smooth-app to open products facts usually working",
+      "stale_for": 113,
+      "labels": [
+        "background tasks",
+        "🔁 Background tasks"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1169",
+      "title": "consumption-related fields: improve the 'quantity bought' behavior",
+      "stale_for": 48,
+      "labels": [
+        "🎯 P0",
+        "Price addition",
+        "Personal data"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6031",
+      "title": "Store the date/time for each scan along in the scan history",
+      "stale_for": 148,
+      "labels": [
+        "📝 story"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1091",
+      "title": "Road to discount : several prices on one price tag ( depending on the amount bought ) - can we make use of the current \"Receipt\" form ?",
+      "stale_for": 147,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1047",
+      "title": "RAM usage/footprint",
+      "stale_for": 127,
+      "labels": [
+        "UI",
+        "DevOps",
+        "🚄 Performance",
+        "♿️ accessibility"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1000",
+      "title": "Tag feature for proofs - missing category",
+      "stale_for": 127,
+      "labels": [
+        "✨ enhancement",
+        "📷 Proofs"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/535",
+      "title": "When a \"contemporary\" price is present on OP it should cancel the \"no longer sold\" status over on OFF thus allowing update of quantity, categories, etc... on OP",
+      "stale_for": 60,
+      "labels": [
+        "🙅‍♀️ Wontfix",
+        "OxF",
+        "🧽 Data quality"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/961",
+      "title": "Repurpose single price addition workflow to speed up single price / single picture case",
+      "stale_for": 127,
+      "labels": [
+        "Price addition"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/hunger-games/issues/1057",
+      "title": "Allow user/player to quickly pick recently used/favorite filter's values",
+      "stale_for": 152,
+      "labels": [
+        ":star: top issue"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/943",
+      "title": "Dashboard: easy access to My Locations and My Products",
+      "stale_for": 201,
+      "labels": [
+        ":star: top issue"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/913",
+      "title": "Same EAN different weight how to handle ?",
+      "stale_for": 207,
+      "labels": [
+        "⚖️ Variable-weight barcodes"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/879",
+      "title": "Proof: allow editing the location",
+      "stale_for": 39,
+      "labels": [
+        "🎯 P0",
+        "📷 Proofs",
+        ":star: top issue",
+        "✏️ Editing"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/860",
+      "title": "Quick compare view in the search page",
+      "stale_for": 201,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/472",
+      "title": "New DLC/DLUO field",
+      "stale_for": 74,
+      "labels": [
+        "Discounted prices",
+        ":star: top issue"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/840",
+      "title": "Discounted Price and Full Price should be allowed to be the same",
+      "stale_for": 127,
+      "labels": [
+        "discounted prices"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/826",
+      "title": "In basic price graph, display only the currency preset in user's setting or all available currencies",
+      "stale_for": 201,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/428",
+      "title": "Quantity check for locked products",
+      "stale_for": 238,
+      "labels": [
+        "🧽 Data quality"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/409",
+      "title": "Typo in EAN, how to handle ?",
+      "stale_for": 182,
+      "labels": [
+        "🧽 Data quality"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5559",
+      "title": "Adding price through smooth-app 4.15, can't seem to find the shop",
+      "stale_for": 26,
+      "labels": [
+        "Prices",
+        "SSL"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices/issues/308",
+      "title": "Use hunger games to take advantage of historical price data present in OFF product's picture ",
+      "stale_for": 202,
+      "labels": [
+        "Proofs"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/569",
+      "title": "simple \"this product is sold out in this shop\" button/tick box",
+      "stale_for": 201,
+      "labels": [
+        "Availability"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/2478",
+      "title": "Consider adding a scan button to the list view",
+      "stale_for": 116,
+      "labels": [
+        "ux",
+        "lists"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/2280",
+      "title": "Ability to hide specific(s) list(s) of products",
+      "stale_for": 2265,
+      "labels": [
+        "lists"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/2279",
+      "title": "Ability to duplicate list of products",
+      "stale_for": 2265,
+      "labels": [
+        "lists"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/2278",
+      "title": "Ability to reorder items on a list",
+      "stale_for": 1543,
+      "labels": [
+        "lists"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

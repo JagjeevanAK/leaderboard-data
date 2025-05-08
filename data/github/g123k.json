@@ -11641,7 +11641,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6459",
       "title": "New UI for the food preferences",
-      "stale_for": 43,
+      "stale_for": 44,
       "labels": [
         "good first issue",
         "⚙️🥗 Food preferences"
@@ -11726,7 +11726,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6164",
       "title": "GoRouter is in maintenance mode",
-      "stale_for": 111,
+      "stale_for": 112,
       "labels": [
         "dependencies"
       ]
@@ -11740,7 +11740,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6150",
       "title": "Store locator: really hard to find some places",
-      "stale_for": 118,
+      "stale_for": 119,
       "labels": [
         "Prices"
       ]
@@ -11783,7 +11783,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5990",
       "title": "Remove unused translations",
-      "stale_for": 152,
+      "stale_for": 153,
       "labels": [
         "translations"
       ]

@@ -1,6 +1,41 @@
 {
-  "last_updated": "2025-05-06T14:05:51.000Z",
+  "last_updated": "2025-05-07T12:45:05.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-07T12:45:05.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2858451747",
+      "text": "> @AshutoshKhadse23 I would say it's good enough. A bit surprised by the \"All 3 proofs\" on top, referring specifically to \"proof\" when it's supposed to be generic. Regardless, please push your changes so I can review.\r\n\r\nThat was before I made the change, in that  I just want to ask about the UI from the grid to list."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-07T12:43:33.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2858447752",
+      "text": "@monsieurtanuki,\r\nI have completed the implementation of the list in the proof page with a date, and also applied an infinite list.\r\nLooking forward to your feedback?\r\n\r\nhttps://github.com/user-attachments/assets/40adad4a-0e26-4ccc-8637-df34a49b4b98\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-07T11:31:19.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2858233586",
+      "text": "@monsieurtanuki,\r\nDo you think this is alright?\r\n<img width=\"380\" alt=\"Screenshot 2025-05-07 at 5 00 36 PM\" src=\"https://github.com/user-attachments/assets/3fbababb-611a-43d6-b144-60920d6c93de\" />\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-07T11:12:12.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2858163208",
+      "text": "Hello @monsieurtanuki,\r\nCould you confirm this UI?\r\nI know you told only to add the date, but I thought proof ID could also be added.\r\n\r\n\r\nhttps://github.com/user-attachments/assets/0972a259-8fff-476b-894d-82c6c8d91bbb\r\n\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-07T07:41:50.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2857451351",
+      "text": "Hello @monsieurtanuki,\r\nI will work on \"changing the proof display as explained, which wouldn't take you that long (but means creating many proofs first for testing)\""
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6561",
@@ -161,7 +196,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6575",
       "title": "Search Results Not Updating After Changing Country Without App Restart",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "🔎 Search"
       ]

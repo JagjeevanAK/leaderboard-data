@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-07T07:30:21.000Z",
+  "last_updated": "2025-05-07T12:39:21.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-07T12:39:21.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2858425339",
+      "text": "@AshutoshKhadse23 I would say it's good enough. A bit surprised by the \"All 3 proofs\" on top, referring specifically to \"proof\" when it's supposed to be generic.\r\nRegardless, please push your changes so I can review."
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-07T11:24:12.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2858204756",
+      "text": "Hi @AshutoshKhadse23\r\nNo proof ID please, just the date.\r\nI know it looks a bit void, but that will populated in another issue/PR."
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-03T12:02:02.000Z",
@@ -13825,7 +13839,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6566",
       "title": "Enforce unawaited_futures rule",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         ":star: top issue"
       ]
@@ -13833,7 +13847,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1062",
       "title": "Implement Prices Challenges",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "🏄‍♀️ good first issue",
         "💸 Prices"
@@ -13912,7 +13926,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/626",
       "title": "Successful upload of proof image with invalid bearer token",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": [
         "Proofs",
         "🔐 Auth"
@@ -13921,7 +13935,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6043",
       "title": "Price tags input from picture",
-      "stale_for": 91,
+      "stale_for": 92,
       "labels": [
         "Prices"
       ]

@@ -651,13 +651,14 @@
     "link": "https://github.com/openfoodfacts/open-prices/discussions/793",
     "isAnswered": null,
     "time": "2025-04-06T01:54:00Z",
-    "updateTime": "2025-04-06T07:37:17Z",
+    "updateTime": "2025-05-07T17:49:57Z",
     "category": {
       "name": "Ideas",
       "emoji": "💡"
     },
     "participants": [
-      "CloCkWeRX"
+      "CloCkWeRX",
+      "TTalex"
     ],
     "repository": "open-prices"
   },

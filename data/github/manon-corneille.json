@@ -220,7 +220,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10773",
       "title": "Avoid repeating the quantity in the product name ",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": [
         "⚖️ Quantity",
         "Product name"
@@ -276,7 +276,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9741",
       "title": "Show the number of scans to food manufacturers in the Pro platform ",
-      "stale_for": 61,
+      "stale_for": 62,
       "labels": [
         "scan statistics",
         "🏭 Producers Platform",

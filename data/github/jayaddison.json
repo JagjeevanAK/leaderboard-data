@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-06T16:19:55.000Z",
+  "last_updated": "2025-05-07T10:03:01.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-07T10:03:01.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#11861",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11861#pullrequestreview-2821178355",
+      "text": "fix: fix redirection for owner product list in product page"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-06T15:44:05.000Z",

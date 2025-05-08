@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-06T18:19:21.000Z",
+  "last_updated": "2025-05-07T10:51:00.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11864",
+      "time": "2025-05-07T10:51:00.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11864",
+      "text": "fix: Investigate local test issues DO NOT MERGE"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-06T18:19:21.000Z",
@@ -1381,7 +1388,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/114",
       "title": "Load Scan events",
-      "stale_for": 40,
+      "stale_for": 41,
       "labels": []
     },
     {
@@ -1407,7 +1414,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/132",
       "title": "Authenticator setup doesn't work",
-      "stale_for": 161,
+      "stale_for": 162,
       "labels": [
         "2FA"
       ]
@@ -1423,7 +1430,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/120",
       "title": "User import issues that need to be reviewed",
-      "stale_for": 137,
+      "stale_for": 138,
       "labels": [
         "User import"
       ]
@@ -1498,13 +1505,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/35",
       "title": "Work out how to refresh staging from production",
-      "stale_for": 203,
+      "stale_for": 204,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/34",
       "title": "Hardening for production",
-      "stale_for": 203,
+      "stale_for": 204,
       "labels": [
         "Deployment",
         "Security"

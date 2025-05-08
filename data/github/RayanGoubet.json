@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-05-06T08:47:33.000Z",
+  "last_updated": "2025-05-07T10:43:46.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11863",
+      "time": "2025-05-07T10:43:46.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11863",
+      "text": "Docs add translate"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11862",
+      "time": "2025-05-07T10:28:05.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11862",
+      "text": "docs: add how-to-add-a-translation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11861",
+      "time": "2025-05-07T09:25:55.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11861",
+      "text": "fix: fix redirection for owner product list in product page"
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-server#11856",

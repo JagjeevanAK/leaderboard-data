@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-05-07T07:13:29.000Z",
+  "last_updated": "2025-05-07T09:04:07.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/open-prices-frontend#473",
+      "time": "2025-05-07T09:04:07.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/473#issuecomment-2857765605",
+      "text": "> If it is legal, try to use the SCANDIT, the same used by Yuka app, and recognize all classic barcodes faster than you will understand what happened.\n\nI also use Scandit on the \"Price Validation Page\" :)\nAnd we'll need to integrate a barcode reader to help the AI detect barcodes when the numbers below are blurry/absent"
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/open-prices-frontend#473",
+      "time": "2025-05-07T09:02:56.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/473",
+      "text": "Improve barcode scanner (alternative to html5-qrcode ?)"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/open-prices-frontend#473",
+      "time": "2025-05-07T09:02:57.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/473#issuecomment-2857761922",
+      "text": "We added a new barcode scanner ! See #1512 for details.\nFirst tests and it's lightning fast"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/open-prices-frontend#1503",
@@ -11185,7 +11206,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/806",
       "title": "New Price & Proof 'tags' field to unlock features and simplify queries",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "🧽 Data quality"
       ]
@@ -11250,7 +11271,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1456",
       "title": "Form fields: if the input field has a suffix, always show it",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": [
         "UI",
         "Price addition"
@@ -11259,7 +11280,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/745",
       "title": "Are we doing product syncs correctly?",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": [
         "Product data sync",
         "🎯 P0"
@@ -11268,7 +11289,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/727",
       "title": "Continue separating community vs consumption data",
-      "stale_for": 44,
+      "stale_for": 45,
       "labels": [
         "🎯 P0",
         "Personal data"
@@ -11301,7 +11322,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/688",
       "title": "Price tags: levels of difficulty (ex: AI found an existing product or category)",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": [
         "🎯 P0",
         "Price Validation"
@@ -11310,7 +11331,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1336",
       "title": "A page to create missing products",
-      "stale_for": 45,
+      "stale_for": 46,
       "labels": [
         ":star: top issue",
         "P1",
@@ -11328,7 +11349,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1267",
       "title": "Theme: get closer to Open Food Facts look & feel",
-      "stale_for": 111,
+      "stale_for": 112,
       "labels": [
         "UI"
       ]
@@ -11348,7 +11369,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/670",
       "title": "Proof image / Price tags: barcode scanner library to extract the EAN",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": [
         "Proofs",
         "🎯 P0",
@@ -11392,7 +11413,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1137",
       "title": "New price validation assistant page (extracted and predicted from owned proofs)",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": [
         "🎯 P0",
         "Price addition",
