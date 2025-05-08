@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-07T10:03:09.000Z",
+  "last_updated": "2025-05-07T20:39:49.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/open-prices-frontend#1512",
+      "time": "2025-05-07T20:39:49.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1512#issuecomment-2860287964",
+      "text": "@TTalex @raphodn potentially Nutripatrol for reporting, and the folksonomy engine to report weird stuff.\nYou can also consider robotoff questions to improve experience on incomplete products "
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#9251",
+      "time": "2025-05-07T20:32:23.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9251#issuecomment-2860258919",
+      "text": "/gemini review"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-07T10:03:09.000Z",
@@ -329,7 +343,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6577",
       "title": "Robotoff questions in editing (part 2) for packaging",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "🤖 Robotoff"
       ]
@@ -337,13 +351,13 @@
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/1560",
       "title": "We don't write the portion size in Robotoff extraction",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11845",
       "title": "Disable nutrient extraction webcomponent on OBF, OPFF and OPF",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "🧴 Open Beauty Facts",
         "🐾 Open Pet Food Facts",
@@ -354,37 +368,37 @@
     {
       "link": "https://github.com/openfoodfacts/.github/issues/47",
       "title": "Deprecate Ubuntu 20.04 org-wide",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-events/issues/306",
       "title": "events.openfoodfacts.net is BAD GATEWAY",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app_assets/issues/13",
       "title": "Protect main branch",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app_assets/issues/12",
       "title": "Prevent merging if JSON does not validate",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app_assets/issues/11",
       "title": "Add a LLM based action or other to scale translations",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/722",
       "title": "Update the Images for Numbers in the Press Page",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "🗞️ Press",
         "🗞️ Press - numbers-selected"
@@ -393,13 +407,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-marketing/issues/36",
       "title": "answer to reviews on Play Stores",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-marketing/issues/35",
       "title": "Update Figma visuals with the Green-Score, and update the App Store and Google Play in all 30 languages",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "App Store marketing",
         "🌿 Green-Score"
@@ -408,19 +422,19 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-marketing/issues/34",
       "title": "Create a \"Digital Public Good\" include in the press page",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/721",
       "title": "Migrate the Google Podcast icon to YouTube Podcast icon",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/719",
       "title": "TODO in lang/en/texts/nutriscore/nutriscore-new-formula-presskit.html",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         "🚥 Nutri-Score",
         "Nutri-Score v2"
@@ -438,13 +452,13 @@
     {
       "link": "https://github.com/openfoodfacts/taxonomy-editor/issues/572",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-nodejs/issues/617",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
@@ -456,7 +470,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6556",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 3,
+      "stale_for": 4,
       "labels": [
         "good first issue",
         "refactoring"
@@ -471,7 +485,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11802",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
@@ -483,13 +497,13 @@
     {
       "link": "https://github.com/openfoodfacts/hunger-games/issues/1162",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-upptime/issues/7631",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": [
         "bug"
       ]
@@ -497,25 +511,25 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1061",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/710",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1514",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11784",
       "title": "(P0) Add Matomo event for using Nutri-Sight",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": [
         "matomo",
         "Web components"
@@ -524,7 +538,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6545",
       "title": "Tabs for the product page",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": [
         "🥫 Product page"
       ]
@@ -532,7 +546,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-springboot-starter/issues/1",
       "title": "Debug the CI, and investigate a maven org",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": []
     }
   ],

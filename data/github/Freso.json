@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-07T16:41:34.000Z",
+  "last_updated": "2025-05-07T21:29:56.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11852",
+      "time": "2025-05-07T21:29:56.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11852#issuecomment-2860436827",
+      "text": "I took out the `< en:Contains milk` bits for now, to not hold up the rest of this longer than necessary."
+    },
     {
       "type": "issue_opened",
       "title": "openfoodfacts/open-prices-frontend#1551",
@@ -784,7 +791,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1551",
       "title": "Product finder doesn’t account for missing leading zeroes in barcode",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -796,7 +803,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1498",
       "title": "Link products to country site of shop location",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": []
     },
     {
@@ -810,7 +817,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11572",
       "title": "Unrecognised ingredient (sv): “Rainforest Alliance-certifierad fettreducerat kakaopulver”",
-      "stale_for": 46,
+      "stale_for": 47,
       "labels": [
         "labels",
         "🥗 Ingredients"

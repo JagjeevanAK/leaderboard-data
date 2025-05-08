@@ -719,7 +719,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1505",
       "title": "Personal dashboard: Stats on quality of contributions",
-      "stale_for": 24,
+      "stale_for": 25,
       "labels": []
     },
     {
@@ -733,7 +733,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/791",
       "title": "Avoid sending receipts to gemini, unless ReceiptAssistant is used",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": [
         "Receipts"
       ]
@@ -749,13 +749,13 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1333",
       "title": "Add a way to gather user feedback",
-      "stale_for": 84,
+      "stale_for": 85,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/674",
       "title": "Price stats API: Allow stats to be grouped by specific field",
-      "stale_for": 116,
+      "stale_for": 117,
       "labels": []
     }
   ],

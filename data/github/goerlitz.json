@@ -54,7 +54,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1069",
       "title": "Fix error handling of API calls",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "🏄‍♀️ good first issue"
       ]
