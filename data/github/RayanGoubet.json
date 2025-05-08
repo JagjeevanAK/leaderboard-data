@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-05-07T10:43:46.000Z",
+  "last_updated": "2025-05-07T17:23:00.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11863",
+      "time": "2025-05-07T17:23:00.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11863",
+      "text": "docs: add how to add a translation to docs",
+      "turnaround_time": 23944
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-server#11863",

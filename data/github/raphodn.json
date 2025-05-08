@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-07T09:04:07.000Z",
+  "last_updated": "2025-05-07T17:08:27.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/open-prices-frontend#1549",
+      "time": "2025-05-07T17:08:27.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1549#issuecomment-2859388398",
+      "text": "> @raphodn Nice, note that it still shows \"category not found\" \r\n\r\nwhich url ? i don't have it displayed when going to https://prices.openfoodfacts.org/products/fr:batavia"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/open-prices-frontend#473",
@@ -11191,7 +11198,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/831",
       "title": "Track modification history of prices (and proofs)",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "🧽 Data quality",
         "Moderation"
@@ -11226,7 +11233,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1507",
       "title": "AI-powered receipt addition workflow (Receipt Assistant experiment)",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "GenAI",
         "Experiment"
@@ -11252,7 +11259,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1461",
       "title": "Revamp again the personal dashboard page (consumption vs community data)",
-      "stale_for": 26,
+      "stale_for": 27,
       "labels": [
         ":star: top issue",
         "User dashboard",
@@ -11304,7 +11311,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/721",
       "title": "New ML model to detect products on PRICE_TAG proofs",
-      "stale_for": 59,
+      "stale_for": 60,
       "labels": [
         "Proofs",
         "🎯 P0",

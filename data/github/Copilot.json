@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-05-07T09:48:17.000Z",
+  "last_updated": "2025-05-07T18:53:39.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-04T20:15:44.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#9251",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9251#pullrequestreview-2813557448",
+      "text": "feat: Implement OIDC sign-in"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-07T18:44:33.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#11479",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11479#pullrequestreview-2822861500",
+      "text": "refactor: Move Slack webhooks to common module"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-07T18:44:47.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#10710",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10710#pullrequestreview-2822861995",
+      "text": "feat: [WIP] Support OpenTelemetry"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-07T18:47:49.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#11438",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11438#pullrequestreview-2822870776",
+      "text": "chore: Replace osmtogeojson"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-07T09:48:16.000Z",
@@ -21,13 +49,6 @@
       "title": "openfoodfacts/openfoodfacts-webcomponents#117",
       "link": "https://github.com/openfoodfacts/openfoodfacts-webcomponents/pull/117#pullrequestreview-2814249478",
       "text": "feat: Folksonomy Editor Advanced Features"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-05-04T20:15:44.000Z",
-      "title": "openfoodfacts/openfoodfacts-server#9251",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/9251#pullrequestreview-2813557448",
-      "text": "feat: Implement OIDC sign-in"
     }
   ],
   "open_prs": [],

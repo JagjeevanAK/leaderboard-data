@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-06T22:54:02.000Z",
+  "last_updated": "2025-05-07T18:23:46.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-dart#1079",
+      "time": "2025-05-07T18:23:46.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1079#issuecomment-2859787411",
+      "text": "@monsieurtanuki, I made the requested changes:\r\n- replaced factories with named constructors\r\n- using JsonObject.parseBool\r\n- added toJson() and put all json-related code into new json helper class\r\n- added tests for toJson() and fromJson()\r\n- added == operator and hashcode\r\n- added tests for server data\r\n- other minor improvements"
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-dart#1079",
@@ -41,7 +48,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1072",
       "title": "Add Nutri-Score Details",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
@@ -55,7 +62,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10283",
       "title": "Fix search with Umlauts in German vs. English language",
-      "stale_for": 201,
+      "stale_for": 202,
       "labels": [
         "🔎 Search"
       ]

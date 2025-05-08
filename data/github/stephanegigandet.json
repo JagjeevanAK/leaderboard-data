@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-05T12:58:57.000Z",
+  "last_updated": "2025-05-07T15:09:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11856",
+      "time": "2025-05-07T15:09:11.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11856#issuecomment-2858982524",
+      "text": "/update_tests_results"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11856",
+      "time": "2025-05-07T15:09:01.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11856#issuecomment-2858981968",
+      "text": "When updating test results locally with make update_tests_results:\r\n\r\nWe get a 500 error:\r\n\r\n```\r\nnot ok 63 - world-product-smoothie - Test status\r\n# {\r\n#   'url' => 'http://world.openfoodfacts.localhost/cgi/display.pl?/product/3300000000001/apple-pie-bob-s-pies?user_agent=smoothie',\r\n#   'expected_type' => 'html',\r\n#   'path' => '/product/3300000000001/apple-pie-bob-s-pies?user_agent=smoothie',\r\n#   'method' => 'GET',\r\n#   'expected_status_code' => 200,\r\n#   'test_case' => 'world-product-smoothie'\r\n# }\r\n# Response status line: 500 Internal Server Error\r\nok 64 - world-product-smoothie - result\r\n```\r\n\r\n\r\nin logs/apache2/modperl_error_log:\r\n\r\n`] -e: Undefined subroutine &ProductOpener::Display::is_beverage_for_nutrition_score called at /opt/product-opener/lib/ProductOpener/Display.pm line 10089.\\n`\r\n\r\n\r\nIt was replaced by is_beverage_for_nutrition_score_2023, I'll fix it\r\n"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-05T12:58:57.000Z",
@@ -24835,7 +24849,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11813",
       "title": "Max salt not taken into account in ingredient percent estimation",
-      "stale_for": 13,
+      "stale_for": 16,
       "labels": [
         "🧂 Salt",
         "🍬 Sugar",
@@ -24845,13 +24859,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11812",
       "title": "Ignored specified percent in ingredient parsing: Butter (milk) 34%",
-      "stale_for": 1,
+      "stale_for": 4,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11790",
       "title": "Remove support for jqm jquerymobile / old Phonegap / Cordova app",
-      "stale_for": 17,
+      "stale_for": 20,
       "labels": [
         "🧴 Open Beauty Facts",
         "refactor",
@@ -24863,19 +24877,19 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11756",
       "title": "Migrate images object to new schema",
-      "stale_for": 18,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11755",
       "title": "Use off-query to query list of products by popularity sorted by country scans",
-      "stale_for": 27,
+      "stale_for": 29,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11754",
       "title": "Use readocly instead of rapidoc to generate API documentation from OpenAPI spec",
-      "stale_for": 21,
+      "stale_for": 23,
       "labels": [
         "👩‍💻 DevOps"
       ]
@@ -24883,7 +24897,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11704",
       "title": "Remove social media links to X and Facebook, add LinkedIn",
-      "stale_for": 33,
+      "stale_for": 35,
       "labels": [
         "Social media links"
       ]
@@ -24891,7 +24905,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11702",
       "title": "Store input tags separately from parent tags for brands, categories, labels etc. taxonomies",
-      "stale_for": 31,
+      "stale_for": 34,
       "labels": [
         "Tags",
         ":star: top issue",
@@ -24901,13 +24915,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/125",
       "title": "OFF query migration to Python",
-      "stale_for": 45,
+      "stale_for": 47,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11645",
       "title": "New API for image upload, selection and retrieval",
-      "stale_for": 33,
+      "stale_for": 35,
       "labels": [
         "API",
         "🖼️ Images"
@@ -24916,7 +24930,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11390",
       "title": "Don't generate robots.txt on every request",
-      "stale_for": 76,
+      "stale_for": 78,
       "labels": [
         "🚅 Performance"
       ]
@@ -24924,7 +24938,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10988",
       "title": "If the user form is submitted without authentication, redirect to login but keep entered data",
-      "stale_for": 179,
+      "stale_for": 181,
       "labels": [
         "✏️ Editing",
         "🔐 Auth"
@@ -24933,7 +24947,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10832",
       "title": "User deletion does not work on OPFF, OPF, OBF",
-      "stale_for": 188,
+      "stale_for": 190,
       "labels": [
         "🧴 Open Beauty Facts",
         "🐾 Open Pet Food Facts",
@@ -24944,7 +24958,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10637",
       "title": "Vegan label ingredient parsing issue in Finnish product",
-      "stale_for": 129,
+      "stale_for": 132,
       "labels": [
         "🌱 Vegan",
         "🇫🇮 Finland"
@@ -24953,7 +24967,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10581",
       "title": "Extract GS1 GDSN diet types (vegan, vegetarian) in pro platform imports",
-      "stale_for": 82,
+      "stale_for": 84,
       "labels": [
         "GS1",
         "🏭 Producers Platform - data imports"
@@ -24962,7 +24976,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10574",
       "title": "Routing issue on pro platform for ingredients",
-      "stale_for": 199,
+      "stale_for": 202,
       "labels": [
         "facets",
         "🏭 Producers Platform"
@@ -24971,7 +24985,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10511",
       "title": "Compute Nutri-Score on prepared nutrition facts if as sold not available",
-      "stale_for": 199,
+      "stale_for": 202,
       "labels": [
         "🚦 Nutri-Score"
       ]
@@ -24979,7 +24993,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10464",
       "title": "Create simple permanent URLs for front images of products",
-      "stale_for": 199,
+      "stale_for": 202,
       "labels": [
         "MongoDB",
         "🚅 Performance",
@@ -24989,7 +25003,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10406",
       "title": "Personal search preferences in /api/v0/preferences do not match what is used on the website",
-      "stale_for": 199,
+      "stale_for": 202,
       "labels": [
         "personal search"
       ]
@@ -24997,7 +25011,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10387",
       "title": "Nutri-Score panel: add possible reasons when Nutri-Score(s) computed different than Nutri-Score on package",
-      "stale_for": 145,
+      "stale_for": 148,
       "labels": [
         "P2",
         "📖 Knowledge Panels",
@@ -25008,7 +25022,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10327",
       "title": "Footer links for \"Who we are\" and \"Partners\" broken in German, Italian, Spanish, Dutch and other languages",
-      "stale_for": 199,
+      "stale_for": 202,
       "labels": [
         "brokenlinks",
         "footer"
@@ -25017,7 +25031,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10326",
       "title": "Generate and update CSV and RDF exports through a PostgreSQL table",
-      "stale_for": 199,
+      "stale_for": 202,
       "labels": [
         "Data export",
         "postgresql"
@@ -25026,13 +25040,13 @@
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/92",
       "title": "Use consistent field names and taxonomy names (same as Product Opener)",
-      "stale_for": 63,
+      "stale_for": 65,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/rate-my-recipe/issues/53",
       "title": "Add an ingredient box to add any ingredient by typing its name",
-      "stale_for": 241,
+      "stale_for": 243,
       "labels": [
         "enhancement"
       ]
@@ -25040,7 +25054,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9894",
       "title": "Docker Makefile calls nproc which does not work on Windows",
-      "stale_for": 199,
+      "stale_for": 201,
       "labels": [
         "🐋 Docker",
         "Windows dev XP"
@@ -25049,7 +25063,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9779",
       "title": "Ingredient specific labels applied to whole product when there are more than one",
-      "stale_for": 411,
+      "stale_for": 413,
       "labels": [
         "ingredients"
       ]
@@ -25057,7 +25071,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9775",
       "title": "Values from user defined nutrients cannot be completely removed from the nutriments",
-      "stale_for": 199,
+      "stale_for": 202,
       "labels": [
         "Nutrients"
       ]
@@ -25065,7 +25079,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9752",
       "title": "Simplify the templates that render knowledge panels on the web",
-      "stale_for": 206,
+      "stale_for": 208,
       "labels": [
         "📖 Knowledge Panels",
         "Template::Toolkit"
@@ -25074,7 +25088,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/292",
       "title": "On off2, Apache not restarted after oom kill, even with Restart=on-abort",
-      "stale_for": 475,
+      "stale_for": 477,
       "labels": [
         "off2",
         "🪶 Apache"
@@ -25083,7 +25097,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9633",
       "title": "Do not use image size to determine if a product image is a duplicate",
-      "stale_for": 199,
+      "stale_for": 202,
       "labels": [
         "🖼️ Image upload",
         "🎯 P1"

@@ -1,6 +1,28 @@
 {
-  "last_updated": "2025-05-06T12:14:22.000Z",
+  "last_updated": "2025-05-07T16:41:34.000Z",
   "activity": [
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/open-prices-frontend#1551",
+      "time": "2025-05-07T16:41:34.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1551",
+      "text": "Product finder doesn’t account for missing leading zeroes in barcode"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11855",
+      "time": "2025-05-07T15:38:07.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11855",
+      "text": "feat: Add weight % for single-item packaging",
+      "turnaround_time": 237594
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-07T15:18:23.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#11084",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11084#pullrequestreview-2822201432",
+      "text": "taxonomy: Mozartkugeln"
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-server#11857",
@@ -760,21 +782,27 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1551",
+      "title": "Product finder doesn’t account for missing leading zeroes in barcode",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11798",
       "title": "Category `en: Pickles` is both pickled cucumbers and pickled vegetables more generally",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1498",
       "title": "Link products to country site of shop location",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11685",
       "title": "Display currently served version of the taxonomies and website on pages",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": [
         "👩‍💻 DevOps"
       ]
@@ -782,7 +810,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11572",
       "title": "Unrecognised ingredient (sv): “Rainforest Alliance-certifierad fettreducerat kakaopulver”",
-      "stale_for": 45,
+      "stale_for": 46,
       "labels": [
         "labels",
         "🥗 Ingredients"
@@ -791,7 +819,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10678",
       "title": "Allergen markup in ingredients lists breaks identification of compound words",
-      "stale_for": 200,
+      "stale_for": 202,
       "labels": [
         "🥗🔍 Ingredients analysis"
       ]

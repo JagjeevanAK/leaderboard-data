@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-06T20:36:08.000Z",
+  "last_updated": "2025-05-07T17:34:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/open-prices-frontend#1512",
+      "time": "2025-05-07T17:34:11.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1512#issuecomment-2859501648",
+      "text": "Looking at the current list, I'm not sure other components are very useful for the prices project.\n\nHowever, I'm keeping an eye on the search-a-licious one. It's currently being integrated to openfoodfacts-explorer (see https://github.com/openfoodfacts/openfoodfacts-explorer/issues/180), so we'll let them do the heavy lifting and copy the final solution :D"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/open-prices-frontend#1549",
+      "time": "2025-05-07T16:59:11.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices-frontend/pull/1549#issuecomment-2859355689",
+      "text": "@raphodn Nice, note that it still shows \"category not found\"\r\n![Screenshot from 2025-05-07 18-58-00](https://github.com/user-attachments/assets/29765c70-2557-401d-b654-dc142c29851f)\r\n"
+    },
     {
       "type": "pr_merged",
       "title": "openfoodfacts/open-prices-frontend#1545",
@@ -693,13 +707,13 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/827",
       "title": "Allow price filtering on product_name",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1526",
       "title": "ReceiptAssistant: allow filtering on product_name",
-      "stale_for": 10,
+      "stale_for": 11,
       "labels": []
     },
     {
@@ -711,7 +725,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/792",
       "title": "Testing Gen AI results over time",
-      "stale_for": 33,
+      "stale_for": 34,
       "labels": [
         ":star: top issue"
       ]
@@ -727,7 +741,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/760",
       "title": "Prices API: allow filtering using list of values (in, overlap)",
-      "stale_for": 18,
+      "stale_for": 19,
       "labels": [
         "API"
       ]

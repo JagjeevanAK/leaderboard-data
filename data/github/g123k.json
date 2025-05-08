@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-05-07T06:35:29.000Z",
+  "last_updated": "2025-05-07T15:38:48.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6585",
+      "time": "2025-05-07T15:38:48.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6585",
+      "text": "chore: UI/UX for Robotoff suggestions improved",
+      "turnaround_time": 32587
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/smooth-app#6585",
@@ -11650,7 +11658,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6457",
       "title": "Create a Compatibility Score explainer",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": [
         "good first issue",
         "⚙️🥗 Food preferences"
@@ -11659,7 +11667,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6456",
       "title": "Revamp the \"user not connected\" popup",
-      "stale_for": 49,
+      "stale_for": 50,
       "labels": [
         "good first issue",
         "👥 User management"
@@ -11677,7 +11685,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1038",
       "title": "TypeError: type 'int' is not a subtype of type 'String?' in type cast",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
@@ -11703,7 +11711,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6292",
       "title": "\"Slow\" background tasks never start",
-      "stale_for": 96,
+      "stale_for": 97,
       "labels": [
         "background tasks"
       ]
@@ -11711,7 +11719,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6247",
       "title": "My proofs: Client Exception",
-      "stale_for": 36,
+      "stale_for": 37,
       "labels": [
         "Prices",
         "Prices - Proofs"
@@ -11720,7 +11728,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6223",
       "title": "The \"Bleu Blanc Coeur\" SVG is not supported by `flutter_svg`",
-      "stale_for": 107,
+      "stale_for": 108,
       "labels": []
     },
     {
@@ -11767,7 +11775,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6050",
       "title": "Gallery: allow to change the default language of a product",
-      "stale_for": 35,
+      "stale_for": 36,
       "labels": [
         "🎯 P1",
         "🖼️ Photos - Photo manager",
@@ -11791,7 +11799,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5937",
       "title": "Backup on Android : I need your help!",
-      "stale_for": 162,
+      "stale_for": 163,
       "labels": [
         "Database backup"
       ]
@@ -11844,7 +11852,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5819",
       "title": "New UI for \"Profile\"",
-      "stale_for": 36,
+      "stale_for": 37,
       "labels": [
         "⚙️ Settings",
         "✨ 2024 the big redesign"
