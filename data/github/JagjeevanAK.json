@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-05-06T01:02:09.000Z",
+  "last_updated": "2025-05-08T15:28:42.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-shared-services#8",
+      "time": "2025-05-08T15:28:42.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/pull/8#issuecomment-2863461903",
+      "text": "wait Error is not fully solved."
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-shared-services#8",
+      "time": "2025-05-08T15:11:29.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/pull/8",
+      "text": "fix:Update Makefile to make work an make import_prod_data on mac os"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11847",
+      "time": "2025-05-08T14:09:51.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11847#issuecomment-2863214719",
+      "text": "Hey @alexgarel,\r\n\r\n I have cleaned the diff and solved the problem of file changes that  are unrelated to this PR."
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/robotoff#1533",
@@ -369,7 +390,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11770",
       "title": "Image of Schema of the ingredients flow in get-ingredient-related-analysis.md is missing",
-      "stale_for": 26,
+      "stale_for": 28,
       "labels": []
     }
   ],

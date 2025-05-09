@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-07T18:23:46.000Z",
+  "last_updated": "2025-05-08T13:22:11.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-dart#1079",
+      "time": "2025-05-08T13:22:11.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1079#issuecomment-2863051018",
+      "text": "> Hi @goerlitz! To be honest, I find that your code looks a bit too complex for what it's actually doing.\r\n> \r\n> The first thing would be to use what we already provide in the package, like `OffTagged`.\r\n> \r\n> The second thing would be to code what we actually need as users: two fields, one for nutriscore2021, the other for nutriscore2023. And probably without dart 3.0 ;) If needed I'll send you code examples of what I mean.\r\n\r\nActually, my app needs a simple way to access all of this Nutri-Score information - that why I implemented it.\r\n\r\n- Nutri-Score computed? -> category, score, (positive and negative factors)?\r\n- Nutri-Score not applicable? -> why? which category?\r\n- Nutri-Score unknown? -> why? what is missing (category?, nutrients?, ingredients?)?\r\n\r\nAlso the OFF App falls short in making that information transparent. Hence, it would be highly beneficial to have it included in an easily accessible way (the `nutriscore` field/struct has all the information but fiddling with the underlying JSON format quickly gets messy and is error-prone).\r\n\r\nLet me try to leverage `OffTagged` and simplify some code."
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-dart#1079",
@@ -48,7 +55,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1072",
       "title": "Add Nutri-Score Details",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": []
     },
     {
@@ -62,7 +69,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10283",
       "title": "Fix search with Umlauts in German vs. English language",
-      "stale_for": 202,
+      "stale_for": 203,
       "labels": [
         "🔎 Search"
       ]

@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-07T21:29:56.000Z",
+  "last_updated": "2025-05-08T17:05:07.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11868",
+      "time": "2025-05-08T17:05:07.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11868",
+      "text": "taxonomy: Add bread clips and clip bands (packaging)"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-server#11852",
@@ -826,7 +833,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10678",
       "title": "Allergen markup in ingredients lists breaks identification of compound words",
-      "stale_for": 202,
+      "stale_for": 203,
       "labels": [
         "🥗🔍 Ingredients analysis"
       ]

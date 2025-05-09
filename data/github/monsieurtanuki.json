@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-05-08T11:21:15.000Z",
+  "last_updated": "2025-05-08T13:32:32.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-dart#1079",
+      "time": "2025-05-08T13:32:32.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1079#issuecomment-2863088300",
+      "text": "@goerlitz I'm not saying that your code doesn't work or isn't appropriate for your app.\r\nI'm saying that reading it, I find it much more complex that I expected. More specifically, as it's a code that needs to be maintained by developers from different backgrounds, the simpler the better.\r\nThat said, you have a better understanding of how all those nutriscore values can be exploited in an app."
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/smooth-app#6478",
+      "time": "2025-05-08T13:15:50.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6478",
+      "text": "Add infinite scrolling to the various Open Prices ListViews."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-03T12:02:02.000Z",
+      "title": "openfoodfacts/smooth-app#6561",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#pullrequestreview-2813210835",
+      "text": "feat: Add infinite scrolling to the various Open Prices ListViews."
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-07T05:36:41.000Z",
+      "title": "openfoodfacts/openfoodfacts-dart#1079",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1079#pullrequestreview-2820359626",
+      "text": "feat: 1072 - Add Nutri-Score details"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6561",
@@ -28,20 +56,6 @@
       "time": "2025-05-08T09:04:29.000Z",
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6586",
       "text": "Comply with the latest flutter_map/OSM requirements"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-05-07T05:36:41.000Z",
-      "title": "openfoodfacts/openfoodfacts-dart#1079",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1079#pullrequestreview-2820359626",
-      "text": "feat: 1072 - Add Nutri-Score details"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-05-03T12:02:02.000Z",
-      "title": "openfoodfacts/smooth-app#6561",
-      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#pullrequestreview-2813210835",
-      "text": "feat: Add infinite scrolling to the various Open Prices ListViews."
     },
     {
       "type": "comment_created",
@@ -13865,9 +13879,28 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6588",
+      "title": "More verbose proof display",
+      "stale_for": 0,
+      "labels": [
+        "good first issue",
+        "Prices",
+        "Prices - Proofs"
+      ]
+    },
+    {
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6587",
+      "title": "Fine tuning about prices infinite scrolling",
+      "stale_for": 0,
+      "labels": [
+        "good first issue",
+        "Prices"
+      ]
+    },
+    {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6586",
       "title": "Comply with the latest flutter_map/OSM requirements",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
@@ -13916,7 +13949,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1055",
       "title": "Add flexibility to Product according to api version",
-      "stale_for": 36,
+      "stale_for": 37,
       "labels": []
     },
     {
@@ -13993,7 +14026,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11069",
       "title": "Duplicate food records with/without product type",
-      "stale_for": 149,
+      "stale_for": 150,
       "labels": [
         "🏭 Producers Platform"
       ]
@@ -14011,7 +14044,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5417",
       "title": "Add prices: displaying a \"text recap\" like an actual receipt, possibly with the total amount",
-      "stale_for": 202,
+      "stale_for": 203,
       "labels": [
         "good first issue",
         "Prices"
@@ -14020,7 +14053,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10403",
       "title": "TEST env (.net): Cannot write to '/mnt/podata/logs/ratelimiter_log4perl.log'",
-      "stale_for": 202,
+      "stale_for": 203,
       "labels": [
         "preprod",
         "logs"
@@ -14029,7 +14062,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5276",
       "title": "Consider introducing GPS for nearby shop search",
-      "stale_for": 71,
+      "stale_for": 72,
       "labels": [
         "permissions",
         "Prices",
@@ -14055,7 +14088,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5127",
       "title": "no Best Before date on mobile",
-      "stale_for": 118,
+      "stale_for": 119,
       "labels": [
         "✏️ Editing",
         "🎨 Mockup required"
@@ -14064,7 +14097,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/889",
       "title": "Exclude items from autosuggestions",
-      "stale_for": 104,
+      "stale_for": 105,
       "labels": [
         "🏄‍♀️ good first issue",
         "autocomplete"
@@ -14091,29 +14124,10 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/4941",
       "title": "We need to sort out the refresh scenario.",
-      "stale_for": 202,
+      "stale_for": 203,
       "labels": [
         "🎯 P1",
         "data refresh"
-      ]
-    },
-    {
-      "link": "https://github.com/openfoodfacts/smooth-app/issues/4889",
-      "title": "Display square simplified nutriscore/green-score widgets on product page",
-      "stale_for": 13,
-      "labels": [
-        "🥫 Product page",
-        "🚥 Nutri-Score",
-        "✨ 2024 the big redesign"
-      ]
-    },
-    {
-      "link": "https://github.com/openfoodfacts/smooth-app/issues/4888",
-      "title": "Add step for selecting KP before reordering them",
-      "stale_for": 193,
-      "labels": [
-        "📖 Knowledge panels",
-        "📖 Knowledge panels - Local overrides"
       ]
     }
   ],

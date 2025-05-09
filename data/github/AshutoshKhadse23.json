@@ -1,6 +1,21 @@
 {
-  "last_updated": "2025-05-08T12:23:26.000Z",
+  "last_updated": "2025-05-08T13:17:15.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-08T13:17:15.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2863035757",
+      "text": "@monsieurtanuki,\r\nYes, I agree, and thank you for your patience."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-08T13:15:50.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561",
+      "text": "feat: Add infinite scrolling to the various Open Prices ListViews.",
+      "turnaround_time": 1445951
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6561",

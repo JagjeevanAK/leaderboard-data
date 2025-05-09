@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-07T18:53:39.000Z",
+  "last_updated": "2025-05-08T15:13:55.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-08T15:13:55.000Z",
+      "title": "openfoodfacts/openfoodfacts-shared-services#8",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/pull/8#pullrequestreview-2825494491",
+      "text": "fix:Update Makefile to make work an make import_prod_data on mac os"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-04T20:15:44.000Z",

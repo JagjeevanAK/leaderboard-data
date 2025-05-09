@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-07T17:34:11.000Z",
+  "last_updated": "2025-05-08T17:06:14.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#832",
+      "time": "2025-05-08T17:06:14.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/832",
+      "text": "fix(Prices): also look at category_tag for in_challenge checks"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/open-prices-frontend#1512",
