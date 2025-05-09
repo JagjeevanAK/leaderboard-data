@@ -1,0 +1,21 @@
+{
+  "last_updated": "2025-05-08T23:00:40.000Z",
+  "activity": [
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/openfoodfacts-web#744",
+      "time": "2025-05-08T23:00:40.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/744",
+      "text": "Broken “Quick start guide” link on lang/eu/texts/index-pro.html"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-web/issues/744",
+      "title": "Broken “Quick start guide” link on lang/eu/texts/index-pro.html",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

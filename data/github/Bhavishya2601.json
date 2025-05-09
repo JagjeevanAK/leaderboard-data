@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-05-08T04:48:37.000Z",
+  "last_updated": "2025-05-08T20:15:03.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-explorer#330",
+      "time": "2025-05-08T20:15:03.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/pull/330",
+      "text": "feat: Add new products",
+      "turnaround_time": 4147005
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-explorer#330",
@@ -397,13 +405,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/513",
       "title": "Image upload functionality",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/402",
       "title": "user can edit the product details even when he's not logged in",
-      "stale_for": 35,
+      "stale_for": 36,
       "labels": [
         "User management",
         "✏️ Editing"
@@ -418,7 +426,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/309",
       "title": "Delete language in product edit page",
-      "stale_for": 40,
+      "stale_for": 41,
       "labels": [
         "✏️ Editing"
       ]

@@ -1,6 +1,54 @@
 {
-  "last_updated": "2025-05-07T17:08:27.000Z",
+  "last_updated": "2025-05-08T21:40:18.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices#835",
+      "time": "2025-05-08T21:40:18.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/835",
+      "text": "feat(Price Tags): API: new filter by tags (contains)",
+      "turnaround_time": 354
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#835",
+      "time": "2025-05-08T21:34:14.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/835",
+      "text": "feat(Price Tags): API: new filter by tags (contains)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices#834",
+      "time": "2025-05-08T21:13:41.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/834",
+      "text": "feat(Price Tags): new tags field (arrayfield)",
+      "turnaround_time": 369
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#834",
+      "time": "2025-05-08T21:07:22.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/834",
+      "text": "feat(Price Tags): new tags field (arrayfield)"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "openfoodfacts/open-prices#832",
+      "time": "2025-05-08T18:46:15.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/832",
+      "text": "fix(Prices): also look at category_tag for in_challenge checks",
+      "collaborated_with": [
+        "TTalex",
+        "raphodn"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-08T18:40:54.000Z",
+      "title": "openfoodfacts/open-prices#832",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/832#pullrequestreview-2826065522",
+      "text": "fix(Prices): also look at category_tag for in_challenge checks"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/open-prices-frontend#1549",
@@ -11198,7 +11246,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/831",
       "title": "Track modification history of prices (and proofs)",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "🧽 Data quality",
         "Moderation"
@@ -11207,13 +11255,13 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/828",
       "title": "Price currency choices: add cryptocurrencies",
-      "stale_for": 7,
+      "stale_for": 8,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/806",
-      "title": "New Price & Proof 'tags' field to unlock features and simplify queries",
-      "stale_for": 10,
+      "title": "New Price & Proof `tags` field to unlock features and simplify queries",
+      "stale_for": 0,
       "labels": [
         "🧽 Data quality"
       ]
@@ -11227,13 +11275,13 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/796",
       "title": "API: new price filter by product_name & osm_name__like",
-      "stale_for": 22,
+      "stale_for": 23,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1507",
       "title": "AI-powered receipt addition workflow (Receipt Assistant experiment)",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": [
         "GenAI",
         "Experiment"
@@ -11242,7 +11290,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1497",
       "title": "Revamp again the landing page",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": [
         "Home page"
       ]
@@ -11250,7 +11298,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1496",
       "title": "Add Terms of Service",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": [
         "P1",
         "Privacy"
@@ -11259,7 +11307,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1461",
       "title": "Revamp again the personal dashboard page (consumption vs community data)",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": [
         ":star: top issue",
         "User dashboard",
@@ -11269,7 +11317,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/764",
       "title": "Product price estimate (average ? or last ? or range ?)",
-      "stale_for": 36,
+      "stale_for": 37,
       "labels": [
         ":bar_chart: Stats",
         "Products"
@@ -11305,13 +11353,13 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1393",
       "title": "Product card: display a price (latest ? average ? cheapest ?)",
-      "stale_for": 74,
+      "stale_for": 75,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/721",
       "title": "New ML model to detect products on PRICE_TAG proofs",
-      "stale_for": 60,
+      "stale_for": 61,
       "labels": [
         "Proofs",
         "🎯 P0",
@@ -11321,7 +11369,7 @@
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/277",
       "title": "Return the product's `product_quantity` field",
-      "stale_for": 14,
+      "stale_for": 15,
       "labels": [
         "frontend"
       ]
@@ -11329,7 +11377,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/688",
       "title": "Price tags: levels of difficulty (ex: AI found an existing product or category)",
-      "stale_for": 61,
+      "stale_for": 0,
       "labels": [
         "🎯 P0",
         "Price Validation"
@@ -11348,7 +11396,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1310",
       "title": "New Contribution page to list & explain the ways to contribute",
-      "stale_for": 15,
+      "stale_for": 16,
       "labels": [
         ":star: top issue"
       ]
@@ -11364,13 +11412,13 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1235",
       "title": "Barcode scanner (manual): allow search with wildcards with the help of search-a-licious ?",
-      "stale_for": 123,
+      "stale_for": 124,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/search-a-licious/issues/272",
       "title": "Allow searching on all flavors (OPF, OBF, OPFF)",
-      "stale_for": 66,
+      "stale_for": 67,
       "labels": []
     },
     {
@@ -11387,7 +11435,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/665",
       "title": "Ensure Proof images are properly rotated",
-      "stale_for": 64,
+      "stale_for": 65,
       "labels": [
         "Proofs",
         "Editing"
@@ -11396,7 +11444,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1183",
       "title": "Improve release-please config",
-      "stale_for": 128,
+      "stale_for": 129,
       "labels": [
         "DevOps"
       ]
@@ -11404,7 +11452,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/637",
       "title": "Automatically match new prices with their PriceTag prediction counterpart",
-      "stale_for": 99,
+      "stale_for": 100,
       "labels": [
         "price tag"
       ]
@@ -11412,7 +11460,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1148",
       "title": "Move to Vue 3 composition (instead of options)",
-      "stale_for": 128,
+      "stale_for": 129,
       "labels": [
         "DevOps"
       ]
@@ -11432,7 +11480,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/620",
       "title": "Product sync: use OFF's Redis stream to get live updates",
-      "stale_for": 92,
+      "stale_for": 93,
       "labels": [
         "Product data sync"
       ]
@@ -11440,7 +11488,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1107",
       "title": "Favorite locations",
-      "stale_for": 128,
+      "stale_for": 129,
       "labels": [
         ":star: top issue"
       ]

@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-07T22:34:47.000Z",
+  "last_updated": "2025-05-08T20:19:45.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-explorer#519",
+      "time": "2025-05-08T20:19:45.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/519#issuecomment-2864187256",
+      "text": "> How about moving the image rotate functionality to when the image is in full screen, right now, if we rotate the image, it overlaps, causing UI issues\n\nI'm ok with this, we can keep the rotation thing in the fullscreen view and just display the image here."
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/openfoodfacts-explorer#308",
+      "time": "2025-05-08T20:15:03.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/308",
+      "text": "Feature to Add new Products"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-07T22:34:47.000Z",
@@ -3625,7 +3639,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/270",
       "title": "Move server API to openfoodfacts-nodejs",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": [
         "Network calls"
       ]
@@ -3639,7 +3653,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/180",
       "title": "Add support for Search-A-Licious",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "🔎 Search",
         "Web Components"
@@ -3648,7 +3662,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/178",
       "title": "Integrate Nutri-Patrol, our new moderation tool https://github.com/openfoodfacts/nutripatrol",
-      "stale_for": 25,
+      "stale_for": 26,
       "labels": [
         "👮 Nutri-Patrol"
       ]
@@ -3656,7 +3670,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/175",
       "title": "Allow unselecting images from a product",
-      "stale_for": 50,
+      "stale_for": 51,
       "labels": [
         "🖼️ Images",
         "✏️ Editing - Images"
@@ -3665,7 +3679,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/174",
       "title": "Allow extracting ingredients from the ingredients image",
-      "stale_for": 50,
+      "stale_for": 51,
       "labels": [
         "✏️ Editing",
         "✏️ Editing - Ingredients"
@@ -3691,7 +3705,7 @@
     {
       "link": "https://github.com/openfoodfacts/hunger-games/issues/616",
       "title": "Consider using the openfoodfacts-nodejs SDK",
-      "stale_for": 69,
+      "stale_for": 70,
       "labels": [
         "Refactoring"
       ]
@@ -3699,7 +3713,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/7465",
       "title": "docs: write documentation for the /cgi/auth.pl endpoint",
-      "stale_for": 209,
+      "stale_for": 210,
       "labels": [
         "📚 Documentation",
         "🔐 API auth",
@@ -3720,7 +3734,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/2172",
       "title": "The personal ranking search button jumps when scrolling",
-      "stale_for": 188,
+      "stale_for": 189,
       "labels": [
         "personal search",
         "🎨 UI / UX",
@@ -3731,7 +3745,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/4179",
       "title": "Update to mlkit 17.0.0 (Needs API 19)",
-      "stale_for": 909,
+      "stale_for": 910,
       "labels": [
         "dependencies",
         "requires sdk update",
@@ -3741,7 +3755,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/4810",
       "title": "in ingredients_processing.txt if the unaccented version is first, or the only version, it won't match accented terms",
-      "stale_for": 202,
+      "stale_for": 203,
       "labels": [
         "🧬 Taxonomies",
         "processing",
@@ -3751,7 +3765,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/3756",
       "title": "RFC: Migrate from greenDAO to ObjectBox",
-      "stale_for": 1361,
+      "stale_for": 1362,
       "labels": [
         "sql",
         "local database",
@@ -3761,7 +3775,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/3755",
       "title": "Implement MaterialTheme",
-      "stale_for": 1369,
+      "stale_for": 1370,
       "labels": [
         "refactoring",
         "ui",
@@ -3771,7 +3785,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/4603",
       "title": "Android app deep link conflicting URLs",
-      "stale_for": 202,
+      "stale_for": 203,
       "labels": [
         "🤳🥫 blocking mobile apps",
         "⏰ Stale"
@@ -3780,7 +3794,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-androidapp/issues/3128",
       "title": "Update to okhttp 3.13",
-      "stale_for": 1817,
+      "stale_for": 1818,
       "labels": [
         "3rd party libraries",
         "dependencies"
@@ -3789,7 +3803,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/2703",
       "title": "Normalize taxonomy directory structure",
-      "stale_for": 202,
+      "stale_for": 203,
       "labels": [
         "🧬 Taxonomies",
         "P2",
@@ -3799,7 +3813,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/2044",
       "title": "Choose a formatting style guide for the project",
-      "stale_for": 202,
+      "stale_for": 203,
       "labels": [
         "🎯 P1 candidate",
         "dev",
@@ -3810,7 +3824,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/issues/110",
       "title": "Activate subpages on mediawiki",
-      "stale_for": 209,
+      "stale_for": 210,
       "labels": [
         "✨ enhancement",
         "wiki",
@@ -3820,7 +3834,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames/issues/273",
       "title": "Create a user score system",
-      "stale_for": 1333,
+      "stale_for": 1334,
       "labels": []
     }
   ],
