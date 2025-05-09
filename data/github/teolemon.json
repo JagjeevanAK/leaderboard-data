@@ -443,7 +443,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/490",
       "title": "Implement structured packaging editing",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "✏️ Editing",
         "📦 Packaging"
@@ -464,7 +464,7 @@
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/1548",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 2,
+      "stale_for": 3,
       "labels": []
     },
     {
@@ -479,7 +479,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/486",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {
@@ -491,7 +491,7 @@
     {
       "link": "https://github.com/openfoodfacts/facets-knowledge-panels/issues/180",
       "title": "Find and replace all OBSOLETE urls for facets",
-      "stale_for": 19,
+      "stale_for": 20,
       "labels": []
     },
     {

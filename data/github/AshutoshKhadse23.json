@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-05-07T12:45:05.000Z",
+  "last_updated": "2025-05-08T12:23:26.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-08T12:23:26.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2862871661",
+      "text": "@monsieurtanuki,\r\nCheck once!!\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-08T11:02:10.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2862641782",
+      "text": "> @AshutoshKhadse23\r\n> \r\n> * you're not supposed to `throw` a `MaybeError`. Just throw an exception in `fetchInit`\r\n> * and you don't have to test `if (_bearerToken == null)` after `fetchInit` within `fetchData`, because it would have thrown an exception already\r\n> * you're **NOT** supposed to close the session (`deleteUserSession`) after each page. Just do it in the `dispose` of the list. **ONCE**. And we don't care if the `deleteUserSession` is not successful.\r\n\r\nHow about this? I just wanna to complete work perfectly so if you have time could you check it?\r\n```dart\r\nclass _InfiniteScrollProofManager extends InfiniteScrollManager<Proof> {\r\n  _InfiniteScrollProofManager({\r\n    required this.selectProof,\r\n  });\r\n\r\n  static const int _pageSize = 10;\r\n  final bool selectProof;\r\n  String? _bearerToken;\r\n\r\n  @override\r\n  Future<void> fetchInit() async {\r\n    final User user = ProductQuery.getWriteUser();\r\n    final MaybeError<String> token =\r\n    await OpenPricesAPIClient.getAuthenticationToken(\r\n      username: user.userId,\r\n      password: user.password,\r\n      uriHelper: ProductQuery.uriPricesHelper,\r\n    );\r\n\r\n    if (token.isError) {\r\n      throw Exception(token.error ?? 'Could not authenticate with the server');\r\n    }\r\n\r\n    _bearerToken = token.value;\r\n  }\r\n\r\n  @override\r\n  Future<void> fetchData(final int pageNumber) async {\r\n    if (_bearerToken == null) {\r\n      await fetchInit();\r\n    }\r\n\r\n    final User user = ProductQuery.getWriteUser();\r\n    final MaybeError<GetProofsResult> result =\r\n    await OpenPricesAPIClient.getProofs(\r\n      GetProofsParameters()\r\n        ..orderBy = <OrderBy<GetProofsOrderField>>[\r\n          const OrderBy<GetProofsOrderField>(\r\n            field: GetProofsOrderField.created,\r\n            ascending: false,\r\n          ),\r\n        ]\r\n        ..owner = user.userId\r\n        ..pageSize = _pageSize\r\n        ..pageNumber = pageNumber,\r\n      uriHelper: ProductQuery.uriPricesHelper,\r\n      bearerToken: _bearerToken!,\r\n    );\r\n\r\n    if (result.isError) {\r\n      throw Exception(result.error ?? 'Failed to fetch proofs');\r\n    }\r\n\r\n    final GetProofsResult value = result.value;\r\n    updateItems(\r\n      newItems: value.items,\r\n      pageNumber: value.pageNumber,\r\n      totalItems: value.total,\r\n      totalPages: value.numberOfPages,\r\n    );\r\n  }\r\n\r\n  /// Properly dispose of the session when the manager is no longer needed\r\n  void dispose() {\r\n    if (_bearerToken != null) {\r\n      OpenPricesAPIClient.deleteUserSession(\r\n        uriHelper: ProductQuery.uriPricesHelper,\r\n        bearerToken: _bearerToken!,\r\n      );\r\n    }\r\n  }\r\n\r\n  @override\r\n  Widget buildItem({\r\n    required BuildContext context,\r\n    required Proof item,\r\n  }) {\r\n    if (item.filePath == null) {\r\n      return const SizedBox.shrink();\r\n    }\r\n\r\n    return SmoothCard(\r\n      child: InkWell(\r\n        onTap: () async {\r\n          if (selectProof) {\r\n            Navigator.of(context).pop(item);\r\n            return;\r\n          }\r\n          return Navigator.push<void>(\r\n            context,\r\n            MaterialPageRoute<void>(\r\n              builder: (BuildContext context) => PriceProofPage(item),\r\n            ),\r\n          );\r\n        },\r\n        child: _PriceProofListItem(item),\r\n      ),\r\n    );\r\n  }\r\n}\r\n```"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-08T10:12:28.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2862509888",
+      "text": "> > Hello @monsieurtanuki, For the consistency of the code overall, I changed the code accordingly. If you want, I can still use `fetchInit` in the code.\r\n> \r\n> @AshutoshKhadse23 It has nothing to do with consistency. For proofs, there's a special case: at init time, we must perform a specific action, once. It's something that can be understood as \"there's an init phase for all subclasses, but luckily most of the time we do nothing\". What would be the point of `fetchInit` otherwise?\r\n\r\n@monsieurtanuki,\r\nWhat do you think about this approach ?\r\n```dart\r\nclass _InfiniteScrollProofManager extends InfiniteScrollManager<Proof> {\r\n  _InfiniteScrollProofManager({\r\n    required this.selectProof,\r\n  });\r\n\r\n  static const int _pageSize = 10;\r\n  final bool selectProof;\r\n  String? _bearerToken;\r\n\r\n  @override\r\n  Future<void> fetchInit() async {\r\n    final User user = ProductQuery.getWriteUser();\r\n    final MaybeError<String> token =\r\n    await OpenPricesAPIClient.getAuthenticationToken(\r\n      username: user.userId,\r\n      password: user.password,\r\n      uriHelper: ProductQuery.uriPricesHelper,\r\n    );\r\n\r\n    if (token.isError) {\r\n      throw MaybeError<GetProofsResult>.error(\r\n        error: token.error ?? 'Could not authenticate with the server',\r\n        statusCode: token.statusCode ?? 500,\r\n      );\r\n    }\r\n\r\n    _bearerToken = token.value;\r\n  }\r\n\r\n  @override\r\n  Future<void> fetchData(final int pageNumber) async {\r\n    if (_bearerToken == null) {\r\n      await fetchInit();\r\n      if (_bearerToken == null) {\r\n        throw MaybeError<GetProofsResult>.error(\r\n          error: 'Failed to obtain authentication token',\r\n          statusCode: 500,\r\n        );\r\n      }\r\n    }\r\n\r\n    final User user = ProductQuery.getWriteUser();\r\n    final MaybeError<GetProofsResult> result =\r\n    await OpenPricesAPIClient.getProofs(\r\n      GetProofsParameters()\r\n        ..orderBy = <OrderBy<GetProofsOrderField>>[\r\n          const OrderBy<GetProofsOrderField>(\r\n            field: GetProofsOrderField.created,\r\n            ascending: false,\r\n          ),\r\n        ]\r\n        ..owner = user.userId\r\n        ..pageSize = _pageSize\r\n        ..pageNumber = pageNumber,\r\n      uriHelper: ProductQuery.uriPricesHelper,\r\n      bearerToken: _bearerToken!,\r\n    );\r\n\r\n    await OpenPricesAPIClient.deleteUserSession(\r\n      uriHelper: ProductQuery.uriPricesHelper,\r\n      bearerToken: _bearerToken!,\r\n    );\r\n\r\n    if (result.isError) {\r\n      throw result.detailError;\r\n    }\r\n\r\n    final GetProofsResult value = result.value;\r\n    updateItems(\r\n      newItems: value.items,\r\n      pageNumber: value.pageNumber,\r\n      totalItems: value.total,\r\n      totalPages: value.numberOfPages,\r\n    );\r\n  }\r\n  ```"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6561",
+      "time": "2025-05-08T09:15:02.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6561#issuecomment-2862341623",
+      "text": "@monsieurtanuki,\r\nFor the consistency of the code overall, I changed the code accordingly. If you want, I can still use ```fetchInit``` in the code."
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6561",
@@ -196,7 +224,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6575",
       "title": "Search Results Not Updating After Changing Country Without App Restart",
-      "stale_for": 4,
+      "stale_for": 5,
       "labels": [
         "🔎 Search"
       ]

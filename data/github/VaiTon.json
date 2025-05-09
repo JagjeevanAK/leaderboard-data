@@ -3633,7 +3633,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/181",
       "title": "Bring features from the Power User Script",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": []
     },
     {
@@ -3674,7 +3674,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/166",
       "title": "Add support for Price editing",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": [
         "💸 Prices",
         "✏️ Editing"
@@ -3683,7 +3683,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/1",
       "title": "Implement a real login mechanism",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": [
         "🔐 Auth"
       ]
@@ -3711,7 +3711,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/2215",
       "title": "As a user, I should be able to specify if a field is not printed on the packaging",
-      "stale_for": 11,
+      "stale_for": 12,
       "labels": [
         "✏️ Contribution",
         "P4"
