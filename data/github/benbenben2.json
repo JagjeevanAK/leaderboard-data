@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-05T08:46:11.000Z",
+  "last_updated": "2025-05-10T08:41:26.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-03T15:12:00.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#11816",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11816#pullrequestreview-2813250870",
+      "text": "taxonomy: move all vitamins under en:vitamins"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#11136",
+      "time": "2025-05-10T08:32:53.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11136#issuecomment-2868631977",
+      "text": "/update_tests_results"
+    },
     {
       "type": "pr_merged",
       "title": "openfoodfacts/openfoodfacts-server#11850",
@@ -22,13 +36,6 @@
       "time": "2025-05-03T20:38:44.000Z",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/4876#issuecomment-2848799498",
       "text": "is it fixed?"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-05-03T15:12:00.000Z",
-      "title": "openfoodfacts/openfoodfacts-server#11816",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11816#pullrequestreview-2813250870",
-      "text": "taxonomy: move all vitamins under en:vitamins"
     },
     {
       "type": "pr_opened",
@@ -3080,13 +3087,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11815",
       "title": "CIQUAL to cover processing",
-      "stale_for": 11,
+      "stale_for": 16,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-python/issues/292",
       "title": "api.facet.get returns single page",
-      "stale_for": 61,
+      "stale_for": 66,
       "labels": [
         "Facets"
       ]
@@ -3094,7 +3101,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9616",
       "title": "bug: traces are not correctly parsed",
-      "stale_for": 199,
+      "stale_for": 204,
       "labels": [
         "🥗  Ingredients",
         "ingredients analysis",

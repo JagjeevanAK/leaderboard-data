@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-09T18:51:19.000Z",
+  "last_updated": "2025-05-10T07:36:33.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6589",
+      "time": "2025-05-10T07:36:33.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6589#issuecomment-2868602883",
+      "text": "@AshutoshKhadse23 Not 100%.\r\nIt should look similar to product chips:\r\n* the count should be like the \"24\"\r\n* the timestamp should be like \"4d\"\r\n* the date should be a simple text\r\n* the location should be like \"monoprix\"\r\n* your currency looks ok\r\n* I have no idea where you picked that \"generic\" label - it must reflect the type which is either \"receipt\" or \"price tag\". And no icon for that, please.\r\n\r\n![Screenshot_20250510_092824](https://github.com/user-attachments/assets/f81aa745-8988-43a2-904f-73921c73f353)\r\n"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6588",
@@ -13965,7 +13972,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6544",
       "title": "\"Soygate\", or should we warn the user when prices change",
-      "stale_for": 27,
+      "stale_for": 28,
       "labels": [
         ":star: top issue",
         "Prices",
@@ -13975,7 +13982,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6543",
       "title": "Confusion about IMPORTANT and VERY_IMPORTANT levels",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": [
         "⚙️🥗 Food preferences"
       ]
@@ -13983,7 +13990,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11745",
       "title": "/cgi/search.pl: no image for ingredients, nutrition and packaging",
-      "stale_for": 32,
+      "stale_for": 33,
       "labels": [
         "🖼️ Images"
       ]
@@ -13997,13 +14004,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1053",
       "title": "Edit \"allergenic substances\"",
-      "stale_for": 41,
+      "stale_for": 42,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6490",
       "title": "Exotic and inconsistent language selection",
-      "stale_for": 28,
+      "stale_for": 29,
       "labels": [
         "🎨 UI / UX"
       ]
@@ -14011,7 +14018,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6428",
       "title": "Starting August 20, 2025, no more Amazon Appstore on your Android device",
-      "stale_for": 57,
+      "stale_for": 58,
       "labels": [
         "distribution",
         "Amazon AppStore"
@@ -14020,13 +14027,13 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1306",
       "title": "Use store specific advertisement",
-      "stale_for": 108,
+      "stale_for": 109,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6069",
       "title": "Share an image as a proof with Smoothie",
-      "stale_for": 130,
+      "stale_for": 131,
       "labels": [
         "Prices",
         "Share to Open Food Facts"
@@ -14052,7 +14059,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1011",
       "title": "New Prices features: create location, get products",
-      "stale_for": 154,
+      "stale_for": 155,
       "labels": [
         "💸 Prices"
       ]
@@ -14060,7 +14067,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5982",
       "title": "Support \"online\" stores for Prices",
-      "stale_for": 159,
+      "stale_for": 160,
       "labels": [
         "Prices"
       ]
@@ -14076,7 +14083,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5861",
       "title": "Folksonomy + refresh, offline, background tasks",
-      "stale_for": 125,
+      "stale_for": 126,
       "labels": [
         "folksonomy engine",
         "P2",
@@ -14114,7 +14121,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/906",
       "title": "Know when to suggest \"% DV\" and \"IU\" as unit",
-      "stale_for": 209,
+      "stale_for": 210,
       "labels": [
         "✏️ Editing - Nutrition input"
       ]
@@ -14122,7 +14129,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/905",
       "title": "Add \"% DV\" and \"IU\" as unit",
-      "stale_for": 209,
+      "stale_for": 210,
       "labels": [
         "✏️ Editing - Nutrition input"
       ]
@@ -14148,7 +14155,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5046",
       "title": "Autocomplete: new Elastic Search or old tag type?",
-      "stale_for": 189,
+      "stale_for": 190,
       "labels": [
         "discussion",
         "🔎 Search",
@@ -14158,7 +14165,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/862",
       "title": "Missing nutrients (e.g. Polyols)",
-      "stale_for": 209,
+      "stale_for": 210,
       "labels": [
         "nutrients"
       ]

@@ -1,6 +1,27 @@
 {
-  "last_updated": "2025-05-06T15:47:16.000Z",
+  "last_updated": "2025-05-09T21:09:20.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-server#10710",
+      "time": "2025-05-09T21:09:20.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10710#issuecomment-2867883161",
+      "text": "/update_tests_results"
+    },
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11874",
+      "time": "2025-05-09T19:09:01.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11874",
+      "text": "Upgrade from Cropper.js v1 to Cropper.js v2"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-09T19:04:03.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#11718",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11718#pullrequestreview-2829433430",
+      "text": "build(deps): bump cropperjs from 1.6.2 to 2.0.0"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-06T15:38:14.000Z",
@@ -4729,9 +4750,18 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11874",
+      "title": "Upgrade from Cropper.js v1 to Cropper.js v2",
+      "stale_for": 0,
+      "labels": [
+        "good first issue",
+        "help wanted"
+      ]
+    },
+    {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11160",
       "title": "build: Clean up and reorganize `backend` container build",
-      "stale_for": 127,
+      "stale_for": 130,
       "labels": [
         "🐋 Docker",
         "👩‍💻 DevOps",
@@ -4741,7 +4771,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/117",
       "title": "Consider running Playwright as Docker container",
-      "stale_for": 174,
+      "stale_for": 177,
       "labels": [
         "🧪 Tests"
       ]
@@ -4749,7 +4779,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10709",
       "title": "ci: Build issues in Gulp do not cause builds to fail",
-      "stale_for": 201,
+      "stale_for": 204,
       "labels": [
         "GitHub Actions",
         "🥤 Gulp",
@@ -4759,7 +4789,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/52",
       "title": "Move moderator role to Keycloak",
-      "stale_for": 163,
+      "stale_for": 166,
       "labels": [
         "Priviledged users"
       ]
@@ -4767,13 +4797,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/51",
       "title": "Allow application developers to manage their own Clients",
-      "stale_for": 200,
+      "stale_for": 203,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/50",
       "title": "Support passkeys",
-      "stale_for": 200,
+      "stale_for": 203,
       "labels": [
         "Passkeys"
       ]
@@ -4781,7 +4811,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/49",
       "title": "Support social login providers",
-      "stale_for": 200,
+      "stale_for": 203,
       "labels": [
         "Social login"
       ]
@@ -4789,7 +4819,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10048",
       "title": "Incorrect canonical redirect?",
-      "stale_for": 208,
+      "stale_for": 210,
       "labels": [
         "redirect"
       ]
@@ -4797,7 +4827,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10030",
       "title": "Use tagify SCSS file for styling of tag inputs",
-      "stale_for": 26,
+      "stale_for": 29,
       "labels": [
         "good first issue",
         "🎨 New design"
@@ -4806,7 +4836,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5131",
       "title": "🌅 GS1 \"Sunrise 2027\" - 2D Barcodes, GS1 Element String, and GS1 Digital Link URI support",
-      "stale_for": 128,
+      "stale_for": 131,
       "labels": [
         "🎯 P1",
         "🤳🥫 Scan"
@@ -4815,7 +4845,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9312",
       "title": "Empty search produces weird download",
-      "stale_for": 201,
+      "stale_for": 204,
       "labels": [
         "🔎  Search",
         "good first issue"
@@ -4824,7 +4854,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9200",
       "title": "Singular facet URL provides empty page",
-      "stale_for": 201,
+      "stale_for": 204,
       "labels": [
         "facets"
       ]
@@ -4832,7 +4862,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9012",
       "title": "Folksonomy Engine loads CSS and a font from CDNs",
-      "stale_for": 44,
+      "stale_for": 47,
       "labels": [
         "🎯 P1",
         "good first issue",
@@ -4846,7 +4876,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/3685",
       "title": "Incorrect casing for kilojoule in nutrition facts",
-      "stale_for": 201,
+      "stale_for": 204,
       "labels": [
         "Nutrition facts",
         "units",
@@ -4856,7 +4886,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/2672",
       "title": "Reduce or remove generated JavaScript",
-      "stale_for": 201,
+      "stale_for": 204,
       "labels": [
         "frontend",
         "accessibility ♿",
@@ -4870,7 +4900,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/2622",
       "title": "Remove app specific stuff from the config",
-      "stale_for": 208,
+      "stale_for": 211,
       "labels": [
         "🌐 i18n",
         "P2",
@@ -4883,13 +4913,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-hungergames-react/issues/28",
       "title": "Get new insights after toggling selection",
-      "stale_for": 2141,
+      "stale_for": 2144,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1769",
       "title": "&quot; escaped double quotes in JSON/CSV",
-      "stale_for": 127,
+      "stale_for": 130,
       "labels": [
         "API",
         "Data export",
@@ -4899,7 +4929,7 @@
     {
       "link": "https://github.com/openfoodfacts/robotoff/issues/22",
       "title": "Expiration date format",
-      "stale_for": 51,
+      "stale_for": 54,
       "labels": [
         "best-before-dates",
         "regex-based detection",
@@ -4911,7 +4941,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1668",
       "title": "Made Near Me creates a huge single HTML file",
-      "stale_for": 201,
+      "stale_for": 204,
       "labels": [
         "🗺️ Made Near Me",
         "🚅 Performance",
@@ -4922,7 +4952,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1665",
       "title": "change unit_to_g() to unit_to_default_unit() ?",
-      "stale_for": 40,
+      "stale_for": 43,
       "labels": [
         "question",
         "refactor"
@@ -4931,7 +4961,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1642",
       "title": "Review internal code range",
-      "stale_for": 201,
+      "stale_for": 204,
       "labels": [
         "barcodes",
         "GS1",
@@ -4942,7 +4972,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1640",
       "title": "Refactor taxonomy unit tests",
-      "stale_for": 84,
+      "stale_for": 87,
       "labels": [
         "🧬 Taxonomies",
         "🧪 tests",
@@ -4952,7 +4982,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1597",
       "title": "Consider creating an API for moving products with history",
-      "stale_for": 208,
+      "stale_for": 211,
       "labels": [
         "API WRITE"
       ]
@@ -4960,7 +4990,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1596",
       "title": "Implement a central User Service for auth - keycloak",
-      "stale_for": 208,
+      "stale_for": 211,
       "labels": [
         "API",
         "🔐 API auth"
@@ -4969,7 +4999,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1552",
       "title": "Better handle localized values nested in code",
-      "stale_for": 79,
+      "stale_for": 82,
       "labels": [
         "🌐 i18n",
         "refactor"
@@ -4978,7 +5008,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1459",
       "title": "Repair the GraphViz feature",
-      "stale_for": 128,
+      "stale_for": 131,
       "labels": [
         "🧬 Taxonomies",
         "📊 graphs",
@@ -4989,7 +5019,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1458",
       "title": "Review the use of the graph drawing library SigmaJS",
-      "stale_for": 84,
+      "stale_for": 87,
       "labels": [
         "📊 graphs",
         "JavaScript"
@@ -4998,18 +5028,10 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1395",
       "title": "Consider splitting data directories",
-      "stale_for": 84,
+      "stale_for": 87,
       "labels": [
         "environment",
         "refactor"
-      ]
-    },
-    {
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/1375",
-      "title": "Consider removing large files from Git",
-      "stale_for": 208,
-      "labels": [
-        "static content"
       ]
     }
   ],

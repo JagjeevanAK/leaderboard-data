@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-08T15:13:55.000Z",
+  "last_updated": "2025-05-09T19:11:06.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-07T18:44:47.000Z",
+      "title": "openfoodfacts/openfoodfacts-server#10710",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10710#pullrequestreview-2822861995",
+      "text": "feat: [WIP] Support OpenTelemetry"
+    },
     {
       "type": "pr_reviewed",
       "time": "2025-05-08T15:13:55.000Z",
@@ -21,13 +28,6 @@
       "title": "openfoodfacts/openfoodfacts-server#11479",
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11479#pullrequestreview-2822861500",
       "text": "refactor: Move Slack webhooks to common module"
-    },
-    {
-      "type": "pr_reviewed",
-      "time": "2025-05-07T18:44:47.000Z",
-      "title": "openfoodfacts/openfoodfacts-server#10710",
-      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/10710#pullrequestreview-2822861995",
-      "text": "feat: [WIP] Support OpenTelemetry"
     },
     {
       "type": "pr_reviewed",

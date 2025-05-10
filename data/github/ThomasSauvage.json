@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-06T21:41:58.000Z",
+  "last_updated": "2025-05-09T22:30:17.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-monitoring#117",
+      "time": "2025-05-09T22:30:17.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-monitoring/pull/117#issuecomment-2867989193",
+      "text": "Also, I'm not sure why `influxdb`, `elasticsearch`, `elasticsearch_exporter` and `blackbox_exporter` have open ports.\r\nWhich apps connect to them? Is it local or is it coming from VMs in `ovh1`?"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#474",
+      "time": "2025-05-09T20:19:40.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/474#issuecomment-2867793721",
+      "text": "> Also, consider using Caddy for automatic certificate renewal and simpler configuration\r\n\r\n@VaiTon  Caddy is very interesting indeed! I also like traefik. But because we only use nginx on OFF, I felt like it would be better to avoid changing the reverse proxy."
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-infrastructure#474",

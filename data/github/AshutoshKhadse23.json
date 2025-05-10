@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-09T18:47:18.000Z",
+  "last_updated": "2025-05-10T06:01:27.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6589",
+      "time": "2025-05-10T06:01:27.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6589#issuecomment-2868444665",
+      "text": "Hello @monsieurtanuki,\r\nDoes it now look good(code)?\r\n\r\nScreenshot:\r\n<img width=\"367\" alt=\"Screenshot 2025-05-10 at 11 29 11 AM\" src=\"https://github.com/user-attachments/assets/361559de-0716-4aae-838c-6b1a560920d8\" />\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6588",
+      "time": "2025-05-10T05:29:49.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6588#issuecomment-2868402897",
+      "text": "> [@AshutoshKhadse23](https://github.com/AshutoshKhadse23) It's clean, but it's not consistent with the rest of the app and with the website. So please switch to what was asked initially, using the same chips as in price lists. For the record I have zero interest in UI.\n\nOk "
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/smooth-app#6589",
@@ -253,7 +267,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6575",
       "title": "Search Results Not Updating After Changing Country Without App Restart",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         "🔎 Search"
       ]
