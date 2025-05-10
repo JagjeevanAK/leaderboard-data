@@ -1,6 +1,34 @@
 {
-  "last_updated": "2025-05-08T18:56:24.000Z",
+  "last_updated": "2025-05-09T10:52:42.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/openfoodfacts-dart#1080",
+      "time": "2025-05-09T10:52:42.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-dart/pull/1080#issuecomment-2866101935",
+      "text": "@goerlitz I understand that you would add computed fields like \"category2023\" (e.g. water, beverage, fat/oil/nuts/seeds, red meat, cheese, general).\r\nAre there other features that wouldn't be available using the current PR?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/smooth-app#6588",
+      "time": "2025-05-09T08:36:27.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6588",
+      "text": "More verbose proof display"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#5689",
+      "time": "2025-05-09T08:09:37.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5689#issuecomment-2865580549",
+      "text": "Hi @raphodn!\n\nCurrently we have one background task with one proof image and several prices. If something fails, everything is considered as failed. And therefore _everything_ will be played back later.\n\nThe fix would be to have this background task upload the proof, and if successful then create several single background tasks (proof id + single price).\n\nThe side effects would be:\n* we would create much more \"bearerToken\" sessions - one per proof and one per single price, instead of just one\n* we couldn't guarantee the integrity of a receipt - maybe one price will be lost in the process (and fail forever) (but at least it won't make everything fail)\n* much more background tasks - but we're not limited\n\nOn the plus side, it wouldn't take that long to code as we already have a \"proof id + price\" background task.\n\nWhat do you think about that?"
+    },
+    {
+      "type": "issue_opened",
+      "title": "openfoodfacts/smooth-app#6587",
+      "time": "2025-05-09T07:57:31.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6587",
+      "text": "Fine tuning about prices infinite scrolling"
+    },
     {
       "type": "pr_opened",
       "title": "openfoodfacts/openfoodfacts-dart#1080",
@@ -13913,7 +13941,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6566",
       "title": "Enforce unawaited_futures rule",
-      "stale_for": 6,
+      "stale_for": 7,
       "labels": [
         ":star: top issue"
       ]
@@ -13921,7 +13949,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1062",
       "title": "Implement Prices Challenges",
-      "stale_for": 8,
+      "stale_for": 9,
       "labels": [
         "🏄‍♀️ good first issue",
         "💸 Prices"
@@ -14000,7 +14028,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/626",
       "title": "Successful upload of proof image with invalid bearer token",
-      "stale_for": 61,
+      "stale_for": 62,
       "labels": [
         "Proofs",
         "🔐 Auth"
@@ -14009,7 +14037,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6043",
       "title": "Price tags input from picture",
-      "stale_for": 93,
+      "stale_for": 94,
       "labels": [
         "Prices"
       ]

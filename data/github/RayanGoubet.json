@@ -1,6 +1,46 @@
 {
-  "last_updated": "2025-05-07T17:23:00.000Z",
+  "last_updated": "2025-05-09T10:57:00.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11871",
+      "time": "2025-05-09T10:57:00.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11871",
+      "text": "docs: add troubleshooting to docs quick start for docker group"
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/openfoodfacts-server#11870",
+      "time": "2025-05-09T10:26:31.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11870",
+      "text": "fix: change the reset preference message depend on flavor"
+    },
+    {
+      "type": "issue_closed",
+      "title": "openfoodfacts/openfoodfacts-server#11261",
+      "time": "2025-05-09T09:36:08.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11261",
+      "text": "Results Per Page Setting Fails to Display More Than 100 Items"
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11856",
+      "time": "2025-05-09T09:36:07.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11856",
+      "text": "fix: remove 250 and more for search size",
+      "turnaround_time": 262103
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "openfoodfacts/openfoodfacts-server#11856",
+      "time": "2025-05-09T09:36:07.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11856",
+      "text": "fix: remove 250 and more for search size",
+      "collaborated_with": [
+        "RayanGoubet",
+        "Open Food Facts Bot"
+      ]
+    },
     {
       "type": "pr_merged",
       "title": "openfoodfacts/openfoodfacts-server#11863",

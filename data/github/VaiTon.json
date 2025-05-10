@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-08T20:19:45.000Z",
+  "last_updated": "2025-05-09T08:41:15.000Z",
   "activity": [
+    {
+      "type": "pr_reviewed",
+      "time": "2025-05-09T08:41:15.000Z",
+      "title": "openfoodfacts/openfoodfacts-infrastructure#474",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-infrastructure/pull/474#pullrequestreview-2827491047",
+      "text": "feat: Adding docker, ci/cd & reverse proxy to `monitoring-01`"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-explorer#519",
@@ -3647,7 +3654,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/181",
       "title": "Bring features from the Power User Script",
-      "stale_for": 48,
+      "stale_for": 49,
       "labels": []
     },
     {
@@ -3688,7 +3695,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/166",
       "title": "Add support for Price editing",
-      "stale_for": 38,
+      "stale_for": 39,
       "labels": [
         "💸 Prices",
         "✏️ Editing"
@@ -3697,7 +3704,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-explorer/issues/1",
       "title": "Implement a real login mechanism",
-      "stale_for": 38,
+      "stale_for": 39,
       "labels": [
         "🔐 Auth"
       ]
@@ -3725,7 +3732,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/2215",
       "title": "As a user, I should be able to specify if a field is not printed on the packaging",
-      "stale_for": 12,
+      "stale_for": 13,
       "labels": [
         "✏️ Contribution",
         "P4"

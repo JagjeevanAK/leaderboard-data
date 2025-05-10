@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-05-08T21:40:18.000Z",
+  "last_updated": "2025-05-09T13:49:54.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/open-prices#691",
+      "time": "2025-05-09T13:49:54.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/issues/691#issuecomment-2866633559",
+      "text": "Thanks to #806 we now have new `Price.tags` & `Proof.tags` fields.\nI added some logic to populate these fields with a `challenge-<id>` tag, using the \"rules\" (start_date, end_date, categories) that make a challenge."
+    },
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/open-prices#836",
+      "time": "2025-05-09T13:10:07.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/836",
+      "text": "refactor(Proofs): improve PriceTag & ReceiptItem matching script performance",
+      "turnaround_time": 101
+    },
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/open-prices#836",
+      "time": "2025-05-09T13:08:11.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/pull/836",
+      "text": "refactor(Proofs): improve PriceTag & ReceiptItem matching script performance"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/open-prices#688",
+      "time": "2025-05-09T09:24:29.000Z",
+      "link": "https://github.com/openfoodfacts/open-prices/issues/688#issuecomment-2865824949",
+      "text": "With the help of #806 (new `PriceTag.tags` field), we can label the PriceTags with the above rules\n\n|Rule|tag label|\n|-|-|\n|prediction found a barcode corresponding to an existing product|`prediction-found-existing-product`|\n|prediction found a valid barcode|`prediction-found-valid-barcode`|\n|prediction found a category|`prediction-found-category`|\n\n@TTalex sounds good ? ideas of extra rules, or better naming ? "
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#5689",
+      "time": "2025-05-09T07:38:33.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/5689#issuecomment-2865489004",
+      "text": "Reopening this issue, seeing a LOT of duplicate proofs & prices recently...\nexample : https://prices.openfoodfacts.org/users/jimminycricket & https://prices.openfoodfacts.org/users/faylavie (click on their proof count at the top to see of their uploaded proofs).\nmetadata shows they are using 4.19.0+1461"
+    },
     {
       "type": "pr_merged",
       "title": "openfoodfacts/open-prices#835",
@@ -11269,7 +11305,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1512",
       "title": "Integrate openfoodfacts-webcomponents (barcode scanner for instance)",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
@@ -11326,7 +11362,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1456",
       "title": "Form fields: if the input field has a suffix, always show it",
-      "stale_for": 49,
+      "stale_for": 50,
       "labels": [
         "UI",
         "Price addition"
@@ -11335,7 +11371,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/745",
       "title": "Are we doing product syncs correctly?",
-      "stale_for": 61,
+      "stale_for": 62,
       "labels": [
         "Product data sync",
         "🎯 P0"
@@ -11344,7 +11380,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/727",
       "title": "Continue separating community vs consumption data",
-      "stale_for": 46,
+      "stale_for": 47,
       "labels": [
         "🎯 P0",
         "Personal data"
@@ -11386,7 +11422,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1336",
       "title": "A page to create missing products",
-      "stale_for": 47,
+      "stale_for": 48,
       "labels": [
         ":star: top issue",
         "P1",
@@ -11404,7 +11440,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1267",
       "title": "Theme: get closer to Open Food Facts look & feel",
-      "stale_for": 113,
+      "stale_for": 114,
       "labels": [
         "UI"
       ]
@@ -11424,7 +11460,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices/issues/670",
       "title": "Proof image / Price tags: barcode scanner library to extract the EAN",
-      "stale_for": 61,
+      "stale_for": 62,
       "labels": [
         "Proofs",
         "🎯 P0",
@@ -11468,7 +11504,7 @@
     {
       "link": "https://github.com/openfoodfacts/open-prices-frontend/issues/1137",
       "title": "New price validation assistant page (extracted and predicted from owned proofs)",
-      "stale_for": 61,
+      "stale_for": 62,
       "labels": [
         "🎯 P0",
         "Price addition",

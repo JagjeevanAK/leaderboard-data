@@ -1,6 +1,14 @@
 {
-  "last_updated": "2025-05-08T13:52:23.000Z",
+  "last_updated": "2025-05-09T08:44:06.000Z",
   "activity": [
+    {
+      "type": "pr_merged",
+      "title": "openfoodfacts/openfoodfacts-server#11864",
+      "time": "2025-05-09T08:44:06.000Z",
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/pull/11864",
+      "text": "fix: Tests fail when run locally",
+      "turnaround_time": 165176
+    },
     {
       "type": "issue_closed",
       "title": "openfoodfacts/openfoodfacts-auth#31",
@@ -1401,33 +1409,39 @@
   ],
   "open_prs": [
     {
+      "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11872",
+      "title": "Switch to using JSON for serialising Perl data rather than using Storable (STO) files",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11866",
       "title": "Remove redundant code once Keycloak migration is complete",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/issues/7",
       "title": "Add a shared PostgreSQL database",
-      "stale_for": 20,
+      "stale_for": 21,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/114",
       "title": "Load Scan events",
-      "stale_for": 42,
+      "stale_for": 43,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11867",
       "title": "Remove producer from general user creation flow and support separate flow for producers",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11082",
       "title": "Set up Minion and Redis Listener services for all product flavours",
-      "stale_for": 150,
+      "stale_for": 151,
       "labels": [
         "🎯 P1",
         "🧴 Open Beauty Facts",
@@ -1441,7 +1455,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/132",
       "title": "Authenticator setup doesn't work",
-      "stale_for": 163,
+      "stale_for": 164,
       "labels": [
         "2FA"
       ]
@@ -1449,7 +1463,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/129",
       "title": "Issue creating a new user: invalid_grant",
-      "stale_for": 120,
+      "stale_for": 121,
       "labels": [
         "User creation"
       ]
@@ -1457,7 +1471,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/120",
       "title": "User import issues that need to be reviewed",
-      "stale_for": 139,
+      "stale_for": 140,
       "labels": [
         "User import"
       ]
@@ -1465,7 +1479,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/119",
       "title": "Keycloak process was killed when using realm-batch user import",
-      "stale_for": 164,
+      "stale_for": 165,
       "labels": [
         "Deployment",
         "User import"
@@ -1474,7 +1488,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/118",
       "title": "Need to add oidc_options to different flavour config files",
-      "stale_for": 165,
+      "stale_for": 166,
       "labels": [
         "Deployment"
       ]
@@ -1482,7 +1496,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/102",
       "title": "More documentation on how it works and troubleshooting",
-      "stale_for": 191,
+      "stale_for": 192,
       "labels": [
         "📚 Documentation"
       ]
@@ -1490,7 +1504,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/100",
       "title": "Store products for other product types (OBF, OPF and OPPF)",
-      "stale_for": 34,
+      "stale_for": 35,
       "labels": [
         "📸 Open Products Facts",
         "🧴Open Beauty Facts",
@@ -1500,7 +1514,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/99",
       "title": "Ensure that pro-platform events are not added to the main product history",
-      "stale_for": 191,
+      "stale_for": 192,
       "labels": [
         "🏭 Producer's Platform"
       ]
@@ -1508,7 +1522,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-query/issues/98",
       "title": "Stopped processing events and did not restart",
-      "stale_for": 191,
+      "stale_for": 192,
       "labels": [
         "REDIS"
       ]
@@ -1516,7 +1530,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/89",
       "title": "Deploy for Open Pet Food Facts and test",
-      "stale_for": 196,
+      "stale_for": 197,
       "labels": [
         "🐾 Open Pet Food Facts"
       ]
@@ -1524,7 +1538,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-shared-services/issues/4",
       "title": "Redis crashes when processing lots of big messages",
-      "stale_for": 278,
+      "stale_for": 279,
       "labels": [
         "🐛 bug"
       ]
@@ -1532,13 +1546,13 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/35",
       "title": "Work out how to refresh staging from production",
-      "stale_for": 205,
+      "stale_for": 206,
       "labels": []
     },
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-auth/issues/34",
       "title": "Hardening for production",
-      "stale_for": 205,
+      "stale_for": 206,
       "labels": [
         "Deployment",
         "Security"
@@ -1547,7 +1561,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/9052",
       "title": "Add support for Agribalyse version 3.1.1",
-      "stale_for": 209,
+      "stale_for": 210,
       "labels": [
         "🌱 Green-Score",
         "Agribalyse"
@@ -1556,7 +1570,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/8620",
       "title": "Consider moving to a relational data model, like Postgres",
-      "stale_for": 30,
+      "stale_for": 31,
       "labels": [
         "refactor"
       ]
