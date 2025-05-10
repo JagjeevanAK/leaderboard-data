@@ -1,6 +1,20 @@
 {
-  "last_updated": "2025-05-08T13:17:15.000Z",
+  "last_updated": "2025-05-09T18:47:18.000Z",
   "activity": [
+    {
+      "type": "pr_opened",
+      "title": "openfoodfacts/smooth-app#6589",
+      "time": "2025-05-09T18:47:18.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/pull/6589",
+      "text": "feat: Add More verbose proof display"
+    },
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6588",
+      "time": "2025-05-09T18:27:56.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6588#issuecomment-2867565258",
+      "text": "@monsieurtanuki,\nI know you are looking for a price button in the UI, but this other approach looks cleaner. What do you say?\n\n<img width=\"369\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/227a7ebb-b1f0-47ae-92e9-b732ac4c46d4\" />"
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/smooth-app#6561",
@@ -239,7 +253,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6575",
       "title": "Search Results Not Updating After Changing Country Without App Restart",
-      "stale_for": 5,
+      "stale_for": 6,
       "labels": [
         "🔎 Search"
       ]

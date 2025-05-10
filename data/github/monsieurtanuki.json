@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-05-09T10:52:42.000Z",
+  "last_updated": "2025-05-09T18:51:19.000Z",
   "activity": [
+    {
+      "type": "comment_created",
+      "title": "openfoodfacts/smooth-app#6588",
+      "time": "2025-05-09T18:51:19.000Z",
+      "link": "https://github.com/openfoodfacts/smooth-app/issues/6588#issuecomment-2867610533",
+      "text": "@AshutoshKhadse23 It's clean, but it's not consistent with the rest of the app and with the website.\nSo please switch to what was asked initially, using the same chips as in price lists.\nFor the record I have zero interest in UI."
+    },
     {
       "type": "comment_created",
       "title": "openfoodfacts/openfoodfacts-dart#1080",
@@ -13926,7 +13933,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6587",
       "title": "Fine tuning about prices infinite scrolling",
-      "stale_for": 0,
+      "stale_for": 1,
       "labels": [
         "good first issue",
         "Prices"
@@ -13935,7 +13942,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/6586",
       "title": "Comply with the latest flutter_map/OSM requirements",
-      "stale_for": 1,
+      "stale_for": 2,
       "labels": []
     },
     {
@@ -13984,7 +13991,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/1055",
       "title": "Add flexibility to Product according to api version",
-      "stale_for": 37,
+      "stale_for": 38,
       "labels": []
     },
     {
@@ -14061,7 +14068,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/11069",
       "title": "Duplicate food records with/without product type",
-      "stale_for": 150,
+      "stale_for": 151,
       "labels": [
         "🏭 Producers Platform"
       ]
@@ -14079,7 +14086,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5417",
       "title": "Add prices: displaying a \"text recap\" like an actual receipt, possibly with the total amount",
-      "stale_for": 203,
+      "stale_for": 204,
       "labels": [
         "good first issue",
         "Prices"
@@ -14088,7 +14095,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-server/issues/10403",
       "title": "TEST env (.net): Cannot write to '/mnt/podata/logs/ratelimiter_log4perl.log'",
-      "stale_for": 203,
+      "stale_for": 204,
       "labels": [
         "preprod",
         "logs"
@@ -14097,7 +14104,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5276",
       "title": "Consider introducing GPS for nearby shop search",
-      "stale_for": 72,
+      "stale_for": 73,
       "labels": [
         "permissions",
         "Prices",
@@ -14123,7 +14130,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/5127",
       "title": "no Best Before date on mobile",
-      "stale_for": 119,
+      "stale_for": 120,
       "labels": [
         "✏️ Editing",
         "🎨 Mockup required"
@@ -14132,7 +14139,7 @@
     {
       "link": "https://github.com/openfoodfacts/openfoodfacts-dart/issues/889",
       "title": "Exclude items from autosuggestions",
-      "stale_for": 105,
+      "stale_for": 106,
       "labels": [
         "🏄‍♀️ good first issue",
         "autocomplete"
@@ -14159,7 +14166,7 @@
     {
       "link": "https://github.com/openfoodfacts/smooth-app/issues/4941",
       "title": "We need to sort out the refresh scenario.",
-      "stale_for": 203,
+      "stale_for": 204,
       "labels": [
         "🎯 P1",
         "data refresh"
